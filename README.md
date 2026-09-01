@@ -2,7 +2,7 @@
 
 Sistem Rekomendasi Karir dan Kursus Online Terintegrasi Berbasis **Outcome-Based Education (OBE)**, **Knowledge Graph (Neo4j)**, dan **Relative Skill Gap (RSG) Analysis**.
 
-Proyek Riset Magang — Badan Riset dan Inovasi Nasional (BRIN).
+Proyek Riset Magang Badan Riset dan Inovasi Nasional (BRIN).
 
 ---
 
