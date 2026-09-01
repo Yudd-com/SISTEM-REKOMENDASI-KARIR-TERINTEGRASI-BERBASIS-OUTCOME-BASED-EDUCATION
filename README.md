@@ -58,4 +58,3 @@ final_project/
    ```bash
    # Aplikasi Utama
    python -m streamlit run app.py --server.port 8502
-`
