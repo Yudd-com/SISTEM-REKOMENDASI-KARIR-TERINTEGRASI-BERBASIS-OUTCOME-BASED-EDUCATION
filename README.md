@@ -14,7 +14,7 @@ Sistem ini dirancang untuk menjembatani kesenjangan kompetensi (*skill gap*) ant
 * **Standar Industri:** 496 Posisi Karir Industri (5.505 persyaratan kompetensi).
 * **Katalog Pembelajaran:** 8.207 Kursus Online Master (Coursera).
 * **Knowledge Graph:** 159.298 Total Relasi (`HAS_SKILL`, `REQUIRES`, `TEACHES`).
-* **Algoritma Gap:** *Relative Skill Gap (RSG)* dengan perangkingan karir Top-5 & rekomendasi kursus bertahap (*Beginner $\rightarrow$ Advanced*).
+* **Algoritma Gap:** *Relative Skill Gap (RSG)* dengan perangkingan karir Top-5 & rekomendasi kursus bertahap (*(Beginner → Intermediate → Mixed → Advanced*).
 
 ---
 
