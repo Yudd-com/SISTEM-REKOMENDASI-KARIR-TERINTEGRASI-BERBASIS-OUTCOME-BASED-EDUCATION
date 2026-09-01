@@ -1,4 +1,4 @@
-# 🎓 OBE Career & Course Recommender System
+# OBE Career & Course Recommender System
 
 Sistem Rekomendasi Karir dan Kursus Online Terintegrasi Berbasis **Outcome-Based Education (OBE)**, **Knowledge Graph (Neo4j)**, dan **Relative Skill Gap (RSG) Analysis**.
 
@@ -6,7 +6,7 @@ Proyek Riset Magang — Badan Riset dan Inovasi Nasional (BRIN).
 
 ---
 
-## 📌 Ringkasan Proyek
+##  Ringkasan Proyek
 
 Sistem ini dirancang untuk menjembatani kesenjangan kompetensi (*skill gap*) antara lulusan perguruan tinggi dengan standar kebutuhan industri kerja secara objektif dan terpersonalisasi.
 
@@ -18,7 +18,7 @@ Sistem ini dirancang untuk menjembatani kesenjangan kompetensi (*skill gap*) ant
 
 ---
 
-## 📂 Struktur Direktori
+## Struktur Direktori
 
 ```text
 final_project/
