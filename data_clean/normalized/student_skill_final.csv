@@ -1,0 +1,2402 @@
+student_id;student_name;campus;id_CLO;skill_original;canonical_skill;score
+M0001;Aditya Batubara;Surabaya;SI_CLO-07;regresi;regression analysis;96.0
+M0001;Aditya Batubara;Jakarta;SBD_CLO-01-1;erd;erd;94.7
+M0001;Aditya Batubara;Surabaya;PEKC_CLO-04;konsep dasar sistem informasi;information systems;89.3
+M0001;Aditya Batubara;Jakarta;PAW_CLO-04-2;basis data / database;database;89.0
+M0001;Aditya Batubara;Jakarta;PD_CLO-02-1;data mining;data mining;83.3
+M0001;Aditya Batubara;ITS;ITS_ADDD245_CLO1_334;visualisasi;data visualization;83.2
+M0001;Aditya Batubara;ITS;ITS_PD115_CLO4_271;java;java;82.6
+M0001;Aditya Batubara;Jakarta;PAW_CLO-01-2;rest api;rest api;82.2
+M0001;Aditya Batubara;Surabaya;PAW_CLO-01-2;css;css;82.2
+M0001;Aditya Batubara;Jakarta;DWBI_CLO-02-2;cloud computing;cloud computing;81.6
+M0001;Aditya Batubara;Surabaya;DWBI_CLO-02-2;data warehouse;data warehousing;81.6
+M0001;Aditya Batubara;ITS;ITS_PDAP829_CLO1_357;algoritma heuristik;heuristic algorithms;80.8
+M0001;Aditya Batubara;ITS;ITS_RKPL832_CLO1_368;memvalidasi;data validation;79.0
+M0001;Aditya Batubara;ITS;ITS_PSK856_CLO1_323;cognitive problem solver;problem solving;78.7
+M0001;Aditya Batubara;ITS;ITS_SKBM366_CLO1_393;simulasi;simulation modeling;78.0
+M0001;Aditya Batubara;Jakarta;PAW_CLO-04-1;php;php;77.6
+M0001;Aditya Batubara;ITS;ITS_FD704_CLO1_295;infrastruktur sistem;it infrastructure;77.2
+M0001;Aditya Batubara;Surabaya;PAW_CLO-01-1;html;html;77.0
+M0001;Aditya Batubara;ITS;ITS_PBA126_CLO1_363;analisis data;data analysis;75.7
+M0001;Aditya Batubara;ITS;ITS_DDMJK126_CLO3_260;ipv6;ipv6;75.5
+M0001;Aditya Batubara;Jakarta;JK_CLO-01-2;osi layer;osi model;73.4
+M0001;Aditya Batubara;Surabaya;JK_CLO-01-2;jaringan komputer;networking;73.4
+M0001;Aditya Batubara;ITS;ITS_SBD331_CLO1_373;arsitektur sistem basis data;database architecture;72.0
+M0001;Aditya Batubara;Jakarta;CDAP_CLO-06;prototyping;prototyping;68.7
+M0001;Aditya Batubara;Jakarta;JK_CLO-03-1;routing;routing;66.8
+M0001;Aditya Batubara;Jakarta;SBD_CLO-02-1;sql;sql;65.3
+M0001;Aditya Batubara;ITS;ITS_MRP265_CLO1_349;perencanaan agregat;aggregate planning;64.7
+M0002;Aldi Setiawan;ITS;ITS_ADSD677_CLO1_290;struktur data;data structures;88.9
+M0002;Aldi Setiawan;ITS;ITS_LDSD341_CLO1;logika;logic;88.2
+M0002;Aldi Setiawan;Surabaya;ATI_CLO-03;konsep dasar sistem informasi;information systems;85.4
+M0002;Aldi Setiawan;Jakarta;SBD_CLO-03-2;basis data / database;database;83.0
+M0002;Aldi Setiawan;ITS;ITS_DDMJK126_CLO4_262;perangkat jaringan;networking;81.3
+M0002;Aldi Setiawan;Surabaya;APB_CLO-02-2;microservices;microservices;81.0
+M0002;Aldi Setiawan;ITS;ITS_PST697_CLO1_313;tatakelola ti;it governance;80.0
+M0002;Aldi Setiawan;Surabaya;DWBI_CLO-01;business intelligence;business intelligence;79.6
+M0002;Aldi Setiawan;Jakarta;SI_CLO-01;statistika/probabilitas;statistics;79.2
+M0002;Aldi Setiawan;ITS;ITS_SE608_CLO1_381;integrasi proses bisnis;business process integration;79.1
+M0002;Aldi Setiawan;Jakarta;PAW_CLO-02-2;html;html;77.7
+M0002;Aldi Setiawan;Surabaya;PAW_CLO-02-2;laravel;laravel;77.7
+M0002;Aldi Setiawan;Jakarta;KSI_CLO-03-2;vulnerability assessment;vulnerability assessment;76.8
+M0002;Aldi Setiawan;ITS;ITS_ADDD245_CLO1_332;analytics;analytics;76.4
+M0002;Aldi Setiawan;Jakarta;MRP_CLO-02-2;scm;scm;76.0
+M0002;Aldi Setiawan;Jakarta;SO_CLO-03-1;linux;linux;75.6
+M0002;Aldi Setiawan;Surabaya;SO_CLO-03-1;http;http;75.6
+M0002;Aldi Setiawan;Jakarta;PAW_CLO-02-1;php;php;74.5
+M0002;Aldi Setiawan;ITS;ITS_PST944_CLO1_317;manajemen resiko;risk management;74.3
+M0002;Aldi Setiawan;Jakarta;KSI_CLO-02-1;kriptografi;cryptography;73.0
+M0002;Aldi Setiawan;Jakarta;JK_CLO-03-1;routing;routing;70.9
+M0002;Aldi Setiawan;Jakarta;TKMTI_CLO-03;cobit;cobit;69.9
+M0002;Aldi Setiawan;Jakarta;PBO_CLO-03-1;uml;uml;69.1
+M0002;Aldi Setiawan;Jakarta;PSC_CLO-04-2;algoritma & pemrograman dasar;algorithm & programming;68.7
+M0002;Aldi Setiawan;Jakarta;PPL_CLO-01-2;scrum;scrum;67.7
+M0002;Aldi Setiawan;Surabaya;PPL_CLO-01-2;prototyping;prototyping;67.7
+M0002;Aldi Setiawan;Jakarta;PSC_CLO-04-1;decision tree;decision tree;66.8
+M0002;Aldi Setiawan;ITS;ITS_KL369_CLO1_387;optimasi;optimization;62.5
+M0002;Aldi Setiawan;Jakarta;SO_CLO-04;firewall;firewall;59.4
+M0002;Aldi Setiawan;Jakarta;DWBI_CLO-04;etl;etl;58.7
+M0002;Aldi Setiawan;ITS;ITS_PD115_CLO5_273;java;java;56.0
+M0003;Alif Siregar;Jakarta;IAE2_CLO-01-2;api;api;86.3
+M0003;Alif Siregar;Surabaya;IAE2_CLO-01-2;rest api;rest api;86.3
+M0003;Alif Siregar;Surabaya;IAE_CLO-02;konsep dasar sistem informasi;information systems;84.8
+M0003;Alif Siregar;ITS;ITS_DDMJK126_CLO1;jaringan komputer;networking;81.1
+M0003;Alif Siregar;Surabaya;PAB_CLO-03-2;cloud computing;cloud computing;78.8
+M0003;Alif Siregar;Surabaya;MDE_CLO-03;business intelligence;business intelligence;77.0
+M0003;Alif Siregar;Jakarta;PSI_CLO-02;microsoft excel;excel;76.6
+M0003;Alif Siregar;Surabaya;APSI_CLO-03-1;uml;uml;75.7
+M0003;Alif Siregar;Jakarta;AP_CLO-01-2;pseudocode;pseudocode;75.5
+M0003;Alif Siregar;Surabaya;AP_CLO-01-2;java;java;75.5
+M0003;Alif Siregar;Surabaya;JK_CLO-03-2;cisco;cisco networking;75.4
+M0003;Alif Siregar;Jakarta;PAW_CLO-04-2;basis data / database;database;74.7
+M0003;Alif Siregar;Jakarta;DWBI_CLO-01-2;kpi;kpi;74.0
+M0003;Alif Siregar;Surabaya;KA_CLO-02;devops;devops;72.8
+M0003;Alif Siregar;ITS;ITS_SBD331_CLO1_372;desain basis data;database design;69.6
+M0003;Alif Siregar;Jakarta;PAW_CLO-04-1;php;php;69.5
+M0003;Alif Siregar;ITS;ITS_KL369_CLO1;komputasi lunak;soft computing;69.3
+M0003;Alif Siregar;Jakarta;TKMTI_CLO-01;cobit;cobit;69.2
+M0003;Alif Siregar;ITS;ITS_FD704_CLO1_295;infrastruktur sistem;it infrastructure;68.0
+M0003;Alif Siregar;Surabaya;KA_CLO-01-2;agile;agile;66.8
+M0003;Alif Siregar;Jakarta;SI_CLO-02;regresi;regression analysis;65.9
+M0003;Alif Siregar;Surabaya;SI_CLO-02;statistika/probabilitas;statistics;65.9
+M0003;Alif Siregar;Surabaya;MRP_CLO-03-1;erp;erp;64.7
+M0003;Alif Siregar;Jakarta;PD_CLO-04-1;python;python;63.5
+M0003;Alif Siregar;Jakarta;JK_CLO-03-1;routing;routing;56.5
+M0003;Alif Siregar;ITS;ITS_SBD331_CLO1;pengembangan sistem basis data;database development;52.9
+M0004;Amalia Wibowo;Surabaya;MDE_CLO-03;business intelligence;business intelligence;77.6
+M0004;Amalia Wibowo;Jakarta;DWBI_CLO-02-2;cloud computing;cloud computing;75.3
+M0004;Amalia Wibowo;Surabaya;DWBI_CLO-02-2;data warehouse;data warehousing;75.3
+M0004;Amalia Wibowo;Surabaya;PU_CLO-01-2;ui/ux design;ui/ux;75.1
+M0004;Amalia Wibowo;ITS;ITS_RKPL832_CLO1;rekayasa kebutuhan perangkat lunak;software requirements engineering;74.9
+M0004;Amalia Wibowo;Surabaya;PAB_CLO-02;konsep dasar sistem informasi;information systems;67.3
+M0004;Amalia Wibowo;ITS;ITS_SE608_CLO1_383;pemrograman open source;open source software;63.8
+M0004;Amalia Wibowo;ITS;ITS_PSDO774_CLO4_284;agile;agile;62.1
+M0004;Amalia Wibowo;ITS;ITS_SITI927_CLO4_306;togaf;togaf;61.1
+M0004;Amalia Wibowo;ITS;ITS_SKBM366_CLO1_392;model;model;60.5
+M0004;Amalia Wibowo;Surabaya;JK_CLO-02;jaringan komputer;networking;59.6
+M0004;Amalia Wibowo;Jakarta;PSI_CLO-02;microsoft excel;excel;56.7
+M0004;Amalia Wibowo;Jakarta;SBD_CLO-02-1;sql;sql;56.2
+M0004;Amalia Wibowo;Jakarta;SO_CLO-03-2;tcp/ip;tcp/ip;55.3
+M0004;Amalia Wibowo;Surabaya;SO_CLO-03-2;linux;linux;55.3
+M0004;Amalia Wibowo;ITS;ITS_PBA126_CLO1_363;analisis data;data analysis;54.6
+M0004;Amalia Wibowo;ITS;ITS_SE608_CLO1_384;integrasi erp;erp;50.8
+M0004;Amalia Wibowo;ITS;ITS_PSK856_CLO1_324;ai;artificial intelligence;48.3
+M0004;Amalia Wibowo;Surabaya;APB_CLO-01-2;xml;xml;48.2
+M0004;Amalia Wibowo;ITS;ITS_MRP265_CLO1_349;perencanaan agregat;aggregate planning;47.1
+M0004;Amalia Wibowo;ITS;ITS_SKBM366_CLO4;analisis sensitivitas;sensitivity analysis;47.0
+M0005;Ananda Kurnia;Surabaya;SE_CLO-01-2;sap;sap;81.8
+M0005;Ananda Kurnia;Jakarta;CDAP_CLO-01;konsep dasar sistem informasi;information systems;79.3
+M0005;Ananda Kurnia;Surabaya;SMHP_CLO-03-2;crm;crm;77.6
+M0005;Ananda Kurnia;Jakarta;SBD_CLO-03-1;nosql;nosql;75.1
+M0005;Ananda Kurnia;ITS;ITS_RO516_CLO1_370;pemrograman integer;integer programming;74.6
+M0005;Ananda Kurnia;Surabaya;MPPKI_CLO-02;klasifikasi;klasifikasi;72.1
+M0005;Ananda Kurnia;Surabaya;PBO_CLO-01-1;java;java;71.9
+M0005;Ananda Kurnia;ITS;ITS_SKBM366_CLO4;analisis sensitivitas;sensitivity analysis;71.7
+M0005;Ananda Kurnia;ITS;ITS_PST697_CLO5;teknologi informasi;information technology;71.5
+M0005;Ananda Kurnia;ITS;ITS_PSK856_CLO1_329;expert systems;expert systems;69.7
+M0005;Ananda Kurnia;Surabaya;DWBI_CLO-04-1;data warehouse;data warehousing;68.5
+M0005;Ananda Kurnia;ITS;ITS_PST697_CLO1;sistem pengendalian internal;internal control systems;68.0
+M0005;Ananda Kurnia;ITS;ITS_LDSD341_CLO1_344;komputasional;computational thinking;67.3
+M0005;Ananda Kurnia;Jakarta;PPL_CLO-01-2;scrum;scrum;66.8
+M0005;Ananda Kurnia;Surabaya;PPL_CLO-01-2;prototyping;prototyping;66.8
+M0005;Ananda Kurnia;Jakarta;PPL_CLO-05-1;git;git;66.6
+M0005;Ananda Kurnia;ITS;ITS_PBA126_CLO1_363;analisis data;data analysis;65.0
+M0005;Ananda Kurnia;Surabaya;MRP_CLO-02;scm;scm;64.3
+M0005;Ananda Kurnia;ITS;ITS_ODFB259_CLO1_352;design parameter;design parameter;63.9
+M0005;Ananda Kurnia;Surabaya;DWBI_CLO-01;business intelligence;business intelligence;63.1
+M0005;Ananda Kurnia;ITS;ITS_SE608_CLO1_384;integrasi erp;erp;62.7
+M0005;Ananda Kurnia;Jakarta;SI_CLO-03;statistika/probabilitas;statistics;59.7
+M0005;Ananda Kurnia;Jakarta;PBO_CLO-03-2;oop;object-oriented programming;59.4
+M0005;Ananda Kurnia;Jakarta;DWBI_CLO-02-2;cloud computing;cloud computing;59.0
+M0005;Ananda Kurnia;Jakarta;MSI_CLO-02-1;machine learning;machine learning;58.5
+M0005;Ananda Kurnia;ITS;ITS_DL830_CLO1_255;data;data;58.4
+M0005;Ananda Kurnia;Jakarta;PAW_CLO-01-1;php;php;58.3
+M0005;Ananda Kurnia;Surabaya;PAW_CLO-01-1;html;html;58.3
+M0005;Ananda Kurnia;ITS;ITS_FD704_CLO1_295;infrastruktur sistem;it infrastructure;58.3
+M0005;Ananda Kurnia;Jakarta;SO_CLO-03-1;linux;linux;58.2
+M0005;Ananda Kurnia;Surabaya;SO_CLO-03-1;http;http;58.2
+M0005;Ananda Kurnia;ITS;ITS_DDMJK126_CLO4_262;perangkat jaringan;networking;57.9
+M0005;Ananda Kurnia;Jakarta;SI_CLO-02;regresi;regression analysis;57.8
+M0005;Ananda Kurnia;Surabaya;PAW_CLO-02-2;laravel;laravel;57.4
+M0005;Ananda Kurnia;Jakarta;PD_CLO-02-1;data mining;data mining;52.4
+M0005;Ananda Kurnia;Jakarta;PSC_CLO-04-1;decision tree;decision tree;50.0
+M0005;Ananda Kurnia;Jakarta;JK_CLO-02-1;routing;routing;48.7
+M0006;Andi Batubara;Jakarta;PD_CLO-02-2;klasifikasi;klasifikasi;96.2
+M0006;Andi Batubara;Jakarta;DT_CLO-01;konsep dasar sistem informasi;information systems;88.4
+M0006;Andi Batubara;Surabaya;SE_CLO-02;erp;erp;82.4
+M0006;Andi Batubara;Jakarta;KSI_CLO-02-1;kriptografi;cryptography;82.0
+M0006;Andi Batubara;ITS;ITS_ADDD245_CLO1_333;diagnostic;diagnostic;81.9
+M0006;Andi Batubara;Jakarta;PAW_CLO-01-2;rest api;rest api;79.4
+M0006;Andi Batubara;Surabaya;PAW_CLO-01-2;css;css;79.4
+M0006;Andi Batubara;Jakarta;TKMTI_CLO-01;cobit;cobit;78.8
+M0006;Andi Batubara;ITS;ITS_PD115_CLO4_271;java;java;77.3
+M0006;Andi Batubara;ITS;ITS_SBD331_CLO1_373;arsitektur sistem basis data;database architecture;73.9
+M0006;Andi Batubara;Jakarta;AP_CLO-01-2;pseudocode;pseudocode;71.7
+M0006;Andi Batubara;ITS;ITS_GP966_CLO1;knowledge graph;knowledge graph;71.5
+M0006;Andi Batubara;ITS;ITS_DDMJK126_CLO4_262;perangkat jaringan;networking;70.6
+M0006;Andi Batubara;Jakarta;JK_CLO-01-1;switching;network switching;69.1
+M0006;Andi Batubara;Surabaya;JK_CLO-01-1;osi layer;osi model;69.1
+M0006;Andi Batubara;Surabaya;KA_CLO-03-1;docker;docker;65.2
+M0006;Andi Batubara;ITS;ITS_PSK856_CLO1_322;soft computing;soft computing;64.8
+M0007;Andi Hakim;ITS;ITS_PST944_CLO1_318;manajemen keamanan siber;cybersecurity;100.0
+M0007;Andi Hakim;Jakarta;JK_CLO-02-2;switching;network switching;95.9
+M0007;Andi Hakim;Jakarta;AE_CLO-03;konsep dasar sistem informasi;information systems;93.4
+M0007;Andi Hakim;Surabaya;DWBI_CLO-03;data warehouse;data warehousing;91.6
+M0007;Andi Hakim;ITS;ITS_IT052_CLO1_297;perangkat keras komputer;hardware;90.8
+M0007;Andi Hakim;Jakarta;TKMTI_CLO-01;cobit;cobit;88.3
+M0007;Andi Hakim;Jakarta;AP_CLO-02;algoritma & pemrograman dasar;algorithm & programming;86.9
+M0007;Andi Hakim;Jakarta;PPL_CLO-01-1;agile;agile;86.3
+M0007;Andi Hakim;ITS;ITS_SBD331_CLO1_376;basis data logikal;database design;86.1
+M0007;Andi Hakim;Jakarta;PD_CLO-01;data mining;data mining;85.5
+M0007;Andi Hakim;Surabaya;PU_CLO-01-1;design thinking;design thinking;85.1
+M0007;Andi Hakim;Jakarta;JK_CLO-01-2;osi layer;osi model;84.3
+M0007;Andi Hakim;Surabaya;JK_CLO-01-2;jaringan komputer;networking;84.3
+M0007;Andi Hakim;ITS;ITS_ADDD245_CLO1_337;analisis kecerdasan mesin;machine learning;83.5
+M0007;Andi Hakim;Surabaya;APSI_CLO-02-2;use case diagram;use case diagram;81.6
+M0007;Andi Hakim;Surabaya;DT_CLO-02;prototyping;prototyping;81.4
+M0007;Andi Hakim;ITS;ITS_PST697_CLO5;teknologi informasi;information technology;81.3
+M0007;Andi Hakim;ITS;ITS_DDMJK126_CLO6_265;arsitektur jaringan;network architecture;80.4
+M0007;Andi Hakim;Surabaya;PBO_CLO-02-2;oop;object-oriented programming;77.6
+M0007;Andi Hakim;ITS;ITS_PD115_CLO2;pemrograman;programming;76.1
+M0007;Andi Hakim;ITS;ITS_MRP265_CLO1_350;manajemen permintaan;demand management;76.1
+M0007;Andi Hakim;Jakarta;IAE2_CLO-01-2;api;api;70.7
+M0007;Andi Hakim;Surabaya;IAE2_CLO-01-2;rest api;rest api;70.7
+M0007;Andi Hakim;ITS;ITS_MHP365_CLO5;crm;crm;67.7
+M0007;Andi Hakim;ITS;ITS_FD704_CLO1_294;pengembangan keamanan data;data security;66.4
+M0008;Andi Hidayat Syahputra;ITS;ITS_DDMJK126_CLO3;protokol internet;networking;100.0
+M0008;Andi Hidayat Syahputra;Jakarta;DWBI_CLO-01-1;data warehouse;data warehousing;99.6
+M0008;Andi Hidayat Syahputra;ITS;ITS_PDAP829_CLO1_358;pemrograman;programming;93.2
+M0008;Andi Hidayat Syahputra;ITS;ITS_KL369_CLO1_389;komputasi lunak;soft computing;92.9
+M0008;Andi Hidayat Syahputra;ITS;ITS_SITI927_CLO3;strategi ti;it strategy;92.5
+M0008;Andi Hidayat Syahputra;Surabaya;SI_CLO-07;regresi;regression analysis;92.1
+M0008;Andi Hidayat Syahputra;Jakarta;PD_CLO-03;data mining;data mining;91.4
+M0008;Andi Hidayat Syahputra;ITS;ITS_PST697_CLO1_312;cobit;cobit;90.3
+M0008;Andi Hidayat Syahputra;ITS;ITS_PD115_CLO5_273;java;java;87.6
+M0008;Andi Hidayat Syahputra;ITS;ITS_PSDO774_CLO4;devops;devops;87.3
+M0008;Andi Hidayat Syahputra;ITS;ITS_DDMJK126_CLO4;routing;routing;87.2
+M0008;Andi Hidayat Syahputra;Jakarta;SBD_CLO-01-2;basis data / database;database;86.5
+M0008;Andi Hidayat Syahputra;ITS;ITS_RKPL832_CLO1;rekayasa kebutuhan perangkat lunak;software requirements engineering;84.9
+M0008;Andi Hidayat Syahputra;Surabaya;PI_CLO-03;figma;figma;84.4
+M0008;Andi Hidayat Syahputra;Surabaya;PU_CLO-04-2;usability testing;usability testing;82.4
+M0008;Andi Hidayat Syahputra;ITS;ITS_PST697_CLO1_314;audit ti;it audit;82.3
+M0008;Andi Hidayat Syahputra;ITS;ITS_SBD331_CLO1_372;desain basis data;database design;82.0
+M0008;Andi Hidayat Syahputra;Surabaya;EPRTI_CLO-01;konsep dasar sistem informasi;information systems;81.9
+M0008;Andi Hidayat Syahputra;Surabaya;DWBI_CLO-02-1;cloud computing;cloud computing;81.9
+M0008;Andi Hidayat Syahputra;Jakarta;PAW_CLO-02-1;php;php;80.3
+M0008;Andi Hidayat Syahputra;ITS;ITS_ODFB259_CLO1_354;structural configurations;organizational structure;79.8
+M0008;Andi Hidayat Syahputra;Surabaya;APB_CLO-03-2;microservices;microservices;79.5
+M0008;Andi Hidayat Syahputra;Surabaya;APB_CLO-01-1;json;json;76.6
+M0008;Andi Hidayat Syahputra;ITS;ITS_ODFB259_CLO1_353;contingencies factors;contingency planning;76.5
+M0008;Andi Hidayat Syahputra;ITS;ITS_ADDD245_CLO1_337;analisis kecerdasan mesin;machine learning;74.3
+M0008;Andi Hidayat Syahputra;ITS;ITS_AB235_CLO1_249;stored procedure;stored procedures;74.2
+M0008;Andi Hidayat Syahputra;Jakarta;AP_CLO-01-1;flowchart;flowchart;73.5
+M0008;Andi Hidayat Syahputra;Surabaya;AP_CLO-01-1;python;python;73.5
+M0008;Andi Hidayat Syahputra;ITS;ITS_PSK856_CLO1_323;cognitive problem solver;problem solving;72.4
+M0008;Andi Hidayat Syahputra;Surabaya;SE_CLO-01-2;sap;sap;70.9
+M0008;Andi Hidayat Syahputra;Jakarta;SO_CLO-02-2;tcp/ip;tcp/ip;53.8
+M0008;Andi Hidayat Syahputra;Surabaya;SO_CLO-02-2;linux;linux;53.8
+M0009;Andi Setiawan;Jakarta;PPB_CLO-03;konsep dasar sistem informasi;information systems;93.0
+M0009;Andi Setiawan;Jakarta;PSC_CLO-03-1;neural network;neural networks;82.5
+M0009;Andi Setiawan;ITS;ITS_PBA126_CLO1_363;analisis data;data analysis;80.7
+M0009;Andi Setiawan;Surabaya;SE_CLO-01-2;sap;sap;77.9
+M0009;Andi Setiawan;Jakarta;TKMTI_CLO-02;cobit;cobit;76.8
+M0009;Andi Setiawan;Surabaya;PPL_CLO-03-1;git;git;76.5
+M0009;Andi Setiawan;Surabaya;PI_CLO-03;figma;figma;75.9
+M0009;Andi Setiawan;Jakarta;AP_CLO-01-1;flowchart;flowchart;75.6
+M0009;Andi Setiawan;Surabaya;AP_CLO-01-1;python;python;75.6
+M0009;Andi Setiawan;Surabaya;DWBI_CLO-01;business intelligence;business intelligence;75.4
+M0009;Andi Setiawan;Surabaya;KA_CLO-03-1;docker;docker;74.9
+M0009;Andi Setiawan;Surabaya;PPL_CLO-02-2;github;github;74.4
+M0009;Andi Setiawan;ITS;ITS_SDI821_CLO1;sistem data-intensif;data-intensif;74.3
+M0009;Andi Setiawan;ITS;ITS_DDMJK126_CLO4;routing;routing;74.0
+M0009;Andi Setiawan;ITS;ITS_DDMJK126_CLO4_262;perangkat jaringan;networking;72.5
+M0009;Andi Setiawan;ITS;ITS_SITI927_CLO1_303;transformasi digital;digital transformation;72.0
+M0009;Andi Setiawan;ITS;ITS_SE608_CLO1_384;integrasi erp;erp;71.7
+M0009;Andi Setiawan;ITS;ITS_PSK856_CLO1;cognitive computing;cognitive computing;71.0
+M0009;Andi Setiawan;Surabaya;APSI_CLO-01-1;agile;agile;70.2
+M0009;Andi Setiawan;Surabaya;PBO_CLO-02-2;oop;object-oriented programming;69.0
+M0009;Andi Setiawan;ITS;ITS_SITI927_CLO4_306;togaf;togaf;68.1
+M0009;Andi Setiawan;ITS;ITS_AB235_CLO1_251;perbaikan masalah;troubleshooting;65.8
+M0009;Andi Setiawan;Surabaya;JK_CLO-03-2;cisco;cisco networking;65.7
+M0009;Andi Setiawan;Surabaya;PBO_CLO-01-2;uml;uml;64.6
+M0009;Andi Setiawan;Jakarta;IAE2_CLO-01-1;graphql;graphql;64.1
+M0009;Andi Setiawan;ITS;ITS_PBA126_CLO1;encoding;data encoding;62.8
+M0009;Andi Setiawan;Jakarta;JK_CLO-01-1;switching;network switching;62.4
+M0009;Andi Setiawan;Surabaya;JK_CLO-01-1;osi layer;osi model;62.4
+M0009;Andi Setiawan;ITS;ITS_KL369_CLO1_387;optimasi;optimization;60.9
+M0009;Andi Setiawan;ITS;ITS_MPB088_CLO1;proses bisnis;business process;60.8
+M0010;Angga Pandu Astuti;Jakarta;PS2_CLO-02;statistika/probabilitas;statistics;78.7
+M0010;Angga Pandu Astuti;Surabaya;ATI_CLO-03;konsep dasar sistem informasi;information systems;76.2
+M0010;Angga Pandu Astuti;ITS;ITS_ADDD245_CLO1_336;visualisasi;data visualization;71.8
+M0010;Angga Pandu Astuti;ITS;ITS_SBD331_CLO1_379;manipulasi data relasional;sql;71.2
+M0010;Angga Pandu Astuti;Surabaya;PD_CLO-02;data mining;data mining;71.2
+M0010;Angga Pandu Astuti;ITS;ITS_PSK856_CLO1_326;iot;internet of things;67.2
+M0010;Angga Pandu Astuti;Surabaya;APSI_CLO-02-2;use case diagram;use case diagram;66.8
+M0010;Angga Pandu Astuti;Jakarta;IAE2_CLO-02-2;php;php;66.5
+M0010;Angga Pandu Astuti;ITS;ITS_MRP265_CLO1_349;perencanaan agregat;aggregate planning;65.8
+M0010;Angga Pandu Astuti;Jakarta;PD_CLO-04-1;python;python;64.4
+M0010;Angga Pandu Astuti;Surabaya;PBO_CLO-01-1;java;java;62.8
+M0010;Angga Pandu Astuti;ITS;ITS_ADDD245_CLO1_338;machine learning;machine learning;62.0
+M0010;Angga Pandu Astuti;Jakarta;AP_CLO-01-1;flowchart;flowchart;60.2
+M0010;Angga Pandu Astuti;ITS;ITS_PSK856_CLO1_322;soft computing;soft computing;58.8
+M0010;Angga Pandu Astuti;Surabaya;DWBI_CLO-03;data warehouse;data warehousing;58.0
+M0010;Angga Pandu Astuti;ITS;ITS_MLTI487_CLO1;manajemen layanan ti;it service management;57.8
+M0010;Angga Pandu Astuti;Jakarta;PAW_CLO-01-2;rest api;rest api;56.8
+M0010;Angga Pandu Astuti;Surabaya;PAW_CLO-01-2;css;css;56.8
+M0010;Angga Pandu Astuti;ITS;ITS_ADSD677_CLO1_286;struktur data;data structures;56.3
+M0010;Angga Pandu Astuti;Surabaya;DT_CLO-02;prototyping;prototyping;54.8
+M0011;Angga Pratama;ITS;ITS_PDAP829_CLO1_357;algoritma heuristik;heuristic algorithms;95.4
+M0011;Angga Pratama;Jakarta;RPB_CLO-01;konsep dasar sistem informasi;information systems;92.9
+M0011;Angga Pratama;Surabaya;APB_CLO-03-1;basis data / database;database;89.7
+M0011;Angga Pratama;ITS;ITS_DDMJK126_CLO2;komunikasi jaringan;networking;88.4
+M0011;Angga Pratama;ITS;ITS_ADSD677_CLO1_289;algoritma;algorithms;85.2
+M0011;Angga Pratama;Jakarta;KSI_CLO-02-2;otorisasi;otorisasi;85.1
+M0011;Angga Pratama;Surabaya;KSI_CLO-02-2;vulnerability assessment;vulnerability assessment;85.1
+M0011;Angga Pratama;Jakarta;MRP_CLO-01;scm;scm;83.1
+M0011;Angga Pratama;Surabaya;PI_CLO-03;figma;figma;82.9
+M0011;Angga Pratama;Jakarta;JK_CLO-02-1;routing;routing;82.3
+M0011;Angga Pratama;Surabaya;APSI_CLO-03-2;use case diagram;use case diagram;81.5
+M0011;Angga Pratama;Jakarta;SE_CLO-02-2;sap;sap;81.5
+M0011;Angga Pratama;Surabaya;SMHP_CLO-01;crm;crm;80.9
+M0011;Angga Pratama;ITS;ITS_PST697_CLO1_313;tatakelola ti;it governance;80.6
+M0011;Angga Pratama;ITS;ITS_MPB088_CLO1;proses bisnis;business process;80.2
+M0011;Angga Pratama;ITS;ITS_PST697_CLO1_314;audit ti;it audit;79.5
+M0011;Angga Pratama;Jakarta;JK_CLO-01-1;switching;network switching;79.3
+M0011;Angga Pratama;Surabaya;JK_CLO-01-1;osi layer;osi model;79.3
+M0011;Angga Pratama;Jakarta;IAE2_CLO-01-1;graphql;graphql;79.2
+M0011;Angga Pratama;Surabaya;MDE_CLO-03;business intelligence;business intelligence;78.2
+M0011;Angga Pratama;Jakarta;DWBI_CLO-01-1;data warehouse;data warehousing;76.2
+M0011;Angga Pratama;Surabaya;PAB_CLO-03-2;cloud computing;cloud computing;76.1
+M0011;Angga Pratama;ITS;ITS_TML142_CLO1;machine learning;machine learning;74.7
+M0011;Angga Pratama;ITS;ITS_FD704_CLO1_295;infrastruktur sistem;it infrastructure;73.7
+M0011;Angga Pratama;ITS;ITS_PSK856_CLO1_324;ai;artificial intelligence;73.3
+M0011;Angga Pratama;Surabaya;PU_CLO-04-2;usability testing;usability testing;73.1
+M0011;Angga Pratama;Jakarta;TKMTI_CLO-03;cobit;cobit;70.5
+M0011;Angga Pratama;Jakarta;IAE2_CLO-02-2;php;php;69.4
+M0012;Arif Kiki Fauzi;Jakarta;APSI_CLO-02;basis data / database;database;95.4
+M0012;Arif Kiki Fauzi;Jakarta;SO_CLO-01;linux;linux;83.6
+M0012;Arif Kiki Fauzi;ITS;ITS_GP966_CLO1_280;algoritma graph;graph algorithms;83.0
+M0012;Arif Kiki Fauzi;ITS;ITS_SITI927_CLO3;strategi ti;it strategy;82.9
+M0012;Arif Kiki Fauzi;ITS;ITS_DDMJK126_CLO1;jaringan komputer;networking;80.9
+M0012;Arif Kiki Fauzi;Jakarta;PPL_CLO-05-1;git;git;74.9
+M0012;Arif Kiki Fauzi;ITS;ITS_SKBM366_CLO4;analisis sensitivitas;sensitivity analysis;74.8
+M0012;Arif Kiki Fauzi;Surabaya;DWBI_CLO-01;business intelligence;business intelligence;73.1
+M0012;Arif Kiki Fauzi;ITS;ITS_RO516_CLO1;simpleks;simplex algorithm;72.8
+M0012;Arif Kiki Fauzi;Jakarta;PAW_CLO-01-1;php;php;71.9
+M0012;Arif Kiki Fauzi;Surabaya;PAW_CLO-01-1;html;html;71.9
+M0012;Arif Kiki Fauzi;ITS;ITS_PST697_CLO1;sistem pengendalian internal;internal control systems;69.6
+M0012;Arif Kiki Fauzi;Jakarta;PD_CLO-04-1;python;python;69.2
+M0012;Arif Kiki Fauzi;Surabaya;DWBI_CLO-04-2;kpi;kpi;68.5
+M0012;Arif Kiki Fauzi;ITS;ITS_PD115_CLO5;program;programming;67.6
+M0012;Arif Kiki Fauzi;ITS;ITS_RO516_CLO1_370;pemrograman integer;integer programming;64.9
+M0012;Arif Kiki Fauzi;Surabaya;EPRTI_CLO-01;konsep dasar sistem informasi;information systems;64.4
+M0012;Arif Kiki Fauzi;Jakarta;PS2_CLO-02;statistika/probabilitas;statistics;63.5
+M0012;Arif Kiki Fauzi;Jakarta;TKMTI_CLO-02;cobit;cobit;63.2
+M0012;Arif Kiki Fauzi;Surabaya;APB_CLO-03-2;microservices;microservices;57.0
+M0013;Arif Maulana;Jakarta;JK_CLO-03-2;jaringan komputer;networking;84.1
+M0013;Arif Maulana;Surabaya;JK_CLO-03-2;cisco;cisco networking;84.1
+M0013;Arif Maulana;Jakarta;PD_CLO-01;data mining;data mining;83.0
+M0013;Arif Maulana;ITS;ITS_LDSD341_CLO1_343;struktur diskrit;discrete mathematics;81.3
+M0013;Arif Maulana;Jakarta;PS_CLO-01;konsep dasar sistem informasi;information systems;80.9
+M0013;Arif Maulana;ITS;ITS_KL369_CLO1_387;optimasi;optimization;80.5
+M0013;Arif Maulana;Jakarta;MRP_CLO-01;scm;scm;79.3
+M0013;Arif Maulana;Jakarta;PAW_CLO-02-1;php;php;77.5
+M0013;Arif Maulana;Surabaya;KA_CLO-02;devops;devops;76.9
+M0013;Arif Maulana;Surabaya;PU_CLO-05;ui/ux design;ui/ux;76.0
+M0013;Arif Maulana;Jakarta;SO_CLO-02-2;tcp/ip;tcp/ip;73.6
+M0013;Arif Maulana;Surabaya;SO_CLO-02-2;linux;linux;73.6
+M0013;Arif Maulana;ITS;ITS_PD115_CLO5;program;programming;73.5
+M0013;Arif Maulana;Jakarta;SO_CLO-04;firewall;firewall;72.5
+M0013;Arif Maulana;Jakarta;SBD_CLO-03-2;basis data / database;database;70.8
+M0013;Arif Maulana;ITS;ITS_PST697_CLO1_311;tatakelola ti;it governance;69.8
+M0013;Arif Maulana;ITS;ITS_SKBM366_CLO3;validasi model simulasi sistem dinamika;system dynamics simulation;69.6
+M0013;Arif Maulana;Jakarta;SBD_CLO-02-2;mysql;mysql;69.1
+M0013;Arif Maulana;Jakarta;PBO_CLO-03-1;uml;uml;67.5
+M0013;Arif Maulana;ITS;ITS_MHP365_CLO5;crm;crm;65.9
+M0013;Arif Maulana;Jakarta;PPL_CLO-01-2;scrum;scrum;64.8
+M0013;Arif Maulana;Surabaya;PPL_CLO-01-2;prototyping;prototyping;64.8
+M0013;Arif Maulana;Jakarta;DWBI_CLO-01-2;kpi;kpi;60.1
+M0013;Arif Maulana;Jakarta;PAW_CLO-02-2;html;html;59.5
+M0013;Arif Maulana;Surabaya;PAW_CLO-02-2;laravel;laravel;59.5
+M0013;Arif Maulana;ITS;ITS_SBD331_CLO1_377;model;model;57.9
+M0013;Arif Maulana;Jakarta;SBD_CLO-03-1;nosql;nosql;55.4
+M0014;Arif Saputro;ITS;ITS_ADDD245_CLO1_337;analisis kecerdasan mesin;machine learning;82.6
+M0014;Arif Saputro;Surabaya;MRP_CLO-02;scm;scm;82.5
+M0014;Arif Saputro;Surabaya;MDE_CLO-01;statistika/probabilitas;statistics;79.2
+M0014;Arif Saputro;Jakarta;PAW_CLO-02-2;html;html;78.4
+M0014;Arif Saputro;Surabaya;PAW_CLO-02-2;laravel;laravel;78.4
+M0014;Arif Saputro;Surabaya;APSI_CLO-01-1;agile;agile;75.9
+M0014;Arif Saputro;Surabaya;PAB_CLO-03-1;basis data / database;database;74.8
+M0014;Arif Saputro;ITS;ITS_PBA126_CLO1;encoding;data encoding;73.8
+M0014;Arif Saputro;ITS;ITS_RO516_CLO1;simpleks;simplex algorithm;73.7
+M0014;Arif Saputro;ITS;ITS_DDMJK126_CLO4;routing;routing;73.0
+M0014;Arif Saputro;ITS;ITS_PST697_CLO1;sistem pengendalian internal;internal control systems;72.0
+M0014;Arif Saputro;Surabaya;PAB_CLO-03-2;cloud computing;cloud computing;70.6
+M0014;Arif Saputro;Surabaya;MRP_CLO-03-1;erp;erp;68.7
+M0014;Arif Saputro;Jakarta;TKMTI_CLO-01;cobit;cobit;68.6
+M0014;Arif Saputro;Jakarta;DT_CLO-03;konsep dasar sistem informasi;information systems;67.7
+M0014;Arif Saputro;ITS;ITS_PST697_CLO1_314;audit ti;it audit;67.5
+M0014;Arif Saputro;Jakarta;JK_CLO-01-2;osi layer;osi model;66.8
+M0014;Arif Saputro;Surabaya;JK_CLO-01-2;jaringan komputer;networking;66.8
+M0014;Arif Saputro;Surabaya;PU_CLO-01-2;ui/ux design;ui/ux;65.5
+M0014;Arif Saputro;Surabaya;PPL_CLO-04;sprint;sprint;63.2
+M0014;Arif Saputro;Surabaya;JK_CLO-03-2;cisco;cisco networking;57.4
+M0014;Arif Saputro;Jakarta;PAW_CLO-01-1;php;php;55.6
+M0014;Arif Saputro;ITS;ITS_PSK856_CLO1_328;natural language processing;natural language processing;53.2
+M0014;Arif Saputro;ITS;ITS_MRP265_CLO1_350;manajemen permintaan;demand management;51.6
+M0015;Bayu Fauzi;Jakarta;SBD_CLO-02-2;mysql;mysql;89.3
+M0015;Bayu Fauzi;Surabaya;PU_CLO-02;konsep dasar sistem informasi;information systems;87.0
+M0015;Bayu Fauzi;Jakarta;SBD_CLO-02-1;sql;sql;82.5
+M0015;Bayu Fauzi;ITS;ITS_ODFB259_CLO1_352;design parameter;design parameter;81.1
+M0015;Bayu Fauzi;ITS;ITS_SBD331_CLO1;pengembangan sistem basis data;database development;80.5
+M0015;Bayu Fauzi;Jakarta;DT_CLO-02-1;design thinking;design thinking;80.3
+M0015;Bayu Fauzi;ITS;ITS_ADSD677_CLO1;pemrograman berorientasi objek;object-oriented programming;79.5
+M0015;Bayu Fauzi;ITS;ITS_SE608_CLO1_384;integrasi erp;erp;79.0
+M0015;Bayu Fauzi;Surabaya;KA_CLO-01-1;devops;devops;78.3
+M0015;Bayu Fauzi;ITS;ITS_PSK856_CLO1;cognitive computing;cognitive computing;73.7
+M0015;Bayu Fauzi;Jakarta;APSI_CLO-02;basis data / database;database;69.8
+M0015;Bayu Fauzi;Jakarta;PD_CLO-01;data mining;data mining;69.2
+M0015;Bayu Fauzi;ITS;ITS_SITI927_CLO1;teknologi informasi;information technology;69.0
+M0015;Bayu Fauzi;Jakarta;CDAP_CLO-06;prototyping;prototyping;68.5
+M0015;Bayu Fauzi;ITS;ITS_GP966_CLO1_278;algoritma graph;graph algorithms;67.6
+M0015;Bayu Fauzi;Jakarta;PSI_CLO-02;microsoft excel;excel;67.0
+M0015;Bayu Fauzi;Surabaya;PU_CLO-03-1;figma;figma;66.9
+M0015;Bayu Fauzi;Jakarta;PAW_CLO-02-1;php;php;65.9
+M0015;Bayu Fauzi;Jakarta;AP_CLO-03;algoritma & pemrograman dasar;algorithm & programming;65.1
+M0015;Bayu Fauzi;Jakarta;PSC_CLO-03-2;klasifikasi;klasifikasi;64.2
+M0015;Bayu Fauzi;ITS;ITS_PSK856_CLO1_328;natural language processing;natural language processing;63.1
+M0015;Bayu Fauzi;ITS;ITS_SBD331_CLO1_373;arsitektur sistem basis data;database architecture;63.0
+M0015;Bayu Fauzi;Surabaya;PBO_CLO-01-1;java;java;61.4
+M0015;Bayu Fauzi;ITS;ITS_PST697_CLO1;sistem pengendalian internal;internal control systems;59.6
+M0015;Bayu Fauzi;Jakarta;KSI_CLO-01-1;kriptografi;cryptography;59.5
+M0015;Bayu Fauzi;Jakarta;PAW_CLO-01-2;rest api;rest api;56.9
+M0015;Bayu Fauzi;Surabaya;PAW_CLO-01-2;css;css;56.9
+M0015;Bayu Fauzi;ITS;ITS_PST697_CLO1_314;audit ti;it audit;55.7
+M0016;Bayu Febri Triatmojo;Surabaya;APSI_CLO-02-1;uml;uml;90.4
+M0016;Bayu Febri Triatmojo;Surabaya;PIS_CLO-03;konsep dasar sistem informasi;information systems;89.1
+M0016;Bayu Febri Triatmojo;Surabaya;APSI_CLO-01-1;agile;agile;86.1
+M0016;Bayu Febri Triatmojo;ITS;ITS_DDMJK126_CLO6;mensimulasikan;simulation modeling;83.2
+M0016;Bayu Febri Triatmojo;ITS;ITS_DDMJK126_CLO2;komunikasi jaringan;networking;82.3
+M0016;Bayu Febri Triatmojo;Surabaya;APSI_CLO-02-2;use case diagram;use case diagram;81.9
+M0016;Bayu Febri Triatmojo;Jakarta;PAW_CLO-04-1;php;php;81.4
+M0016;Bayu Febri Triatmojo;Jakarta;PD_CLO-03;data mining;data mining;80.2
+M0016;Bayu Febri Triatmojo;Surabaya;MPPKI_CLO-02;klasifikasi;klasifikasi;79.5
+M0016;Bayu Febri Triatmojo;Jakarta;CDAP_CLO-06;prototyping;prototyping;78.4
+M0016;Bayu Febri Triatmojo;ITS;ITS_MHP365_CLO5;crm;crm;78.1
+M0016;Bayu Febri Triatmojo;ITS;ITS_ODFB259_CLO1_352;design parameter;design parameter;77.9
+M0016;Bayu Febri Triatmojo;ITS;ITS_SITI927_CLO3;strategi ti;it strategy;76.9
+M0016;Bayu Febri Triatmojo;Jakarta;PPL_CLO-01-2;scrum;scrum;75.9
+M0016;Bayu Febri Triatmojo;Jakarta;SE_CLO-02-1;erp;erp;75.0
+M0016;Bayu Febri Triatmojo;Jakarta;PSC_CLO-02;machine learning;machine learning;73.9
+M0016;Bayu Febri Triatmojo;ITS;ITS_PD115_CLO5_274;komputasional;computational thinking;73.3
+M0016;Bayu Febri Triatmojo;ITS;ITS_ADDD245_CLO1_335;konsep statistik;statistics;69.8
+M0016;Bayu Febri Triatmojo;ITS;ITS_SBD331_CLO1_372;desain basis data;database design;69.3
+M0016;Bayu Febri Triatmojo;Surabaya;DWBI_CLO-04-1;data warehouse;data warehousing;69.0
+M0016;Bayu Febri Triatmojo;ITS;ITS_SE608_CLO1_383;pemrograman open source;open source software;68.5
+M0016;Bayu Febri Triatmojo;Jakarta;PSI_CLO-02;microsoft excel;excel;68.0
+M0016;Bayu Febri Triatmojo;Jakarta;PD_CLO-04-1;python;python;67.8
+M0016;Bayu Febri Triatmojo;ITS;ITS_PSK856_CLO1_323;cognitive problem solver;problem solving;67.8
+M0016;Bayu Febri Triatmojo;Jakarta;KSI_CLO-03-2;vulnerability assessment;vulnerability assessment;66.8
+M0017;Bayu Siregar;Surabaya;EPRTI_CLO-02;konsep dasar sistem informasi;information systems;91.0
+M0017;Bayu Siregar;Surabaya;SMHP_CLO-02;klasifikasi;klasifikasi;90.0
+M0017;Bayu Siregar;Jakarta;PS2_CLO-02;statistika/probabilitas;statistics;89.9
+M0017;Bayu Siregar;ITS;ITS_ADDD245_CLO1_338;machine learning;machine learning;88.1
+M0017;Bayu Siregar;Surabaya;SE_CLO-02;erp;erp;87.8
+M0017;Bayu Siregar;ITS;ITS_AB235_CLO1_252;sistem database;database;87.8
+M0017;Bayu Siregar;Jakarta;SO_CLO-03-2;tcp/ip;tcp/ip;85.3
+M0017;Bayu Siregar;Surabaya;SO_CLO-03-2;linux;linux;85.3
+M0017;Bayu Siregar;ITS;ITS_LDSD341_CLO1_343;struktur diskrit;discrete mathematics;84.5
+M0017;Bayu Siregar;Jakarta;DWBI_CLO-02-2;cloud computing;cloud computing;84.5
+M0017;Bayu Siregar;Surabaya;DWBI_CLO-02-2;data warehouse;data warehousing;84.5
+M0017;Bayu Siregar;ITS;ITS_SKBM366_CLO5;sistem keputusan berbasis model;decision support systems;83.7
+M0017;Bayu Siregar;Surabaya;APSI_CLO-01-1;agile;agile;83.2
+M0017;Bayu Siregar;ITS;ITS_PD115_CLO1_267;java;java;83.2
+M0017;Bayu Siregar;Jakarta;AP_CLO-03;algoritma & pemrograman dasar;algorithm & programming;80.6
+M0017;Bayu Siregar;ITS;ITS_SKBM366_CLO1_393;simulasi;simulation modeling;80.4
+M0017;Bayu Siregar;ITS;ITS_SITI927_CLO1;teknologi informasi;information technology;78.8
+M0017;Bayu Siregar;Surabaya;PPL_CLO-04;sprint;sprint;78.3
+M0017;Bayu Siregar;Jakarta;PSI_CLO-02;microsoft excel;excel;77.7
+M0017;Bayu Siregar;Jakarta;AP_CLO-01-2;pseudocode;pseudocode;75.4
+M0017;Bayu Siregar;ITS;ITS_KL369_CLO1_387;optimasi;optimization;72.8
+M0017;Bayu Siregar;ITS;ITS_PDSUT279_CLO1;pengumpulan data;data collection;72.5
+M0017;Bayu Siregar;Jakarta;PAW_CLO-02-2;html;html;64.8
+M0017;Bayu Siregar;Surabaya;PAW_CLO-02-2;laravel;laravel;64.8
+M0017;Bayu Siregar;ITS;ITS_PST944_CLO1;tatakelola keamanan informasi;information security;60.4
+M0017;Bayu Siregar;ITS;ITS_PD115_CLO1;pemrograman;programming;56.5
+M0018;Bima Melati Suhartono;Jakarta;KSI_CLO-04;vulnerability assessment;vulnerability assessment;90.2
+M0018;Bima Melati Suhartono;Jakarta;AE_CLO-02;konsep dasar sistem informasi;information systems;88.8
+M0018;Bima Melati Suhartono;Jakarta;KSI_CLO-02-1;kriptografi;cryptography;81.3
+M0018;Bima Melati Suhartono;Jakarta;MSI_CLO-02-2;klasifikasi;klasifikasi;79.7
+M0018;Bima Melati Suhartono;ITS;ITS_GP966_CLO1_278;algoritma graph;graph algorithms;76.4
+M0018;Bima Melati Suhartono;ITS;ITS_PD115_CLO4_271;java;java;76.3
+M0018;Bima Melati Suhartono;ITS;ITS_DDMJK126_CLO6;mensimulasikan;simulation modeling;73.9
+M0018;Bima Melati Suhartono;ITS;ITS_AB235_CLO1_249;stored procedure;stored procedures;73.1
+M0018;Bima Melati Suhartono;Surabaya;APSI_CLO-02-2;use case diagram;use case diagram;72.8
+M0018;Bima Melati Suhartono;Surabaya;PD_CLO-01-1;data mining;data mining;71.9
+M0018;Bima Melati Suhartono;ITS;ITS_ADSD677_CLO1;pemrograman berorientasi objek;object-oriented programming;71.6
+M0018;Bima Melati Suhartono;Surabaya;MDE_CLO-01;statistika/probabilitas;statistics;71.4
+M0018;Bima Melati Suhartono;Surabaya;PU_CLO-03-1;figma;figma;71.2
+M0018;Bima Melati Suhartono;Jakarta;SO_CLO-03-1;linux;linux;69.4
+M0018;Bima Melati Suhartono;Surabaya;SO_CLO-03-1;http;http;69.4
+M0018;Bima Melati Suhartono;ITS;ITS_SKBM366_CLO3;validasi model simulasi sistem dinamika;system dynamics simulation;68.8
+M0018;Bima Melati Suhartono;Jakarta;PD_CLO-04-1;python;python;67.4
+M0018;Bima Melati Suhartono;ITS;ITS_PSDO774_CLO4;devops;devops;66.8
+M0018;Bima Melati Suhartono;Jakarta;PAW_CLO-03-2;html;html;65.2
+M0018;Bima Melati Suhartono;ITS;ITS_DDMJK126_CLO3_259;ipv4;ipv4;63.8
+M0018;Bima Melati Suhartono;ITS;ITS_MPB088_CLO1;proses bisnis;business process;63.8
+M0018;Bima Melati Suhartono;Surabaya;SE_CLO-01-2;sap;sap;63.5
+M0018;Bima Melati Suhartono;ITS;ITS_PST944_CLO1_317;manajemen resiko;risk management;62.7
+M0018;Bima Melati Suhartono;Jakarta;SO_CLO-03-2;tcp/ip;tcp/ip;59.1
+M0018;Bima Melati Suhartono;ITS;ITS_SBD331_CLO1_378;query;sql;55.2
+M0018;Bima Melati Suhartono;Jakarta;TKMTI_CLO-03;cobit;cobit;55.1
+M0019;Bima Purnama;Jakarta;PD_CLO-04-2;data mining;data mining;95.3
+M0019;Bima Purnama;ITS;ITS_SBD331_CLO1_378;query;sql;89.8
+M0019;Bima Purnama;Surabaya;SMHP_CLO-01;crm;crm;89.3
+M0019;Bima Purnama;Jakarta;KSI_CLO-03-1;kriptografi;cryptography;89.2
+M0019;Bima Purnama;ITS;ITS_PD115_CLO5_274;komputasional;computational thinking;87.4
+M0019;Bima Purnama;ITS;ITS_FD704_CLO1_295;infrastruktur sistem;it infrastructure;85.9
+M0019;Bima Purnama;Surabaya;IAE_CLO-03;konsep dasar sistem informasi;information systems;84.6
+M0019;Bima Purnama;ITS;ITS_PD115_CLO2;pemrograman;programming;81.7
+M0019;Bima Purnama;ITS;ITS_ODFB259_CLO1_352;design parameter;design parameter;78.9
+M0019;Bima Purnama;Jakarta;SO_CLO-01;linux;linux;77.6
+M0019;Bima Purnama;Surabaya;PU_CLO-01-2;ui/ux design;ui/ux;76.1
+M0019;Bima Purnama;Surabaya;PPL_CLO-03-1;git;git;75.7
+M0019;Bima Purnama;Surabaya;PBO_CLO-01-1;java;java;74.0
+M0019;Bima Purnama;Jakarta;DWBI_CLO-01-2;kpi;kpi;72.9
+M0019;Bima Purnama;Surabaya;PI_CLO-03;figma;figma;71.8
+M0019;Bima Purnama;ITS;ITS_ADSD677_CLO1_288;desain;desain;68.9
+M0019;Bima Purnama;ITS;ITS_ADSD677_CLO1;pemrograman berorientasi objek;object-oriented programming;61.6
+M0020;Cahya Gilang Gunawan;Surabaya;EPRTI_CLO-02;konsep dasar sistem informasi;information systems;100.0
+M0020;Cahya Gilang Gunawan;ITS;ITS_PD115_CLO5;program;programming;100.0
+M0020;Cahya Gilang Gunawan;ITS;ITS_PST944_CLO1_318;manajemen keamanan siber;cybersecurity;100.0
+M0020;Cahya Gilang Gunawan;Surabaya;PBO_CLO-02-1;java;java;95.1
+M0020;Cahya Gilang Gunawan;Jakarta;SO_CLO-04;firewall;firewall;91.0
+M0020;Cahya Gilang Gunawan;Jakarta;SO_CLO-03-1;linux;linux;89.3
+M0020;Cahya Gilang Gunawan;Surabaya;SO_CLO-03-1;http;http;89.3
+M0020;Cahya Gilang Gunawan;Surabaya;PPL_CLO-02-1;git;git;88.7
+M0020;Cahya Gilang Gunawan;Jakarta;KSI_CLO-02-1;kriptografi;cryptography;87.1
+M0020;Cahya Gilang Gunawan;Jakarta;PPL_CLO-01-1;agile;agile;86.4
+M0020;Cahya Gilang Gunawan;Surabaya;DWBI_CLO-04-1;data warehouse;data warehousing;86.2
+M0020;Cahya Gilang Gunawan;ITS;ITS_GP966_CLO1_278;algoritma graph;graph algorithms;84.3
+M0020;Cahya Gilang Gunawan;ITS;ITS_DDMJK126_CLO6_265;arsitektur jaringan;network architecture;83.8
+M0020;Cahya Gilang Gunawan;ITS;ITS_ADSD677_CLO1_286;struktur data;data structures;82.6
+M0020;Cahya Gilang Gunawan;ITS;ITS_PST944_CLO1_319;cobit;cobit;80.7
+M0020;Cahya Gilang Gunawan;ITS;ITS_LDSD341_CLO1_342;matematika;mathematics;79.0
+M0020;Cahya Gilang Gunawan;ITS;ITS_AB235_CLO1_251;perbaikan masalah;troubleshooting;78.9
+M0020;Cahya Gilang Gunawan;Jakarta;SO_CLO-02-2;tcp/ip;tcp/ip;78.8
+M0020;Cahya Gilang Gunawan;Surabaya;MPPKI_CLO-02;klasifikasi;klasifikasi;76.0
+M0020;Cahya Gilang Gunawan;Jakarta;SE_CLO-02-1;erp;erp;69.7
+M0021;Citra Anggraini;ITS;ITS_PD115_CLO4_271;java;java;94.6
+M0021;Citra Anggraini;Surabaya;PPL_CLO-04;sprint;sprint;93.0
+M0021;Citra Anggraini;ITS;ITS_ODFB259_CLO1_354;structural configurations;organizational structure;88.7
+M0021;Citra Anggraini;Jakarta;APSI_CLO-01;konsep dasar sistem informasi;information systems;85.6
+M0021;Citra Anggraini;ITS;ITS_SKBM366_CLO1;konsep sistem;konsep;85.5
+M0021;Citra Anggraini;Jakarta;CDAP_CLO-04;prototyping;prototyping;85.1
+M0021;Citra Anggraini;ITS;ITS_ADDD245_CLO1_331;analysis;analysis;84.6
+M0021;Citra Anggraini;ITS;ITS_DDMJK126_CLO1;jaringan komputer;networking;84.2
+M0021;Citra Anggraini;ITS;ITS_SBD331_CLO1;pengembangan sistem basis data;database development;82.3
+M0021;Citra Anggraini;Surabaya;MRP_CLO-03-1;erp;erp;81.1
+M0021;Citra Anggraini;ITS;ITS_PDAP113_CLO1_365;data scientist;data science;80.9
+M0021;Citra Anggraini;Surabaya;SI_CLO-07;regresi;regression analysis;80.4
+M0021;Citra Anggraini;ITS;ITS_DDMJK126_CLO6;mensimulasikan;simulation modeling;80.4
+M0021;Citra Anggraini;Surabaya;KA_CLO-02;devops;devops;79.5
+M0021;Citra Anggraini;Jakarta;PAW_CLO-04-2;basis data / database;database;79.5
+M0021;Citra Anggraini;Jakarta;SO_CLO-03-2;tcp/ip;tcp/ip;79.4
+M0021;Citra Anggraini;Surabaya;SO_CLO-03-2;linux;linux;79.4
+M0021;Citra Anggraini;ITS;ITS_ADSD677_CLO1_287;algoritma;algorithms;78.4
+M0021;Citra Anggraini;ITS;ITS_PDAP829_CLO1;optimasi kombinatorik;combinatorial optimization;78.0
+M0021;Citra Anggraini;ITS;ITS_PD115_CLO3;pemrograman;programming;77.8
+M0021;Citra Anggraini;Jakarta;AP_CLO-01-2;pseudocode;pseudocode;75.8
+M0021;Citra Anggraini;ITS;ITS_KL369_CLO1;komputasi lunak;soft computing;75.4
+M0021;Citra Anggraini;Surabaya;SO_CLO-02-1;http;http;74.4
+M0021;Citra Anggraini;ITS;ITS_DPP410_CLO1;metodologi;metodologi;71.3
+M0021;Citra Anggraini;Surabaya;APB_CLO-01-1;json;json;71.3
+M0021;Citra Anggraini;ITS;ITS_PSK856_CLO1;cognitive computing;cognitive computing;70.1
+M0021;Citra Anggraini;Jakarta;JK_CLO-01-1;switching;network switching;66.1
+M0021;Citra Anggraini;Surabaya;JK_CLO-01-1;osi layer;osi model;66.1
+M0021;Citra Anggraini;Surabaya;SI_CLO-02;statistika/probabilitas;statistics;64.2
+M0021;Citra Anggraini;ITS;ITS_ADSD677_CLO1_286;struktur data;data structures;55.4
+M0022;Danang Purnama;Jakarta;KSI_CLO-03-2;vulnerability assessment;vulnerability assessment;90.3
+M0022;Danang Purnama;Jakarta;APSI_CLO-04;uml;uml;89.4
+M0022;Danang Purnama;Jakarta;SBD_CLO-02-2;mysql;mysql;88.0
+M0022;Danang Purnama;Jakarta;PSI_CLO-04-1;basis data / database;database;84.7
+M0022;Danang Purnama;ITS;ITS_SBD331_CLO1_374;mendesain basis data konseptual;database design;84.0
+M0022;Danang Purnama;Jakarta;DWBI_CLO-02-2;cloud computing;cloud computing;83.6
+M0022;Danang Purnama;Surabaya;DWBI_CLO-02-2;data warehouse;data warehousing;83.6
+M0022;Danang Purnama;ITS;ITS_SITI927_CLO1;teknologi informasi;information technology;82.1
+M0022;Danang Purnama;Jakarta;SBD_CLO-02-1;sql;sql;81.9
+M0022;Danang Purnama;Jakarta;PPL_CLO-01-1;agile;agile;80.7
+M0022;Danang Purnama;Jakarta;PPL_CLO-01-2;scrum;scrum;80.4
+M0022;Danang Purnama;Surabaya;PPL_CLO-01-2;prototyping;prototyping;80.4
+M0022;Danang Purnama;Surabaya;PIS_CLO-04;konsep dasar sistem informasi;information systems;79.9
+M0022;Danang Purnama;ITS;ITS_PST944_CLO1_317;manajemen resiko;risk management;77.9
+M0022;Danang Purnama;Jakarta;PD_CLO-01;data mining;data mining;76.6
+M0022;Danang Purnama;Surabaya;PU_CLO-05;ui/ux design;ui/ux;75.0
+M0022;Danang Purnama;ITS;ITS_MRP265_CLO1_348;peramalan;forecasting;72.5
+M0022;Danang Purnama;ITS;ITS_AB235_CLO1_251;perbaikan masalah;troubleshooting;67.1
+M0023;Danang Saputro;Surabaya;APSI_CLO-01-2;kanban;kanban;94.6
+M0023;Danang Saputro;Surabaya;KA_CLO-01-1;devops;devops;91.2
+M0023;Danang Saputro;Jakarta;CDAP_CLO-01;konsep dasar sistem informasi;information systems;88.7
+M0023;Danang Saputro;ITS;ITS_MLTI487_CLO2;manajemen layanan ti;it service management;87.3
+M0023;Danang Saputro;ITS;ITS_IT052_CLO1_298;perangkat lunak;software engineering;86.8
+M0023;Danang Saputro;Jakarta;SBD_CLO-03-1;nosql;nosql;84.9
+M0023;Danang Saputro;Surabaya;PD_CLO-02;data mining;data mining;84.5
+M0023;Danang Saputro;Surabaya;APSI_CLO-03-1;uml;uml;84.1
+M0023;Danang Saputro;Jakarta;TKMTI_CLO-03;cobit;cobit;83.2
+M0023;Danang Saputro;Surabaya;APB_CLO-01-2;xml;xml;82.9
+M0023;Danang Saputro;Jakarta;PPL_CLO-05-2;scm;scm;81.1
+M0023;Danang Saputro;ITS;ITS_PD115_CLO4;pemrograman;programming;80.1
+M0023;Danang Saputro;Jakarta;PAW_CLO-01-2;rest api;rest api;80.1
+M0023;Danang Saputro;Surabaya;PAW_CLO-01-2;css;css;80.1
+M0023;Danang Saputro;ITS;ITS_SITI927_CLO1;teknologi informasi;information technology;78.4
+M0023;Danang Saputro;ITS;ITS_DL830_CLO1;data warehouse;data warehousing;77.7
+M0023;Danang Saputro;Surabaya;KA_CLO-01-2;agile;agile;77.2
+M0023;Danang Saputro;ITS;ITS_DDMJK126_CLO3_260;ipv6;ipv6;75.2
+M0023;Danang Saputro;Jakarta;DWBI_CLO-01-2;kpi;kpi;75.1
+M0023;Danang Saputro;Jakarta;PSC_CLO-03-2;klasifikasi;klasifikasi;72.8
+M0023;Danang Saputro;Jakarta;KSI_CLO-02-1;kriptografi;cryptography;70.3
+M0023;Danang Saputro;Jakarta;AP_CLO-02;algoritma & pemrograman dasar;algorithm & programming;69.2
+M0023;Danang Saputro;ITS;ITS_SE608_CLO1;sistem enterprise;enterprise systems;68.2
+M0023;Danang Saputro;ITS;ITS_PSK856_CLO1_325;ml;machine learning;67.9
+M0023;Danang Saputro;Jakarta;SBD_CLO-01-1;erd;erd;65.4
+M0024;Dewi Laras Subagja;Jakarta;PD_CLO-04-2;data mining;data mining;100.0
+M0024;Dewi Laras Subagja;ITS;ITS_PST944_CLO1_317;manajemen resiko;risk management;100.0
+M0024;Dewi Laras Subagja;Jakarta;PPL_CLO-01-1;agile;agile;94.3
+M0024;Dewi Laras Subagja;Jakarta;MPPKI_CLO-03;konsep dasar sistem informasi;information systems;94.0
+M0024;Dewi Laras Subagja;ITS;ITS_DDMJK126_CLO6;mensimulasikan;simulation modeling;93.5
+M0024;Dewi Laras Subagja;Jakarta;AP_CLO-01-1;flowchart;flowchart;92.2
+M0024;Dewi Laras Subagja;Surabaya;AP_CLO-01-1;python;python;92.2
+M0024;Dewi Laras Subagja;Jakarta;JK_CLO-01-1;switching;network switching;91.7
+M0024;Dewi Laras Subagja;Surabaya;JK_CLO-01-1;osi layer;osi model;91.7
+M0024;Dewi Laras Subagja;ITS;ITS_ADSD677_CLO1_290;struktur data;data structures;90.2
+M0024;Dewi Laras Subagja;ITS;ITS_ETI711_CLO1;teknologi informasi;information technology;87.0
+M0024;Dewi Laras Subagja;ITS;ITS_ADDD245_CLO1_333;diagnostic;diagnostic;86.2
+M0024;Dewi Laras Subagja;ITS;ITS_KL369_CLO1_388;algoritma;algorithms;85.6
+M0024;Dewi Laras Subagja;Surabaya;PU_CLO-05;ui/ux design;ui/ux;85.4
+M0024;Dewi Laras Subagja;Jakarta;CDAP_CLO-06;prototyping;prototyping;84.9
+M0024;Dewi Laras Subagja;Surabaya;MRP_CLO-02;scm;scm;84.8
+M0024;Dewi Laras Subagja;Surabaya;PBO_CLO-01-1;java;java;83.0
+M0024;Dewi Laras Subagja;Jakarta;SI_CLO-02;regresi;regression analysis;82.7
+M0024;Dewi Laras Subagja;Surabaya;SI_CLO-02;statistika/probabilitas;statistics;82.7
+M0024;Dewi Laras Subagja;Jakarta;MSI_CLO-02-2;klasifikasi;klasifikasi;82.4
+M0024;Dewi Laras Subagja;ITS;ITS_MRP265_CLO1;manajemen rantai pasok;supply chain management;81.7
+M0024;Dewi Laras Subagja;ITS;ITS_SKBM366_CLO4;analisis sensitivitas;sensitivity analysis;81.7
+M0024;Dewi Laras Subagja;Jakarta;PAW_CLO-01-2;rest api;rest api;79.9
+M0024;Dewi Laras Subagja;Surabaya;PAW_CLO-01-2;css;css;79.9
+M0024;Dewi Laras Subagja;Jakarta;PSC_CLO-04-1;decision tree;decision tree;79.3
+M0024;Dewi Laras Subagja;ITS;ITS_ADDD245_CLO1_334;visualisasi;data visualization;79.2
+M0024;Dewi Laras Subagja;Surabaya;PBO_CLO-02-2;oop;object-oriented programming;78.9
+M0024;Dewi Laras Subagja;Jakarta;SBD_CLO-03-2;basis data / database;database;76.0
+M0024;Dewi Laras Subagja;Jakarta;PPL_CLO-01-2;scrum;scrum;75.7
+M0024;Dewi Laras Subagja;Jakarta;SBD_CLO-01-1;erd;erd;75.6
+M0024;Dewi Laras Subagja;ITS;ITS_PBA126_CLO1_363;analisis data;data analysis;74.5
+M0024;Dewi Laras Subagja;ITS;ITS_DDMJK126_CLO5;jaringan komputer;networking;68.7
+M0024;Dewi Laras Subagja;Jakarta;SO_CLO-02-1;linux;linux;68.0
+M0024;Dewi Laras Subagja;Surabaya;SO_CLO-02-1;http;http;68.0
+M0025;Dhika Kusuma Wicaksono;Jakarta;IAE2_CLO-02-2;php;php;100.0
+M0025;Dhika Kusuma Wicaksono;ITS;ITS_AB235_CLO1;administrasi basis data;database administration;99.7
+M0025;Dhika Kusuma Wicaksono;Surabaya;SMHP_CLO-04;konsep dasar sistem informasi;information systems;95.3
+M0025;Dhika Kusuma Wicaksono;ITS;ITS_FD704_CLO1_295;infrastruktur sistem;it infrastructure;94.8
+M0025;Dhika Kusuma Wicaksono;ITS;ITS_ADSD677_CLO1_290;struktur data;data structures;94.5
+M0025;Dhika Kusuma Wicaksono;Jakarta;KSI_CLO-01-2;otorisasi;otorisasi;93.8
+M0025;Dhika Kusuma Wicaksono;ITS;ITS_PSK856_CLO1_329;expert systems;expert systems;90.8
+M0025;Dhika Kusuma Wicaksono;ITS;ITS_DDMJK126_CLO1;jaringan komputer;networking;90.4
+M0025;Dhika Kusuma Wicaksono;Surabaya;SMHP_CLO-02;klasifikasi;klasifikasi;88.8
+M0025;Dhika Kusuma Wicaksono;Surabaya;MDE_CLO-01;statistika/probabilitas;statistics;88.7
+M0025;Dhika Kusuma Wicaksono;Surabaya;SMHP_CLO-01;crm;crm;87.6
+M0025;Dhika Kusuma Wicaksono;Jakarta;APSI_CLO-02;basis data / database;database;87.3
+M0025;Dhika Kusuma Wicaksono;Surabaya;JK_CLO-03-2;cisco;cisco networking;87.3
+M0025;Dhika Kusuma Wicaksono;ITS;ITS_ADDD245_CLO1_332;analytics;analytics;86.1
+M0025;Dhika Kusuma Wicaksono;ITS;ITS_PST697_CLO5;teknologi informasi;information technology;85.9
+M0025;Dhika Kusuma Wicaksono;Jakarta;PSI_CLO-04-2;cloud computing;cloud computing;85.7
+M0025;Dhika Kusuma Wicaksono;ITS;ITS_PSK856_CLO1_328;natural language processing;natural language processing;85.1
+M0025;Dhika Kusuma Wicaksono;ITS;ITS_PST697_CLO1_311;tatakelola ti;it governance;83.7
+M0025;Dhika Kusuma Wicaksono;Jakarta;JK_CLO-01-2;osi layer;osi model;83.4
+M0025;Dhika Kusuma Wicaksono;Jakarta;PD_CLO-01;data mining;data mining;82.2
+M0025;Dhika Kusuma Wicaksono;ITS;ITS_KL369_CLO1_388;algoritma;algorithms;81.3
+M0025;Dhika Kusuma Wicaksono;Jakarta;TKMTI_CLO-01;cobit;cobit;80.3
+M0025;Dhika Kusuma Wicaksono;ITS;ITS_ODFB259_CLO1;sistem fluss;flow systems;79.4
+M0025;Dhika Kusuma Wicaksono;ITS;ITS_SBD331_CLO1_376;basis data logikal;database design;78.7
+M0025;Dhika Kusuma Wicaksono;Surabaya;KA_CLO-01-1;devops;devops;76.5
+M0025;Dhika Kusuma Wicaksono;Jakarta;IAE2_CLO-01-1;graphql;graphql;75.0
+M0025;Dhika Kusuma Wicaksono;ITS;ITS_PD115_CLO5_274;komputasional;computational thinking;73.6
+M0025;Dhika Kusuma Wicaksono;Surabaya;DWBI_CLO-02-2;data warehouse;data warehousing;73.2
+M0026;Dimas Nasution;Jakarta;PPL_CLO-05-2;scm;scm;95.0
+M0026;Dimas Nasution;Surabaya;EPRTI_CLO-01;konsep dasar sistem informasi;information systems;87.5
+M0026;Dimas Nasution;ITS;ITS_ADSD677_CLO1_290;struktur data;data structures;82.0
+M0026;Dimas Nasution;Surabaya;PAB_CLO-03-1;basis data / database;database;81.2
+M0026;Dimas Nasution;ITS;ITS_PDAP829_CLO1_358;pemrograman;programming;80.0
+M0026;Dimas Nasution;ITS;ITS_SKBM366_CLO3;validasi model simulasi sistem dinamika;system dynamics simulation;78.2
+M0026;Dimas Nasution;Surabaya;DWBI_CLO-03;data warehouse;data warehousing;78.1
+M0026;Dimas Nasution;Surabaya;PBO_CLO-02-2;oop;object-oriented programming;76.8
+M0026;Dimas Nasution;Surabaya;MRP_CLO-03-1;erp;erp;75.5
+M0026;Dimas Nasution;ITS;ITS_GP966_CLO1_278;algoritma graph;graph algorithms;75.4
+M0026;Dimas Nasution;Surabaya;MDE_CLO-03;business intelligence;business intelligence;72.3
+M0026;Dimas Nasution;ITS;ITS_SE608_CLO1_382;perangkat;hardware;71.1
+M0027;Dina Sandi Fauzi;Surabaya;APSI_CLO-01-1;agile;agile;100.0
+M0027;Dina Sandi Fauzi;Surabaya;DWBI_CLO-03;data warehouse;data warehousing;98.2
+M0027;Dina Sandi Fauzi;ITS;ITS_PSK856_CLO1_328;natural language processing;natural language processing;98.0
+M0027;Dina Sandi Fauzi;ITS;ITS_GP966_CLO1;knowledge graph;knowledge graph;96.2
+M0027;Dina Sandi Fauzi;ITS;ITS_GP966_CLO1_280;algoritma graph;graph algorithms;95.3
+M0027;Dina Sandi Fauzi;Surabaya;APSI_CLO-02-1;uml;uml;94.5
+M0027;Dina Sandi Fauzi;Jakarta;JK_CLO-01-2;osi layer;osi model;91.2
+M0027;Dina Sandi Fauzi;Surabaya;JK_CLO-01-2;jaringan komputer;networking;91.2
+M0027;Dina Sandi Fauzi;ITS;ITS_KL369_CLO1_387;optimasi;optimization;90.9
+M0027;Dina Sandi Fauzi;Jakarta;SBD_CLO-01-1;erd;erd;89.6
+M0027;Dina Sandi Fauzi;Jakarta;SO_CLO-03-2;tcp/ip;tcp/ip;89.5
+M0027;Dina Sandi Fauzi;Surabaya;SO_CLO-03-2;linux;linux;89.5
+M0027;Dina Sandi Fauzi;Jakarta;SE_CLO-02-1;erp;erp;87.6
+M0027;Dina Sandi Fauzi;ITS;ITS_SE608_CLO1_382;perangkat;hardware;86.9
+M0027;Dina Sandi Fauzi;Surabaya;PU_CLO-03-1;figma;figma;86.7
+M0027;Dina Sandi Fauzi;Surabaya;JK_CLO-03-2;cisco;cisco networking;86.1
+M0027;Dina Sandi Fauzi;ITS;ITS_MLTI487_CLO1;manajemen layanan ti;it service management;85.1
+M0027;Dina Sandi Fauzi;ITS;ITS_ADSD677_CLO1_287;algoritma;algorithms;85.0
+M0027;Dina Sandi Fauzi;Jakarta;SBD_CLO-01-2;basis data / database;database;84.4
+M0027;Dina Sandi Fauzi;Jakarta;PPL_CLO-01-2;scrum;scrum;83.3
+M0027;Dina Sandi Fauzi;Surabaya;PPL_CLO-01-2;prototyping;prototyping;83.3
+M0027;Dina Sandi Fauzi;Jakarta;PSI_CLO-03;konsep dasar sistem informasi;information systems;83.0
+M0027;Dina Sandi Fauzi;ITS;ITS_ADDD245_CLO1_333;diagnostic;diagnostic;82.3
+M0027;Dina Sandi Fauzi;Surabaya;PD_CLO-02;data mining;data mining;82.3
+M0027;Dina Sandi Fauzi;Jakarta;PPL_CLO-05-1;git;git;81.9
+M0027;Dina Sandi Fauzi;ITS;ITS_SBD331_CLO1_378;query;sql;77.7
+M0027;Dina Sandi Fauzi;Jakarta;AP_CLO-01-2;pseudocode;pseudocode;72.0
+M0027;Dina Sandi Fauzi;Surabaya;AP_CLO-01-2;java;java;72.0
+M0028;Eka Hakim;Surabaya;APB_CLO-02-2;microservices;microservices;83.5
+M0028;Eka Hakim;ITS;ITS_PD115_CLO4;pemrograman;programming;73.0
+M0028;Eka Hakim;Jakarta;MPPKI_CLO-02;konsep dasar sistem informasi;information systems;72.5
+M0028;Eka Hakim;Surabaya;MPPKI_CLO-02;klasifikasi;klasifikasi;72.5
+M0028;Eka Hakim;ITS;ITS_TML142_CLO1;machine learning;machine learning;72.1
+M0028;Eka Hakim;Jakarta;PS2_CLO-01;statistika/probabilitas;statistics;71.3
+M0028;Eka Hakim;Jakarta;SBD_CLO-03-2;basis data / database;database;71.1
+M0028;Eka Hakim;Jakarta;JK_CLO-03-1;routing;routing;70.2
+M0028;Eka Hakim;Surabaya;JK_CLO-03-1;jaringan komputer;networking;70.2
+M0028;Eka Hakim;ITS;ITS_GP966_CLO1_278;algoritma graph;graph algorithms;66.3
+M0028;Eka Hakim;Surabaya;MRP_CLO-03-1;erp;erp;66.1
+M0028;Eka Hakim;ITS;ITS_PDSUT279_CLO1;pengumpulan data;data collection;66.1
+M0028;Eka Hakim;Surabaya;PPL_CLO-02-2;github;github;65.9
+M0028;Eka Hakim;ITS;ITS_ADSD677_CLO1_286;struktur data;data structures;65.1
+M0028;Eka Hakim;ITS;ITS_SKBM366_CLO1;konsep sistem;konsep;64.3
+M0028;Eka Hakim;Jakarta;KSI_CLO-01-2;otorisasi;otorisasi;64.1
+M0028;Eka Hakim;ITS;ITS_PST944_CLO1;tatakelola keamanan informasi;information security;62.7
+M0028;Eka Hakim;ITS;ITS_FD704_CLO1_295;infrastruktur sistem;it infrastructure;61.5
+M0028;Eka Hakim;ITS;ITS_GP966_CLO1_279;menganalisa data;data analysis;60.9
+M0028;Eka Hakim;Jakarta;AP_CLO-01-2;pseudocode;pseudocode;59.3
+M0028;Eka Hakim;Surabaya;AP_CLO-01-2;java;java;59.3
+M0028;Eka Hakim;ITS;ITS_IT052_CLO1;sistem komputer;computer systems;58.0
+M0028;Eka Hakim;Jakarta;SO_CLO-04;firewall;firewall;57.1
+M0028;Eka Hakim;Surabaya;APSI_CLO-03-1;uml;uml;56.3
+M0029;Fadhil Eka Kurnia;Jakarta;MPPKI_CLO-01;konsep dasar sistem informasi;information systems;90.2
+M0029;Fadhil Eka Kurnia;ITS;ITS_KL369_CLO1_388;algoritma;algorithms;90.0
+M0029;Fadhil Eka Kurnia;ITS;ITS_ADDD245_CLO1_334;visualisasi;data visualization;78.2
+M0029;Fadhil Eka Kurnia;ITS;ITS_PDAP829_CLO1_357;algoritma heuristik;heuristic algorithms;78.0
+M0029;Fadhil Eka Kurnia;Jakarta;AP_CLO-02;algoritma & pemrograman dasar;algorithm & programming;76.1
+M0029;Fadhil Eka Kurnia;Surabaya;APSI_CLO-01-1;agile;agile;73.5
+M0029;Fadhil Eka Kurnia;ITS;ITS_DDMJK126_CLO5;jaringan komputer;networking;72.9
+M0029;Fadhil Eka Kurnia;ITS;ITS_LDSD341_CLO1_343;struktur diskrit;discrete mathematics;72.8
+M0029;Fadhil Eka Kurnia;Jakarta;CDAP_CLO-04;prototyping;prototyping;72.7
+M0029;Fadhil Eka Kurnia;Jakarta;PPL_CLO-05-1;git;git;72.7
+M0029;Fadhil Eka Kurnia;Jakarta;PBO_CLO-01;oop;object-oriented programming;71.6
+M0029;Fadhil Eka Kurnia;Jakarta;KSI_CLO-04;vulnerability assessment;vulnerability assessment;71.0
+M0029;Fadhil Eka Kurnia;ITS;ITS_PD115_CLO5_273;java;java;69.8
+M0029;Fadhil Eka Kurnia;Jakarta;IAE2_CLO-02-1;python;python;67.8
+M0029;Fadhil Eka Kurnia;ITS;ITS_PSK856_CLO1_324;ai;artificial intelligence;65.7
+M0029;Fadhil Eka Kurnia;Jakarta;PPL_CLO-01-2;scrum;scrum;59.5
+M0029;Fadhil Eka Kurnia;ITS;ITS_SBD331_CLO1_373;arsitektur sistem basis data;database architecture;58.3
+M0029;Fadhil Eka Kurnia;ITS;ITS_DDMJK126_CLO6_265;arsitektur jaringan;network architecture;56.8
+M0029;Fadhil Eka Kurnia;ITS;ITS_SKBM366_CLO1;konsep sistem;konsep;56.0
+M0029;Fadhil Eka Kurnia;Jakarta;PD_CLO-03;data mining;data mining;54.1
+M0030;Fadhil Rahmat Suhartono;Jakarta;JK_CLO-03-2;jaringan komputer;networking;98.2
+M0030;Fadhil Rahmat Suhartono;Surabaya;JK_CLO-03-2;cisco;cisco networking;98.2
+M0030;Fadhil Rahmat Suhartono;Jakarta;APSI_CLO-02;basis data / database;database;95.3
+M0030;Fadhil Rahmat Suhartono;ITS;ITS_ADSD677_CLO1;pemrograman berorientasi objek;object-oriented programming;91.9
+M0030;Fadhil Rahmat Suhartono;Surabaya;ATI_CLO-02;konsep dasar sistem informasi;information systems;89.1
+M0030;Fadhil Rahmat Suhartono;Jakarta;JK_CLO-02-2;switching;network switching;88.7
+M0030;Fadhil Rahmat Suhartono;Jakarta;JK_CLO-03-1;routing;routing;88.6
+M0030;Fadhil Rahmat Suhartono;Surabaya;PAB_CLO-03-2;cloud computing;cloud computing;88.5
+M0030;Fadhil Rahmat Suhartono;Surabaya;KA_CLO-03-1;docker;docker;88.0
+M0030;Fadhil Rahmat Suhartono;Jakarta;SBD_CLO-02-1;sql;sql;87.2
+M0030;Fadhil Rahmat Suhartono;ITS;ITS_PSK856_CLO1_323;cognitive problem solver;problem solving;86.6
+M0030;Fadhil Rahmat Suhartono;Jakarta;PD_CLO-03;data mining;data mining;86.3
+M0030;Fadhil Rahmat Suhartono;ITS;ITS_GP966_CLO1_278;algoritma graph;graph algorithms;85.7
+M0030;Fadhil Rahmat Suhartono;Surabaya;PPL_CLO-03-1;git;git;84.9
+M0030;Fadhil Rahmat Suhartono;Surabaya;MSI_CLO-06-1;machine learning;machine learning;84.8
+M0030;Fadhil Rahmat Suhartono;Surabaya;APB_CLO-01-2;xml;xml;84.8
+M0030;Fadhil Rahmat Suhartono;ITS;ITS_DDMJK126_CLO3_259;ipv4;ipv4;84.6
+M0030;Fadhil Rahmat Suhartono;Jakarta;SE_CLO-02-2;sap;sap;84.3
+M0030;Fadhil Rahmat Suhartono;Jakarta;KSI_CLO-02-1;kriptografi;cryptography;83.7
+M0030;Fadhil Rahmat Suhartono;Jakarta;PSC_CLO-04-2;algoritma & pemrograman dasar;algorithm & programming;83.0
+M0030;Fadhil Rahmat Suhartono;ITS;ITS_PST944_CLO1_317;manajemen resiko;risk management;82.2
+M0030;Fadhil Rahmat Suhartono;Jakarta;SO_CLO-02-2;tcp/ip;tcp/ip;81.9
+M0030;Fadhil Rahmat Suhartono;Surabaya;SO_CLO-02-2;linux;linux;81.9
+M0030;Fadhil Rahmat Suhartono;Surabaya;PU_CLO-05;ui/ux design;ui/ux;81.6
+M0030;Fadhil Rahmat Suhartono;ITS;ITS_SITI927_CLO3;strategi ti;it strategy;79.9
+M0030;Fadhil Rahmat Suhartono;Surabaya;SE_CLO-01-1;erp;erp;78.6
+M0030;Fadhil Rahmat Suhartono;Jakarta;DWBI_CLO-04;etl;etl;78.1
+M0030;Fadhil Rahmat Suhartono;Jakarta;PBO_CLO-03-1;uml;uml;78.1
+M0030;Fadhil Rahmat Suhartono;Jakarta;IAE2_CLO-02-2;php;php;77.8
+M0030;Fadhil Rahmat Suhartono;Surabaya;APB_CLO-01-1;json;json;76.8
+M0030;Fadhil Rahmat Suhartono;ITS;ITS_PBA126_CLO1;encoding;data encoding;71.2
+M0030;Fadhil Rahmat Suhartono;Jakarta;MRP_CLO-01;scm;scm;70.8
+M0030;Fadhil Rahmat Suhartono;ITS;ITS_PSK856_CLO1_328;natural language processing;natural language processing;68.2
+M0030;Fadhil Rahmat Suhartono;Surabaya;PPL_CLO-02-2;github;github;66.2
+M0030;Fadhil Rahmat Suhartono;Jakarta;IAE2_CLO-01-1;graphql;graphql;66.1
+M0031;Farhan Irfan Hartanto;ITS;ITS_LDSD341_CLO1_342;matematika;mathematics;84.6
+M0031;Farhan Irfan Hartanto;Jakarta;PSC_CLO-05;konsep dasar sistem informasi;information systems;84.2
+M0031;Farhan Irfan Hartanto;ITS;ITS_SE608_CLO1_383;pemrograman open source;open source software;83.0
+M0031;Farhan Irfan Hartanto;Jakarta;SO_CLO-01;linux;linux;81.9
+M0031;Farhan Irfan Hartanto;ITS;ITS_FD704_CLO1_294;pengembangan keamanan data;data security;81.0
+M0031;Farhan Irfan Hartanto;ITS;ITS_LDSD341_CLO1_343;struktur diskrit;discrete mathematics;79.3
+M0031;Farhan Irfan Hartanto;Jakarta;KSI_CLO-01-1;kriptografi;cryptography;75.7
+M0031;Farhan Irfan Hartanto;Jakarta;SO_CLO-04;firewall;firewall;75.1
+M0031;Farhan Irfan Hartanto;Jakarta;KSI_CLO-04;vulnerability assessment;vulnerability assessment;74.8
+M0031;Farhan Irfan Hartanto;Surabaya;PPL_CLO-02-2;github;github;74.0
+M0031;Farhan Irfan Hartanto;Jakarta;MRP_CLO-02-1;erp;erp;72.8
+M0031;Farhan Irfan Hartanto;Jakarta;SO_CLO-03-2;tcp/ip;tcp/ip;71.8
+M0031;Farhan Irfan Hartanto;Jakarta;PAW_CLO-03-2;html;html;70.8
+M0031;Farhan Irfan Hartanto;Jakarta;PAW_CLO-04-1;php;php;68.6
+M0031;Farhan Irfan Hartanto;Surabaya;JK_CLO-02;jaringan komputer;networking;66.0
+M0031;Farhan Irfan Hartanto;ITS;ITS_PAI936_CLO1;keamanan informasi;information security;56.4
+M0032;Farhan Kurniawan;Jakarta;AP_CLO-01-2;pseudocode;pseudocode;98.9
+M0032;Farhan Kurniawan;Surabaya;AP_CLO-01-2;java;java;98.9
+M0032;Farhan Kurniawan;ITS;ITS_DL830_CLO1_254;data lake;data lake;98.7
+M0032;Farhan Kurniawan;Surabaya;PAB_CLO-01;konsep dasar sistem informasi;information systems;95.8
+M0032;Farhan Kurniawan;ITS;ITS_FD704_CLO1_292;infrastruktur;it infrastructure;92.9
+M0032;Farhan Kurniawan;Surabaya;PU_CLO-03-1;figma;figma;91.1
+M0032;Farhan Kurniawan;Jakarta;TKMTI_CLO-02;cobit;cobit;89.6
+M0032;Farhan Kurniawan;Jakarta;SE_CLO-01;erp;erp;86.8
+M0032;Farhan Kurniawan;ITS;ITS_PSK856_CLO1_324;ai;artificial intelligence;86.0
+M0032;Farhan Kurniawan;Surabaya;MDE_CLO-01;statistika/probabilitas;statistics;84.4
+M0032;Farhan Kurniawan;ITS;ITS_PSDO774_CLO1;devops;devops;83.4
+M0032;Farhan Kurniawan;Jakarta;SBD_CLO-03-2;basis data / database;database;81.8
+M0032;Farhan Kurniawan;Surabaya;SMHP_CLO-01;crm;crm;81.6
+M0032;Farhan Kurniawan;Surabaya;DWBI_CLO-02-1;cloud computing;cloud computing;81.1
+M0032;Farhan Kurniawan;ITS;ITS_KL369_CLO1_389;komputasi lunak;soft computing;80.5
+M0032;Farhan Kurniawan;Jakarta;MD_CLO-02;algoritma & pemrograman dasar;algorithm & programming;77.3
+M0032;Farhan Kurniawan;Surabaya;APB_CLO-01-1;json;json;76.9
+M0032;Farhan Kurniawan;ITS;ITS_PSK856_CLO1_323;cognitive problem solver;problem solving;76.0
+M0032;Farhan Kurniawan;ITS;ITS_SITI927_CLO4;enterprise architecture;enterprise architecture;74.0
+M0032;Farhan Kurniawan;Jakarta;SBD_CLO-01-1;erd;erd;73.3
+M0032;Farhan Kurniawan;Surabaya;APB_CLO-01-2;xml;xml;71.8
+M0032;Farhan Kurniawan;Jakarta;PSI_CLO-02;microsoft excel;excel;71.3
+M0033;Fathur Wijaya;ITS;ITS_MRP265_CLO1_349;perencanaan agregat;aggregate planning;81.6
+M0033;Fathur Wijaya;Jakarta;DT_CLO-03;konsep dasar sistem informasi;information systems;81.6
+M0033;Fathur Wijaya;ITS;ITS_PST697_CLO1_311;tatakelola ti;it governance;80.9
+M0033;Fathur Wijaya;Jakarta;JK_CLO-03-2;jaringan komputer;networking;80.8
+M0033;Fathur Wijaya;Surabaya;JK_CLO-03-2;cisco;cisco networking;80.8
+M0033;Fathur Wijaya;Surabaya;SE_CLO-01-2;sap;sap;80.6
+M0033;Fathur Wijaya;Jakarta;KSI_CLO-01-2;otorisasi;otorisasi;79.8
+M0033;Fathur Wijaya;Jakarta;SI_CLO-03;statistika/probabilitas;statistics;79.2
+M0033;Fathur Wijaya;Jakarta;JK_CLO-01-2;osi layer;osi model;75.9
+M0033;Fathur Wijaya;Jakarta;PAW_CLO-04-1;php;php;73.0
+M0033;Fathur Wijaya;ITS;ITS_SBD331_CLO1;pengembangan sistem basis data;database development;72.9
+M0033;Fathur Wijaya;ITS;ITS_ADDD245_CLO1_338;machine learning;machine learning;72.5
+M0033;Fathur Wijaya;Surabaya;APB_CLO-01-1;json;json;70.9
+M0033;Fathur Wijaya;Jakarta;PAW_CLO-01-2;rest api;rest api;70.2
+M0033;Fathur Wijaya;Surabaya;PAW_CLO-01-2;css;css;70.2
+M0033;Fathur Wijaya;Surabaya;PI_CLO-04;usability testing;usability testing;67.8
+M0033;Fathur Wijaya;Surabaya;APB_CLO-03-1;basis data / database;database;67.7
+M0033;Fathur Wijaya;Jakarta;SO_CLO-03-2;tcp/ip;tcp/ip;66.1
+M0033;Fathur Wijaya;Surabaya;SO_CLO-03-2;linux;linux;66.1
+M0033;Fathur Wijaya;ITS;ITS_SE608_CLO1;sistem enterprise;enterprise systems;65.7
+M0033;Fathur Wijaya;Jakarta;PD_CLO-03;data mining;data mining;64.2
+M0033;Fathur Wijaya;ITS;ITS_KL369_CLO1_388;algoritma;algorithms;63.7
+M0033;Fathur Wijaya;Surabaya;DT_CLO-02;prototyping;prototyping;60.0
+M0033;Fathur Wijaya;ITS;ITS_ADDD245_CLO1_331;analysis;analysis;58.9
+M0033;Fathur Wijaya;ITS;ITS_PD115_CLO5_273;java;java;57.2
+M0033;Fathur Wijaya;Jakarta;IAE2_CLO-01-1;graphql;graphql;52.4
+M0034;Febri Anggraini;ITS;ITS_ADDD245_CLO1_335;konsep statistik;statistics;83.7
+M0034;Febri Anggraini;Surabaya;SMHP_CLO-02;klasifikasi;klasifikasi;83.5
+M0034;Febri Anggraini;Jakarta;KSI_CLO-02-2;otorisasi;otorisasi;79.9
+M0034;Febri Anggraini;Surabaya;KSI_CLO-02-2;vulnerability assessment;vulnerability assessment;79.9
+M0034;Febri Anggraini;ITS;ITS_SE608_CLO1;sistem enterprise;enterprise systems;79.3
+M0034;Febri Anggraini;ITS;ITS_PST697_CLO1_313;tatakelola ti;it governance;78.4
+M0034;Febri Anggraini;Jakarta;JK_CLO-01-1;switching;network switching;77.8
+M0034;Febri Anggraini;Surabaya;JK_CLO-01-1;osi layer;osi model;77.8
+M0034;Febri Anggraini;Jakarta;DT_CLO-03;konsep dasar sistem informasi;information systems;76.7
+M0034;Febri Anggraini;Jakarta;TKMTI_CLO-03;cobit;cobit;74.8
+M0034;Febri Anggraini;Jakarta;PPL_CLO-01-2;scrum;scrum;74.4
+M0034;Febri Anggraini;Surabaya;PPL_CLO-01-2;prototyping;prototyping;74.4
+M0034;Febri Anggraini;Surabaya;MRP_CLO-03-2;scm;scm;73.3
+M0034;Febri Anggraini;Surabaya;PU_CLO-03-1;figma;figma;72.8
+M0034;Febri Anggraini;Jakarta;PAW_CLO-03-2;html;html;70.2
+M0034;Febri Anggraini;Surabaya;PPL_CLO-02-2;github;github;70.1
+M0034;Febri Anggraini;Jakarta;AP_CLO-01-2;pseudocode;pseudocode;67.9
+M0034;Febri Anggraini;Surabaya;AP_CLO-01-2;java;java;67.9
+M0034;Febri Anggraini;ITS;ITS_IT052_CLO1_297;perangkat keras komputer;hardware;65.9
+M0034;Febri Anggraini;ITS;ITS_MPB088_CLO1;proses bisnis;business process;65.1
+M0034;Febri Anggraini;Jakarta;PAW_CLO-04-2;basis data / database;database;54.6
+M0035;Febri Handoko;Jakarta;PSI_CLO-03;konsep dasar sistem informasi;information systems;93.5
+M0035;Febri Handoko;ITS;ITS_ADDD245_CLO1_332;analytics;analytics;89.3
+M0035;Febri Handoko;Jakarta;DWBI_CLO-04;etl;etl;85.5
+M0035;Febri Handoko;Jakarta;TKMTI_CLO-03;cobit;cobit;81.3
+M0035;Febri Handoko;ITS;ITS_SBD331_CLO1_375;pemodelan data;data modeling;77.6
+M0035;Febri Handoko;Jakarta;SE_CLO-02-1;erp;erp;77.1
+M0035;Febri Handoko;ITS;ITS_PBA126_CLO1_363;analisis data;data analysis;76.9
+M0035;Febri Handoko;Jakarta;MD_CLO-02;algoritma & pemrograman dasar;algorithm & programming;76.4
+M0035;Febri Handoko;ITS;ITS_SKBM366_CLO5;sistem keputusan berbasis model;decision support systems;75.8
+M0035;Febri Handoko;Surabaya;APB_CLO-03-2;microservices;microservices;75.7
+M0035;Febri Handoko;Jakarta;DT_CLO-02-2;prototyping;prototyping;75.6
+M0035;Febri Handoko;ITS;ITS_LDSD341_CLO1_344;komputasional;computational thinking;75.0
+M0035;Febri Handoko;ITS;ITS_PST697_CLO1_314;audit ti;it audit;74.8
+M0035;Febri Handoko;Jakarta;JK_CLO-01-1;switching;network switching;74.3
+M0035;Febri Handoko;Surabaya;JK_CLO-01-1;osi layer;osi model;74.3
+M0035;Febri Handoko;Surabaya;KA_CLO-03-1;docker;docker;74.1
+M0035;Febri Handoko;Jakarta;SBD_CLO-03-2;basis data / database;database;73.4
+M0035;Febri Handoko;ITS;ITS_PD115_CLO4_271;java;java;70.9
+M0035;Febri Handoko;ITS;ITS_ADDD245_CLO1_333;diagnostic;diagnostic;66.9
+M0035;Febri Handoko;Surabaya;APB_CLO-01-2;xml;xml;66.3
+M0035;Febri Handoko;Surabaya;SI_CLO-07;regresi;regression analysis;62.9
+M0035;Febri Handoko;ITS;ITS_MLTI487_CLO1;manajemen layanan ti;it service management;61.6
+M0035;Febri Handoko;Jakarta;SO_CLO-02-1;linux;linux;58.8
+M0035;Febri Handoko;Surabaya;SO_CLO-02-1;http;http;58.8
+M0035;Febri Handoko;ITS;ITS_PST944_CLO1;tatakelola keamanan informasi;information security;58.5
+M0035;Febri Handoko;Surabaya;MSI_CLO-06-2;klasifikasi;klasifikasi;52.3
+M0035;Febri Handoko;Surabaya;SMHP_CLO-03-1;data mining;data mining;46.5
+M0036;Febri Permana;Jakarta;SO_CLO-01;linux;linux;100.0
+M0036;Febri Permana;Surabaya;PPL_CLO-02-2;github;github;100.0
+M0036;Febri Permana;ITS;ITS_PST697_CLO5;teknologi informasi;information technology;99.8
+M0036;Febri Permana;ITS;ITS_PSK856_CLO1_329;expert systems;expert systems;98.3
+M0036;Febri Permana;Jakarta;PAW_CLO-02-2;html;html;97.8
+M0036;Febri Permana;Surabaya;PAW_CLO-02-2;laravel;laravel;97.8
+M0036;Febri Permana;ITS;ITS_KL369_CLO1_387;optimasi;optimization;97.2
+M0036;Febri Permana;Surabaya;PU_CLO-05;ui/ux design;ui/ux;95.6
+M0036;Febri Permana;ITS;ITS_SE608_CLO1_385;crm;crm;95.5
+M0036;Febri Permana;ITS;ITS_GP966_CLO1_278;algoritma graph;graph algorithms;95.2
+M0036;Febri Permana;ITS;ITS_FD704_CLO1_295;infrastruktur sistem;it infrastructure;93.9
+M0036;Febri Permana;Surabaya;DWBI_CLO-01;business intelligence;business intelligence;93.5
+M0036;Febri Permana;Jakarta;PAW_CLO-02-1;php;php;93.5
+M0036;Febri Permana;Surabaya;MSI_CLO-06-2;klasifikasi;klasifikasi;93.1
+M0036;Febri Permana;ITS;ITS_LDSD341_CLO1;logika;logic;92.0
+M0036;Febri Permana;Jakarta;PS_CLO-02;konsep dasar sistem informasi;information systems;90.8
+M0036;Febri Permana;Jakarta;DT_CLO-02-2;prototyping;prototyping;88.3
+M0036;Febri Permana;ITS;ITS_SITI927_CLO4_306;togaf;togaf;86.3
+M0036;Febri Permana;ITS;ITS_ADDD245_CLO1_333;diagnostic;diagnostic;85.7
+M0036;Febri Permana;Jakarta;KSI_CLO-01-2;otorisasi;otorisasi;83.4
+M0036;Febri Permana;Surabaya;PPL_CLO-04;sprint;sprint;81.8
+M0036;Febri Permana;Jakarta;MRP_CLO-01;scm;scm;79.3
+M0036;Febri Permana;Jakarta;PS2_CLO-01;statistika/probabilitas;statistics;79.2
+M0036;Febri Permana;Jakarta;IAE2_CLO-01-1;graphql;graphql;79.2
+M0036;Febri Permana;Surabaya;SMHP_CLO-03-1;data mining;data mining;77.4
+M0036;Febri Permana;Surabaya;KA_CLO-01-2;agile;agile;74.5
+M0036;Febri Permana;ITS;ITS_SITI927_CLO4;enterprise architecture;enterprise architecture;69.1
+M0037;Galang Aditya Kusuma;ITS;ITS_ODFB259_CLO1_353;contingencies factors;contingency planning;87.2
+M0037;Galang Aditya Kusuma;Surabaya;ATI_CLO-01;konsep dasar sistem informasi;information systems;86.4
+M0037;Galang Aditya Kusuma;Jakarta;AP_CLO-01-1;flowchart;flowchart;86.1
+M0037;Galang Aditya Kusuma;Surabaya;AP_CLO-01-1;python;python;86.1
+M0037;Galang Aditya Kusuma;Jakarta;PAW_CLO-04-1;php;php;85.8
+M0037;Galang Aditya Kusuma;Surabaya;PBO_CLO-02-2;oop;object-oriented programming;80.3
+M0037;Galang Aditya Kusuma;Jakarta;DWBI_CLO-01-2;kpi;kpi;79.7
+M0037;Galang Aditya Kusuma;Jakarta;KSI_CLO-02-2;otorisasi;otorisasi;79.2
+M0037;Galang Aditya Kusuma;Surabaya;KSI_CLO-02-2;vulnerability assessment;vulnerability assessment;79.2
+M0037;Galang Aditya Kusuma;Jakarta;DT_CLO-02-1;design thinking;design thinking;78.7
+M0037;Galang Aditya Kusuma;Jakarta;PAW_CLO-02-2;html;html;78.7
+M0037;Galang Aditya Kusuma;Surabaya;PAW_CLO-02-2;laravel;laravel;78.7
+M0037;Galang Aditya Kusuma;ITS;ITS_PBA126_CLO1;encoding;data encoding;78.5
+M0037;Galang Aditya Kusuma;Jakarta;JK_CLO-01-1;switching;network switching;77.3
+M0037;Galang Aditya Kusuma;Surabaya;JK_CLO-01-1;osi layer;osi model;77.3
+M0037;Galang Aditya Kusuma;Jakarta;SI_CLO-01;statistika/probabilitas;statistics;75.5
+M0037;Galang Aditya Kusuma;ITS;ITS_ETI711_CLO1;teknologi informasi;information technology;74.4
+M0037;Galang Aditya Kusuma;Surabaya;PI_CLO-03;figma;figma;74.1
+M0037;Galang Aditya Kusuma;ITS;ITS_IT052_CLO1_297;perangkat keras komputer;hardware;73.9
+M0037;Galang Aditya Kusuma;Surabaya;PPL_CLO-02-2;github;github;73.7
+M0037;Galang Aditya Kusuma;ITS;ITS_SITI927_CLO4_306;togaf;togaf;72.1
+M0037;Galang Aditya Kusuma;Surabaya;JK_CLO-01-2;jaringan komputer;networking;69.8
+M0037;Galang Aditya Kusuma;ITS;ITS_AB235_CLO1_249;stored procedure;stored procedures;67.2
+M0037;Galang Aditya Kusuma;Jakarta;CDAP_CLO-06;prototyping;prototyping;65.8
+M0037;Galang Aditya Kusuma;Jakarta;PSI_CLO-02;microsoft excel;excel;64.2
+M0038;Galang Mega Fauzi;ITS;ITS_DL830_CLO1_254;data lake;data lake;100.0
+M0038;Galang Mega Fauzi;Surabaya;KPPM_CLO-02;konsep dasar sistem informasi;information systems;100.0
+M0038;Galang Mega Fauzi;Jakarta;PPL_CLO-01-1;agile;agile;100.0
+M0038;Galang Mega Fauzi;ITS;ITS_GP966_CLO1_279;menganalisa data;data analysis;100.0
+M0038;Galang Mega Fauzi;Jakarta;AP_CLO-02;algoritma & pemrograman dasar;algorithm & programming;100.0
+M0038;Galang Mega Fauzi;ITS;ITS_SE608_CLO1_384;integrasi erp;erp;99.4
+M0038;Galang Mega Fauzi;Surabaya;SMHP_CLO-03-1;data mining;data mining;96.3
+M0038;Galang Mega Fauzi;ITS;ITS_MRP265_CLO1_350;manajemen permintaan;demand management;94.2
+M0038;Galang Mega Fauzi;ITS;ITS_DDMJK126_CLO3_260;ipv6;ipv6;91.7
+M0038;Galang Mega Fauzi;ITS;ITS_SITI927_CLO1;teknologi informasi;information technology;91.2
+M0038;Galang Mega Fauzi;Surabaya;APSI_CLO-03-2;use case diagram;use case diagram;90.7
+M0038;Galang Mega Fauzi;Jakarta;PSC_CLO-02;machine learning;machine learning;89.4
+M0038;Galang Mega Fauzi;Jakarta;IAE2_CLO-01-2;api;api;87.8
+M0038;Galang Mega Fauzi;Surabaya;IAE2_CLO-01-2;rest api;rest api;87.8
+M0038;Galang Mega Fauzi;Jakarta;KSI_CLO-02-2;otorisasi;otorisasi;86.4
+M0038;Galang Mega Fauzi;Surabaya;KSI_CLO-02-2;vulnerability assessment;vulnerability assessment;86.4
+M0038;Galang Mega Fauzi;ITS;ITS_PSK856_CLO1_322;soft computing;soft computing;85.5
+M0038;Galang Mega Fauzi;ITS;ITS_GP966_CLO1;knowledge graph;knowledge graph;84.3
+M0038;Galang Mega Fauzi;Jakarta;SO_CLO-03-1;linux;linux;83.6
+M0038;Galang Mega Fauzi;Surabaya;SO_CLO-03-1;http;http;83.6
+M0038;Galang Mega Fauzi;Surabaya;MRP_CLO-02;scm;scm;83.3
+M0038;Galang Mega Fauzi;ITS;ITS_SKBM366_CLO3;validasi model simulasi sistem dinamika;system dynamics simulation;83.0
+M0038;Galang Mega Fauzi;ITS;ITS_ODFB259_CLO1_352;design parameter;design parameter;82.9
+M0038;Galang Mega Fauzi;Jakarta;PPL_CLO-01-2;scrum;scrum;82.6
+M0038;Galang Mega Fauzi;Surabaya;PPL_CLO-01-2;prototyping;prototyping;82.6
+M0038;Galang Mega Fauzi;Jakarta;SO_CLO-03-2;tcp/ip;tcp/ip;82.5
+M0038;Galang Mega Fauzi;ITS;ITS_ADDD245_CLO1;data science;data science;81.2
+M0038;Galang Mega Fauzi;Surabaya;PU_CLO-03-1;figma;figma;79.5
+M0038;Galang Mega Fauzi;Surabaya;PPL_CLO-03-1;git;git;78.3
+M0038;Galang Mega Fauzi;ITS;ITS_SBD331_CLO1_376;basis data logikal;database design;77.8
+M0039;Gita Anggraini;Jakarta;PSC_CLO-04-2;algoritma & pemrograman dasar;algorithm & programming;90.2
+M0039;Gita Anggraini;Surabaya;PD_CLO-01-2;clustering;clustering;86.7
+M0039;Gita Anggraini;Jakarta;DWBI_CLO-02-2;cloud computing;cloud computing;85.3
+M0039;Gita Anggraini;Surabaya;DWBI_CLO-02-2;data warehouse;data warehousing;85.3
+M0039;Gita Anggraini;ITS;ITS_AB235_CLO1_251;perbaikan masalah;troubleshooting;85.0
+M0039;Gita Anggraini;ITS;ITS_MHP365_CLO5_346;strategi bisnis;business strategy;84.5
+M0039;Gita Anggraini;Jakarta;KSI_CLO-02-1;kriptografi;cryptography;83.5
+M0039;Gita Anggraini;Jakarta;SBD_CLO-02-2;mysql;mysql;83.4
+M0039;Gita Anggraini;Jakarta;RPB_CLO-04;konsep dasar sistem informasi;information systems;82.3
+M0039;Gita Anggraini;Surabaya;PU_CLO-01-2;ui/ux design;ui/ux;80.5
+M0039;Gita Anggraini;ITS;ITS_PD115_CLO4;pemrograman;programming;80.5
+M0039;Gita Anggraini;Jakarta;IAE2_CLO-01-2;api;api;79.4
+M0039;Gita Anggraini;Surabaya;IAE2_CLO-01-2;rest api;rest api;79.4
+M0039;Gita Anggraini;Surabaya;PD_CLO-02;data mining;data mining;79.3
+M0039;Gita Anggraini;ITS;ITS_SKBM366_CLO1_392;model;model;78.1
+M0039;Gita Anggraini;Jakarta;SO_CLO-02-2;tcp/ip;tcp/ip;77.4
+M0039;Gita Anggraini;Surabaya;SO_CLO-02-2;linux;linux;77.4
+M0039;Gita Anggraini;Surabaya;SO_CLO-02-1;http;http;76.5
+M0039;Gita Anggraini;ITS;ITS_IT052_CLO1_297;perangkat keras komputer;hardware;75.3
+M0039;Gita Anggraini;ITS;ITS_ODFB259_CLO1_355;desain organisasi;organization design;74.5
+M0039;Gita Anggraini;Jakarta;SI_CLO-01;statistika/probabilitas;statistics;73.4
+M0039;Gita Anggraini;ITS;ITS_DDMJK126_CLO3_260;ipv6;ipv6;72.8
+M0039;Gita Anggraini;ITS;ITS_ADSD677_CLO1_290;struktur data;data structures;69.6
+M0039;Gita Anggraini;ITS;ITS_SBD331_CLO1_379;manipulasi data relasional;sql;68.5
+M0039;Gita Anggraini;ITS;ITS_ADDD245_CLO1_333;diagnostic;diagnostic;68.4
+M0040;Hafiz Ananda Syahputra;ITS;ITS_SBD331_CLO1_377;model;model;92.9
+M0040;Hafiz Ananda Syahputra;Jakarta;TKMTI_CLO-01;cobit;cobit;85.5
+M0040;Hafiz Ananda Syahputra;Jakarta;PAW_CLO-02-2;html;html;80.4
+M0040;Hafiz Ananda Syahputra;Surabaya;PAW_CLO-02-2;laravel;laravel;80.4
+M0040;Hafiz Ananda Syahputra;ITS;ITS_SITI927_CLO4_306;togaf;togaf;80.0
+M0040;Hafiz Ananda Syahputra;ITS;ITS_MPB088_CLO1;proses bisnis;business process;76.9
+M0040;Hafiz Ananda Syahputra;Surabaya;PEKC_CLO-03;konsep dasar sistem informasi;information systems;75.7
+M0040;Hafiz Ananda Syahputra;Surabaya;PPL_CLO-04;sprint;sprint;74.0
+M0040;Hafiz Ananda Syahputra;Jakarta;AP_CLO-01-2;pseudocode;pseudocode;71.9
+M0040;Hafiz Ananda Syahputra;Surabaya;AP_CLO-01-2;java;java;71.9
+M0040;Hafiz Ananda Syahputra;Jakarta;PS2_CLO-01;statistika/probabilitas;statistics;71.5
+M0040;Hafiz Ananda Syahputra;ITS;ITS_ETI711_CLO1;teknologi informasi;information technology;71.0
+M0040;Hafiz Ananda Syahputra;ITS;ITS_MRP265_CLO1;manajemen rantai pasok;supply chain management;70.8
+M0040;Hafiz Ananda Syahputra;Jakarta;KSI_CLO-02-2;otorisasi;otorisasi;69.5
+M0040;Hafiz Ananda Syahputra;Surabaya;KSI_CLO-02-2;vulnerability assessment;vulnerability assessment;69.5
+M0040;Hafiz Ananda Syahputra;ITS;ITS_LDSD341_CLO1_342;matematika;mathematics;69.2
+M0040;Hafiz Ananda Syahputra;ITS;ITS_PDAP829_CLO1;optimasi kombinatorik;combinatorial optimization;68.9
+M0040;Hafiz Ananda Syahputra;Surabaya;MPPKI_CLO-02;klasifikasi;klasifikasi;68.8
+M0040;Hafiz Ananda Syahputra;ITS;ITS_ODFB259_CLO1_355;desain organisasi;organization design;65.5
+M0040;Hafiz Ananda Syahputra;ITS;ITS_TML142_CLO1;machine learning;machine learning;61.3
+M0040;Hafiz Ananda Syahputra;Jakarta;SBD_CLO-01-2;basis data / database;database;58.6
+M0040;Hafiz Ananda Syahputra;ITS;ITS_ADDD245_CLO1;data science;data science;53.9
+M0040;Hafiz Ananda Syahputra;Jakarta;CDAP_CLO-04;prototyping;prototyping;51.0
+M0041;Hamzah Fikri Handoko;Surabaya;MSI_CLO-06-2;klasifikasi;klasifikasi;94.0
+M0041;Hamzah Fikri Handoko;Jakarta;PAW_CLO-01-2;rest api;rest api;92.6
+M0041;Hamzah Fikri Handoko;Surabaya;PAW_CLO-01-2;css;css;92.6
+M0041;Hamzah Fikri Handoko;Jakarta;AP_CLO-01-1;flowchart;flowchart;92.3
+M0041;Hamzah Fikri Handoko;Surabaya;AP_CLO-01-1;python;python;92.3
+M0041;Hamzah Fikri Handoko;ITS;ITS_PSK856_CLO1_329;expert systems;expert systems;91.4
+M0041;Hamzah Fikri Handoko;Jakarta;PD_CLO-03;data mining;data mining;90.4
+M0041;Hamzah Fikri Handoko;ITS;ITS_PSK856_CLO1_324;ai;artificial intelligence;89.7
+M0041;Hamzah Fikri Handoko;Surabaya;PU_CLO-02;konsep dasar sistem informasi;information systems;89.0
+M0041;Hamzah Fikri Handoko;ITS;ITS_PST944_CLO1;tatakelola keamanan informasi;information security;87.9
+M0041;Hamzah Fikri Handoko;ITS;ITS_PST944_CLO1_319;cobit;cobit;86.0
+M0041;Hamzah Fikri Handoko;ITS;ITS_PBA126_CLO1;encoding;data encoding;85.9
+M0041;Hamzah Fikri Handoko;Jakarta;JK_CLO-03-1;routing;routing;85.2
+M0041;Hamzah Fikri Handoko;Surabaya;JK_CLO-03-1;jaringan komputer;networking;85.2
+M0041;Hamzah Fikri Handoko;ITS;ITS_RO516_CLO1_370;pemrograman integer;integer programming;83.9
+M0041;Hamzah Fikri Handoko;Jakarta;SBD_CLO-01-1;erd;erd;82.8
+M0041;Hamzah Fikri Handoko;Jakarta;PPL_CLO-05-2;scm;scm;80.9
+M0041;Hamzah Fikri Handoko;ITS;ITS_DL830_CLO1;data warehouse;data warehousing;80.0
+M0041;Hamzah Fikri Handoko;ITS;ITS_DPP410_CLO1;metodologi;metodologi;80.0
+M0041;Hamzah Fikri Handoko;Surabaya;APB_CLO-01-2;xml;xml;79.7
+M0041;Hamzah Fikri Handoko;ITS;ITS_SKBM366_CLO5;sistem keputusan berbasis model;decision support systems;77.7
+M0041;Hamzah Fikri Handoko;Jakarta;JK_CLO-01-2;osi layer;osi model;77.7
+M0041;Hamzah Fikri Handoko;Surabaya;PPL_CLO-03-2;github;github;77.0
+M0041;Hamzah Fikri Handoko;Jakarta;JK_CLO-02-2;switching;network switching;76.0
+M0041;Hamzah Fikri Handoko;Surabaya;SE_CLO-02;erp;erp;76.0
+M0041;Hamzah Fikri Handoko;ITS;ITS_ADDD245_CLO1_332;analytics;analytics;74.2
+M0041;Hamzah Fikri Handoko;Jakarta;SBD_CLO-02-1;sql;sql;72.6
+M0041;Hamzah Fikri Handoko;ITS;ITS_PSK856_CLO1_322;soft computing;soft computing;72.0
+M0041;Hamzah Fikri Handoko;ITS;ITS_FD704_CLO1_294;pengembangan keamanan data;data security;71.1
+M0041;Hamzah Fikri Handoko;Jakarta;SO_CLO-03-1;linux;linux;68.6
+M0041;Hamzah Fikri Handoko;Surabaya;SO_CLO-03-1;http;http;68.6
+M0042;Hardi Cahya Subagja;Jakarta;SIA_CLO-03;erp;erp;88.2
+M0042;Hardi Cahya Subagja;ITS;ITS_PD115_CLO1_267;java;java;83.1
+M0042;Hardi Cahya Subagja;Jakarta;DT_CLO-02-2;prototyping;prototyping;78.0
+M0042;Hardi Cahya Subagja;Surabaya;BI_CLO-02;konsep dasar sistem informasi;information systems;76.5
+M0042;Hardi Cahya Subagja;ITS;ITS_PDAP113_CLO1_365;data scientist;data science;74.9
+M0042;Hardi Cahya Subagja;ITS;ITS_PST697_CLO5;teknologi informasi;information technology;74.9
+M0042;Hardi Cahya Subagja;Surabaya;APB_CLO-02-1;basis data / database;database;72.7
+M0042;Hardi Cahya Subagja;Jakarta;SBD_CLO-01-1;erd;erd;72.4
+M0042;Hardi Cahya Subagja;ITS;ITS_SE608_CLO1_383;pemrograman open source;open source software;72.0
+M0042;Hardi Cahya Subagja;ITS;ITS_SITI927_CLO1_303;transformasi digital;digital transformation;71.5
+M0042;Hardi Cahya Subagja;ITS;ITS_DDMJK126_CLO1;jaringan komputer;networking;70.8
+M0042;Hardi Cahya Subagja;Jakarta;SBD_CLO-02-1;sql;sql;69.8
+M0042;Hardi Cahya Subagja;ITS;ITS_ADDD245_CLO1_338;machine learning;machine learning;69.7
+M0042;Hardi Cahya Subagja;ITS;ITS_IT052_CLO1_297;perangkat keras komputer;hardware;69.3
+M0042;Hardi Cahya Subagja;ITS;ITS_ADDD245_CLO1_333;diagnostic;diagnostic;68.9
+M0042;Hardi Cahya Subagja;Jakarta;KSI_CLO-03-1;kriptografi;cryptography;68.0
+M0042;Hardi Cahya Subagja;Surabaya;SMHP_CLO-03-1;data mining;data mining;67.1
+M0042;Hardi Cahya Subagja;ITS;ITS_PSDO774_CLO4;devops;devops;63.5
+M0042;Hardi Cahya Subagja;Jakarta;JK_CLO-01-2;osi layer;osi model;63.0
+M0042;Hardi Cahya Subagja;Surabaya;SI_CLO-07;regresi;regression analysis;62.8
+M0042;Hardi Cahya Subagja;ITS;ITS_PSK856_CLO1_324;ai;artificial intelligence;59.5
+M0042;Hardi Cahya Subagja;Jakarta;PSI_CLO-02;microsoft excel;excel;58.2
+M0042;Hardi Cahya Subagja;Jakarta;MRP_CLO-01;scm;scm;52.8
+M0042;Hardi Cahya Subagja;Surabaya;APB_CLO-03-2;microservices;microservices;51.5
+M0042;Hardi Cahya Subagja;ITS;ITS_ODFB259_CLO1;sistem fluss;flow systems;47.9
+M0043;Heru Hidayat Ramadhan;Jakarta;IAE2_CLO-02-2;php;php;90.1
+M0043;Heru Hidayat Ramadhan;Jakarta;PD_CLO-03;data mining;data mining;89.8
+M0043;Heru Hidayat Ramadhan;ITS;ITS_ADSD677_CLO1_288;desain;desain;88.1
+M0043;Heru Hidayat Ramadhan;Jakarta;MSDM_CLO-05;konsep dasar sistem informasi;information systems;87.7
+M0043;Heru Hidayat Ramadhan;Jakarta;SBD_CLO-03-2;basis data / database;database;83.2
+M0043;Heru Hidayat Ramadhan;ITS;ITS_PD115_CLO1_267;java;java;77.9
+M0043;Heru Hidayat Ramadhan;ITS;ITS_GP966_CLO1_280;algoritma graph;graph algorithms;77.5
+M0043;Heru Hidayat Ramadhan;Surabaya;APB_CLO-03-2;microservices;microservices;76.6
+M0043;Heru Hidayat Ramadhan;ITS;ITS_ADDD245_CLO1_337;analisis kecerdasan mesin;machine learning;73.3
+M0043;Heru Hidayat Ramadhan;ITS;ITS_GP966_CLO1_277;pemodelan data;data modeling;72.1
+M0043;Heru Hidayat Ramadhan;ITS;ITS_SKBM366_CLO3;validasi model simulasi sistem dinamika;system dynamics simulation;71.2
+M0043;Heru Hidayat Ramadhan;Jakarta;KSI_CLO-01-1;kriptografi;cryptography;66.1
+M0043;Heru Hidayat Ramadhan;ITS;ITS_SE608_CLO1_382;perangkat;hardware;66.0
+M0043;Heru Hidayat Ramadhan;Surabaya;MRP_CLO-03-1;erp;erp;64.7
+M0044;Hidayat Batubara;ITS;ITS_SE608_CLO1;sistem enterprise;enterprise systems;94.5
+M0044;Hidayat Batubara;Jakarta;DT_CLO-01;konsep dasar sistem informasi;information systems;93.1
+M0044;Hidayat Batubara;Jakarta;PSC_CLO-03-2;klasifikasi;klasifikasi;92.5
+M0044;Hidayat Batubara;Jakarta;SBD_CLO-02-2;mysql;mysql;91.2
+M0044;Hidayat Batubara;Jakarta;SI_CLO-01;statistika/probabilitas;statistics;91.1
+M0044;Hidayat Batubara;Surabaya;MDE_CLO-03;business intelligence;business intelligence;87.0
+M0044;Hidayat Batubara;ITS;ITS_DDMJK126_CLO4_262;perangkat jaringan;networking;86.9
+M0044;Hidayat Batubara;Jakarta;KSI_CLO-04;vulnerability assessment;vulnerability assessment;86.7
+M0044;Hidayat Batubara;ITS;ITS_SBD331_CLO1_375;pemodelan data;data modeling;85.5
+M0044;Hidayat Batubara;ITS;ITS_SE608_CLO1_382;perangkat;hardware;84.8
+M0044;Hidayat Batubara;Jakarta;PSC_CLO-03-1;neural network;neural networks;83.5
+M0044;Hidayat Batubara;ITS;ITS_PDAP113_CLO1_365;data scientist;data science;81.5
+M0044;Hidayat Batubara;Jakarta;PSI_CLO-04-1;basis data / database;database;81.0
+M0044;Hidayat Batubara;Jakarta;PD_CLO-04-1;python;python;80.7
+M0044;Hidayat Batubara;ITS;ITS_PAI936_CLO1;keamanan informasi;information security;79.9
+M0044;Hidayat Batubara;ITS;ITS_SKBM366_CLO4;analisis sensitivitas;sensitivity analysis;79.5
+M0044;Hidayat Batubara;Jakarta;PD_CLO-02-1;data mining;data mining;78.2
+M0044;Hidayat Batubara;ITS;ITS_PSDO774_CLO1;devops;devops;77.0
+M0044;Hidayat Batubara;Jakarta;PAW_CLO-02-2;html;html;76.4
+M0044;Hidayat Batubara;Surabaya;PAW_CLO-02-2;laravel;laravel;76.4
+M0044;Hidayat Batubara;ITS;ITS_FD704_CLO1_295;infrastruktur sistem;it infrastructure;75.0
+M0044;Hidayat Batubara;Jakarta;CDAP_CLO-04;prototyping;prototyping;73.6
+M0044;Hidayat Batubara;Surabaya;APB_CLO-01-1;json;json;73.0
+M0044;Hidayat Batubara;Jakarta;KSI_CLO-03-1;kriptografi;cryptography;70.2
+M0044;Hidayat Batubara;Surabaya;PD_CLO-01-2;clustering;clustering;69.2
+M0044;Hidayat Batubara;Jakarta;SO_CLO-01;linux;linux;67.1
+M0044;Hidayat Batubara;ITS;ITS_SBD331_CLO1_372;desain basis data;database design;66.6
+M0044;Hidayat Batubara;Jakarta;PSI_CLO-04-2;cloud computing;cloud computing;62.1
+M0044;Hidayat Batubara;Jakarta;IAE2_CLO-01-2;api;api;59.3
+M0044;Hidayat Batubara;Surabaya;IAE2_CLO-01-2;rest api;rest api;59.3
+M0045;Ilham Pambudi;Jakarta;MSDM_CLO-04;konsep dasar sistem informasi;information systems;100.0
+M0045;Ilham Pambudi;Jakarta;AP_CLO-01-2;pseudocode;pseudocode;96.8
+M0045;Ilham Pambudi;Surabaya;AP_CLO-01-2;java;java;96.8
+M0045;Ilham Pambudi;ITS;ITS_PST944_CLO1;tatakelola keamanan informasi;information security;92.5
+M0045;Ilham Pambudi;ITS;ITS_SBD331_CLO1_376;basis data logikal;database design;92.5
+M0045;Ilham Pambudi;Jakarta;SBD_CLO-02-2;mysql;mysql;89.9
+M0045;Ilham Pambudi;ITS;ITS_IT052_CLO1_298;perangkat lunak;software engineering;87.1
+M0045;Ilham Pambudi;ITS;ITS_ADDD245_CLO1_331;analysis;analysis;85.8
+M0045;Ilham Pambudi;Surabaya;DWBI_CLO-04-1;data warehouse;data warehousing;85.7
+M0045;Ilham Pambudi;Jakarta;SBD_CLO-01-2;basis data / database;database;85.3
+M0045;Ilham Pambudi;Jakarta;CDAP_CLO-04;prototyping;prototyping;85.0
+M0045;Ilham Pambudi;Surabaya;PPL_CLO-03-2;github;github;84.4
+M0045;Ilham Pambudi;ITS;ITS_PD115_CLO5;program;programming;82.9
+M0045;Ilham Pambudi;Jakarta;SO_CLO-03-2;tcp/ip;tcp/ip;82.5
+M0045;Ilham Pambudi;Surabaya;SO_CLO-03-2;linux;linux;82.5
+M0045;Ilham Pambudi;ITS;ITS_GP966_CLO1_278;algoritma graph;graph algorithms;80.3
+M0045;Ilham Pambudi;Jakarta;PPL_CLO-05-1;git;git;76.3
+M0045;Ilham Pambudi;Jakarta;PSC_CLO-04-2;algoritma & pemrograman dasar;algorithm & programming;75.7
+M0045;Ilham Pambudi;Surabaya;KA_CLO-01-2;agile;agile;70.1
+M0046;Ilham Pandu Hidayat;ITS;ITS_ODFB259_CLO1_355;desain organisasi;organization design;70.9
+M0046;Ilham Pandu Hidayat;ITS;ITS_ADDD245_CLO1_333;diagnostic;diagnostic;69.6
+M0046;Ilham Pandu Hidayat;ITS;ITS_IT052_CLO1;sistem komputer;computer systems;66.5
+M0046;Ilham Pandu Hidayat;ITS;ITS_ADSD677_CLO1_288;desain;desain;65.2
+M0046;Ilham Pandu Hidayat;Surabaya;PD_CLO-01-2;clustering;clustering;64.8
+M0046;Ilham Pandu Hidayat;Jakarta;MD_CLO-02;algoritma & pemrograman dasar;algorithm & programming;64.6
+M0046;Ilham Pandu Hidayat;ITS;ITS_ETI711_CLO1;teknologi informasi;information technology;64.5
+M0046;Ilham Pandu Hidayat;Surabaya;JK_CLO-02;jaringan komputer;networking;64.0
+M0046;Ilham Pandu Hidayat;ITS;ITS_MLTI487_CLO1;manajemen layanan ti;it service management;63.2
+M0046;Ilham Pandu Hidayat;ITS;ITS_RKPL832_CLO1_368;memvalidasi;data validation;62.2
+M0046;Ilham Pandu Hidayat;Jakarta;PAW_CLO-04-1;php;php;60.3
+M0046;Ilham Pandu Hidayat;ITS;ITS_DDMJK126_CLO4;routing;routing;59.1
+M0046;Ilham Pandu Hidayat;Surabaya;SMHP_CLO-03-1;data mining;data mining;56.9
+M0046;Ilham Pandu Hidayat;Surabaya;PBO_CLO-02-1;java;java;56.7
+M0046;Ilham Pandu Hidayat;Surabaya;PEKC_CLO-03;konsep dasar sistem informasi;information systems;56.4
+M0046;Ilham Pandu Hidayat;Surabaya;MDE_CLO-01;statistika/probabilitas;statistics;55.8
+M0046;Ilham Pandu Hidayat;ITS;ITS_GP966_CLO1_280;algoritma graph;graph algorithms;53.7
+M0046;Ilham Pandu Hidayat;Jakarta;SE_CLO-02-1;erp;erp;52.8
+M0046;Ilham Pandu Hidayat;ITS;ITS_SBD331_CLO1_376;basis data logikal;database design;46.0
+M0047;Ilham Subagja;Jakarta;MSDM_CLO-03;konsep dasar sistem informasi;information systems;93.3
+M0047;Ilham Subagja;ITS;ITS_SBD331_CLO1_375;pemodelan data;data modeling;92.8
+M0047;Ilham Subagja;Jakarta;PAW_CLO-02-1;php;php;90.4
+M0047;Ilham Subagja;Jakarta;PBO_CLO-03-1;uml;uml;88.9
+M0047;Ilham Subagja;Jakarta;KSI_CLO-02-1;kriptografi;cryptography;84.6
+M0047;Ilham Subagja;ITS;ITS_ADDD245_CLO1_331;analysis;analysis;83.3
+M0047;Ilham Subagja;Surabaya;APB_CLO-03-2;microservices;microservices;83.2
+M0047;Ilham Subagja;ITS;ITS_PDSUT279_CLO1;pengumpulan data;data collection;80.4
+M0047;Ilham Subagja;Surabaya;PBO_CLO-02-2;oop;object-oriented programming;78.5
+M0047;Ilham Subagja;Jakarta;AP_CLO-01-1;flowchart;flowchart;73.6
+M0047;Ilham Subagja;Surabaya;AP_CLO-01-1;python;python;73.6
+M0047;Ilham Subagja;ITS;ITS_LDSD341_CLO1_344;komputasional;computational thinking;68.4
+M0047;Ilham Subagja;Jakarta;PAW_CLO-01-2;rest api;rest api;66.5
+M0047;Ilham Subagja;Surabaya;PAW_CLO-01-2;css;css;66.5
+M0047;Ilham Subagja;ITS;ITS_AB235_CLO1_251;perbaikan masalah;troubleshooting;64.3
+M0047;Ilham Subagja;Jakarta;SI_CLO-01;statistika/probabilitas;statistics;63.4
+M0048;Irfan Satria Anggraini;Surabaya;PD_CLO-01-1;data mining;data mining;84.8
+M0048;Irfan Satria Anggraini;Jakarta;SO_CLO-03-2;tcp/ip;tcp/ip;81.1
+M0048;Irfan Satria Anggraini;Surabaya;SO_CLO-03-2;linux;linux;81.1
+M0048;Irfan Satria Anggraini;ITS;ITS_MPB088_CLO1;proses bisnis;business process;81.1
+M0048;Irfan Satria Anggraini;Surabaya;PI_CLO-03;figma;figma;79.9
+M0048;Irfan Satria Anggraini;Surabaya;MRP_CLO-03-2;scm;scm;79.0
+M0048;Irfan Satria Anggraini;ITS;ITS_DL830_CLO1_254;data lake;data lake;78.7
+M0048;Irfan Satria Anggraini;ITS;ITS_ADSD677_CLO1_289;algoritma;algorithms;77.4
+M0048;Irfan Satria Anggraini;Surabaya;PPL_CLO-02-1;git;git;75.7
+M0048;Irfan Satria Anggraini;ITS;ITS_SBD331_CLO1_374;mendesain basis data konseptual;database design;75.4
+M0048;Irfan Satria Anggraini;Surabaya;PEKC_CLO-04;konsep dasar sistem informasi;information systems;74.9
+M0048;Irfan Satria Anggraini;ITS;ITS_SBD331_CLO1_375;pemodelan data;data modeling;74.3
+M0048;Irfan Satria Anggraini;Jakarta;SO_CLO-04;firewall;firewall;73.6
+M0048;Irfan Satria Anggraini;Jakarta;PD_CLO-04-1;python;python;72.7
+M0048;Irfan Satria Anggraini;ITS;ITS_PSDO774_CLO4_284;agile;agile;70.8
+M0048;Irfan Satria Anggraini;Jakarta;KSI_CLO-04;vulnerability assessment;vulnerability assessment;70.0
+M0048;Irfan Satria Anggraini;ITS;ITS_SE608_CLO1_384;integrasi erp;erp;67.8
+M0048;Irfan Satria Anggraini;Jakarta;PAW_CLO-03-1;php;php;65.8
+M0048;Irfan Satria Anggraini;Jakarta;PPL_CLO-01-2;scrum;scrum;63.0
+M0048;Irfan Satria Anggraini;Surabaya;PPL_CLO-01-2;prototyping;prototyping;63.0
+M0048;Irfan Satria Anggraini;ITS;ITS_PSK856_CLO1_322;soft computing;soft computing;62.2
+M0048;Irfan Satria Anggraini;ITS;ITS_PST697_CLO1;sistem pengendalian internal;internal control systems;62.2
+M0048;Irfan Satria Anggraini;Surabaya;PD_CLO-01-2;clustering;clustering;59.4
+M0048;Irfan Satria Anggraini;ITS;ITS_GP966_CLO1;knowledge graph;knowledge graph;58.1
+M0048;Irfan Satria Anggraini;ITS;ITS_MHP365_CLO5_346;strategi bisnis;business strategy;55.4
+M0049;Kartika Kurniawan;ITS;ITS_ADDD245_CLO1;data science;data science;100.0
+M0049;Kartika Kurniawan;Jakarta;PSC_CLO-05;konsep dasar sistem informasi;information systems;98.0
+M0049;Kartika Kurniawan;ITS;ITS_SE608_CLO1_382;perangkat;hardware;97.8
+M0049;Kartika Kurniawan;Surabaya;KA_CLO-03-2;github;github;97.4
+M0049;Kartika Kurniawan;Jakarta;TKMTI_CLO-01;cobit;cobit;96.4
+M0049;Kartika Kurniawan;Surabaya;MSI_CLO-06-2;klasifikasi;klasifikasi;93.9
+M0049;Kartika Kurniawan;ITS;ITS_KL369_CLO1_388;algoritma;algorithms;92.6
+M0049;Kartika Kurniawan;Jakarta;PD_CLO-04-1;python;python;88.4
+M0049;Kartika Kurniawan;ITS;ITS_PSK856_CLO1_327;cognitive computing;cognitive computing;88.1
+M0049;Kartika Kurniawan;Surabaya;MSI_CLO-06-1;machine learning;machine learning;87.6
+M0049;Kartika Kurniawan;ITS;ITS_LDSD341_CLO1_343;struktur diskrit;discrete mathematics;87.2
+M0049;Kartika Kurniawan;ITS;ITS_PSDO774_CLO4;devops;devops;87.1
+M0049;Kartika Kurniawan;Jakarta;AP_CLO-02;algoritma & pemrograman dasar;algorithm & programming;85.8
+M0049;Kartika Kurniawan;ITS;ITS_LDSD341_CLO1_342;matematika;mathematics;85.5
+M0049;Kartika Kurniawan;Jakarta;JK_CLO-03-1;routing;routing;84.0
+M0049;Kartika Kurniawan;Surabaya;JK_CLO-03-1;jaringan komputer;networking;84.0
+M0049;Kartika Kurniawan;ITS;ITS_AB235_CLO1;administrasi basis data;database administration;83.0
+M0049;Kartika Kurniawan;Surabaya;SE_CLO-01-1;erp;erp;82.4
+M0049;Kartika Kurniawan;Jakarta;PSI_CLO-02;microsoft excel;excel;81.9
+M0049;Kartika Kurniawan;Jakarta;SBD_CLO-02-1;sql;sql;81.8
+M0049;Kartika Kurniawan;Jakarta;SO_CLO-03-1;linux;linux;81.5
+M0049;Kartika Kurniawan;Surabaya;SO_CLO-03-1;http;http;81.5
+M0049;Kartika Kurniawan;ITS;ITS_MHP365_CLO5;crm;crm;80.7
+M0049;Kartika Kurniawan;Jakarta;KSI_CLO-03-2;vulnerability assessment;vulnerability assessment;80.5
+M0049;Kartika Kurniawan;Jakarta;PD_CLO-04-2;data mining;data mining;79.3
+M0049;Kartika Kurniawan;Surabaya;PI_CLO-04;usability testing;usability testing;78.0
+M0049;Kartika Kurniawan;Jakarta;AP_CLO-01-2;pseudocode;pseudocode;76.8
+M0049;Kartika Kurniawan;Surabaya;AP_CLO-01-2;java;java;76.8
+M0049;Kartika Kurniawan;Jakarta;PAW_CLO-02-2;html;html;76.2
+M0049;Kartika Kurniawan;Surabaya;PAW_CLO-02-2;laravel;laravel;76.2
+M0049;Kartika Kurniawan;Jakarta;SO_CLO-03-2;tcp/ip;tcp/ip;73.0
+M0050;Kharisma Aji Kusuma;Jakarta;PPB_CLO-04;konsep dasar sistem informasi;information systems;87.1
+M0050;Kharisma Aji Kusuma;Jakarta;SO_CLO-04;firewall;firewall;84.1
+M0050;Kharisma Aji Kusuma;Surabaya;MPPKI_CLO-02;klasifikasi;klasifikasi;79.2
+M0050;Kharisma Aji Kusuma;Surabaya;PBO_CLO-02-2;oop;object-oriented programming;77.5
+M0050;Kharisma Aji Kusuma;Jakarta;KSI_CLO-01-2;otorisasi;otorisasi;77.3
+M0050;Kharisma Aji Kusuma;Jakarta;PD_CLO-04-1;python;python;77.3
+M0050;Kharisma Aji Kusuma;Surabaya;PPL_CLO-02-2;github;github;77.1
+M0050;Kharisma Aji Kusuma;Jakarta;SI_CLO-02;regresi;regression analysis;76.6
+M0050;Kharisma Aji Kusuma;Surabaya;SI_CLO-02;statistika/probabilitas;statistics;76.6
+M0050;Kharisma Aji Kusuma;ITS;ITS_AB235_CLO1;administrasi basis data;database administration;76.1
+M0050;Kharisma Aji Kusuma;Surabaya;KSI_CLO-02-2;vulnerability assessment;vulnerability assessment;74.8
+M0050;Kharisma Aji Kusuma;Jakarta;JK_CLO-01-2;osi layer;osi model;74.8
+M0050;Kharisma Aji Kusuma;Surabaya;JK_CLO-01-2;jaringan komputer;networking;74.8
+M0050;Kharisma Aji Kusuma;ITS;ITS_SBD331_CLO1;pengembangan sistem basis data;database development;73.9
+M0050;Kharisma Aji Kusuma;ITS;ITS_SKBM366_CLO1_393;simulasi;simulation modeling;73.4
+M0050;Kharisma Aji Kusuma;ITS;ITS_DDMJK126_CLO6_265;arsitektur jaringan;network architecture;69.3
+M0050;Kharisma Aji Kusuma;Jakarta;TKMTI_CLO-01;cobit;cobit;66.5
+M0050;Kharisma Aji Kusuma;ITS;ITS_PDAP829_CLO1_357;algoritma heuristik;heuristic algorithms;64.9
+M0050;Kharisma Aji Kusuma;ITS;ITS_SBD331_CLO1_378;query;sql;63.9
+M0050;Kharisma Aji Kusuma;Surabaya;PBO_CLO-02-1;java;java;59.2
+M0050;Kharisma Aji Kusuma;Jakarta;CDAP_CLO-04;prototyping;prototyping;53.3
+M0051;Kharisma Utomo;ITS;ITS_PST697_CLO1_314;audit ti;it audit;93.2
+M0051;Kharisma Utomo;Surabaya;PAB_CLO-01;konsep dasar sistem informasi;information systems;91.1
+M0051;Kharisma Utomo;Jakarta;DWBI_CLO-04;etl;etl;89.0
+M0051;Kharisma Utomo;ITS;ITS_MRP265_CLO1_348;peramalan;forecasting;87.0
+M0051;Kharisma Utomo;Jakarta;SI_CLO-01;statistika/probabilitas;statistics;86.6
+M0051;Kharisma Utomo;ITS;ITS_FD704_CLO1_294;pengembangan keamanan data;data security;80.5
+M0051;Kharisma Utomo;Jakarta;SE_CLO-02-1;erp;erp;79.7
+M0051;Kharisma Utomo;ITS;ITS_SBD331_CLO1_372;desain basis data;database design;79.7
+M0051;Kharisma Utomo;Jakarta;PD_CLO-03;data mining;data mining;78.7
+M0051;Kharisma Utomo;ITS;ITS_PST697_CLO5;teknologi informasi;information technology;78.2
+M0051;Kharisma Utomo;ITS;ITS_SKBM366_CLO5;sistem keputusan berbasis model;decision support systems;78.1
+M0051;Kharisma Utomo;Surabaya;PBO_CLO-01-2;uml;uml;76.0
+M0051;Kharisma Utomo;ITS;ITS_ADSD677_CLO1_290;struktur data;data structures;75.4
+M0051;Kharisma Utomo;ITS;ITS_PSK856_CLO1_323;cognitive problem solver;problem solving;74.0
+M0051;Kharisma Utomo;ITS;ITS_MRP265_CLO1_349;perencanaan agregat;aggregate planning;73.4
+M0051;Kharisma Utomo;Jakarta;PSC_CLO-03-1;neural network;neural networks;73.0
+M0051;Kharisma Utomo;ITS;ITS_SE608_CLO1_382;perangkat;hardware;72.1
+M0051;Kharisma Utomo;ITS;ITS_PD115_CLO5_273;java;java;71.3
+M0051;Kharisma Utomo;Jakarta;PAW_CLO-04-2;basis data / database;database;70.6
+M0051;Kharisma Utomo;Jakarta;IAE2_CLO-01-2;api;api;70.5
+M0051;Kharisma Utomo;Surabaya;IAE2_CLO-01-2;rest api;rest api;70.5
+M0051;Kharisma Utomo;ITS;ITS_FD704_CLO1;infrastruktur;it infrastructure;69.4
+M0051;Kharisma Utomo;ITS;ITS_PSDO774_CLO4_284;agile;agile;68.1
+M0051;Kharisma Utomo;Jakarta;CDAP_CLO-04;prototyping;prototyping;67.7
+M0051;Kharisma Utomo;Jakarta;PBO_CLO-01;oop;object-oriented programming;67.4
+M0051;Kharisma Utomo;Jakarta;AP_CLO-03;algoritma & pemrograman dasar;algorithm & programming;67.4
+M0051;Kharisma Utomo;ITS;ITS_PST944_CLO1_317;manajemen resiko;risk management;65.8
+M0051;Kharisma Utomo;Jakarta;PPL_CLO-05-2;scm;scm;61.0
+M0051;Kharisma Utomo;Surabaya;APSI_CLO-01-2;kanban;kanban;55.2
+M0052;Kurnia Budiman;ITS;ITS_PSK856_CLO1_325;ml;machine learning;92.5
+M0052;Kurnia Budiman;Jakarta;CDAP_CLO-01;konsep dasar sistem informasi;information systems;91.6
+M0052;Kurnia Budiman;ITS;ITS_PSK856_CLO1_326;iot;internet of things;85.5
+M0052;Kurnia Budiman;Surabaya;PU_CLO-05;ui/ux design;ui/ux;83.9
+M0052;Kurnia Budiman;Jakarta;DWBI_CLO-02-2;cloud computing;cloud computing;83.0
+M0052;Kurnia Budiman;Surabaya;DWBI_CLO-02-2;data warehouse;data warehousing;83.0
+M0052;Kurnia Budiman;Jakarta;SBD_CLO-03-2;basis data / database;database;78.3
+M0052;Kurnia Budiman;ITS;ITS_PST944_CLO1_318;manajemen keamanan siber;cybersecurity;76.6
+M0052;Kurnia Budiman;Surabaya;SE_CLO-02;erp;erp;76.2
+M0052;Kurnia Budiman;ITS;ITS_SKBM366_CLO1;konsep sistem;konsep;75.7
+M0052;Kurnia Budiman;Jakarta;JK_CLO-01-1;switching;network switching;75.3
+M0052;Kurnia Budiman;Surabaya;JK_CLO-01-1;osi layer;osi model;75.3
+M0052;Kurnia Budiman;ITS;ITS_PBA126_CLO1_363;analisis data;data analysis;74.4
+M0052;Kurnia Budiman;ITS;ITS_SBD331_CLO1;pengembangan sistem basis data;database development;74.3
+M0052;Kurnia Budiman;Surabaya;APSI_CLO-01-1;agile;agile;72.4
+M0052;Kurnia Budiman;Jakarta;SO_CLO-02-2;tcp/ip;tcp/ip;71.6
+M0052;Kurnia Budiman;Surabaya;SO_CLO-02-2;linux;linux;71.6
+M0052;Kurnia Budiman;ITS;ITS_PDAP113_CLO1;data mining;data mining;71.3
+M0052;Kurnia Budiman;Jakarta;SI_CLO-01;statistika/probabilitas;statistics;71.2
+M0052;Kurnia Budiman;Jakarta;TKMTI_CLO-02;cobit;cobit;71.0
+M0052;Kurnia Budiman;Jakarta;KSI_CLO-04;vulnerability assessment;vulnerability assessment;70.8
+M0052;Kurnia Budiman;ITS;ITS_DDMJK126_CLO5;jaringan komputer;networking;69.9
+M0052;Kurnia Budiman;Jakarta;DT_CLO-02-1;design thinking;design thinking;66.3
+M0052;Kurnia Budiman;ITS;ITS_FD704_CLO1_292;infrastruktur;it infrastructure;65.5
+M0053;Kurnia Salma Wicaksono;Jakarta;TKMTI_CLO-03;cobit;cobit;84.6
+M0053;Kurnia Salma Wicaksono;Jakarta;PSI_CLO-03;konsep dasar sistem informasi;information systems;81.7
+M0053;Kurnia Salma Wicaksono;Jakarta;KSI_CLO-03-2;vulnerability assessment;vulnerability assessment;81.6
+M0053;Kurnia Salma Wicaksono;Surabaya;KA_CLO-01-1;devops;devops;77.0
+M0053;Kurnia Salma Wicaksono;Jakarta;SO_CLO-02-1;linux;linux;76.9
+M0053;Kurnia Salma Wicaksono;Surabaya;SO_CLO-02-1;http;http;76.9
+M0053;Kurnia Salma Wicaksono;Jakarta;MRP_CLO-02-1;erp;erp;75.6
+M0053;Kurnia Salma Wicaksono;ITS;ITS_SBD331_CLO1_374;mendesain basis data konseptual;database design;75.2
+M0053;Kurnia Salma Wicaksono;ITS;ITS_PD115_CLO2;pemrograman;programming;75.1
+M0053;Kurnia Salma Wicaksono;Jakarta;SBD_CLO-03-2;basis data / database;database;74.7
+M0053;Kurnia Salma Wicaksono;Surabaya;PBO_CLO-02-1;java;java;74.3
+M0053;Kurnia Salma Wicaksono;Jakarta;SBD_CLO-02-2;mysql;mysql;72.6
+M0053;Kurnia Salma Wicaksono;ITS;ITS_SBD331_CLO1_373;arsitektur sistem basis data;database architecture;72.1
+M0053;Kurnia Salma Wicaksono;Surabaya;SMHP_CLO-02;klasifikasi;klasifikasi;70.9
+M0053;Kurnia Salma Wicaksono;Jakarta;PD_CLO-04-1;python;python;70.8
+M0053;Kurnia Salma Wicaksono;Jakarta;AP_CLO-03;algoritma & pemrograman dasar;algorithm & programming;70.8
+M0053;Kurnia Salma Wicaksono;Surabaya;SMHP_CLO-03-1;data mining;data mining;68.4
+M0053;Kurnia Salma Wicaksono;ITS;ITS_SITI927_CLO1_303;transformasi digital;digital transformation;65.9
+M0053;Kurnia Salma Wicaksono;Jakarta;SBD_CLO-03-1;nosql;nosql;65.8
+M0053;Kurnia Salma Wicaksono;Jakarta;CDAP_CLO-04;prototyping;prototyping;56.4
+M0054;Mahendra Naufal Suhartono;Surabaya;KA_CLO-03-1;docker;docker;99.0
+M0054;Mahendra Naufal Suhartono;Surabaya;PEKC_CLO-03;konsep dasar sistem informasi;information systems;97.2
+M0054;Mahendra Naufal Suhartono;Jakarta;AP_CLO-01-1;flowchart;flowchart;94.6
+M0054;Mahendra Naufal Suhartono;Surabaya;AP_CLO-01-1;python;python;94.6
+M0054;Mahendra Naufal Suhartono;Jakarta;SI_CLO-02;regresi;regression analysis;93.7
+M0054;Mahendra Naufal Suhartono;Surabaya;SI_CLO-02;statistika/probabilitas;statistics;93.7
+M0054;Mahendra Naufal Suhartono;ITS;ITS_PST944_CLO1;tatakelola keamanan informasi;information security;92.8
+M0054;Mahendra Naufal Suhartono;Surabaya;MPPKI_CLO-02;klasifikasi;klasifikasi;91.5
+M0054;Mahendra Naufal Suhartono;Surabaya;PPL_CLO-02-1;git;git;90.6
+M0054;Mahendra Naufal Suhartono;ITS;ITS_PD115_CLO1;pemrograman;programming;90.5
+M0054;Mahendra Naufal Suhartono;Jakarta;SBD_CLO-02-1;sql;sql;88.8
+M0054;Mahendra Naufal Suhartono;Surabaya;APSI_CLO-02-2;use case diagram;use case diagram;88.7
+M0054;Mahendra Naufal Suhartono;Jakarta;KSI_CLO-03-2;vulnerability assessment;vulnerability assessment;87.1
+M0054;Mahendra Naufal Suhartono;ITS;ITS_PST697_CLO1;sistem pengendalian internal;internal control systems;86.0
+M0054;Mahendra Naufal Suhartono;Jakarta;JK_CLO-03-2;jaringan komputer;networking;84.4
+M0054;Mahendra Naufal Suhartono;Surabaya;JK_CLO-03-2;cisco;cisco networking;84.4
+M0054;Mahendra Naufal Suhartono;Jakarta;SE_CLO-02-2;sap;sap;83.1
+M0054;Mahendra Naufal Suhartono;ITS;ITS_PSDO774_CLO1;devops;devops;81.3
+M0054;Mahendra Naufal Suhartono;Jakarta;PAW_CLO-03-2;html;html;80.7
+M0054;Mahendra Naufal Suhartono;Surabaya;KA_CLO-03-2;github;github;80.1
+M0054;Mahendra Naufal Suhartono;ITS;ITS_FD704_CLO1_295;infrastruktur sistem;it infrastructure;80.0
+M0054;Mahendra Naufal Suhartono;ITS;ITS_KL369_CLO1_388;algoritma;algorithms;80.0
+M0054;Mahendra Naufal Suhartono;Jakarta;DWBI_CLO-01-1;data warehouse;data warehousing;79.1
+M0054;Mahendra Naufal Suhartono;ITS;ITS_ODFB259_CLO1_355;desain organisasi;organization design;78.1
+M0054;Mahendra Naufal Suhartono;Jakarta;JK_CLO-01-2;osi layer;osi model;77.6
+M0054;Mahendra Naufal Suhartono;Jakarta;SE_CLO-02-1;erp;erp;70.3
+M0054;Mahendra Naufal Suhartono;Surabaya;PD_CLO-01-1;data mining;data mining;67.4
+M0055;Mahendra Utomo;ITS;ITS_LDSD341_CLO1_343;struktur diskrit;discrete mathematics;78.8
+M0055;Mahendra Utomo;Jakarta;SO_CLO-02-1;linux;linux;78.4
+M0055;Mahendra Utomo;Surabaya;SO_CLO-02-1;http;http;78.4
+M0055;Mahendra Utomo;Surabaya;APSI_CLO-02-1;uml;uml;77.4
+M0055;Mahendra Utomo;Jakarta;MRP_CLO-02-2;scm;scm;77.0
+M0055;Mahendra Utomo;ITS;ITS_SKBM366_CLO1;konsep sistem;konsep;75.8
+M0055;Mahendra Utomo;Surabaya;BI_CLO-02;konsep dasar sistem informasi;information systems;74.6
+M0055;Mahendra Utomo;Surabaya;APB_CLO-03-1;basis data / database;database;74.5
+M0055;Mahendra Utomo;Jakarta;PPL_CLO-01-2;scrum;scrum;73.6
+M0055;Mahendra Utomo;Surabaya;PPL_CLO-01-2;prototyping;prototyping;73.6
+M0055;Mahendra Utomo;Surabaya;PPL_CLO-02-1;git;git;72.5
+M0055;Mahendra Utomo;Jakarta;IAE2_CLO-02-1;python;python;70.8
+M0055;Mahendra Utomo;Jakarta;AP_CLO-03;algoritma & pemrograman dasar;algorithm & programming;70.0
+M0055;Mahendra Utomo;Jakarta;PAW_CLO-02-2;html;html;69.9
+M0055;Mahendra Utomo;Surabaya;PAW_CLO-02-2;laravel;laravel;69.9
+M0055;Mahendra Utomo;ITS;ITS_PSK856_CLO1_324;ai;artificial intelligence;69.7
+M0055;Mahendra Utomo;Jakarta;PAW_CLO-01-2;rest api;rest api;66.4
+M0055;Mahendra Utomo;Surabaya;PAW_CLO-01-2;css;css;66.4
+M0055;Mahendra Utomo;ITS;ITS_ADDD245_CLO1_332;analytics;analytics;66.3
+M0055;Mahendra Utomo;ITS;ITS_PAI936_CLO1;keamanan informasi;information security;64.2
+M0055;Mahendra Utomo;Jakarta;DWBI_CLO-01-2;kpi;kpi;62.7
+M0055;Mahendra Utomo;Jakarta;KSI_CLO-02-2;otorisasi;otorisasi;62.4
+M0055;Mahendra Utomo;Surabaya;KSI_CLO-02-2;vulnerability assessment;vulnerability assessment;62.4
+M0055;Mahendra Utomo;Jakarta;DWBI_CLO-02-2;cloud computing;cloud computing;59.2
+M0055;Mahendra Utomo;Surabaya;DWBI_CLO-02-2;data warehouse;data warehousing;59.2
+M0055;Mahendra Utomo;ITS;ITS_DDMJK126_CLO5;jaringan komputer;networking;43.0
+M0056;Mega Saputra;Jakarta;KSI_CLO-02-2;otorisasi;otorisasi;100.0
+M0056;Mega Saputra;Surabaya;KSI_CLO-02-2;vulnerability assessment;vulnerability assessment;100.0
+M0056;Mega Saputra;ITS;ITS_KL369_CLO1_388;algoritma;algorithms;94.3
+M0056;Mega Saputra;ITS;ITS_ADDD245_CLO1_335;konsep statistik;statistics;91.3
+M0056;Mega Saputra;Jakarta;SO_CLO-03-1;linux;linux;89.0
+M0056;Mega Saputra;Surabaya;SO_CLO-03-1;http;http;89.0
+M0056;Mega Saputra;ITS;ITS_PSK856_CLO1_324;ai;artificial intelligence;87.3
+M0056;Mega Saputra;ITS;ITS_PSK856_CLO1_328;natural language processing;natural language processing;85.7
+M0056;Mega Saputra;Jakarta;DT_CLO-01;konsep dasar sistem informasi;information systems;85.6
+M0056;Mega Saputra;ITS;ITS_KL369_CLO1_387;optimasi;optimization;85.2
+M0056;Mega Saputra;ITS;ITS_TML142_CLO1;machine learning;machine learning;85.1
+M0056;Mega Saputra;ITS;ITS_SITI927_CLO4_306;togaf;togaf;84.8
+M0056;Mega Saputra;Surabaya;PD_CLO-02;data mining;data mining;84.7
+M0056;Mega Saputra;ITS;ITS_SBD331_CLO1_373;arsitektur sistem basis data;database architecture;84.5
+M0056;Mega Saputra;ITS;ITS_DL830_CLO1_255;data;data;83.1
+M0056;Mega Saputra;ITS;ITS_MLTI487_CLO1;manajemen layanan ti;it service management;82.5
+M0056;Mega Saputra;ITS;ITS_SKBM366_CLO1_393;simulasi;simulation modeling;81.8
+M0056;Mega Saputra;ITS;ITS_PAI936_CLO1_308;proteksi fisik;physical security;81.4
+M0056;Mega Saputra;Jakarta;SBD_CLO-02-1;sql;sql;80.5
+M0056;Mega Saputra;ITS;ITS_ODFB259_CLO1_353;contingencies factors;contingency planning;77.8
+M0056;Mega Saputra;Surabaya;DWBI_CLO-01;business intelligence;business intelligence;77.7
+M0056;Mega Saputra;Jakarta;SI_CLO-02;regresi;regression analysis;77.7
+M0056;Mega Saputra;Surabaya;APSI_CLO-01-1;agile;agile;77.3
+M0056;Mega Saputra;ITS;ITS_PD115_CLO5_273;java;java;76.5
+M0056;Mega Saputra;Jakarta;PD_CLO-02-2;klasifikasi;klasifikasi;76.3
+M0056;Mega Saputra;Jakarta;SO_CLO-02-2;tcp/ip;tcp/ip;74.3
+M0056;Mega Saputra;Jakarta;IAE2_CLO-01-1;graphql;graphql;74.2
+M0056;Mega Saputra;Surabaya;PU_CLO-01-2;ui/ux design;ui/ux;73.2
+M0056;Mega Saputra;ITS;ITS_KL369_CLO1;komputasi lunak;soft computing;69.5
+M0056;Mega Saputra;Jakarta;CDAP_CLO-06;prototyping;prototyping;66.9
+M0057;Melati Handoko;Jakarta;PAW_CLO-01-2;rest api;rest api;84.2
+M0057;Melati Handoko;Surabaya;PAW_CLO-01-2;css;css;84.2
+M0057;Melati Handoko;Surabaya;APB_CLO-02-2;microservices;microservices;78.6
+M0057;Melati Handoko;Surabaya;PU_CLO-04-2;usability testing;usability testing;78.3
+M0057;Melati Handoko;ITS;ITS_SITI927_CLO1_303;transformasi digital;digital transformation;77.4
+M0057;Melati Handoko;Surabaya;KPPM_CLO-03;konsep dasar sistem informasi;information systems;76.4
+M0057;Melati Handoko;ITS;ITS_PSDO774_CLO4;devops;devops;74.8
+M0057;Melati Handoko;ITS;ITS_ADDD245_CLO1_338;machine learning;machine learning;73.3
+M0057;Melati Handoko;Surabaya;PD_CLO-01-2;clustering;clustering;69.6
+M0057;Melati Handoko;Jakarta;TKMTI_CLO-02;cobit;cobit;68.8
+M0057;Melati Handoko;Jakarta;PPL_CLO-01-1;agile;agile;64.3
+M0057;Melati Handoko;Jakarta;PD_CLO-02-2;klasifikasi;klasifikasi;57.5
+M0057;Melati Handoko;ITS;ITS_IT052_CLO1_297;perangkat keras komputer;hardware;54.4
+M0057;Melati Handoko;Jakarta;KSI_CLO-03-2;vulnerability assessment;vulnerability assessment;52.8
+M0058;Muhammad Purnama;Jakarta;SO_CLO-03-2;tcp/ip;tcp/ip;90.5
+M0058;Muhammad Purnama;Surabaya;SO_CLO-03-2;linux;linux;90.5
+M0058;Muhammad Purnama;ITS;ITS_PSK856_CLO1_326;iot;internet of things;86.8
+M0058;Muhammad Purnama;ITS;ITS_PST944_CLO1_317;manajemen resiko;risk management;83.8
+M0058;Muhammad Purnama;Jakarta;KSI_CLO-02-2;otorisasi;otorisasi;83.6
+M0058;Muhammad Purnama;Surabaya;KSI_CLO-02-2;vulnerability assessment;vulnerability assessment;83.6
+M0058;Muhammad Purnama;Jakarta;MPPKI_CLO-03;konsep dasar sistem informasi;information systems;82.9
+M0058;Muhammad Purnama;Jakarta;JK_CLO-01-2;osi layer;osi model;81.2
+M0058;Muhammad Purnama;Surabaya;JK_CLO-01-2;jaringan komputer;networking;81.2
+M0058;Muhammad Purnama;Jakarta;SBD_CLO-02-1;sql;sql;80.0
+M0058;Muhammad Purnama;ITS;ITS_SKBM366_CLO4;analisis sensitivitas;sensitivity analysis;79.0
+M0058;Muhammad Purnama;ITS;ITS_PST944_CLO1;tatakelola keamanan informasi;information security;78.6
+M0058;Muhammad Purnama;ITS;ITS_PST697_CLO1_312;cobit;cobit;78.5
+M0058;Muhammad Purnama;Jakarta;PPL_CLO-01-2;scrum;scrum;78.3
+M0058;Muhammad Purnama;Surabaya;PPL_CLO-01-2;prototyping;prototyping;78.3
+M0058;Muhammad Purnama;ITS;ITS_FD704_CLO1;infrastruktur;it infrastructure;77.6
+M0058;Muhammad Purnama;Jakarta;PSC_CLO-04-2;algoritma & pemrograman dasar;algorithm & programming;75.4
+M0058;Muhammad Purnama;ITS;ITS_LDSD341_CLO1_344;komputasional;computational thinking;74.1
+M0058;Muhammad Purnama;ITS;ITS_DL830_CLO1;data warehouse;data warehousing;73.7
+M0058;Muhammad Purnama;Surabaya;PPL_CLO-02-1;git;git;72.4
+M0058;Muhammad Purnama;Surabaya;SE_CLO-02;erp;erp;72.1
+M0058;Muhammad Purnama;ITS;ITS_PSK856_CLO1;cognitive computing;cognitive computing;72.1
+M0058;Muhammad Purnama;ITS;ITS_PSDO774_CLO4_284;agile;agile;71.9
+M0058;Muhammad Purnama;Jakarta;PBO_CLO-03-1;uml;uml;69.0
+M0058;Muhammad Purnama;Jakarta;JK_CLO-01-1;switching;network switching;64.0
+M0058;Muhammad Purnama;ITS;ITS_PST944_CLO1_318;manajemen keamanan siber;cybersecurity;63.7
+M0059;Muhammad Rangga Santoso;ITS;ITS_SITI927_CLO4;enterprise architecture;enterprise architecture;84.9
+M0059;Muhammad Rangga Santoso;ITS;ITS_PSK856_CLO1_325;ml;machine learning;81.2
+M0059;Muhammad Rangga Santoso;Jakarta;SBD_CLO-02-2;mysql;mysql;81.1
+M0059;Muhammad Rangga Santoso;ITS;ITS_SE608_CLO1_381;integrasi proses bisnis;business process integration;80.5
+M0059;Muhammad Rangga Santoso;Jakarta;PD_CLO-03;data mining;data mining;77.9
+M0059;Muhammad Rangga Santoso;Jakarta;MPPKI_CLO-03;konsep dasar sistem informasi;information systems;77.8
+M0059;Muhammad Rangga Santoso;ITS;ITS_SBD331_CLO1_379;manipulasi data relasional;sql;77.4
+M0059;Muhammad Rangga Santoso;ITS;ITS_DL830_CLO1_255;data;data;75.2
+M0059;Muhammad Rangga Santoso;Surabaya;PU_CLO-03-1;figma;figma;75.0
+M0059;Muhammad Rangga Santoso;Jakarta;PAW_CLO-02-2;html;html;74.2
+M0059;Muhammad Rangga Santoso;Surabaya;PAW_CLO-02-2;laravel;laravel;74.2
+M0059;Muhammad Rangga Santoso;Jakarta;PSC_CLO-04-1;decision tree;decision tree;70.5
+M0059;Muhammad Rangga Santoso;Surabaya;MDE_CLO-01;statistika/probabilitas;statistics;68.1
+M0059;Muhammad Rangga Santoso;Surabaya;APB_CLO-02-1;basis data / database;database;67.4
+M0059;Muhammad Rangga Santoso;Jakarta;PSI_CLO-02;microsoft excel;excel;65.9
+M0059;Muhammad Rangga Santoso;ITS;ITS_DDMJK126_CLO6;mensimulasikan;simulation modeling;65.7
+M0059;Muhammad Rangga Santoso;Jakarta;DT_CLO-02-2;prototyping;prototyping;65.6
+M0059;Muhammad Rangga Santoso;ITS;ITS_MPB088_CLO1;proses bisnis;business process;64.5
+M0059;Muhammad Rangga Santoso;Jakarta;KSI_CLO-01-1;kriptografi;cryptography;63.6
+M0059;Muhammad Rangga Santoso;ITS;ITS_RKPL832_CLO1_368;memvalidasi;data validation;61.4
+M0059;Muhammad Rangga Santoso;Jakarta;JK_CLO-01-2;osi layer;osi model;53.7
+M0059;Muhammad Rangga Santoso;Surabaya;JK_CLO-01-2;jaringan komputer;networking;53.7
+M0060;Nabila Dewi Hidayat;Surabaya;BI_CLO-01;konsep dasar sistem informasi;information systems;99.3
+M0060;Nabila Dewi Hidayat;ITS;ITS_FD704_CLO1_295;infrastruktur sistem;it infrastructure;97.4
+M0060;Nabila Dewi Hidayat;ITS;ITS_DL830_CLO1_254;data lake;data lake;89.5
+M0060;Nabila Dewi Hidayat;Jakarta;SBD_CLO-01-1;erd;erd;89.0
+M0060;Nabila Dewi Hidayat;ITS;ITS_PST697_CLO1_314;audit ti;it audit;88.8
+M0060;Nabila Dewi Hidayat;ITS;ITS_PSDO774_CLO1;devops;devops;87.4
+M0060;Nabila Dewi Hidayat;Jakarta;PS2_CLO-01;statistika/probabilitas;statistics;87.4
+M0060;Nabila Dewi Hidayat;ITS;ITS_SKBM366_CLO1_393;simulasi;simulation modeling;86.4
+M0060;Nabila Dewi Hidayat;Jakarta;JK_CLO-01-1;switching;network switching;84.9
+M0060;Nabila Dewi Hidayat;Surabaya;JK_CLO-01-1;osi layer;osi model;84.9
+M0060;Nabila Dewi Hidayat;ITS;ITS_GP966_CLO1_277;pemodelan data;data modeling;84.5
+M0060;Nabila Dewi Hidayat;Jakarta;KSI_CLO-02-2;otorisasi;otorisasi;84.0
+M0060;Nabila Dewi Hidayat;Surabaya;KSI_CLO-02-2;vulnerability assessment;vulnerability assessment;84.0
+M0060;Nabila Dewi Hidayat;Surabaya;APB_CLO-03-1;basis data / database;database;83.6
+M0060;Nabila Dewi Hidayat;ITS;ITS_SBD331_CLO1_376;basis data logikal;database design;82.1
+M0060;Nabila Dewi Hidayat;Jakarta;SE_CLO-02-1;erp;erp;81.0
+M0060;Nabila Dewi Hidayat;Jakarta;PD_CLO-03;data mining;data mining;80.5
+M0060;Nabila Dewi Hidayat;ITS;ITS_DDMJK126_CLO6_265;arsitektur jaringan;network architecture;80.5
+M0060;Nabila Dewi Hidayat;ITS;ITS_MLTI487_CLO2;manajemen layanan ti;it service management;80.3
+M0060;Nabila Dewi Hidayat;Jakarta;CDAP_CLO-06;prototyping;prototyping;80.1
+M0060;Nabila Dewi Hidayat;ITS;ITS_MHP365_CLO5_346;strategi bisnis;business strategy;79.9
+M0060;Nabila Dewi Hidayat;Jakarta;SO_CLO-03-2;tcp/ip;tcp/ip;79.9
+M0060;Nabila Dewi Hidayat;Surabaya;SO_CLO-03-2;linux;linux;79.9
+M0060;Nabila Dewi Hidayat;Surabaya;PI_CLO-04;usability testing;usability testing;78.1
+M0060;Nabila Dewi Hidayat;Jakarta;IAE2_CLO-01-1;graphql;graphql;75.5
+M0060;Nabila Dewi Hidayat;ITS;ITS_DDMJK126_CLO3_260;ipv6;ipv6;74.5
+M0060;Nabila Dewi Hidayat;Jakarta;MRP_CLO-01;scm;scm;73.9
+M0060;Nabila Dewi Hidayat;ITS;ITS_IT052_CLO1_298;perangkat lunak;software engineering;73.3
+M0060;Nabila Dewi Hidayat;Jakarta;SI_CLO-02;regresi;regression analysis;72.7
+M0060;Nabila Dewi Hidayat;ITS;ITS_PAI936_CLO1_309;technical;technical skills;71.5
+M0060;Nabila Dewi Hidayat;Surabaya;PBO_CLO-02-1;java;java;67.4
+M0060;Nabila Dewi Hidayat;ITS;ITS_PST697_CLO1;sistem pengendalian internal;internal control systems;67.2
+M0061;Nanda Bagus Astuti;ITS;ITS_PD115_CLO1;pemrograman;programming;100.0
+M0061;Nanda Bagus Astuti;ITS;ITS_RO516_CLO1_370;pemrograman integer;integer programming;100.0
+M0061;Nanda Bagus Astuti;Jakarta;SO_CLO-02-2;tcp/ip;tcp/ip;100.0
+M0061;Nanda Bagus Astuti;Surabaya;SO_CLO-02-2;linux;linux;100.0
+M0061;Nanda Bagus Astuti;Jakarta;SIA_CLO-04;konsep dasar sistem informasi;information systems;95.8
+M0061;Nanda Bagus Astuti;ITS;ITS_PST944_CLO1_319;cobit;cobit;91.6
+M0061;Nanda Bagus Astuti;Jakarta;MRP_CLO-02-2;scm;scm;90.9
+M0061;Nanda Bagus Astuti;Surabaya;PU_CLO-04-1;prototyping;prototyping;90.3
+M0061;Nanda Bagus Astuti;Surabaya;APB_CLO-02-2;microservices;microservices;90.1
+M0061;Nanda Bagus Astuti;ITS;ITS_DDMJK126_CLO1;jaringan komputer;networking;87.7
+M0061;Nanda Bagus Astuti;Surabaya;PAB_CLO-03-2;cloud computing;cloud computing;87.6
+M0061;Nanda Bagus Astuti;Jakarta;PS2_CLO-01;statistika/probabilitas;statistics;85.9
+M0061;Nanda Bagus Astuti;ITS;ITS_GP966_CLO1;knowledge graph;knowledge graph;85.8
+M0061;Nanda Bagus Astuti;Jakarta;PPL_CLO-05-1;git;git;85.5
+M0061;Nanda Bagus Astuti;Surabaya;DWBI_CLO-04-2;kpi;kpi;85.3
+M0061;Nanda Bagus Astuti;ITS;ITS_GP966_CLO1_280;algoritma graph;graph algorithms;82.7
+M0061;Nanda Bagus Astuti;Jakarta;DWBI_CLO-04;etl;etl;82.4
+M0061;Nanda Bagus Astuti;Jakarta;PD_CLO-04-2;data mining;data mining;82.3
+M0061;Nanda Bagus Astuti;ITS;ITS_MHP365_CLO5;crm;crm;79.9
+M0061;Nanda Bagus Astuti;ITS;ITS_MHP365_CLO5_346;strategi bisnis;business strategy;79.9
+M0061;Nanda Bagus Astuti;ITS;ITS_FD704_CLO1;infrastruktur;it infrastructure;79.8
+M0061;Nanda Bagus Astuti;Jakarta;PBO_CLO-03-2;oop;object-oriented programming;66.5
+M0061;Nanda Bagus Astuti;ITS;ITS_DDMJK126_CLO3_260;ipv6;ipv6;65.5
+M0062;Novi Farhan Siregar;Jakarta;MSDM_CLO-02;konsep dasar sistem informasi;information systems;98.1
+M0062;Novi Farhan Siregar;Jakarta;SBD_CLO-02-2;mysql;mysql;88.3
+M0062;Novi Farhan Siregar;ITS;ITS_RKPL832_CLO1_368;memvalidasi;data validation;88.2
+M0062;Novi Farhan Siregar;ITS;ITS_ADDD245_CLO1_337;analisis kecerdasan mesin;machine learning;87.0
+M0062;Novi Farhan Siregar;ITS;ITS_MHP365_CLO5_346;strategi bisnis;business strategy;85.4
+M0062;Novi Farhan Siregar;Jakarta;PPL_CLO-05-1;git;git;84.7
+M0062;Novi Farhan Siregar;Surabaya;PBO_CLO-01-1;java;java;84.0
+M0062;Novi Farhan Siregar;Surabaya;APB_CLO-03-2;microservices;microservices;83.1
+M0062;Novi Farhan Siregar;ITS;ITS_AB235_CLO1_250;deteksi;anomaly detection;82.0
+M0062;Novi Farhan Siregar;Jakarta;PSI_CLO-02;microsoft excel;excel;81.6
+M0062;Novi Farhan Siregar;Surabaya;DWBI_CLO-03;data warehouse;data warehousing;80.3
+M0062;Novi Farhan Siregar;ITS;ITS_FD704_CLO1_293;implementasi;implementasi;79.9
+M0062;Novi Farhan Siregar;Jakarta;TKMTI_CLO-03;cobit;cobit;79.4
+M0062;Novi Farhan Siregar;Jakarta;APSI_CLO-02;basis data / database;database;77.1
+M0062;Novi Farhan Siregar;ITS;ITS_IT052_CLO1;sistem komputer;computer systems;74.7
+M0062;Novi Farhan Siregar;Jakarta;SO_CLO-02-2;tcp/ip;tcp/ip;72.8
+M0062;Novi Farhan Siregar;Surabaya;SO_CLO-02-2;linux;linux;72.8
+M0062;Novi Farhan Siregar;Jakarta;JK_CLO-02-1;routing;routing;70.4
+M0062;Novi Farhan Siregar;Surabaya;KA_CLO-02;devops;devops;67.5
+M0062;Novi Farhan Siregar;ITS;ITS_MPB088_CLO1;proses bisnis;business process;65.0
+M0062;Novi Farhan Siregar;ITS;ITS_RO516_CLO1_370;pemrograman integer;integer programming;63.5
+M0062;Novi Farhan Siregar;ITS;ITS_PAI936_CLO1_308;proteksi fisik;physical security;57.2
+M0063;Novi Purnama;Jakarta;SE_CLO-01;erp;erp;98.4
+M0063;Novi Purnama;ITS;ITS_DL830_CLO1_255;data;data;98.4
+M0063;Novi Purnama;ITS;ITS_SDI821_CLO1;sistem data-intensif;data-intensif;97.6
+M0063;Novi Purnama;Jakarta;MPPKI_CLO-01;konsep dasar sistem informasi;information systems;93.6
+M0063;Novi Purnama;Jakarta;PAW_CLO-01-1;php;php;93.2
+M0063;Novi Purnama;Surabaya;PAW_CLO-01-1;html;html;93.2
+M0063;Novi Purnama;ITS;ITS_PDAP829_CLO1_358;pemrograman;programming;92.8
+M0063;Novi Purnama;Surabaya;APB_CLO-02-1;basis data / database;database;92.1
+M0063;Novi Purnama;Jakarta;SBD_CLO-02-2;mysql;mysql;88.9
+M0063;Novi Purnama;Jakarta;PS2_CLO-02;statistika/probabilitas;statistics;88.4
+M0063;Novi Purnama;ITS;ITS_SBD331_CLO1_374;mendesain basis data konseptual;database design;84.4
+M0063;Novi Purnama;Surabaya;APSI_CLO-02-2;use case diagram;use case diagram;82.2
+M0063;Novi Purnama;Jakarta;SBD_CLO-01-1;erd;erd;80.5
+M0064;Pandu Pratama;Jakarta;JK_CLO-03-1;routing;routing;89.3
+M0064;Pandu Pratama;Surabaya;JK_CLO-03-1;jaringan komputer;networking;89.3
+M0064;Pandu Pratama;ITS;ITS_ODFB259_CLO1_354;structural configurations;organizational structure;85.4
+M0064;Pandu Pratama;Jakarta;PAW_CLO-02-1;php;php;82.1
+M0064;Pandu Pratama;Jakarta;SO_CLO-02-1;linux;linux;81.9
+M0064;Pandu Pratama;Surabaya;SO_CLO-02-1;http;http;81.9
+M0064;Pandu Pratama;Surabaya;KKI_CLO-02;konsep dasar sistem informasi;information systems;80.9
+M0064;Pandu Pratama;Surabaya;PAW_CLO-01-1;html;html;80.8
+M0064;Pandu Pratama;ITS;ITS_KL369_CLO1;komputasi lunak;soft computing;78.3
+M0064;Pandu Pratama;Jakarta;JK_CLO-02-2;switching;network switching;77.4
+M0064;Pandu Pratama;Surabaya;SMHP_CLO-03-2;crm;crm;76.4
+M0064;Pandu Pratama;Jakarta;SBD_CLO-02-1;sql;sql;76.2
+M0064;Pandu Pratama;Surabaya;APSI_CLO-01-2;kanban;kanban;72.7
+M0064;Pandu Pratama;Jakarta;DWBI_CLO-02-2;cloud computing;cloud computing;72.5
+M0064;Pandu Pratama;Surabaya;DWBI_CLO-02-2;data warehouse;data warehousing;72.5
+M0064;Pandu Pratama;Jakarta;CDAP_CLO-06;prototyping;prototyping;66.0
+M0064;Pandu Pratama;ITS;ITS_ADSD677_CLO1_289;algoritma;algorithms;63.1
+M0064;Pandu Pratama;ITS;ITS_PD115_CLO5_274;komputasional;computational thinking;62.1
+M0064;Pandu Pratama;ITS;ITS_GP966_CLO1;knowledge graph;knowledge graph;53.4
+M0064;Pandu Pratama;ITS;ITS_SITI927_CLO3;strategi ti;it strategy;47.5
+M0065;Pandu Rina Nugraha;Surabaya;IAE_CLO-02;konsep dasar sistem informasi;information systems;91.0
+M0065;Pandu Rina Nugraha;Jakarta;SBD_CLO-03-2;basis data / database;database;85.6
+M0065;Pandu Rina Nugraha;Jakarta;PD_CLO-02-2;klasifikasi;klasifikasi;83.6
+M0065;Pandu Rina Nugraha;Surabaya;SE_CLO-02;erp;erp;76.9
+M0065;Pandu Rina Nugraha;Jakarta;JK_CLO-03-2;jaringan komputer;networking;74.6
+M0065;Pandu Rina Nugraha;Surabaya;JK_CLO-03-2;cisco;cisco networking;74.6
+M0065;Pandu Rina Nugraha;Jakarta;PS2_CLO-01;statistika/probabilitas;statistics;74.2
+M0065;Pandu Rina Nugraha;Jakarta;PSC_CLO-04-1;decision tree;decision tree;73.8
+M0065;Pandu Rina Nugraha;ITS;ITS_DDMJK126_CLO3_259;ipv4;ipv4;70.3
+M0065;Pandu Rina Nugraha;ITS;ITS_PDSUT279_CLO1;pengumpulan data;data collection;69.9
+M0065;Pandu Rina Nugraha;Jakarta;DWBI_CLO-02-2;cloud computing;cloud computing;69.2
+M0065;Pandu Rina Nugraha;Surabaya;DWBI_CLO-02-2;data warehouse;data warehousing;69.2
+M0065;Pandu Rina Nugraha;ITS;ITS_GP966_CLO1_280;algoritma graph;graph algorithms;68.0
+M0065;Pandu Rina Nugraha;Surabaya;KA_CLO-03-2;github;github;67.5
+M0065;Pandu Rina Nugraha;Surabaya;APSI_CLO-02-2;use case diagram;use case diagram;65.9
+M0065;Pandu Rina Nugraha;Surabaya;PU_CLO-01-1;design thinking;design thinking;65.7
+M0065;Pandu Rina Nugraha;Surabaya;PPL_CLO-02-1;git;git;65.1
+M0065;Pandu Rina Nugraha;Surabaya;APB_CLO-02-2;microservices;microservices;62.0
+M0065;Pandu Rina Nugraha;Jakarta;IAE2_CLO-02-2;php;php;60.2
+M0065;Pandu Rina Nugraha;Jakarta;DT_CLO-02-2;prototyping;prototyping;58.5
+M0066;Pratama Hamzah Nasution;ITS;ITS_GP966_CLO1;knowledge graph;knowledge graph;78.0
+M0066;Pratama Hamzah Nasution;Jakarta;MD_CLO-01;konsep dasar sistem informasi;information systems;74.8
+M0066;Pratama Hamzah Nasution;ITS;ITS_ADSD677_CLO1_290;struktur data;data structures;74.2
+M0066;Pratama Hamzah Nasution;Jakarta;PPL_CLO-01-2;scrum;scrum;71.4
+M0066;Pratama Hamzah Nasution;Surabaya;PPL_CLO-01-2;prototyping;prototyping;71.4
+M0066;Pratama Hamzah Nasution;ITS;ITS_DDMJK126_CLO3_260;ipv6;ipv6;71.3
+M0066;Pratama Hamzah Nasution;Surabaya;MSI_CLO-06-1;machine learning;machine learning;71.2
+M0066;Pratama Hamzah Nasution;ITS;ITS_FD704_CLO1_292;infrastruktur;it infrastructure;70.4
+M0066;Pratama Hamzah Nasution;Surabaya;APSI_CLO-03-2;use case diagram;use case diagram;68.9
+M0066;Pratama Hamzah Nasution;ITS;ITS_MRP265_CLO1;manajemen rantai pasok;supply chain management;68.1
+M0066;Pratama Hamzah Nasution;ITS;ITS_PD115_CLO2;pemrograman;programming;67.5
+M0066;Pratama Hamzah Nasution;Jakarta;SO_CLO-02-1;linux;linux;67.5
+M0066;Pratama Hamzah Nasution;Surabaya;SO_CLO-02-1;http;http;67.5
+M0066;Pratama Hamzah Nasution;ITS;ITS_MRP265_CLO1_348;peramalan;forecasting;67.1
+M0066;Pratama Hamzah Nasution;Surabaya;KA_CLO-01-1;devops;devops;66.7
+M0066;Pratama Hamzah Nasution;ITS;ITS_SITI927_CLO4;enterprise architecture;enterprise architecture;64.0
+M0066;Pratama Hamzah Nasution;Jakarta;PD_CLO-03;data mining;data mining;61.5
+M0066;Pratama Hamzah Nasution;Surabaya;PPL_CLO-03-2;github;github;61.2
+M0066;Pratama Hamzah Nasution;Jakarta;SI_CLO-03;statistika/probabilitas;statistics;61.0
+M0066;Pratama Hamzah Nasution;Jakarta;PSI_CLO-02;microsoft excel;excel;61.0
+M0066;Pratama Hamzah Nasution;ITS;ITS_DDMJK126_CLO3_259;ipv4;ipv4;60.6
+M0066;Pratama Hamzah Nasution;ITS;ITS_PST944_CLO1_319;cobit;cobit;60.2
+M0066;Pratama Hamzah Nasution;Jakarta;IAE2_CLO-02-2;php;php;59.4
+M0066;Pratama Hamzah Nasution;Jakarta;SI_CLO-02;regresi;regression analysis;58.0
+M0066;Pratama Hamzah Nasution;Jakarta;AP_CLO-01-1;flowchart;flowchart;57.4
+M0066;Pratama Hamzah Nasution;Surabaya;AP_CLO-01-1;python;python;57.4
+M0066;Pratama Hamzah Nasution;ITS;ITS_SDI821_CLO1;sistem data-intensif;data-intensif;57.3
+M0066;Pratama Hamzah Nasution;Jakarta;SE_CLO-02-2;sap;sap;51.8
+M0066;Pratama Hamzah Nasution;Surabaya;PBO_CLO-02-2;oop;object-oriented programming;51.4
+M0066;Pratama Hamzah Nasution;Jakarta;KSI_CLO-02-2;otorisasi;otorisasi;49.7
+M0066;Pratama Hamzah Nasution;Surabaya;KSI_CLO-02-2;vulnerability assessment;vulnerability assessment;49.7
+M0066;Pratama Hamzah Nasution;ITS;ITS_PAI936_CLO1;keamanan informasi;information security;43.5
+M0067;Pratama Hidayat;Surabaya;PBO_CLO-02-1;java;java;77.8
+M0067;Pratama Hidayat;Surabaya;DWBI_CLO-03;data warehouse;data warehousing;74.4
+M0067;Pratama Hidayat;ITS;ITS_ADSD677_CLO1_287;algoritma;algorithms;71.2
+M0067;Pratama Hidayat;Jakarta;SBD_CLO-02-1;sql;sql;71.0
+M0067;Pratama Hidayat;ITS;ITS_ADDD245_CLO1_333;diagnostic;diagnostic;68.3
+M0067;Pratama Hidayat;Jakarta;AP_CLO-01-1;flowchart;flowchart;67.1
+M0067;Pratama Hidayat;Surabaya;AP_CLO-01-1;python;python;67.1
+M0067;Pratama Hidayat;Jakarta;AE_CLO-01;konsep dasar sistem informasi;information systems;66.8
+M0067;Pratama Hidayat;ITS;ITS_SKBM366_CLO5;sistem keputusan berbasis model;decision support systems;66.0
+M0067;Pratama Hidayat;Surabaya;SE_CLO-02;erp;erp;64.3
+M0067;Pratama Hidayat;Jakarta;SO_CLO-03-2;tcp/ip;tcp/ip;63.4
+M0067;Pratama Hidayat;Surabaya;SO_CLO-03-2;linux;linux;63.4
+M0067;Pratama Hidayat;Surabaya;PBO_CLO-02-2;oop;object-oriented programming;61.5
+M0067;Pratama Hidayat;ITS;ITS_MRP265_CLO1;manajemen rantai pasok;supply chain management;61.0
+M0067;Pratama Hidayat;ITS;ITS_LDSD341_CLO1;logika;logic;56.4
+M0067;Pratama Hidayat;ITS;ITS_IT052_CLO1;sistem komputer;computer systems;55.5
+M0067;Pratama Hidayat;Jakarta;CDAP_CLO-04;prototyping;prototyping;54.1
+M0068;Pratama Santoso;Jakarta;AE_CLO-02;konsep dasar sistem informasi;information systems;100.0
+M0068;Pratama Santoso;Surabaya;PBO_CLO-01-2;uml;uml;95.4
+M0068;Pratama Santoso;ITS;ITS_SITI927_CLO4;enterprise architecture;enterprise architecture;95.3
+M0068;Pratama Santoso;ITS;ITS_MRP265_CLO1_348;peramalan;forecasting;94.9
+M0068;Pratama Santoso;ITS;ITS_ADSD677_CLO1_287;algoritma;algorithms;90.0
+M0068;Pratama Santoso;ITS;ITS_PST697_CLO1_313;tatakelola ti;it governance;88.8
+M0068;Pratama Santoso;ITS;ITS_PDAP113_CLO1;data mining;data mining;88.1
+M0068;Pratama Santoso;ITS;ITS_PST697_CLO1_312;cobit;cobit;87.7
+M0068;Pratama Santoso;ITS;ITS_PD115_CLO3;pemrograman;programming;86.2
+M0068;Pratama Santoso;Jakarta;PSC_CLO-03-2;klasifikasi;klasifikasi;85.0
+M0068;Pratama Santoso;ITS;ITS_PST697_CLO1_314;audit ti;it audit;83.7
+M0068;Pratama Santoso;ITS;ITS_ADSD677_CLO1_288;desain;desain;83.7
+M0068;Pratama Santoso;ITS;ITS_DDMJK126_CLO2;komunikasi jaringan;networking;83.5
+M0068;Pratama Santoso;ITS;ITS_ODFB259_CLO1_355;desain organisasi;organization design;82.3
+M0068;Pratama Santoso;Surabaya;KA_CLO-03-1;docker;docker;78.1
+M0068;Pratama Santoso;ITS;ITS_TML142_CLO1;machine learning;machine learning;78.0
+M0068;Pratama Santoso;Jakarta;SBD_CLO-01-1;erd;erd;76.2
+M0068;Pratama Santoso;Surabaya;KA_CLO-01-2;agile;agile;74.9
+M0068;Pratama Santoso;ITS;ITS_SITI927_CLO1_303;transformasi digital;digital transformation;74.2
+M0068;Pratama Santoso;Surabaya;KA_CLO-01-1;devops;devops;65.0
+M0069;Pratama Suhendra;ITS;ITS_MLTI487_CLO2;manajemen layanan ti;it service management;85.4
+M0069;Pratama Suhendra;Jakarta;SE_CLO-01;erp;erp;83.4
+M0069;Pratama Suhendra;ITS;ITS_PSDO774_CLO4;devops;devops;82.8
+M0069;Pratama Suhendra;Jakarta;PS2_CLO-02;statistika/probabilitas;statistics;81.2
+M0069;Pratama Suhendra;Jakarta;MPPKI_CLO-01;konsep dasar sistem informasi;information systems;79.1
+M0069;Pratama Suhendra;ITS;ITS_LDSD341_CLO1_344;komputasional;computational thinking;78.5
+M0069;Pratama Suhendra;ITS;ITS_PD115_CLO2;pemrograman;programming;78.4
+M0069;Pratama Suhendra;ITS;ITS_DPP410_CLO1;metodologi;metodologi;78.4
+M0069;Pratama Suhendra;Jakarta;MSI_CLO-02-1;machine learning;machine learning;75.3
+M0069;Pratama Suhendra;Jakarta;SBD_CLO-01-1;erd;erd;75.1
+M0069;Pratama Suhendra;ITS;ITS_PBA126_CLO1_363;analisis data;data analysis;72.1
+M0069;Pratama Suhendra;ITS;ITS_ADSD677_CLO1_290;struktur data;data structures;70.8
+M0069;Pratama Suhendra;Jakarta;PBO_CLO-03-2;oop;object-oriented programming;69.7
+M0069;Pratama Suhendra;ITS;ITS_SKBM366_CLO5;sistem keputusan berbasis model;decision support systems;69.4
+M0069;Pratama Suhendra;ITS;ITS_DL830_CLO1_254;data lake;data lake;69.3
+M0069;Pratama Suhendra;ITS;ITS_SKBM366_CLO1_393;simulasi;simulation modeling;68.6
+M0069;Pratama Suhendra;Jakarta;JK_CLO-03-2;jaringan komputer;networking;68.3
+M0069;Pratama Suhendra;Surabaya;JK_CLO-03-2;cisco;cisco networking;68.3
+M0069;Pratama Suhendra;Surabaya;PU_CLO-01-1;design thinking;design thinking;66.9
+M0069;Pratama Suhendra;Jakarta;TKMTI_CLO-03;cobit;cobit;66.5
+M0069;Pratama Suhendra;Jakarta;PD_CLO-02-2;klasifikasi;klasifikasi;65.6
+M0069;Pratama Suhendra;Jakarta;SO_CLO-04;firewall;firewall;64.1
+M0069;Pratama Suhendra;ITS;ITS_PAI936_CLO1;keamanan informasi;information security;63.1
+M0069;Pratama Suhendra;ITS;ITS_SKBM366_CLO4;analisis sensitivitas;sensitivity analysis;61.8
+M0069;Pratama Suhendra;Jakarta;MRP_CLO-01;scm;scm;60.4
+M0069;Pratama Suhendra;Jakarta;PAW_CLO-04-2;basis data / database;database;58.0
+M0069;Pratama Suhendra;Jakarta;PPL_CLO-01-2;scrum;scrum;56.1
+M0069;Pratama Suhendra;Surabaya;PPL_CLO-01-2;prototyping;prototyping;56.1
+M0070;Pratama Syahputra;Surabaya;PU_CLO-03-2;prototyping;prototyping;74.9
+M0070;Pratama Syahputra;Jakarta;DKSI_CLO-01;konsep dasar sistem informasi;information systems;74.6
+M0070;Pratama Syahputra;Jakarta;KSI_CLO-03-2;vulnerability assessment;vulnerability assessment;68.9
+M0070;Pratama Syahputra;Jakarta;DT_CLO-02-1;design thinking;design thinking;68.7
+M0070;Pratama Syahputra;ITS;ITS_DDMJK126_CLO4_262;perangkat jaringan;networking;68.2
+M0070;Pratama Syahputra;Surabaya;PBO_CLO-02-1;java;java;67.8
+M0070;Pratama Syahputra;ITS;ITS_GP966_CLO1;knowledge graph;knowledge graph;67.0
+M0070;Pratama Syahputra;Jakarta;IAE2_CLO-01-1;graphql;graphql;66.3
+M0070;Pratama Syahputra;ITS;ITS_SBD331_CLO1_373;arsitektur sistem basis data;database architecture;66.3
+M0070;Pratama Syahputra;Jakarta;SO_CLO-03-1;linux;linux;65.5
+M0070;Pratama Syahputra;Surabaya;SO_CLO-03-1;http;http;65.5
+M0070;Pratama Syahputra;ITS;ITS_RKPL832_CLO1_368;memvalidasi;data validation;62.3
+M0070;Pratama Syahputra;Jakarta;PS2_CLO-02;statistika/probabilitas;statistics;60.8
+M0070;Pratama Syahputra;Surabaya;APSI_CLO-03-2;use case diagram;use case diagram;60.8
+M0070;Pratama Syahputra;Jakarta;IAE2_CLO-01-2;api;api;60.1
+M0070;Pratama Syahputra;Surabaya;IAE2_CLO-01-2;rest api;rest api;60.1
+M0070;Pratama Syahputra;ITS;ITS_SKBM366_CLO1_393;simulasi;simulation modeling;59.2
+M0070;Pratama Syahputra;Surabaya;PBO_CLO-02-2;oop;object-oriented programming;57.6
+M0070;Pratama Syahputra;ITS;ITS_IT052_CLO1_297;perangkat keras komputer;hardware;57.3
+M0070;Pratama Syahputra;ITS;ITS_FD704_CLO1;infrastruktur;it infrastructure;56.9
+M0070;Pratama Syahputra;Jakarta;DWBI_CLO-02-2;cloud computing;cloud computing;56.8
+M0070;Pratama Syahputra;Surabaya;DWBI_CLO-02-2;data warehouse;data warehousing;56.8
+M0070;Pratama Syahputra;Jakarta;IAE2_CLO-02-2;php;php;54.9
+M0070;Pratama Syahputra;ITS;ITS_PST697_CLO1_313;tatakelola ti;it governance;54.4
+M0070;Pratama Syahputra;Surabaya;APB_CLO-02-2;microservices;microservices;54.2
+M0070;Pratama Syahputra;ITS;ITS_DDMJK126_CLO4;routing;routing;51.9
+M0070;Pratama Syahputra;Surabaya;APB_CLO-02-1;basis data / database;database;49.2
+M0070;Pratama Syahputra;ITS;ITS_SBD331_CLO1_374;mendesain basis data konseptual;database design;47.9
+M0070;Pratama Syahputra;ITS;ITS_GP966_CLO1_279;menganalisa data;data analysis;44.6
+M0071;Putri Heru Handoko;Jakarta;DT_CLO-01;konsep dasar sistem informasi;information systems;96.6
+M0071;Putri Heru Handoko;Jakarta;CDAP_CLO-06;prototyping;prototyping;94.4
+M0071;Putri Heru Handoko;ITS;ITS_DDMJK126_CLO4_262;perangkat jaringan;networking;93.4
+M0071;Putri Heru Handoko;ITS;ITS_GP966_CLO1_280;algoritma graph;graph algorithms;92.6
+M0071;Putri Heru Handoko;ITS;ITS_PSK856_CLO1_324;ai;artificial intelligence;92.3
+M0071;Putri Heru Handoko;ITS;ITS_SITI927_CLO4_306;togaf;togaf;88.1
+M0071;Putri Heru Handoko;Jakarta;PAW_CLO-01-2;rest api;rest api;88.1
+M0071;Putri Heru Handoko;Surabaya;PAW_CLO-01-2;css;css;88.1
+M0071;Putri Heru Handoko;Surabaya;MPPKI_CLO-02;klasifikasi;klasifikasi;87.9
+M0071;Putri Heru Handoko;ITS;ITS_SBD331_CLO1_379;manipulasi data relasional;sql;87.9
+M0071;Putri Heru Handoko;Jakarta;TKMTI_CLO-02;cobit;cobit;86.1
+M0071;Putri Heru Handoko;Surabaya;PBO_CLO-02-1;java;java;85.3
+M0071;Putri Heru Handoko;ITS;ITS_PD115_CLO1;pemrograman;programming;85.3
+M0071;Putri Heru Handoko;ITS;ITS_RKPL832_CLO1_368;memvalidasi;data validation;82.6
+M0071;Putri Heru Handoko;Jakarta;PSC_CLO-04-1;decision tree;decision tree;82.2
+M0071;Putri Heru Handoko;ITS;ITS_RO516_CLO1_370;pemrograman integer;integer programming;80.7
+M0071;Putri Heru Handoko;Surabaya;PPL_CLO-02-2;github;github;80.4
+M0071;Putri Heru Handoko;ITS;ITS_SBD331_CLO1_373;arsitektur sistem basis data;database architecture;77.4
+M0071;Putri Heru Handoko;Jakarta;PAW_CLO-02-1;php;php;75.6
+M0071;Putri Heru Handoko;Surabaya;PI_CLO-04;usability testing;usability testing;74.5
+M0071;Putri Heru Handoko;ITS;ITS_ADDD245_CLO1;data science;data science;74.3
+M0071;Putri Heru Handoko;Jakarta;PBO_CLO-03-1;uml;uml;74.1
+M0071;Putri Heru Handoko;ITS;ITS_ODFB259_CLO1_352;design parameter;design parameter;72.8
+M0071;Putri Heru Handoko;ITS;ITS_SE608_CLO1_384;integrasi erp;erp;71.9
+M0071;Putri Heru Handoko;ITS;ITS_SKBM366_CLO3;validasi model simulasi sistem dinamika;system dynamics simulation;67.9
+M0071;Putri Heru Handoko;ITS;ITS_MHP365_CLO5_346;strategi bisnis;business strategy;67.4
+M0071;Putri Heru Handoko;Surabaya;PPL_CLO-03-1;git;git;66.7
+M0072;Rahmat Sandi Utomo;Surabaya;PI_CLO-01;konsep dasar sistem informasi;information systems;90.6
+M0072;Rahmat Sandi Utomo;Jakarta;DWBI_CLO-02-1;basis data / database;database;83.4
+M0072;Rahmat Sandi Utomo;Surabaya;DWBI_CLO-02-1;cloud computing;cloud computing;83.4
+M0072;Rahmat Sandi Utomo;ITS;ITS_SE608_CLO1_381;integrasi proses bisnis;business process integration;82.7
+M0072;Rahmat Sandi Utomo;ITS;ITS_DDMJK126_CLO6_265;arsitektur jaringan;network architecture;82.4
+M0072;Rahmat Sandi Utomo;Surabaya;PBO_CLO-02-2;oop;object-oriented programming;82.2
+M0072;Rahmat Sandi Utomo;Surabaya;PU_CLO-04-1;prototyping;prototyping;80.5
+M0072;Rahmat Sandi Utomo;Surabaya;SMHP_CLO-02;klasifikasi;klasifikasi;80.4
+M0072;Rahmat Sandi Utomo;ITS;ITS_IT052_CLO1_299;jaringan komputer;networking;76.9
+M0072;Rahmat Sandi Utomo;Jakarta;PS2_CLO-01;statistika/probabilitas;statistics;76.8
+M0072;Rahmat Sandi Utomo;Surabaya;SMHP_CLO-03-2;crm;crm;75.3
+M0072;Rahmat Sandi Utomo;ITS;ITS_ADDD245_CLO1;data science;data science;72.0
+M0072;Rahmat Sandi Utomo;Surabaya;DWBI_CLO-04-2;kpi;kpi;71.7
+M0072;Rahmat Sandi Utomo;Jakarta;MSI_CLO-02-1;machine learning;machine learning;71.5
+M0072;Rahmat Sandi Utomo;Jakarta;IAE2_CLO-01-2;api;api;71.2
+M0072;Rahmat Sandi Utomo;Surabaya;IAE2_CLO-01-2;rest api;rest api;71.2
+M0072;Rahmat Sandi Utomo;Jakarta;PAW_CLO-03-2;html;html;70.2
+M0072;Rahmat Sandi Utomo;ITS;ITS_ADSD677_CLO1_289;algoritma;algorithms;69.7
+M0072;Rahmat Sandi Utomo;Jakarta;PPL_CLO-01-2;scrum;scrum;68.9
+M0073;Rama Hidayat;Jakarta;PD_CLO-04-2;data mining;data mining;100.0
+M0073;Rama Hidayat;Surabaya;PIS_CLO-04;konsep dasar sistem informasi;information systems;96.1
+M0073;Rama Hidayat;Jakarta;MSI_CLO-02-2;klasifikasi;klasifikasi;93.3
+M0073;Rama Hidayat;ITS;ITS_PDAP829_CLO1_358;pemrograman;programming;90.9
+M0073;Rama Hidayat;Surabaya;MRP_CLO-03-2;scm;scm;89.0
+M0073;Rama Hidayat;ITS;ITS_DL830_CLO1;data warehouse;data warehousing;82.4
+M0073;Rama Hidayat;Surabaya;PAB_CLO-03-2;cloud computing;cloud computing;82.3
+M0073;Rama Hidayat;ITS;ITS_DDMJK126_CLO4_262;perangkat jaringan;networking;82.2
+M0073;Rama Hidayat;Jakarta;TKMTI_CLO-03;cobit;cobit;82.1
+M0073;Rama Hidayat;ITS;ITS_PDAP829_CLO1;optimasi kombinatorik;combinatorial optimization;81.6
+M0073;Rama Hidayat;ITS;ITS_SBD331_CLO1_375;pemodelan data;data modeling;80.9
+M0073;Rama Hidayat;ITS;ITS_SKBM366_CLO1_392;model;model;80.8
+M0073;Rama Hidayat;ITS;ITS_RKPL832_CLO1_368;memvalidasi;data validation;80.0
+M0073;Rama Hidayat;ITS;ITS_MPB088_CLO1;proses bisnis;business process;79.0
+M0073;Rama Hidayat;Jakarta;KSI_CLO-01-1;kriptografi;cryptography;78.7
+M0073;Rama Hidayat;Surabaya;APSI_CLO-03-2;use case diagram;use case diagram;78.7
+M0073;Rama Hidayat;ITS;ITS_PST944_CLO1;tatakelola keamanan informasi;information security;78.0
+M0073;Rama Hidayat;Jakarta;PSI_CLO-04-1;basis data / database;database;77.3
+M0073;Rama Hidayat;Jakarta;MD_CLO-02;algoritma & pemrograman dasar;algorithm & programming;76.5
+M0073;Rama Hidayat;ITS;ITS_FD704_CLO1;infrastruktur;it infrastructure;76.0
+M0073;Rama Hidayat;Jakarta;PAW_CLO-03-1;php;php;75.2
+M0073;Rama Hidayat;ITS;ITS_SKBM366_CLO5;sistem keputusan berbasis model;decision support systems;73.9
+M0073;Rama Hidayat;ITS;ITS_SE608_CLO1_382;perangkat;hardware;69.9
+M0073;Rama Hidayat;Surabaya;SE_CLO-02;erp;erp;69.9
+M0073;Rama Hidayat;ITS;ITS_PSK856_CLO1_322;soft computing;soft computing;68.5
+M0073;Rama Hidayat;Surabaya;KA_CLO-02;devops;devops;66.0
+M0073;Rama Hidayat;ITS;ITS_LDSD341_CLO1_344;komputasional;computational thinking;64.6
+M0074;Rangga Suryono;ITS;ITS_PSK856_CLO1_326;iot;internet of things;82.7
+M0074;Rangga Suryono;Surabaya;KKI_CLO-03;konsep dasar sistem informasi;information systems;81.3
+M0074;Rangga Suryono;ITS;ITS_ADSD677_CLO1_289;algoritma;algorithms;80.6
+M0074;Rangga Suryono;ITS;ITS_MPB088_CLO1;proses bisnis;business process;79.6
+M0074;Rangga Suryono;ITS;ITS_SBD331_CLO1_374;mendesain basis data konseptual;database design;78.2
+M0074;Rangga Suryono;Jakarta;SO_CLO-02-1;linux;linux;78.1
+M0074;Rangga Suryono;Surabaya;SO_CLO-02-1;http;http;78.1
+M0074;Rangga Suryono;ITS;ITS_SITI927_CLO1;teknologi informasi;information technology;77.8
+M0074;Rangga Suryono;ITS;ITS_PST697_CLO1;sistem pengendalian internal;internal control systems;77.5
+M0074;Rangga Suryono;Jakarta;PSI_CLO-04-2;cloud computing;cloud computing;77.5
+M0074;Rangga Suryono;Surabaya;APB_CLO-03-1;basis data / database;database;77.5
+M0074;Rangga Suryono;Jakarta;JK_CLO-01-2;osi layer;osi model;77.2
+M0074;Rangga Suryono;Surabaya;JK_CLO-01-2;jaringan komputer;networking;77.2
+M0074;Rangga Suryono;Surabaya;PI_CLO-04;usability testing;usability testing;76.6
+M0074;Rangga Suryono;ITS;ITS_IT052_CLO1;sistem komputer;computer systems;74.8
+M0074;Rangga Suryono;ITS;ITS_DDMJK126_CLO4;routing;routing;74.7
+M0074;Rangga Suryono;Jakarta;AP_CLO-03;algoritma & pemrograman dasar;algorithm & programming;71.7
+M0074;Rangga Suryono;Jakarta;PSC_CLO-02;machine learning;machine learning;71.7
+M0074;Rangga Suryono;Jakarta;KSI_CLO-02-1;kriptografi;cryptography;71.6
+M0074;Rangga Suryono;Jakarta;DWBI_CLO-01-1;data warehouse;data warehousing;70.9
+M0074;Rangga Suryono;ITS;ITS_SKBM366_CLO1_393;simulasi;simulation modeling;70.1
+M0074;Rangga Suryono;Jakarta;PSI_CLO-02;microsoft excel;excel;69.9
+M0074;Rangga Suryono;Surabaya;PBO_CLO-02-2;oop;object-oriented programming;69.3
+M0074;Rangga Suryono;Jakarta;PPL_CLO-05-1;git;git;65.6
+M0074;Rangga Suryono;Jakarta;PS2_CLO-02;statistika/probabilitas;statistics;64.6
+M0074;Rangga Suryono;Surabaya;PD_CLO-01-1;data mining;data mining;60.3
+M0074;Rangga Suryono;ITS;ITS_SE608_CLO1_385;crm;crm;58.5
+M0074;Rangga Suryono;Jakarta;MRP_CLO-01;scm;scm;57.9
+M0075;Reza Rahmat Suhartono;Jakarta;RPB_CLO-01;konsep dasar sistem informasi;information systems;88.8
+M0075;Reza Rahmat Suhartono;ITS;ITS_DDMJK126_CLO1;jaringan komputer;networking;81.3
+M0075;Reza Rahmat Suhartono;Jakarta;IAE2_CLO-02-1;python;python;80.6
+M0075;Reza Rahmat Suhartono;Jakarta;AP_CLO-03;algoritma & pemrograman dasar;algorithm & programming;80.5
+M0075;Reza Rahmat Suhartono;Jakarta;PAW_CLO-01-2;rest api;rest api;79.3
+M0075;Reza Rahmat Suhartono;Surabaya;PAW_CLO-01-2;css;css;79.3
+M0075;Reza Rahmat Suhartono;Surabaya;PD_CLO-01-1;data mining;data mining;79.0
+M0075;Reza Rahmat Suhartono;ITS;ITS_PD115_CLO4_271;java;java;77.9
+M0075;Reza Rahmat Suhartono;Surabaya;PPL_CLO-02-1;git;git;77.1
+M0075;Reza Rahmat Suhartono;ITS;ITS_ADSD677_CLO1_289;algoritma;algorithms;76.2
+M0075;Reza Rahmat Suhartono;ITS;ITS_SITI927_CLO4_306;togaf;togaf;75.2
+M0075;Reza Rahmat Suhartono;ITS;ITS_SBD331_CLO1_378;query;sql;72.5
+M0075;Reza Rahmat Suhartono;Jakarta;PAW_CLO-01-1;php;php;72.3
+M0075;Reza Rahmat Suhartono;Surabaya;PAW_CLO-01-1;html;html;72.3
+M0075;Reza Rahmat Suhartono;Jakarta;APSI_CLO-04;uml;uml;72.1
+M0075;Reza Rahmat Suhartono;ITS;ITS_DPP410_CLO1;metodologi;metodologi;71.6
+M0075;Reza Rahmat Suhartono;Jakarta;PSI_CLO-02;microsoft excel;excel;71.2
+M0075;Reza Rahmat Suhartono;ITS;ITS_ADSD677_CLO1_290;struktur data;data structures;70.8
+M0075;Reza Rahmat Suhartono;ITS;ITS_SBD331_CLO1_377;model;model;66.2
+M0075;Reza Rahmat Suhartono;Surabaya;MPPKI_CLO-02;klasifikasi;klasifikasi;64.9
+M0075;Reza Rahmat Suhartono;ITS;ITS_IT052_CLO1;sistem komputer;computer systems;63.4
+M0075;Reza Rahmat Suhartono;ITS;ITS_LDSD341_CLO1;logika;logic;62.7
+M0075;Reza Rahmat Suhartono;Surabaya;APB_CLO-01-1;json;json;62.3
+M0075;Reza Rahmat Suhartono;Surabaya;PU_CLO-04-2;usability testing;usability testing;59.2
+M0076;Reza Wibowo;Surabaya;DWBI_CLO-01;business intelligence;business intelligence;88.8
+M0076;Reza Wibowo;Jakarta;SO_CLO-03-2;tcp/ip;tcp/ip;83.4
+M0076;Reza Wibowo;Surabaya;SO_CLO-03-2;linux;linux;83.4
+M0076;Reza Wibowo;Surabaya;IAE_CLO-03;konsep dasar sistem informasi;information systems;82.7
+M0076;Reza Wibowo;ITS;ITS_DDMJK126_CLO3;protokol internet;networking;80.2
+M0076;Reza Wibowo;ITS;ITS_ADDD245_CLO1;data science;data science;75.2
+M0076;Reza Wibowo;Jakarta;PPL_CLO-01-1;agile;agile;74.7
+M0076;Reza Wibowo;Jakarta;PD_CLO-04-1;python;python;74.4
+M0076;Reza Wibowo;Surabaya;APSI_CLO-02-1;uml;uml;73.6
+M0076;Reza Wibowo;Jakarta;PAW_CLO-04-1;php;php;73.5
+M0076;Reza Wibowo;Jakarta;TKMTI_CLO-01;cobit;cobit;73.2
+M0076;Reza Wibowo;ITS;ITS_GP966_CLO1_280;algoritma graph;graph algorithms;68.1
+M0076;Reza Wibowo;ITS;ITS_GP966_CLO1_279;menganalisa data;data analysis;67.1
+M0076;Reza Wibowo;Surabaya;MRP_CLO-03-2;scm;scm;67.0
+M0076;Reza Wibowo;ITS;ITS_SE608_CLO1_385;crm;crm;65.9
+M0076;Reza Wibowo;Jakarta;CDAP_CLO-04;prototyping;prototyping;65.5
+M0076;Reza Wibowo;ITS;ITS_PAI936_CLO1;keamanan informasi;information security;62.6
+M0077;Rian Bagas Setiawan;ITS;ITS_ODFB259_CLO1_353;contingencies factors;contingency planning;100.0
+M0077;Rian Bagas Setiawan;Jakarta;JK_CLO-02-1;routing;routing;98.3
+M0077;Rian Bagas Setiawan;Surabaya;PIS_CLO-02;konsep dasar sistem informasi;information systems;96.2
+M0077;Rian Bagas Setiawan;Surabaya;DWBI_CLO-04-1;data warehouse;data warehousing;96.0
+M0077;Rian Bagas Setiawan;Jakarta;PAW_CLO-02-2;html;html;94.6
+M0077;Rian Bagas Setiawan;Surabaya;PAW_CLO-02-2;laravel;laravel;94.6
+M0077;Rian Bagas Setiawan;Surabaya;PPL_CLO-03-2;github;github;94.5
+M0077;Rian Bagas Setiawan;Jakarta;MD_CLO-02;algoritma & pemrograman dasar;algorithm & programming;94.4
+M0077;Rian Bagas Setiawan;Jakarta;PBO_CLO-03-2;oop;object-oriented programming;93.9
+M0077;Rian Bagas Setiawan;Jakarta;DWBI_CLO-02-2;cloud computing;cloud computing;93.5
+M0077;Rian Bagas Setiawan;ITS;ITS_MLTI487_CLO1;manajemen layanan ti;it service management;92.5
+M0077;Rian Bagas Setiawan;ITS;ITS_SITI927_CLO3;strategi ti;it strategy;92.2
+M0077;Rian Bagas Setiawan;ITS;ITS_SITI927_CLO1;teknologi informasi;information technology;92.0
+M0077;Rian Bagas Setiawan;Jakarta;PD_CLO-02-1;data mining;data mining;89.4
+M0077;Rian Bagas Setiawan;Jakarta;MRP_CLO-01;scm;scm;89.3
+M0077;Rian Bagas Setiawan;Jakarta;PSI_CLO-02;microsoft excel;excel;88.8
+M0077;Rian Bagas Setiawan;ITS;ITS_PST697_CLO1;sistem pengendalian internal;internal control systems;88.3
+M0077;Rian Bagas Setiawan;Jakarta;PSI_CLO-04-1;basis data / database;database;88.1
+M0077;Rian Bagas Setiawan;ITS;ITS_ADDD245_CLO1_333;diagnostic;diagnostic;87.8
+M0077;Rian Bagas Setiawan;ITS;ITS_PD115_CLO3;pemrograman;programming;87.0
+M0077;Rian Bagas Setiawan;Jakarta;PPL_CLO-01-2;scrum;scrum;86.9
+M0077;Rian Bagas Setiawan;Surabaya;PPL_CLO-01-2;prototyping;prototyping;86.9
+M0077;Rian Bagas Setiawan;ITS;ITS_PAI936_CLO1_308;proteksi fisik;physical security;85.8
+M0077;Rian Bagas Setiawan;Surabaya;PBO_CLO-01-2;uml;uml;84.0
+M0077;Rian Bagas Setiawan;Surabaya;MSI_CLO-06-2;klasifikasi;klasifikasi;83.1
+M0077;Rian Bagas Setiawan;Jakarta;PPL_CLO-05-1;git;git;82.7
+M0077;Rian Bagas Setiawan;Jakarta;JK_CLO-02-2;switching;network switching;81.2
+M0077;Rian Bagas Setiawan;Jakarta;AP_CLO-01-1;flowchart;flowchart;79.8
+M0077;Rian Bagas Setiawan;Surabaya;AP_CLO-01-1;python;python;79.8
+M0077;Rian Bagas Setiawan;ITS;ITS_PSK856_CLO1_326;iot;internet of things;79.2
+M0077;Rian Bagas Setiawan;ITS;ITS_PST944_CLO1_318;manajemen keamanan siber;cybersecurity;78.3
+M0077;Rian Bagas Setiawan;ITS;ITS_IT052_CLO1_298;perangkat lunak;software engineering;76.2
+M0077;Rian Bagas Setiawan;ITS;ITS_PSK856_CLO1_328;natural language processing;natural language processing;75.4
+M0077;Rian Bagas Setiawan;Surabaya;SE_CLO-01-2;sap;sap;73.6
+M0077;Rian Bagas Setiawan;ITS;ITS_PD115_CLO5_273;java;java;72.6
+M0078;Rian Nugroho;ITS;ITS_PD115_CLO5;program;programming;88.4
+M0078;Rian Nugroho;Surabaya;PU_CLO-02;konsep dasar sistem informasi;information systems;87.7
+M0078;Rian Nugroho;ITS;ITS_RKPL832_CLO1_368;memvalidasi;data validation;87.3
+M0078;Rian Nugroho;Surabaya;MPPKI_CLO-02;klasifikasi;klasifikasi;82.5
+M0078;Rian Nugroho;Jakarta;IAE2_CLO-01-1;graphql;graphql;82.3
+M0078;Rian Nugroho;Jakarta;PSI_CLO-02;microsoft excel;excel;82.1
+M0078;Rian Nugroho;ITS;ITS_SITI927_CLO3;strategi ti;it strategy;81.9
+M0078;Rian Nugroho;Jakarta;PPL_CLO-01-2;scrum;scrum;80.2
+M0078;Rian Nugroho;Surabaya;PPL_CLO-01-2;prototyping;prototyping;80.2
+M0078;Rian Nugroho;Jakarta;KSI_CLO-01-2;otorisasi;otorisasi;78.7
+M0078;Rian Nugroho;ITS;ITS_PST697_CLO1_311;tatakelola ti;it governance;78.4
+M0078;Rian Nugroho;ITS;ITS_SKBM366_CLO1_393;simulasi;simulation modeling;77.0
+M0078;Rian Nugroho;Surabaya;PU_CLO-05;ui/ux design;ui/ux;75.8
+M0078;Rian Nugroho;Jakarta;PD_CLO-04-1;python;python;74.8
+M0078;Rian Nugroho;Jakarta;AP_CLO-01-1;flowchart;flowchart;74.8
+M0078;Rian Nugroho;Jakarta;AP_CLO-03;algoritma & pemrograman dasar;algorithm & programming;74.6
+M0078;Rian Nugroho;Surabaya;PPL_CLO-02-2;github;github;74.0
+M0078;Rian Nugroho;Jakarta;SO_CLO-03-2;tcp/ip;tcp/ip;71.5
+M0078;Rian Nugroho;Surabaya;SO_CLO-03-2;linux;linux;71.5
+M0078;Rian Nugroho;Surabaya;MSI_CLO-06-1;machine learning;machine learning;69.9
+M0078;Rian Nugroho;ITS;ITS_SE608_CLO1;sistem enterprise;enterprise systems;69.8
+M0078;Rian Nugroho;Surabaya;DWBI_CLO-03;data warehouse;data warehousing;69.7
+M0078;Rian Nugroho;Surabaya;APSI_CLO-03-1;uml;uml;67.4
+M0078;Rian Nugroho;Surabaya;APSI_CLO-01-1;agile;agile;66.9
+M0078;Rian Nugroho;Jakarta;JK_CLO-03-2;jaringan komputer;networking;65.4
+M0078;Rian Nugroho;Surabaya;JK_CLO-03-2;cisco;cisco networking;65.4
+M0078;Rian Nugroho;Surabaya;MRP_CLO-03-2;scm;scm;64.6
+M0078;Rian Nugroho;ITS;ITS_RKPL832_CLO1;rekayasa kebutuhan perangkat lunak;software requirements engineering;64.3
+M0078;Rian Nugroho;Surabaya;KSI_CLO-01;vulnerability assessment;vulnerability assessment;64.2
+M0078;Rian Nugroho;Surabaya;APB_CLO-03-1;basis data / database;database;63.4
+M0078;Rian Nugroho;ITS;ITS_AB235_CLO1_250;deteksi;anomaly detection;62.1
+M0078;Rian Nugroho;ITS;ITS_GP966_CLO1_278;algoritma graph;graph algorithms;59.0
+M0078;Rian Nugroho;Jakarta;IAE2_CLO-01-2;api;api;58.5
+M0078;Rian Nugroho;Surabaya;IAE2_CLO-01-2;rest api;rest api;58.5
+M0079;Riko Arif Adriansyah;Surabaya;IAE_CLO-02;konsep dasar sistem informasi;information systems;100.0
+M0079;Riko Arif Adriansyah;ITS;ITS_FD704_CLO1;infrastruktur;it infrastructure;100.0
+M0079;Riko Arif Adriansyah;Jakarta;AP_CLO-02;algoritma & pemrograman dasar;algorithm & programming;100.0
+M0079;Riko Arif Adriansyah;ITS;ITS_DDMJK126_CLO3_260;ipv6;ipv6;94.4
+M0079;Riko Arif Adriansyah;ITS;ITS_FD704_CLO1_293;implementasi;implementasi;94.0
+M0079;Riko Arif Adriansyah;Jakarta;KSI_CLO-02-2;otorisasi;otorisasi;93.3
+M0079;Riko Arif Adriansyah;Surabaya;KSI_CLO-02-2;vulnerability assessment;vulnerability assessment;93.3
+M0079;Riko Arif Adriansyah;Jakarta;PAW_CLO-04-2;basis data / database;database;92.7
+M0079;Riko Arif Adriansyah;Jakarta;SO_CLO-03-1;linux;linux;91.6
+M0079;Riko Arif Adriansyah;Surabaya;SO_CLO-03-1;http;http;91.6
+M0079;Riko Arif Adriansyah;ITS;ITS_PD115_CLO4_271;java;java;91.3
+M0079;Riko Arif Adriansyah;Surabaya;APSI_CLO-02-1;uml;uml;90.2
+M0079;Riko Arif Adriansyah;ITS;ITS_LDSD341_CLO1_344;komputasional;computational thinking;89.7
+M0079;Riko Arif Adriansyah;Jakarta;MRP_CLO-01;scm;scm;85.5
+M0079;Riko Arif Adriansyah;ITS;ITS_ETI711_CLO1;teknologi informasi;information technology;85.1
+M0079;Riko Arif Adriansyah;ITS;ITS_PST697_CLO1_311;tatakelola ti;it governance;84.8
+M0079;Riko Arif Adriansyah;Surabaya;PD_CLO-02;data mining;data mining;84.5
+M0079;Riko Arif Adriansyah;ITS;ITS_MHP365_CLO5_346;strategi bisnis;business strategy;84.5
+M0079;Riko Arif Adriansyah;Jakarta;SI_CLO-01;statistika/probabilitas;statistics;83.8
+M0079;Riko Arif Adriansyah;Jakarta;SO_CLO-02-2;tcp/ip;tcp/ip;83.6
+M0079;Riko Arif Adriansyah;ITS;ITS_ADDD245_CLO1_332;analytics;analytics;81.9
+M0079;Riko Arif Adriansyah;Jakarta;SE_CLO-01;erp;erp;80.3
+M0079;Riko Arif Adriansyah;Jakarta;PAW_CLO-01-2;rest api;rest api;80.2
+M0079;Riko Arif Adriansyah;Surabaya;PAW_CLO-01-2;css;css;80.2
+M0079;Riko Arif Adriansyah;Surabaya;DWBI_CLO-04-1;data warehouse;data warehousing;78.3
+M0079;Riko Arif Adriansyah;ITS;ITS_SDI821_CLO1;sistem data-intensif;data-intensif;77.3
+M0080;Riko Suhendra;Jakarta;PSC_CLO-03-1;neural network;neural networks;100.0
+M0080;Riko Suhendra;Surabaya;KPPM_CLO-01;konsep dasar sistem informasi;information systems;100.0
+M0080;Riko Suhendra;Jakarta;PAW_CLO-01-2;rest api;rest api;96.6
+M0080;Riko Suhendra;Surabaya;PAW_CLO-01-2;css;css;96.6
+M0080;Riko Suhendra;Surabaya;PPL_CLO-02-1;git;git;96.0
+M0080;Riko Suhendra;Jakarta;PPL_CLO-01-1;agile;agile;93.6
+M0080;Riko Suhendra;Surabaya;PU_CLO-04-2;usability testing;usability testing;89.2
+M0080;Riko Suhendra;Surabaya;DWBI_CLO-04-2;kpi;kpi;89.2
+M0080;Riko Suhendra;Jakarta;CDAP_CLO-06;prototyping;prototyping;88.4
+M0080;Riko Suhendra;ITS;ITS_KL369_CLO1_387;optimasi;optimization;86.2
+M0080;Riko Suhendra;ITS;ITS_ADDD245_CLO1_333;diagnostic;diagnostic;84.5
+M0080;Riko Suhendra;ITS;ITS_GP966_CLO1_278;algoritma graph;graph algorithms;84.4
+M0080;Riko Suhendra;ITS;ITS_AB235_CLO1;administrasi basis data;database administration;83.5
+M0080;Riko Suhendra;ITS;ITS_SKBM366_CLO5;sistem keputusan berbasis model;decision support systems;83.0
+M0080;Riko Suhendra;Jakarta;IAE2_CLO-02-1;python;python;78.5
+M0080;Riko Suhendra;ITS;ITS_SBD331_CLO1_376;basis data logikal;database design;78.1
+M0080;Riko Suhendra;Surabaya;PI_CLO-03;figma;figma;77.5
+M0080;Riko Suhendra;Jakarta;KSI_CLO-03-2;vulnerability assessment;vulnerability assessment;76.8
+M0080;Riko Suhendra;Jakarta;IAE2_CLO-01-1;graphql;graphql;70.9
+M0081;Riko Wicaksono;ITS;ITS_MHP365_CLO5_346;strategi bisnis;business strategy;100.0
+M0081;Riko Wicaksono;Jakarta;PS_CLO-01;konsep dasar sistem informasi;information systems;99.8
+M0081;Riko Wicaksono;ITS;ITS_SKBM366_CLO1;konsep sistem;konsep;99.6
+M0081;Riko Wicaksono;Surabaya;PD_CLO-01-1;data mining;data mining;98.0
+M0081;Riko Wicaksono;ITS;ITS_DDMJK126_CLO3;protokol internet;networking;97.5
+M0081;Riko Wicaksono;Jakarta;JK_CLO-02-1;routing;routing;94.8
+M0081;Riko Wicaksono;Jakarta;PPL_CLO-01-1;agile;agile;93.1
+M0081;Riko Wicaksono;Jakarta;IAE2_CLO-01-2;api;api;91.9
+M0081;Riko Wicaksono;Surabaya;IAE2_CLO-01-2;rest api;rest api;91.9
+M0081;Riko Wicaksono;Jakarta;DWBI_CLO-02-2;cloud computing;cloud computing;91.3
+M0081;Riko Wicaksono;Surabaya;DWBI_CLO-02-2;data warehouse;data warehousing;91.3
+M0081;Riko Wicaksono;Surabaya;KA_CLO-03-2;github;github;89.9
+M0081;Riko Wicaksono;Jakarta;KSI_CLO-02-2;otorisasi;otorisasi;89.1
+M0081;Riko Wicaksono;Surabaya;KSI_CLO-02-2;vulnerability assessment;vulnerability assessment;89.1
+M0081;Riko Wicaksono;ITS;ITS_AB235_CLO1_251;perbaikan masalah;troubleshooting;87.0
+M0081;Riko Wicaksono;Surabaya;PU_CLO-04-1;prototyping;prototyping;86.9
+M0081;Riko Wicaksono;ITS;ITS_FD704_CLO1_294;pengembangan keamanan data;data security;86.8
+M0081;Riko Wicaksono;Jakarta;TKMTI_CLO-02;cobit;cobit;86.5
+M0081;Riko Wicaksono;Jakarta;PS2_CLO-02;statistika/probabilitas;statistics;86.4
+M0081;Riko Wicaksono;Jakarta;KSI_CLO-01-1;kriptografi;cryptography;86.2
+M0081;Riko Wicaksono;Jakarta;MRP_CLO-02-1;erp;erp;85.6
+M0081;Riko Wicaksono;Jakarta;PAW_CLO-01-1;php;php;85.6
+M0081;Riko Wicaksono;Surabaya;PAW_CLO-01-1;html;html;85.6
+M0081;Riko Wicaksono;Surabaya;MRP_CLO-02;scm;scm;84.8
+M0081;Riko Wicaksono;ITS;ITS_PST697_CLO1_311;tatakelola ti;it governance;84.1
+M0081;Riko Wicaksono;Jakarta;APSI_CLO-04;uml;uml;81.6
+M0081;Riko Wicaksono;ITS;ITS_PD115_CLO1;pemrograman;programming;81.5
+M0081;Riko Wicaksono;Surabaya;PU_CLO-05;ui/ux design;ui/ux;81.2
+M0081;Riko Wicaksono;Surabaya;PU_CLO-04-2;usability testing;usability testing;81.2
+M0081;Riko Wicaksono;ITS;ITS_RKPL832_CLO1;rekayasa kebutuhan perangkat lunak;software requirements engineering;81.0
+M0081;Riko Wicaksono;ITS;ITS_ADDD245_CLO1_338;machine learning;machine learning;80.8
+M0081;Riko Wicaksono;Jakarta;JK_CLO-01-1;switching;network switching;78.5
+M0081;Riko Wicaksono;Surabaya;JK_CLO-01-1;osi layer;osi model;78.5
+M0081;Riko Wicaksono;ITS;ITS_ODFB259_CLO1_355;desain organisasi;organization design;77.1
+M0081;Riko Wicaksono;ITS;ITS_AB235_CLO1_252;sistem database;database;73.0
+M0081;Riko Wicaksono;Surabaya;PU_CLO-03-1;figma;figma;71.7
+M0081;Riko Wicaksono;Jakarta;PD_CLO-02-2;klasifikasi;klasifikasi;66.4
+M0082;Rini Adriansyah;Surabaya;APB_CLO-02-2;microservices;microservices;93.0
+M0082;Rini Adriansyah;ITS;ITS_PST697_CLO1_312;cobit;cobit;89.3
+M0082;Rini Adriansyah;Jakarta;DT_CLO-01;konsep dasar sistem informasi;information systems;84.9
+M0082;Rini Adriansyah;ITS;ITS_DDMJK126_CLO4;routing;routing;84.8
+M0082;Rini Adriansyah;Surabaya;APB_CLO-01-1;json;json;84.7
+M0082;Rini Adriansyah;Surabaya;APB_CLO-03-1;basis data / database;database;84.0
+M0082;Rini Adriansyah;Surabaya;APSI_CLO-01-1;agile;agile;83.0
+M0082;Rini Adriansyah;Jakarta;JK_CLO-01-2;osi layer;osi model;81.6
+M0082;Rini Adriansyah;Surabaya;JK_CLO-01-2;jaringan komputer;networking;81.6
+M0082;Rini Adriansyah;Surabaya;DWBI_CLO-02-1;cloud computing;cloud computing;81.4
+M0082;Rini Adriansyah;ITS;ITS_MHP365_CLO5_346;strategi bisnis;business strategy;81.3
+M0082;Rini Adriansyah;Jakarta;KSI_CLO-04;vulnerability assessment;vulnerability assessment;81.0
+M0082;Rini Adriansyah;Jakarta;IAE2_CLO-01-2;api;api;80.9
+M0082;Rini Adriansyah;Surabaya;IAE2_CLO-01-2;rest api;rest api;80.9
+M0082;Rini Adriansyah;ITS;ITS_DL830_CLO1;data warehouse;data warehousing;80.3
+M0082;Rini Adriansyah;Jakarta;SBD_CLO-02-2;mysql;mysql;78.4
+M0082;Rini Adriansyah;Jakarta;CDAP_CLO-06;prototyping;prototyping;77.9
+M0082;Rini Adriansyah;ITS;ITS_DL830_CLO1_254;data lake;data lake;77.6
+M0082;Rini Adriansyah;ITS;ITS_MRP265_CLO1;manajemen rantai pasok;supply chain management;76.5
+M0082;Rini Adriansyah;Jakarta;PSI_CLO-02;microsoft excel;excel;76.4
+M0082;Rini Adriansyah;Surabaya;PAW_CLO-01-2;css;css;76.0
+M0082;Rini Adriansyah;ITS;ITS_SITI927_CLO1_303;transformasi digital;digital transformation;75.0
+M0082;Rini Adriansyah;Jakarta;PPL_CLO-01-2;scrum;scrum;72.9
+M0082;Rini Adriansyah;Surabaya;MRP_CLO-03-2;scm;scm;72.7
+M0082;Rini Adriansyah;ITS;ITS_PSDO774_CLO1;devops;devops;72.3
+M0082;Rini Adriansyah;ITS;ITS_RKPL832_CLO1;rekayasa kebutuhan perangkat lunak;software requirements engineering;71.5
+M0082;Rini Adriansyah;Jakarta;SBD_CLO-03-1;nosql;nosql;70.0
+M0082;Rini Adriansyah;Surabaya;SMHP_CLO-03-2;crm;crm;66.3
+M0082;Rini Adriansyah;ITS;ITS_MLTI487_CLO1;manajemen layanan ti;it service management;65.4
+M0082;Rini Adriansyah;ITS;ITS_IT052_CLO1_297;perangkat keras komputer;hardware;62.2
+M0083;Rini Subagja;Surabaya;KA_CLO-03-1;docker;docker;88.0
+M0083;Rini Subagja;ITS;ITS_SBD331_CLO1_373;arsitektur sistem basis data;database architecture;86.6
+M0083;Rini Subagja;Jakarta;PPB_CLO-03;konsep dasar sistem informasi;information systems;86.5
+M0083;Rini Subagja;Jakarta;SIA_CLO-03;erp;erp;85.6
+M0083;Rini Subagja;Surabaya;PBO_CLO-01-2;uml;uml;84.0
+M0083;Rini Subagja;ITS;ITS_LDSD341_CLO1_344;komputasional;computational thinking;83.5
+M0083;Rini Subagja;Jakarta;KSI_CLO-02-1;kriptografi;cryptography;79.8
+M0083;Rini Subagja;ITS;ITS_PD115_CLO4_271;java;java;77.4
+M0083;Rini Subagja;ITS;ITS_PST697_CLO1_314;audit ti;it audit;74.5
+M0083;Rini Subagja;ITS;ITS_MHP365_CLO5_346;strategi bisnis;business strategy;73.8
+M0083;Rini Subagja;Jakarta;PAW_CLO-01-1;php;php;72.0
+M0083;Rini Subagja;Surabaya;PAW_CLO-01-1;html;html;72.0
+M0083;Rini Subagja;ITS;ITS_MHP365_CLO5;crm;crm;71.4
+M0083;Rini Subagja;Jakarta;CDAP_CLO-04;prototyping;prototyping;71.4
+M0083;Rini Subagja;Surabaya;APB_CLO-01-1;json;json;70.6
+M0083;Rini Subagja;ITS;ITS_PSK856_CLO1;cognitive computing;cognitive computing;68.7
+M0084;Rizki Nur Lubis;Jakarta;AP_CLO-01-2;pseudocode;pseudocode;71.2
+M0084;Rizki Nur Lubis;Surabaya;AP_CLO-01-2;java;java;71.2
+M0084;Rizki Nur Lubis;Surabaya;IAE_CLO-02;konsep dasar sistem informasi;information systems;70.7
+M0084;Rizki Nur Lubis;Jakarta;PD_CLO-04-2;data mining;data mining;68.9
+M0084;Rizki Nur Lubis;Jakarta;JK_CLO-03-2;jaringan komputer;networking;67.6
+M0084;Rizki Nur Lubis;Surabaya;JK_CLO-03-2;cisco;cisco networking;67.6
+M0084;Rizki Nur Lubis;ITS;ITS_KL369_CLO1_389;komputasi lunak;soft computing;67.4
+M0084;Rizki Nur Lubis;Jakarta;PAW_CLO-02-2;html;html;66.4
+M0084;Rizki Nur Lubis;Surabaya;PAW_CLO-02-2;laravel;laravel;66.4
+M0084;Rizki Nur Lubis;ITS;ITS_DDMJK126_CLO3_260;ipv6;ipv6;65.8
+M0084;Rizki Nur Lubis;ITS;ITS_ADSD677_CLO1_288;desain;desain;64.3
+M0084;Rizki Nur Lubis;Jakarta;SBD_CLO-01-2;basis data / database;database;63.2
+M0084;Rizki Nur Lubis;Jakarta;DWBI_CLO-04;etl;etl;62.8
+M0084;Rizki Nur Lubis;ITS;ITS_KL369_CLO1_387;optimasi;optimization;62.5
+M0084;Rizki Nur Lubis;Surabaya;SI_CLO-07;regresi;regression analysis;62.1
+M0084;Rizki Nur Lubis;Surabaya;PPL_CLO-02-1;git;git;61.3
+M0084;Rizki Nur Lubis;Jakarta;JK_CLO-01-1;switching;network switching;60.8
+M0084;Rizki Nur Lubis;Surabaya;JK_CLO-01-1;osi layer;osi model;60.8
+M0084;Rizki Nur Lubis;Jakarta;MSI_CLO-02-2;klasifikasi;klasifikasi;58.6
+M0084;Rizki Nur Lubis;ITS;ITS_ADSD677_CLO1_286;struktur data;data structures;58.3
+M0084;Rizki Nur Lubis;Jakarta;SO_CLO-04;firewall;firewall;58.2
+M0084;Rizki Nur Lubis;ITS;ITS_DPP410_CLO1;metodologi;metodologi;56.1
+M0084;Rizki Nur Lubis;ITS;ITS_RKPL832_CLO1;rekayasa kebutuhan perangkat lunak;software requirements engineering;55.4
+M0084;Rizki Nur Lubis;Jakarta;PBO_CLO-01;oop;object-oriented programming;54.5
+M0084;Rizki Nur Lubis;ITS;ITS_SE608_CLO1_383;pemrograman open source;open source software;54.1
+M0084;Rizki Nur Lubis;Surabaya;PU_CLO-01-2;ui/ux design;ui/ux;53.2
+M0084;Rizki Nur Lubis;Jakarta;PPL_CLO-05-2;scm;scm;51.7
+M0084;Rizki Nur Lubis;Jakarta;PPL_CLO-01-2;scrum;scrum;51.0
+M0084;Rizki Nur Lubis;Surabaya;PPL_CLO-01-2;prototyping;prototyping;51.0
+M0084;Rizki Nur Lubis;Surabaya;DWBI_CLO-01;business intelligence;business intelligence;50.7
+M0084;Rizki Nur Lubis;Jakarta;KSI_CLO-04;vulnerability assessment;vulnerability assessment;50.7
+M0085;Rizky Rahma Yuliana;Jakarta;PSC_CLO-05;konsep dasar sistem informasi;information systems;96.1
+M0085;Rizky Rahma Yuliana;ITS;ITS_PSDO774_CLO4;devops;devops;95.3
+M0085;Rizky Rahma Yuliana;Jakarta;APSI_CLO-04;uml;uml;94.5
+M0085;Rizky Rahma Yuliana;Jakarta;AP_CLO-02;algoritma & pemrograman dasar;algorithm & programming;93.9
+M0085;Rizky Rahma Yuliana;Jakarta;PAW_CLO-04-2;basis data / database;database;93.2
+M0085;Rizky Rahma Yuliana;ITS;ITS_ADDD245_CLO1_335;konsep statistik;statistics;92.3
+M0085;Rizky Rahma Yuliana;ITS;ITS_MRP265_CLO1_349;perencanaan agregat;aggregate planning;88.8
+M0085;Rizky Rahma Yuliana;ITS;ITS_ODFB259_CLO1_352;design parameter;design parameter;88.1
+M0085;Rizky Rahma Yuliana;ITS;ITS_GP966_CLO1_280;algoritma graph;graph algorithms;88.0
+M0085;Rizky Rahma Yuliana;Jakarta;MRP_CLO-01;scm;scm;87.8
+M0085;Rizky Rahma Yuliana;ITS;ITS_LDSD341_CLO1_344;komputasional;computational thinking;87.6
+M0085;Rizky Rahma Yuliana;Jakarta;SO_CLO-04;firewall;firewall;86.6
+M0085;Rizky Rahma Yuliana;ITS;ITS_SITI927_CLO1_303;transformasi digital;digital transformation;86.5
+M0085;Rizky Rahma Yuliana;Jakarta;TKMTI_CLO-01;cobit;cobit;86.2
+M0085;Rizky Rahma Yuliana;ITS;ITS_DDMJK126_CLO6;mensimulasikan;simulation modeling;84.2
+M0085;Rizky Rahma Yuliana;ITS;ITS_MLTI487_CLO2;manajemen layanan ti;it service management;83.8
+M0085;Rizky Rahma Yuliana;Jakarta;DWBI_CLO-01-1;data warehouse;data warehousing;83.4
+M0085;Rizky Rahma Yuliana;ITS;ITS_DDMJK126_CLO4;routing;routing;73.5
+M0085;Rizky Rahma Yuliana;ITS;ITS_FD704_CLO1_295;infrastruktur sistem;it infrastructure;72.3
+M0085;Rizky Rahma Yuliana;ITS;ITS_LDSD341_CLO1_343;struktur diskrit;discrete mathematics;68.9
+M0085;Rizky Rahma Yuliana;ITS;ITS_ADDD245_CLO1_338;machine learning;machine learning;67.1
+M0086;Rizky Surya Wicaksono;ITS;ITS_ADSD677_CLO1_287;algoritma;algorithms;95.3
+M0086;Rizky Surya Wicaksono;Surabaya;PEKC_CLO-03;konsep dasar sistem informasi;information systems;93.0
+M0086;Rizky Surya Wicaksono;Jakarta;MSI_CLO-02-2;klasifikasi;klasifikasi;91.8
+M0086;Rizky Surya Wicaksono;Surabaya;PBO_CLO-01-2;uml;uml;89.7
+M0086;Rizky Surya Wicaksono;Jakarta;JK_CLO-03-2;jaringan komputer;networking;89.0
+M0086;Rizky Surya Wicaksono;Surabaya;JK_CLO-03-2;cisco;cisco networking;89.0
+M0086;Rizky Surya Wicaksono;ITS;ITS_ODFB259_CLO1_354;structural configurations;organizational structure;86.9
+M0086;Rizky Surya Wicaksono;ITS;ITS_SBD331_CLO1_377;model;model;84.6
+M0086;Rizky Surya Wicaksono;ITS;ITS_ADDD245_CLO1_332;analytics;analytics;83.2
+M0086;Rizky Surya Wicaksono;Jakarta;PD_CLO-04-2;data mining;data mining;83.0
+M0086;Rizky Surya Wicaksono;Jakarta;DT_CLO-02-2;prototyping;prototyping;81.2
+M0086;Rizky Surya Wicaksono;Jakarta;PAW_CLO-01-1;php;php;81.1
+M0086;Rizky Surya Wicaksono;Surabaya;PAW_CLO-01-1;html;html;81.1
+M0086;Rizky Surya Wicaksono;Jakarta;SBD_CLO-01-1;erd;erd;80.9
+M0086;Rizky Surya Wicaksono;ITS;ITS_DDMJK126_CLO4;routing;routing;79.5
+M0086;Rizky Surya Wicaksono;ITS;ITS_PST697_CLO1;sistem pengendalian internal;internal control systems;77.9
+M0086;Rizky Surya Wicaksono;ITS;ITS_MRP265_CLO1;manajemen rantai pasok;supply chain management;76.5
+M0086;Rizky Surya Wicaksono;ITS;ITS_MLTI487_CLO2;manajemen layanan ti;it service management;75.8
+M0086;Rizky Surya Wicaksono;Surabaya;KA_CLO-03-1;docker;docker;75.1
+M0086;Rizky Surya Wicaksono;ITS;ITS_ADSD677_CLO1;pemrograman berorientasi objek;object-oriented programming;73.0
+M0086;Rizky Surya Wicaksono;Jakarta;KSI_CLO-04;vulnerability assessment;vulnerability assessment;73.0
+M0086;Rizky Surya Wicaksono;Jakarta;TKMTI_CLO-01;cobit;cobit;71.2
+M0086;Rizky Surya Wicaksono;ITS;ITS_PD115_CLO4;pemrograman;programming;65.3
+M0087;Rizky Triatmojo;ITS;ITS_PKSI632_CLO1_360;sistem informasi;information systems;89.6
+M0087;Rizky Triatmojo;Jakarta;MRP_CLO-02-2;scm;scm;89.5
+M0087;Rizky Triatmojo;ITS;ITS_PDAP829_CLO1;optimasi kombinatorik;combinatorial optimization;86.6
+M0087;Rizky Triatmojo;Surabaya;PU_CLO-05;ui/ux design;ui/ux;86.5
+M0087;Rizky Triatmojo;Jakarta;SO_CLO-01;linux;linux;84.1
+M0087;Rizky Triatmojo;Jakarta;JK_CLO-01-1;switching;network switching;82.6
+M0087;Rizky Triatmojo;Surabaya;JK_CLO-01-1;osi layer;osi model;82.6
+M0087;Rizky Triatmojo;Jakarta;IAE2_CLO-01-1;graphql;graphql;82.6
+M0087;Rizky Triatmojo;Jakarta;PSI_CLO-04-1;basis data / database;database;82.0
+M0087;Rizky Triatmojo;ITS;ITS_SDI821_CLO1;sistem data-intensif;data-intensif;77.7
+M0087;Rizky Triatmojo;ITS;ITS_PSDO774_CLO1;devops;devops;77.4
+M0087;Rizky Triatmojo;Jakarta;JK_CLO-03-2;jaringan komputer;networking;76.9
+M0087;Rizky Triatmojo;Surabaya;JK_CLO-03-2;cisco;cisco networking;76.9
+M0087;Rizky Triatmojo;Surabaya;DWBI_CLO-02-1;cloud computing;cloud computing;76.2
+M0087;Rizky Triatmojo;Surabaya;PBO_CLO-02-2;oop;object-oriented programming;75.8
+M0087;Rizky Triatmojo;ITS;ITS_PD115_CLO4;pemrograman;programming;75.7
+M0088;Roni Sandi Gunawan;ITS;ITS_DDMJK126_CLO3_260;ipv6;ipv6;100.0
+M0088;Roni Sandi Gunawan;Surabaya;IAE_CLO-01;konsep dasar sistem informasi;information systems;90.3
+M0088;Roni Sandi Gunawan;ITS;ITS_RO516_CLO1;simpleks;simplex algorithm;87.7
+M0088;Roni Sandi Gunawan;ITS;ITS_SKBM366_CLO4;analisis sensitivitas;sensitivity analysis;87.4
+M0088;Roni Sandi Gunawan;ITS;ITS_PD115_CLO1_267;java;java;86.9
+M0088;Roni Sandi Gunawan;Surabaya;SMHP_CLO-03-1;data mining;data mining;85.8
+M0088;Roni Sandi Gunawan;ITS;ITS_PDAP113_CLO1_365;data scientist;data science;83.3
+M0088;Roni Sandi Gunawan;Surabaya;MSI_CLO-06-2;klasifikasi;klasifikasi;82.5
+M0088;Roni Sandi Gunawan;ITS;ITS_ODFB259_CLO1_352;design parameter;design parameter;81.9
+M0088;Roni Sandi Gunawan;Jakarta;SBD_CLO-03-2;basis data / database;database;81.5
+M0088;Roni Sandi Gunawan;Surabaya;PAB_CLO-03-2;cloud computing;cloud computing;80.9
+M0088;Roni Sandi Gunawan;Jakarta;DWBI_CLO-01-1;data warehouse;data warehousing;79.9
+M0088;Roni Sandi Gunawan;Jakarta;DT_CLO-02-2;prototyping;prototyping;79.3
+M0088;Roni Sandi Gunawan;ITS;ITS_SDI821_CLO1;sistem data-intensif;data-intensif;77.6
+M0088;Roni Sandi Gunawan;Surabaya;PU_CLO-04-2;usability testing;usability testing;76.2
+M0088;Roni Sandi Gunawan;ITS;ITS_PST944_CLO1;tatakelola keamanan informasi;information security;74.8
+M0088;Roni Sandi Gunawan;Surabaya;PPL_CLO-03-1;git;git;74.6
+M0088;Roni Sandi Gunawan;ITS;ITS_PD115_CLO2;pemrograman;programming;72.4
+M0088;Roni Sandi Gunawan;Jakarta;DWBI_CLO-01-2;kpi;kpi;71.7
+M0089;Salma Ananda Triatmojo;Jakarta;MSI_CLO-01;konsep dasar sistem informasi;information systems;87.7
+M0089;Salma Ananda Triatmojo;Jakarta;SBD_CLO-02-2;mysql;mysql;83.0
+M0089;Salma Ananda Triatmojo;Jakarta;KSI_CLO-02-1;kriptografi;cryptography;78.6
+M0089;Salma Ananda Triatmojo;Surabaya;APB_CLO-01-2;xml;xml;75.4
+M0089;Salma Ananda Triatmojo;ITS;ITS_DL830_CLO1_254;data lake;data lake;71.2
+M0089;Salma Ananda Triatmojo;Jakarta;PPL_CLO-05-2;scm;scm;66.8
+M0089;Salma Ananda Triatmojo;Jakarta;PS2_CLO-01;statistika/probabilitas;statistics;65.9
+M0089;Salma Ananda Triatmojo;Jakarta;MSI_CLO-02-2;klasifikasi;klasifikasi;65.4
+M0089;Salma Ananda Triatmojo;ITS;ITS_PSDO774_CLO4_284;agile;agile;59.9
+M0090;Salma Nugroho;ITS;ITS_ADDD245_CLO1_332;analytics;analytics;78.1
+M0090;Salma Nugroho;Surabaya;MSI_CLO-06-2;klasifikasi;klasifikasi;75.8
+M0090;Salma Nugroho;Surabaya;APB_CLO-01-1;json;json;75.2
+M0090;Salma Nugroho;Surabaya;PEKC_CLO-03;konsep dasar sistem informasi;information systems;74.9
+M0090;Salma Nugroho;Jakarta;SIA_CLO-03;erp;erp;73.0
+M0090;Salma Nugroho;Surabaya;PU_CLO-04-2;usability testing;usability testing;71.6
+M0090;Salma Nugroho;ITS;ITS_SBD331_CLO1_377;model;model;69.9
+M0090;Salma Nugroho;Jakarta;MD_CLO-02;algoritma & pemrograman dasar;algorithm & programming;69.7
+M0090;Salma Nugroho;ITS;ITS_FD704_CLO1_293;implementasi;implementasi;69.1
+M0090;Salma Nugroho;Surabaya;PI_CLO-03;figma;figma;67.2
+M0090;Salma Nugroho;Jakarta;SO_CLO-01;linux;linux;62.7
+M0090;Salma Nugroho;ITS;ITS_SE608_CLO1_385;crm;crm;62.4
+M0090;Salma Nugroho;Jakarta;PD_CLO-04-1;python;python;60.3
+M0090;Salma Nugroho;Surabaya;SE_CLO-01-2;sap;sap;60.0
+M0090;Salma Nugroho;Surabaya;APSI_CLO-01-1;agile;agile;59.0
+M0090;Salma Nugroho;Jakarta;PPL_CLO-05-2;scm;scm;57.6
+M0090;Salma Nugroho;Jakarta;KSI_CLO-04;vulnerability assessment;vulnerability assessment;57.6
+M0090;Salma Nugroho;Jakarta;JK_CLO-01-2;osi layer;osi model;57.2
+M0090;Salma Nugroho;Surabaya;JK_CLO-01-2;jaringan komputer;networking;57.2
+M0090;Salma Nugroho;ITS;ITS_PSK856_CLO1;cognitive computing;cognitive computing;56.6
+M0090;Salma Nugroho;Surabaya;KA_CLO-02;devops;devops;56.4
+M0090;Salma Nugroho;Jakarta;PAW_CLO-02-1;php;php;56.4
+M0090;Salma Nugroho;ITS;ITS_ODFB259_CLO1_355;desain organisasi;organization design;54.8
+M0090;Salma Nugroho;Surabaya;DT_CLO-02;prototyping;prototyping;53.5
+M0090;Salma Nugroho;Jakarta;APSI_CLO-02;basis data / database;database;50.4
+M0090;Salma Nugroho;ITS;ITS_SITI927_CLO1_303;transformasi digital;digital transformation;50.4
+M0091;Saputra Purnama;Surabaya;KKI_CLO-04;konsep dasar sistem informasi;information systems;100.0
+M0091;Saputra Purnama;ITS;ITS_RKPL832_CLO1;rekayasa kebutuhan perangkat lunak;software requirements engineering;91.5
+M0091;Saputra Purnama;ITS;ITS_DDMJK126_CLO1;jaringan komputer;networking;88.1
+M0091;Saputra Purnama;ITS;ITS_PST697_CLO1;sistem pengendalian internal;internal control systems;87.8
+M0091;Saputra Purnama;ITS;ITS_PST944_CLO1_319;cobit;cobit;83.4
+M0091;Saputra Purnama;Jakarta;PS2_CLO-01;statistika/probabilitas;statistics;82.8
+M0091;Saputra Purnama;ITS;ITS_AB235_CLO1_249;stored procedure;stored procedures;82.5
+M0091;Saputra Purnama;Jakarta;SBD_CLO-02-1;sql;sql;81.4
+M0091;Saputra Purnama;Surabaya;PU_CLO-03-1;figma;figma;80.4
+M0091;Saputra Purnama;Surabaya;SE_CLO-01-1;erp;erp;78.3
+M0091;Saputra Purnama;Jakarta;PAW_CLO-04-2;basis data / database;database;77.9
+M0091;Saputra Purnama;Jakarta;PSC_CLO-04-1;decision tree;decision tree;77.6
+M0091;Saputra Purnama;Jakarta;JK_CLO-01-2;osi layer;osi model;77.1
+M0091;Saputra Purnama;Surabaya;SMHP_CLO-01;crm;crm;77.1
+M0091;Saputra Purnama;ITS;ITS_SBD331_CLO1_375;pemodelan data;data modeling;76.9
+M0091;Saputra Purnama;Surabaya;PU_CLO-04-2;usability testing;usability testing;76.7
+M0091;Saputra Purnama;Jakarta;SO_CLO-02-1;linux;linux;74.6
+M0091;Saputra Purnama;Surabaya;SO_CLO-02-1;http;http;74.6
+M0091;Saputra Purnama;ITS;ITS_LDSD341_CLO1_344;komputasional;computational thinking;74.1
+M0091;Saputra Purnama;Surabaya;SE_CLO-01-2;sap;sap;71.9
+M0091;Saputra Purnama;ITS;ITS_DDMJK126_CLO4;routing;routing;70.3
+M0091;Saputra Purnama;ITS;ITS_SKBM366_CLO1;konsep sistem;konsep;70.2
+M0091;Saputra Purnama;Surabaya;PU_CLO-05;ui/ux design;ui/ux;69.2
+M0091;Saputra Purnama;Jakarta;PD_CLO-02-2;klasifikasi;klasifikasi;62.0
+M0091;Saputra Purnama;Surabaya;JK_CLO-03-2;cisco;cisco networking;60.0
+M0091;Saputra Purnama;ITS;ITS_PD115_CLO4_271;java;java;59.6
+M0092;Satria Aulia Setiawan;Jakarta;PSC_CLO-01;konsep dasar sistem informasi;information systems;83.4
+M0092;Satria Aulia Setiawan;ITS;ITS_PST697_CLO1_311;tatakelola ti;it governance;83.1
+M0092;Satria Aulia Setiawan;Surabaya;PU_CLO-03-2;prototyping;prototyping;82.6
+M0092;Satria Aulia Setiawan;ITS;ITS_PSK856_CLO1_326;iot;internet of things;79.9
+M0092;Satria Aulia Setiawan;ITS;ITS_DDMJK126_CLO6_265;arsitektur jaringan;network architecture;76.0
+M0092;Satria Aulia Setiawan;Surabaya;MSI_CLO-06-2;klasifikasi;klasifikasi;75.8
+M0092;Satria Aulia Setiawan;Jakarta;DWBI_CLO-02-1;basis data / database;database;74.4
+M0092;Satria Aulia Setiawan;Surabaya;DWBI_CLO-02-1;cloud computing;cloud computing;74.4
+M0092;Satria Aulia Setiawan;ITS;ITS_PBA126_CLO1_363;analisis data;data analysis;73.8
+M0092;Satria Aulia Setiawan;Surabaya;MDE_CLO-01;statistika/probabilitas;statistics;73.6
+M0092;Satria Aulia Setiawan;Surabaya;PI_CLO-03;figma;figma;73.2
+M0092;Satria Aulia Setiawan;ITS;ITS_KL369_CLO1_388;algoritma;algorithms;72.5
+M0092;Satria Aulia Setiawan;Surabaya;PPL_CLO-03-2;github;github;71.7
+M0092;Satria Aulia Setiawan;Surabaya;MDE_CLO-03;business intelligence;business intelligence;71.3
+M0092;Satria Aulia Setiawan;Surabaya;KA_CLO-01-1;devops;devops;71.0
+M0092;Satria Aulia Setiawan;Surabaya;APSI_CLO-01-1;agile;agile;69.7
+M0092;Satria Aulia Setiawan;ITS;ITS_PSK856_CLO1_322;soft computing;soft computing;69.6
+M0092;Satria Aulia Setiawan;ITS;ITS_PD115_CLO5_274;komputasional;computational thinking;67.6
+M0092;Satria Aulia Setiawan;ITS;ITS_PDAP829_CLO1_358;pemrograman;programming;66.7
+M0092;Satria Aulia Setiawan;ITS;ITS_GP966_CLO1_278;algoritma graph;graph algorithms;66.0
+M0092;Satria Aulia Setiawan;ITS;ITS_SKBM366_CLO1_393;simulasi;simulation modeling;64.8
+M0092;Satria Aulia Setiawan;Jakarta;AP_CLO-01-1;flowchart;flowchart;64.1
+M0092;Satria Aulia Setiawan;Surabaya;AP_CLO-01-1;python;python;64.1
+M0092;Satria Aulia Setiawan;Jakarta;KSI_CLO-02-2;otorisasi;otorisasi;62.7
+M0092;Satria Aulia Setiawan;Surabaya;KSI_CLO-02-2;vulnerability assessment;vulnerability assessment;62.7
+M0092;Satria Aulia Setiawan;Surabaya;PU_CLO-01-1;design thinking;design thinking;62.3
+M0092;Satria Aulia Setiawan;Surabaya;DWBI_CLO-04-2;kpi;kpi;59.9
+M0092;Satria Aulia Setiawan;Jakarta;JK_CLO-03-2;jaringan komputer;networking;59.3
+M0092;Satria Aulia Setiawan;Surabaya;JK_CLO-03-2;cisco;cisco networking;59.3
+M0092;Satria Aulia Setiawan;ITS;ITS_ODFB259_CLO1_355;desain organisasi;organization design;56.5
+M0093;Satria Budiman;Jakarta;PSC_CLO-02;machine learning;machine learning;91.5
+M0093;Satria Budiman;Jakarta;PBO_CLO-02;konsep dasar sistem informasi;information systems;90.7
+M0093;Satria Budiman;Jakarta;AP_CLO-03;algoritma & pemrograman dasar;algorithm & programming;88.7
+M0093;Satria Budiman;ITS;ITS_PST697_CLO1_312;cobit;cobit;87.7
+M0093;Satria Budiman;Surabaya;MDE_CLO-03;business intelligence;business intelligence;86.8
+M0093;Satria Budiman;Surabaya;KA_CLO-03-1;docker;docker;83.3
+M0093;Satria Budiman;Surabaya;APSI_CLO-01-1;agile;agile;83.0
+M0093;Satria Budiman;ITS;ITS_IT052_CLO1;sistem komputer;computer systems;77.9
+M0093;Satria Budiman;ITS;ITS_KL369_CLO1_388;algoritma;algorithms;77.1
+M0093;Satria Budiman;Surabaya;APB_CLO-02-2;microservices;microservices;76.5
+M0093;Satria Budiman;Jakarta;PAW_CLO-01-1;php;php;73.2
+M0093;Satria Budiman;Surabaya;PAW_CLO-01-1;html;html;73.2
+M0093;Satria Budiman;Jakarta;PSC_CLO-03-2;klasifikasi;klasifikasi;68.5
+M0093;Satria Budiman;Surabaya;APB_CLO-01-1;json;json;68.2
+M0093;Satria Budiman;ITS;ITS_MPB088_CLO1;proses bisnis;business process;53.5
+M0094;Siti Ananda Pangestu;Surabaya;APSI_CLO-02-1;uml;uml;96.9
+M0094;Siti Ananda Pangestu;ITS;ITS_ODFB259_CLO1_355;desain organisasi;organization design;96.7
+M0094;Siti Ananda Pangestu;Jakarta;PSI_CLO-02;microsoft excel;excel;94.2
+M0094;Siti Ananda Pangestu;Jakarta;SBD_CLO-03-1;nosql;nosql;92.9
+M0094;Siti Ananda Pangestu;Surabaya;KA_CLO-03-1;docker;docker;92.6
+M0094;Siti Ananda Pangestu;Surabaya;KA_CLO-01-1;devops;devops;92.2
+M0094;Siti Ananda Pangestu;Jakarta;SO_CLO-02-1;linux;linux;91.4
+M0094;Siti Ananda Pangestu;Surabaya;SO_CLO-02-1;http;http;91.4
+M0094;Siti Ananda Pangestu;Jakarta;IAE2_CLO-01-2;api;api;89.4
+M0094;Siti Ananda Pangestu;Surabaya;IAE2_CLO-01-2;rest api;rest api;89.4
+M0094;Siti Ananda Pangestu;Jakarta;TKMTI_CLO-02;cobit;cobit;89.0
+M0094;Siti Ananda Pangestu;Jakarta;PD_CLO-02-2;klasifikasi;klasifikasi;84.0
+M0094;Siti Ananda Pangestu;Jakarta;PS2_CLO-01;statistika/probabilitas;statistics;83.3
+M0094;Siti Ananda Pangestu;Jakarta;JK_CLO-01-2;osi layer;osi model;83.0
+M0094;Siti Ananda Pangestu;Surabaya;JK_CLO-01-2;jaringan komputer;networking;83.0
+M0094;Siti Ananda Pangestu;Jakarta;CDAP_CLO-02;konsep dasar sistem informasi;information systems;82.1
+M0094;Siti Ananda Pangestu;Jakarta;AP_CLO-01-2;pseudocode;pseudocode;78.9
+M0094;Siti Ananda Pangestu;Surabaya;AP_CLO-01-2;java;java;78.9
+M0094;Siti Ananda Pangestu;Jakarta;SE_CLO-01;erp;erp;73.6
+M0094;Siti Ananda Pangestu;Jakarta;SBD_CLO-01-1;erd;erd;71.1
+M0095;Siti Cahya Budiman;ITS;ITS_IT052_CLO1_298;perangkat lunak;software engineering;100.0
+M0095;Siti Cahya Budiman;Jakarta;KSI_CLO-03-1;kriptografi;cryptography;100.0
+M0095;Siti Cahya Budiman;Jakarta;PD_CLO-04-2;data mining;data mining;95.5
+M0095;Siti Cahya Budiman;Surabaya;EPRTI_CLO-01;konsep dasar sistem informasi;information systems;93.8
+M0095;Siti Cahya Budiman;ITS;ITS_KL369_CLO1_387;optimasi;optimization;89.9
+M0095;Siti Cahya Budiman;Jakarta;JK_CLO-02-1;routing;routing;89.0
+M0095;Siti Cahya Budiman;ITS;ITS_PSK856_CLO1_322;soft computing;soft computing;88.9
+M0095;Siti Cahya Budiman;Jakarta;DWBI_CLO-01-1;data warehouse;data warehousing;87.3
+M0095;Siti Cahya Budiman;ITS;ITS_MLTI487_CLO2;manajemen layanan ti;it service management;86.9
+M0095;Siti Cahya Budiman;ITS;ITS_KL369_CLO1_388;algoritma;algorithms;86.6
+M0095;Siti Cahya Budiman;Jakarta;DWBI_CLO-02-1;basis data / database;database;85.3
+M0095;Siti Cahya Budiman;Surabaya;DWBI_CLO-02-1;cloud computing;cloud computing;85.3
+M0095;Siti Cahya Budiman;ITS;ITS_PBA126_CLO1_363;analisis data;data analysis;84.5
+M0095;Siti Cahya Budiman;Jakarta;PAW_CLO-02-1;php;php;81.2
+M0095;Siti Cahya Budiman;Jakarta;PSI_CLO-02;microsoft excel;excel;80.8
+M0095;Siti Cahya Budiman;ITS;ITS_FD704_CLO1_293;implementasi;implementasi;80.5
+M0095;Siti Cahya Budiman;ITS;ITS_PST697_CLO1_311;tatakelola ti;it governance;80.3
+M0095;Siti Cahya Budiman;Surabaya;SE_CLO-01-1;erp;erp;68.9
+M0096;Surya Syahputra;ITS;ITS_FD704_CLO1_294;pengembangan keamanan data;data security;96.2
+M0096;Surya Syahputra;ITS;ITS_DL830_CLO1;data warehouse;data warehousing;90.3
+M0096;Surya Syahputra;ITS;ITS_SKBM366_CLO3;validasi model simulasi sistem dinamika;system dynamics simulation;88.0
+M0096;Surya Syahputra;Surabaya;APSI_CLO-01-2;kanban;kanban;87.4
+M0096;Surya Syahputra;Surabaya;SMHP_CLO-01;crm;crm;86.1
+M0096;Surya Syahputra;Surabaya;DT_CLO-02;prototyping;prototyping;84.5
+M0096;Surya Syahputra;ITS;ITS_ADSD677_CLO1_287;algoritma;algorithms;84.3
+M0096;Surya Syahputra;Jakarta;AE_CLO-01;konsep dasar sistem informasi;information systems;84.1
+M0096;Surya Syahputra;ITS;ITS_RO516_CLO1_370;pemrograman integer;integer programming;84.0
+M0096;Surya Syahputra;Jakarta;SBD_CLO-01-2;basis data / database;database;81.9
+M0096;Surya Syahputra;Surabaya;PPL_CLO-02-2;github;github;78.7
+M0096;Surya Syahputra;ITS;ITS_ADDD245_CLO1_332;analytics;analytics;75.5
+M0096;Surya Syahputra;Surabaya;PU_CLO-03-1;figma;figma;75.4
+M0096;Surya Syahputra;Jakarta;MSI_CLO-02-1;machine learning;machine learning;73.8
+M0096;Surya Syahputra;ITS;ITS_FD704_CLO1_295;infrastruktur sistem;it infrastructure;71.8
+M0096;Surya Syahputra;ITS;ITS_GP966_CLO1_277;pemodelan data;data modeling;71.5
+M0096;Surya Syahputra;Jakarta;TKMTI_CLO-01;cobit;cobit;66.5
+M0096;Surya Syahputra;ITS;ITS_ADSD677_CLO1_288;desain;desain;66.2
+M0096;Surya Syahputra;Surabaya;PD_CLO-01-2;clustering;clustering;64.6
+M0096;Surya Syahputra;Jakarta;PS2_CLO-02;statistika/probabilitas;statistics;60.6
+M0097;Syahrul Aulia Setiawan;ITS;ITS_PBA126_CLO1_363;analisis data;data analysis;87.6
+M0097;Syahrul Aulia Setiawan;ITS;ITS_MRP265_CLO1_349;perencanaan agregat;aggregate planning;82.3
+M0097;Syahrul Aulia Setiawan;ITS;ITS_AB235_CLO1_251;perbaikan masalah;troubleshooting;82.3
+M0097;Syahrul Aulia Setiawan;Surabaya;PD_CLO-01-1;data mining;data mining;81.4
+M0097;Syahrul Aulia Setiawan;ITS;ITS_PSK856_CLO1_326;iot;internet of things;80.5
+M0097;Syahrul Aulia Setiawan;Jakarta;MPPKI_CLO-01;konsep dasar sistem informasi;information systems;79.6
+M0097;Syahrul Aulia Setiawan;ITS;ITS_IT052_CLO1_299;jaringan komputer;networking;78.9
+M0097;Syahrul Aulia Setiawan;Jakarta;IAE2_CLO-02-1;python;python;78.8
+M0097;Syahrul Aulia Setiawan;ITS;ITS_SBD331_CLO1_376;basis data logikal;database design;77.4
+M0097;Syahrul Aulia Setiawan;Jakarta;SO_CLO-02-2;tcp/ip;tcp/ip;76.8
+M0097;Syahrul Aulia Setiawan;Surabaya;SO_CLO-02-2;linux;linux;76.8
+M0097;Syahrul Aulia Setiawan;ITS;ITS_LDSD341_CLO1_343;struktur diskrit;discrete mathematics;76.8
+M0097;Syahrul Aulia Setiawan;ITS;ITS_PST697_CLO1_311;tatakelola ti;it governance;75.2
+M0097;Syahrul Aulia Setiawan;Jakarta;PSC_CLO-04-2;algoritma & pemrograman dasar;algorithm & programming;74.2
+M0097;Syahrul Aulia Setiawan;Jakarta;PS2_CLO-01;statistika/probabilitas;statistics;73.6
+M0097;Syahrul Aulia Setiawan;Jakarta;SI_CLO-02;regresi;regression analysis;72.5
+M0097;Syahrul Aulia Setiawan;ITS;ITS_AB235_CLO1_252;sistem database;database;70.3
+M0097;Syahrul Aulia Setiawan;Jakarta;IAE2_CLO-01-1;graphql;graphql;69.6
+M0097;Syahrul Aulia Setiawan;ITS;ITS_FD704_CLO1;infrastruktur;it infrastructure;68.5
+M0097;Syahrul Aulia Setiawan;Jakarta;JK_CLO-01-1;switching;network switching;67.0
+M0097;Syahrul Aulia Setiawan;Surabaya;JK_CLO-01-1;osi layer;osi model;67.0
+M0097;Syahrul Aulia Setiawan;ITS;ITS_AB235_CLO1_250;deteksi;anomaly detection;66.2
+M0097;Syahrul Aulia Setiawan;Jakarta;SBD_CLO-02-1;sql;sql;61.9
+M0097;Syahrul Aulia Setiawan;ITS;ITS_SITI927_CLO1;teknologi informasi;information technology;59.0
+M0097;Syahrul Aulia Setiawan;ITS;ITS_PSK856_CLO1_327;cognitive computing;cognitive computing;58.6
+M0098;Taufik Wahyudi;ITS;ITS_KL369_CLO1_388;algoritma;algorithms;94.6
+M0098;Taufik Wahyudi;ITS;ITS_PDAP113_CLO1_365;data scientist;data science;89.8
+M0098;Taufik Wahyudi;ITS;ITS_MLTI487_CLO1;manajemen layanan ti;it service management;88.9
+M0098;Taufik Wahyudi;ITS;ITS_PSK856_CLO1_322;soft computing;soft computing;88.2
+M0098;Taufik Wahyudi;Surabaya;APB_CLO-02-1;basis data / database;database;82.7
+M0098;Taufik Wahyudi;ITS;ITS_LDSD341_CLO1_344;komputasional;computational thinking;82.2
+M0098;Taufik Wahyudi;ITS;ITS_MHP365_CLO5_346;strategi bisnis;business strategy;82.2
+M0098;Taufik Wahyudi;ITS;ITS_PSK856_CLO1_324;ai;artificial intelligence;79.9
+M0098;Taufik Wahyudi;ITS;ITS_MPB088_CLO1;proses bisnis;business process;78.9
+M0098;Taufik Wahyudi;Jakarta;MD_CLO-01;konsep dasar sistem informasi;information systems;77.8
+M0098;Taufik Wahyudi;ITS;ITS_PAI936_CLO1_309;technical;technical skills;77.0
+M0098;Taufik Wahyudi;ITS;ITS_PST697_CLO5;teknologi informasi;information technology;75.5
+M0098;Taufik Wahyudi;Jakarta;PSI_CLO-02;microsoft excel;excel;70.6
+M0098;Taufik Wahyudi;Surabaya;DWBI_CLO-04-1;data warehouse;data warehousing;69.4
+M0098;Taufik Wahyudi;Surabaya;PU_CLO-03-2;prototyping;prototyping;68.8
+M0098;Taufik Wahyudi;ITS;ITS_PD115_CLO1_267;java;java;68.2
+M0098;Taufik Wahyudi;Surabaya;MDE_CLO-01;statistika/probabilitas;statistics;66.6
+M0098;Taufik Wahyudi;Jakarta;PAW_CLO-04-1;php;php;66.4
+M0099;Tri Suhendra;ITS;ITS_SBD331_CLO1_377;model;model;92.7
+M0099;Tri Suhendra;Jakarta;PD_CLO-03;data mining;data mining;92.2
+M0099;Tri Suhendra;Jakarta;SO_CLO-03-1;linux;linux;91.7
+M0099;Tri Suhendra;Surabaya;SO_CLO-03-1;http;http;91.7
+M0099;Tri Suhendra;ITS;ITS_IT052_CLO1_298;perangkat lunak;software engineering;88.2
+M0099;Tri Suhendra;Jakarta;MSDM_CLO-04;konsep dasar sistem informasi;information systems;87.6
+M0099;Tri Suhendra;Jakarta;DT_CLO-02-2;prototyping;prototyping;85.0
+M0099;Tri Suhendra;ITS;ITS_ODFB259_CLO1;sistem fluss;flow systems;84.7
+M0099;Tri Suhendra;ITS;ITS_MHP365_CLO5_346;strategi bisnis;business strategy;83.3
+M0099;Tri Suhendra;ITS;ITS_ADSD677_CLO1_286;struktur data;data structures;81.9
+M0099;Tri Suhendra;Jakarta;SO_CLO-04;firewall;firewall;81.6
+M0099;Tri Suhendra;ITS;ITS_PD115_CLO4;pemrograman;programming;79.4
+M0099;Tri Suhendra;Jakarta;SI_CLO-02;regresi;regression analysis;79.2
+M0099;Tri Suhendra;Surabaya;SI_CLO-02;statistika/probabilitas;statistics;79.2
+M0099;Tri Suhendra;Surabaya;PBO_CLO-01-1;java;java;76.3
+M0099;Tri Suhendra;Jakarta;APSI_CLO-02;basis data / database;database;75.4
+M0099;Tri Suhendra;Surabaya;MRP_CLO-03-1;erp;erp;73.5
+M0099;Tri Suhendra;ITS;ITS_PST697_CLO1_313;tatakelola ti;it governance;72.4
+M0099;Tri Suhendra;Jakarta;PAW_CLO-04-1;php;php;69.2
+M0099;Tri Suhendra;ITS;ITS_PSK856_CLO1_326;iot;internet of things;64.5
+M0100;Tri Wijaya;Jakarta;MSDM_CLO-04;konsep dasar sistem informasi;information systems;96.4
+M0100;Tri Wijaya;ITS;ITS_SBD331_CLO1_375;pemodelan data;data modeling;95.0
+M0100;Tri Wijaya;Jakarta;SI_CLO-01;statistika/probabilitas;statistics;90.1
+M0100;Tri Wijaya;Jakarta;IAE2_CLO-01-1;graphql;graphql;88.9
+M0100;Tri Wijaya;ITS;ITS_ADSD677_CLO1_290;struktur data;data structures;88.0
+M0100;Tri Wijaya;Surabaya;PAB_CLO-03-1;basis data / database;database;85.4
+M0100;Tri Wijaya;ITS;ITS_SE608_CLO1_383;pemrograman open source;open source software;84.8
+M0100;Tri Wijaya;ITS;ITS_AB235_CLO1;administrasi basis data;database administration;82.3
+M0100;Tri Wijaya;ITS;ITS_PD115_CLO5_274;komputasional;computational thinking;77.4
+M0100;Tri Wijaya;ITS;ITS_ODFB259_CLO1_355;desain organisasi;organization design;77.2
+M0100;Tri Wijaya;Jakarta;JK_CLO-03-2;jaringan komputer;networking;77.0
+M0100;Tri Wijaya;Surabaya;JK_CLO-03-2;cisco;cisco networking;77.0
+M0100;Tri Wijaya;ITS;ITS_PST944_CLO1;tatakelola keamanan informasi;information security;76.8
+M0100;Tri Wijaya;Jakarta;MSI_CLO-02-2;klasifikasi;klasifikasi;76.4
+M0100;Tri Wijaya;Jakarta;SI_CLO-02;regresi;regression analysis;76.0
+M0100;Tri Wijaya;Surabaya;SMHP_CLO-01;crm;crm;74.7
+M0100;Tri Wijaya;Surabaya;DWBI_CLO-04-2;kpi;kpi;72.3

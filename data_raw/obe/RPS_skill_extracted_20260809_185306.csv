@@ -1,0 +1,397 @@
+﻿source;kode_mk;clo_id;skill_text;skill_type;original_clo
+TELU;BBK4LBB3;CLO2;adopsi teknologi informasi.;HSkill;BBK4LBB3: T Mampu menjabarkan atribut inovasi dan tingkat adopsi serta menguraikan model-model difusi dan adopsi teknologi informasi.
+TELU;BBK4LBB3;CLO3;teknologi informasi.;HSkill;BBK4LBB3: Mampu menganalisis tingkat adopsi dari suatu studi kasus serta menganalisis strategi penerimaan teknologi informasi.
+TELU;BBK1AAB4;CLO1;flowchart,;HSkill;BBK1AAB4: Mampu memahami flowchart, pseudocode, sejarah pemrograman, konsep variabel, tipe data, type casting, user input, operator, percabangan if-el
+TELU;BBK1AAB4;CLO1;pseudocode,;HSkill;BBK1AAB4: Mampu memahami flowchart, pseudocode, sejarah pemrograman, konsep variabel, tipe data, type casting, user input, operator, percabangan if-el
+TELU;BBK1AAB4;CLO1;pemrograman,;HSkill;BBK1AAB4: Mampu memahami flowchart, pseudocode, sejarah pemrograman, konsep variabel, tipe data, type casting, user input, operator, percabangan if-el
+TELU;BBK1AAB4;CLO1;konsep variabel,;HSkill;BBK1AAB4: Mampu memahami flowchart, pseudocode, sejarah pemrograman, konsep variabel, tipe data, type casting, user input, operator, percabangan if-el
+TELU;BBK1AAB4;CLO1;array,;HSkill;BBK1AAB4: Mampu memahami flowchart, pseudocode, sejarah pemrograman, konsep variabel, tipe data, type casting, user input, operator, percabangan if-el
+TELU;BBK1AAB4;CLO1;algoritma,;HSkill;BBK1AAB4: Mampu memahami flowchart, pseudocode, sejarah pemrograman, konsep variabel, tipe data, type casting, user input, operator, percabangan if-el
+TELU;BBK1AAB4;CLO1;debugging,;HSkill;BBK1AAB4: Mampu memahami flowchart, pseudocode, sejarah pemrograman, konsep variabel, tipe data, type casting, user input, operator, percabangan if-el
+TELU;BBK1AAB4;CLO1;exception;HSkill;BBK1AAB4: Mampu memahami flowchart, pseudocode, sejarah pemrograman, konsep variabel, tipe data, type casting, user input, operator, percabangan if-el
+TELU;BBK1AAB4;CLO1;pemrograman.;HSkill;BBK1AAB4: Mampu memahami flowchart, pseudocode, sejarah pemrograman, konsep variabel, tipe data, type casting, user input, operator, percabangan if-el
+TELU;BBK1AAB4;CLO2;merancang algoritma;HSkill;BBK1AAB4: Mampu memahami bagaimana merancang algoritma serta mengimplementasikan algoritma sederhana.
+TELU;BBK1AAB4;CLO2;algoritma;HSkill;BBK1AAB4: Mampu memahami bagaimana merancang algoritma serta mengimplementasikan algoritma sederhana.
+TELU;BBK1AAB4;CLO3;algoritma;HSkill;BBK1AAB4: Mampu mengimplementasikan algoritma sederhana
+TELU;BBK3JBB3;CLO1;arsitektur backend;HSkill;BBK3JBB3: Mahasiswa mampu menjelaskan dasar-dasar tentang jenis-jenis arsitektur backend dan konsep web service, REST serta microservice, serta memaha
+TELU;BBK3JBB3;CLO1;web service,;HSkill;BBK3JBB3: Mahasiswa mampu menjelaskan dasar-dasar tentang jenis-jenis arsitektur backend dan konsep web service, REST serta microservice, serta memaha
+TELU;BBK3JBB3;CLO1;REST;Tech;BBK3JBB3: Mahasiswa mampu menjelaskan dasar-dasar tentang jenis-jenis arsitektur backend dan konsep web service, REST serta microservice, serta memaha
+TELU;BBK3JBB3;CLO1;microservice,;HSkill;BBK3JBB3: Mahasiswa mampu menjelaskan dasar-dasar tentang jenis-jenis arsitektur backend dan konsep web service, REST serta microservice, serta memaha
+TELU;BBK3JBB3;CLO1;web service;HSkill;BBK3JBB3: Mahasiswa mampu menjelaskan dasar-dasar tentang jenis-jenis arsitektur backend dan konsep web service, REST serta microservice, serta memaha
+TELU;BBK3JBB3;CLO1;JSON,;Tech;BBK3JBB3: Mahasiswa mampu menjelaskan dasar-dasar tentang jenis-jenis arsitektur backend dan konsep web service, REST serta microservice, serta memaha
+TELU;BBK3JBB3;CLO1;XML,;Tech;BBK3JBB3: Mahasiswa mampu menjelaskan dasar-dasar tentang jenis-jenis arsitektur backend dan konsep web service, REST serta microservice, serta memaha
+TELU;BBK3JBB3;CLO1;sistem web service;HSkill;BBK3JBB3: Mahasiswa mampu menjelaskan dasar-dasar tentang jenis-jenis arsitektur backend dan konsep web service, REST serta microservice, serta memaha
+TELU;BBK3JBB3;CLO3;web service;HSkill;BBK3JBB3: Mampu menggunakan kakas atau perangkat lunak terkini untuk mengembangkan web service yang dapat melakukan operasi READ dari database, autent
+TELU;BBK3JBB3;CLO3;database,;HSkill;BBK3JBB3: Mampu menggunakan kakas atau perangkat lunak terkini untuk mengembangkan web service yang dapat melakukan operasi READ dari database, autent
+TELU;BBK3JBB3;CLO3;autentifikasi,;HSkill;BBK3JBB3: Mampu menggunakan kakas atau perangkat lunak terkini untuk mengembangkan web service yang dapat melakukan operasi READ dari database, autent
+TELU;BBK3JBB3;CLO2;deployment web service,;HSkill;BBK3JBB3: Mampu mengembangkan deployment web service, melakukan evaluasi dan studi kasus terhadap beberapa sistem back-end yang sudah pernah dikembang
+TELU;BBK3JBB3;CLO2;sistem back-end;HSkill;BBK3JBB3: Mampu mengembangkan deployment web service, melakukan evaluasi dan studi kasus terhadap beberapa sistem back-end yang sudah pernah dikembang
+TELU;BBK3JBB3;CLO2;microservice;HSkill;BBK3JBB3: Mampu mengembangkan deployment web service, melakukan evaluasi dan studi kasus terhadap beberapa sistem back-end yang sudah pernah dikembang
+TELU;BBK3JBB3;CLO2;microservice;HSkill;BBK3JBB3: Mampu mengembangkan deployment web service, melakukan evaluasi dan studi kasus terhadap beberapa sistem back-end yang sudah pernah dikembang
+TELU;BBK3JBB3;CLO2;database.;HSkill;BBK3JBB3: Mampu mengembangkan deployment web service, melakukan evaluasi dan studi kasus terhadap beberapa sistem back-end yang sudah pernah dikembang
+TELU;BBK3AAB3;CLO1;arsitektur enterprise;HSkill;BBK3AAB3: Mampu menganalisis kebutuhan arsitektur enterprise pada suatu organisasi
+TELU;BBK3AAB3;CLO2;arsitektur enterprise.;HSkill;BBK3AAB3: Mampu menggunakan teknik dan kemasan dalam menyusun arsitektur enterprise.
+TELU;BBK3AAB3;CLO3;arsitektur enterprise;HSkill;BBK3AAB3: Mampu merancang arsitektur enterprise berdasarkan framework dan bahasa pemodelan yang terstandardisasi pada suatu studi kasus serta mampu me
+TELU;BBK3AAB3;CLO3;pemodelan;HSkill;BBK3AAB3: Mampu merancang arsitektur enterprise berdasarkan framework dan bahasa pemodelan yang terstandardisasi pada suatu studi kasus serta mampu me
+TELU;BBK3AAB3;CLO3;arsitektur enterprise;HSkill;BBK3AAB3: Mampu merancang arsitektur enterprise berdasarkan framework dan bahasa pemodelan yang terstandardisasi pada suatu studi kasus serta mampu me
+TELU;BBK3GAB3;CLO2;past tense,;HSkill;BBK3GAB3: CLO-2 mampu menyatakan sudut pandang dengan bukti yang mendukung dan menarik terkait kreasi ciptaan teknologi mereka dalam 3-5 paragraf meng
+TELU;BBK3GAB3;CLO3;sistem informasi;HSkill;BBK3GAB3: CLO-3 mampu mengungkapkan secara lisan kalimat sederhana, majemuk, dan kompleks dalam present tense, present continuous tense, dan present p
+TELU;BBK3GAB3;CLO4;past;HSkill;BBK3GAB3: CLO-4 mampu mengungkapkan secara lisan kalimat sederhana, majemuk, dan kompleks dalam present tense, past tense, present perfect, dan past p
+TELU;BBK1FAB3;CLO3;ide bisnis;HSkill;BBK1FAB3: Mampu mengkomunikasikan ide bisnis kepada stakeholder
+TELU;BBK2BAB2;CLO1;Teknologi Informasi.;HSkill;BBK2BAB2: Mampu memahami etika yang harus dipenuhi dalam bidang Teknologi Informasi serta memahami etika sebagai profesional dalam bidang Teknologi In
+TELU;BBK2BAB2;CLO2;teknologi informasi;HSkill;BBK2BAB2: Mampu memahami kode etik terkait dengan penggunaan teknologi informasi dan data, memahami etika yang harus dipenuhi dalam bidang Teknologi I
+TELU;BBK2BAB2;CLO2;Teknologi Informasi;HSkill;BBK2BAB2: Mampu memahami kode etik terkait dengan penggunaan teknologi informasi dan data, memahami etika yang harus dipenuhi dalam bidang Teknologi I
+TELU;BBK2BAB2;CLO2;Teknologi Informasi,;HSkill;BBK2BAB2: Mampu memahami kode etik terkait dengan penggunaan teknologi informasi dan data, memahami etika yang harus dipenuhi dalam bidang Teknologi I
+TELU;BBK2BAB2;CLO2;teknologi digital;HSkill;BBK2BAB2: Mampu memahami kode etik terkait dengan penggunaan teknologi informasi dan data, memahami etika yang harus dipenuhi dalam bidang Teknologi I
+TELU;BBK3NBB3;CLO3;sistem informasi;HSkill;BBK3NBB3: Mampu menyusun perencanaan dalam konteks sistem informasi menggunakan ilmu dan praktek yang relevan dan terpenuhi.
+TELU;BBK3NBB3;CLO2;perangkat lunak;HSkill;BBK3NBB3: Mampu menggunakan teknik, metode, perangkat lunak terkini untuk menghasilkan solusi di bidang pengelolaan fungsi dan bisnis organisasi dalam
+TELU;BBK2HAB3;CLO1;integrasi aplikasi enterprise;HSkill;BBK2HAB3: Mampu mengidentifikasi kebutuhan integrasi aplikasi enterprise serta menggunakan teknologi terbaru berkaitan dengan integrasi aplikasi enter
+TELU;BBK2HAB3;CLO1;integrasi aplikasi enterprise;HSkill;BBK2HAB3: Mampu mengidentifikasi kebutuhan integrasi aplikasi enterprise serta menggunakan teknologi terbaru berkaitan dengan integrasi aplikasi enter
+TELU;BBK2HAB3;CLO1;sistem informasi;HSkill;BBK2HAB3: Mampu mengidentifikasi kebutuhan integrasi aplikasi enterprise serta menggunakan teknologi terbaru berkaitan dengan integrasi aplikasi enter
+TELU;BBK2HAB3;CLO2;integrasi aplikasi enterprise;HSkill;BBK2HAB3: Mampu mengimplementasikan teknologi integrasi yang paling sesuai dengan kebutuhan sistem informasi enterprise serta menggunakan kakas atau t
+TELU;BBK1GAB3;CLO1;komunikasi jaringan komputer,;HSkill;BBK1GAB3: Mampu memahami dasar-dasar komunikasi jaringan komputer, keberadaan, ketersediaan, keterpercayaan, dan keamanan jaringan komputer.
+TELU;BBK1GAB3;CLO1;keamanan jaringan komputer.;HSkill;BBK1GAB3: Mampu memahami dasar-dasar komunikasi jaringan komputer, keberadaan, ketersediaan, keterpercayaan, dan keamanan jaringan komputer.
+TELU;BBK1GAB3;CLO2;pengalamatan;HSkill;BBK1GAB3: Mampu menerapkan pengalamatan dan konfigurasi perangkat jaringan komputer
+TELU;BBK1GAB3;CLO2;konfigurasi perangkat jaringan komputer;HSkill;BBK1GAB3: Mampu menerapkan pengalamatan dan konfigurasi perangkat jaringan komputer
+TELU;BBK1GAB3;CLO3;jaringan komputer;HSkill;BBK1GAB3: Mampu merancang jaringan komputer dalam sebuah institusi
+TELU;BBK1HAB2;CLO3;media;HSkill;BBK1HAB2: Mahasiswa mampu menyusun dan mengkomunikasikan ide dan pemikiran dalam berbagai bentuk media informasi.
+TELU;BBK3CAB3;CLO1;teknologi;HSkill;BBK3CAB3: Mahasiswa mampu memahami konsep utama, teknologi utama, kekuatan, dan keterbatasan komputasi awan.
+TELU;BBK3CAB3;CLO1;komputasi awan.;HSkill;BBK3CAB3: Mahasiswa mampu memahami konsep utama, teknologi utama, kekuatan, dan keterbatasan komputasi awan.
+TELU;BBK3CAB3;CLO2;arsitektur;HSkill;BBK3CAB3: Mahasiswa mampu mengidentifikasi arsitektur dan infrastruktur komputasi awan, termasuk pengiriman awan dan model penerapannya.
+TELU;BBK3CAB3;CLO2;infrastruktur komputasi awan,;HSkill;BBK3CAB3: Mahasiswa mampu mengidentifikasi arsitektur dan infrastruktur komputasi awan, termasuk pengiriman awan dan model penerapannya.
+TELU;BBK3CAB3;CLO4;komputasi awan;HSkill;BBK3CAB3: Mahasiswa mampu mengidentifikasi solusi dan rekomendasi dari permasalahan komputasi awan yang tepat berdasarkan hasil analisis dan evaluasi 
+TELU;BBK3CAB3;CLO3;komputasi awan;HSkill;BBK3CAB3: Mahasiswa mampu menganalisis masalah inti dari komputasi awan mulai dari infrastruktur, layanan, hingga keamanannya.
+TELU;BBK3CAB3;CLO3;infrastruktur,;HSkill;BBK3CAB3: Mahasiswa mampu menganalisis masalah inti dari komputasi awan mulai dari infrastruktur, layanan, hingga keamanannya.
+TELU;BBK3CAB3;CLO3;layanan,;HSkill;BBK3CAB3: Mahasiswa mampu menganalisis masalah inti dari komputasi awan mulai dari infrastruktur, layanan, hingga keamanannya.
+TELU;BBK3DAB3;CLO1;tata kelola;HSkill;BBK3DAB3: Mahasiswa mampu menjelaskan konsep dasar tata kelola dan manajemen data meliputi prinsip, proses, dan kerangka kerja berbasis siklus pengelo
+TELU;BBK3DAB3;CLO1;manajemen data;HSkill;BBK3DAB3: Mahasiswa mampu menjelaskan konsep dasar tata kelola dan manajemen data meliputi prinsip, proses, dan kerangka kerja berbasis siklus pengelo
+TELU;BBK3DAB3;CLO1;tata kelola;HSkill;BBK3DAB3: Mahasiswa mampu menjelaskan konsep dasar tata kelola dan manajemen data meliputi prinsip, proses, dan kerangka kerja berbasis siklus pengelo
+TELU;BBK3DAB3;CLO1;manajemen data,;HSkill;BBK3DAB3: Mahasiswa mampu menjelaskan konsep dasar tata kelola dan manajemen data meliputi prinsip, proses, dan kerangka kerja berbasis siklus pengelo
+TELU;BBK3DAB3;CLO1;komputasi,;HSkill;BBK3DAB3: Mahasiswa mampu menjelaskan konsep dasar tata kelola dan manajemen data meliputi prinsip, proses, dan kerangka kerja berbasis siklus pengelo
+TELU;BBK3DAB3;CLO1;statistika,;HSkill;BBK3DAB3: Mahasiswa mampu menjelaskan konsep dasar tata kelola dan manajemen data meliputi prinsip, proses, dan kerangka kerja berbasis siklus pengelo
+TELU;BBK3DAB3;CLO1;teknologi informasi;HSkill;BBK3DAB3: Mahasiswa mampu menjelaskan konsep dasar tata kelola dan manajemen data meliputi prinsip, proses, dan kerangka kerja berbasis siklus pengelo
+TELU;BBK3DAB3;CLO1;komunikasi,;HSkill;BBK3DAB3: Mahasiswa mampu menjelaskan konsep dasar tata kelola dan manajemen data meliputi prinsip, proses, dan kerangka kerja berbasis siklus pengelo
+TELU;BBK3DAB3;CLO3;asesmen;HSkill;BBK3DAB3: Mahasiswa mampu melakukan asesmen dan analisis kesenjangan implementasi tata kelola dan manajemen data.
+TELU;BBK3DAB3;CLO3;analisis;HSkill;BBK3DAB3: Mahasiswa mampu melakukan asesmen dan analisis kesenjangan implementasi tata kelola dan manajemen data.
+TELU;BBK3DAB3;CLO3;implementasi;HSkill;BBK3DAB3: Mahasiswa mampu melakukan asesmen dan analisis kesenjangan implementasi tata kelola dan manajemen data.
+TELU;BBK3DAB3;CLO3;tata kelola;HSkill;BBK3DAB3: Mahasiswa mampu melakukan asesmen dan analisis kesenjangan implementasi tata kelola dan manajemen data.
+TELU;BBK3DAB3;CLO3;manajemen data.;HSkill;BBK3DAB3: Mahasiswa mampu melakukan asesmen dan analisis kesenjangan implementasi tata kelola dan manajemen data.
+TELU;BBK3DAB3;CLO5;teknologi tata kelola;HSkill;BBK3DAB3: Mahasiswa mampu merancang solusi kontrol personil, proses, dan teknologi tata kelola dan manajemen data untuk diterapkan pada suatu obyek or
+TELU;BBK3DAB3;CLO5;manajemen data;HSkill;BBK3DAB3: Mahasiswa mampu merancang solusi kontrol personil, proses, dan teknologi tata kelola dan manajemen data untuk diterapkan pada suatu obyek or
+TELU;BBK1BAB3;CLO1;permutasi,;HSkill;BBK1BAB3: Mampu membedakan proposisi atomik dan proposisi majemuk, menggunakan tabel kebenaran, prinsip implikasi dan biimplikasi untuk menyimpulkan k
+TELU;BBK1BAB3;CLO1;combinasi,;HSkill;BBK1BAB3: Mampu membedakan proposisi atomik dan proposisi majemuk, menggunakan tabel kebenaran, prinsip implikasi dan biimplikasi untuk menyimpulkan k
+TELU;BBK1BAB3;CLO2;T;Tech;BBK1BAB3: Mampu menerapkan prinsip graf dan prinsip graf T serta prinsip pohon (tree) untuk menyelesaikan masalah tertentu dalam pemodelan jaringan.
+TELU;BBK3VBB3;CLO1;analisis;HSkill;BBK3VBB3: Mahasiswa mampu memahami domain smart city serta memberikan keilmuan sistem informasi untuk melakukan analisis implementasi di lingkungan pe
+TELU;BBK3VBB3;CLO3;smart city.;HSkill;BBK3VBB3: Mahasiswa mampu menerapkan dan merekayasa solusi untuk mencapai keberhasilan dalam smart city.
+TELU;BBK3VBB3;CLO4;smart city.;HSkill;BBK3VBB3: Mahasiswa mampu memberikan solusi inovatif, ide, dan gagasan untuk menciptakan smart city.
+TELU;BBK1DAB3;CLO2;sistem;HSkill;BBK1DAB3: Mampu menjelaskan sistem dan teknologi informasi yang berkembang serta mampu memahami dan merespons secara real-time kebutuhan bisnis melalu
+TELU;BBK1DAB3;CLO2;teknologi informasi;HSkill;BBK1DAB3: Mampu menjelaskan sistem dan teknologi informasi yang berkembang serta mampu memahami dan merespons secara real-time kebutuhan bisnis melalu
+TELU;BBK1DAB3;CLO2;analisis data,;HSkill;BBK1DAB3: Mampu menjelaskan sistem dan teknologi informasi yang berkembang serta mampu memahami dan merespons secara real-time kebutuhan bisnis melalu
+TELU;BBK1DAB3;CLO1;sistem informasi.;HSkill;BBK1DAB3: Mampu menjelaskan profesi dalam bidang sistem informasi.
+TELU;BBK1DAB3;CLO3;sistem informasi.;HSkill;BBK1DAB3: Mampu menganalisis profesi dalam bidang sistem informasi.
+TELU;BBK4DBB3;CLO1;pengembangan aplikasi mobile,;HSkill;BBK4DBB3: Mahasiswa mampu memahami konsep dalam pengembangan aplikasi mobile, trend aplikasi mobile dan perkembangannya serta dapat membuat aplikasi b
+TELU;BBK4DBB3;CLO3;layanan web service/;HSkill;BBK4DBB3: Mahasiswa mampu merancang, membuat, serta mempertahankan tampilan (frontend), layanan web service/ backend, dan aplikasi bergerak yang memen
+TELU;BBK4DBB3;CLO3;backend,;HSkill;BBK4DBB3: Mahasiswa mampu merancang, membuat, serta mempertahankan tampilan (frontend), layanan web service/ backend, dan aplikasi bergerak yang memen
+TELU;BBK4DBB3;CLO3;penyimpanan data;HSkill;BBK4DBB3: Mahasiswa mampu merancang, membuat, serta mempertahankan tampilan (frontend), layanan web service/ backend, dan aplikasi bergerak yang memen
+TELU;BBK2DAB3;CLO1;HTML,;Tech;BBK2DAB3: Mampu menerapkan HTML, CSS dan Bootstrap berdasarkan rancangan halaman website sederhana serta menggunakan pemrograman Server-Side berbasis 
+TELU;BBK2DAB3;CLO1;CSS;Tech;BBK2DAB3: Mampu menerapkan HTML, CSS dan Bootstrap berdasarkan rancangan halaman website sederhana serta menggunakan pemrograman Server-Side berbasis 
+TELU;BBK2DAB3;CLO1;Bootstrap;Tech;BBK2DAB3: Mampu menerapkan HTML, CSS dan Bootstrap berdasarkan rancangan halaman website sederhana serta menggunakan pemrograman Server-Side berbasis 
+TELU;BBK2DAB3;CLO1;pemrograman Server-Side;HSkill;BBK2DAB3: Mampu menerapkan HTML, CSS dan Bootstrap berdasarkan rancangan halaman website sederhana serta menggunakan pemrograman Server-Side berbasis 
+TELU;BBK2DAB3;CLO1;database,;HSkill;BBK2DAB3: Mampu menerapkan HTML, CSS dan Bootstrap berdasarkan rancangan halaman website sederhana serta menggunakan pemrograman Server-Side berbasis 
+TELU;BBK2DAB3;CLO2;pemrograman server-side berbasis web,;HSkill;BBK2DAB3: Mampu menggunakan pemrograman server-side berbasis web, mengintegrasikan halaman website dengan database, serta mampu menggunakan konsep Mod
+TELU;BBK2DAB3;CLO2;database,;HSkill;BBK2DAB3: Mampu menggunakan pemrograman server-side berbasis web, mengintegrasikan halaman website dengan database, serta mampu menggunakan konsep Mod
+TELU;BBK3KBB3;CLO1;UI/UX;HSkill;BBK3KBB3: Mahasiswa mampu memahami konsep dasar UI/UX serta menerapkannya melalui pemahaman konsep UX design thinking process.
+TELU;BBK3KBB3;CLO1;UX;HSkill;BBK3KBB3: Mahasiswa mampu memahami konsep dasar UI/UX serta menerapkannya melalui pemahaman konsep UX design thinking process.
+TELU;BBK3KBB3;CLO1;design thinking process.;HSkill;BBK3KBB3: Mahasiswa mampu memahami konsep dasar UI/UX serta menerapkannya melalui pemahaman konsep UX design thinking process.
+TELU;BBK3KBB3;CLO2;user research,;HSkill;BBK3KBB3: Mahasiswa mampu melakukan user research, mensintesis hasilnya, lalu melakukan ideation dan brainstorming solusi dari sintesa hasil tersebut.
+TELU;BBK3KBB3;CLO2;ideation;HSkill;BBK3KBB3: Mahasiswa mampu melakukan user research, mensintesis hasilnya, lalu melakukan ideation dan brainstorming solusi dari sintesa hasil tersebut.
+TELU;BBK3KBB3;CLO2;brainstorming;HSkill;BBK3KBB3: Mahasiswa mampu melakukan user research, mensintesis hasilnya, lalu melakukan ideation dan brainstorming solusi dari sintesa hasil tersebut.
+TELU;BBK3KBB3;CLO3;desain UI/UX;HSkill;BBK3KBB3: Terdapat kemampuan mahasiswa untuk menerapkan berbagai konsep dalam desain UI/UX menggunakan Figma, termasuk autolayout, design system, vari
+TELU;BBK3KBB3;CLO3;Figma,;Tech;BBK3KBB3: Terdapat kemampuan mahasiswa untuk menerapkan berbagai konsep dalam desain UI/UX menggunakan Figma, termasuk autolayout, design system, vari
+TELU;BBK3KBB3;CLO3;autolayout,;HSkill;BBK3KBB3: Terdapat kemampuan mahasiswa untuk menerapkan berbagai konsep dalam desain UI/UX menggunakan Figma, termasuk autolayout, design system, vari
+TELU;BBK3KBB3;CLO3;design system,;HSkill;BBK3KBB3: Terdapat kemampuan mahasiswa untuk menerapkan berbagai konsep dalam desain UI/UX menggunakan Figma, termasuk autolayout, design system, vari
+TELU;BBK3KBB3;CLO3;interactive;HSkill;BBK3KBB3: Terdapat kemampuan mahasiswa untuk menerapkan berbagai konsep dalam desain UI/UX menggunakan Figma, termasuk autolayout, design system, vari
+TELU;BBK3KBB3;CLO4;usability testing;HSkill;BBK3KBB3: T Mahasiswa mampu melakukan usability testing pada prototype serta melakukan sintesis hasil dari pengujian.
+TELU;BBK3KBB3;CLO4;sintesis;HSkill;BBK3KBB3: T Mahasiswa mampu melakukan usability testing pada prototype serta melakukan sintesis hasil dari pengujian.
+TELU;BBK2MAB2;CLO2;implementasi;HSkill;BBK2MAB2: Mahasiswa mampu memahami konsep dasar implementasi dan pengujian sistem serta siklus hidup pengembangan sistem, membedakan berbagai model im
+TELU;BBK2MAB2;CLO2;pengujian sistem;HSkill;BBK2MAB2: Mahasiswa mampu memahami konsep dasar implementasi dan pengujian sistem serta siklus hidup pengembangan sistem, membedakan berbagai model im
+TELU;BBK2MAB2;CLO2;siklus hidup pengembangan sistem,;HSkill;BBK2MAB2: Mahasiswa mampu memahami konsep dasar implementasi dan pengujian sistem serta siklus hidup pengembangan sistem, membedakan berbagai model im
+TELU;BBK2MAB2;CLO3;dokumentasi;HSkill;BBK2MAB2: Mahasiswa mampu memahami dan menerapkan jenis-jenis dokumentasi dalam implementasi sistem serta menggunakan berbagai metode pengujian dalam 
+TELU;BBK2MAB2;CLO3;implementasi sistem;HSkill;BBK2MAB2: Mahasiswa mampu memahami dan menerapkan jenis-jenis dokumentasi dalam implementasi sistem serta menggunakan berbagai metode pengujian dalam 
+TELU;BBK2MAB2;CLO4;proses audit sistem informasi;HSkill;BBK2MAB2: Mampu memahami proses audit sistem informasi serta memenuhi standar industri serta dapat mengidentifikasi berbagai jenis pengujian perangkat
+TELU;BBK2MAB2;CLO4;pengujian perangkat lunak;HSkill;BBK2MAB2: Mampu memahami proses audit sistem informasi serta memenuhi standar industri serta dapat mengidentifikasi berbagai jenis pengujian perangkat
+TELU;BBK2MAB2;CLO1;pemeliharaan sistem;HSkill;BBK2MAB2: Mahasiswa mampu membedakan pengujian fungsional dan non-fungsional serta menerapkan kedua jenis pengujian tersebut dalam studi kasus, serta 
+TELU;BBK2EAB3;CLO1;perancangan interaksi;HSkill;BBK2EAB3: Mampu menjelaskan dasar perancangan interaksi serta menerapkannya secara efektif.
+TELU;BBK2EAB3;CLO4;pengujian;HSkill;BBK2EAB3: Mampu menguji produk dengan metode pengujian usability
+TELU;BBK2AAB3;CLO1;sistem informasi;HSkill;BBK2AAB3: Mahasiswa mampu mengidentifikasi kebutuhan sistem informasi dalam konteks enterprise atau masyarakat, serta menggunakan teknik, keahlian, da
+TELU;BBK2AAB3;CLO1;pengembangan aplikasi;HSkill;BBK2AAB3: Mahasiswa mampu mengidentifikasi kebutuhan sistem informasi dalam konteks enterprise atau masyarakat, serta menggunakan teknik, keahlian, da
+TELU;BBK2AAB3;CLO1;data-driven organization.;HSkill;BBK2AAB3: Mahasiswa mampu mengidentifikasi kebutuhan sistem informasi dalam konteks enterprise atau masyarakat, serta menggunakan teknik, keahlian, da
+TELU;BBK2AAB3;CLO4;pengembangan aplikasi;HSkill;BBK2AAB3: Mampu menggunakan teknik, keahlian, dan perangkat dalam pengembangan aplikasi dan integrasinya dalam konteks kasus nyata.
+TELU;BBK2AAB3;CLO2;perancangan sistem informasi;HSkill;BBK2AAB3: Mampu membuat perancangan sistem informasi untuk memenuhi kebutuhan organisasi menuju data-driven organization
+TELU;BBK2AAB3;CLO2;data-driven organization;HSkill;BBK2AAB3: Mampu membuat perancangan sistem informasi untuk memenuhi kebutuhan organisasi menuju data-driven organization
+TELU;BZK4AAC4;CLO4;teknologi informasi;HSkill;BZK4AAC4: Mampu memanfaatkan teknologi informasi untuk menyelesaikan permasalahan yang dihadapi.
+TELU;BBK43BB3;CLO1;layanan keuangan;HSkill;BBK43BB3: Mahasiswa mampu memahami konsep dasar layanan keuangan berbasis sistem informasi dan financial technology.
+TELU;BBK43BB3;CLO1;sistem informasi;HSkill;BBK43BB3: Mahasiswa mampu memahami konsep dasar layanan keuangan berbasis sistem informasi dan financial technology.
+TELU;BBK43BB3;CLO1;financial technology.;HSkill;BBK43BB3: Mahasiswa mampu memahami konsep dasar layanan keuangan berbasis sistem informasi dan financial technology.
+TELU;BBK43BB3;CLO3;teknologi finansial.;HSkill;BBK43BB3: Mahasiswa mampu melakukan analisis independen tentang perkembangan terbaru layanan keuangan melalui sistem informasi serta teknologi finansi
+TELU;BBK43BB3;CLO2;layanan keuangan;HSkill;BBK43BB3: Mampu memahami konsep layanan keuangan yang dibutuhkan ke depan serta menganalisis permasalahan terkait berbasis sistem informasi dan financ
+TELU;BBK43BB3;CLO2;sistem informasi;HSkill;BBK43BB3: Mampu memahami konsep layanan keuangan yang dibutuhkan ke depan serta menganalisis permasalahan terkait berbasis sistem informasi dan financ
+TELU;BBK43BB3;CLO2;financial technology.;HSkill;BBK43BB3: Mampu memahami konsep layanan keuangan yang dibutuhkan ke depan serta menganalisis permasalahan terkait berbasis sistem informasi dan financ
+TELU;BBK3BAB3;CLO4;perancangan sistem informasi;HSkill;BBK3BAB3: Mampu mengembangkan solusi berbasis sistem informasi menggunakan metodologi pengembangan yang tepat serta mampu membuat perancangan sistem i
+TELU;BBK2IAB3;CLO1;sistem informasi;HSkill;BBK2IAB3: Mampu mengidentifikasi kebutuhan sistem informasi dalam konteks enterprise atau masyarakat
+TELU;BBK2IAB3;CLO3;perangkat lunak;HSkill;BBK2IAB3: Mampu menggunakan metode dan perangkat lunak terkini untuk menghasilkan solusi di bidang data dalam konteks kasus nyata.
+TELU;BBK2IAB3;CLO4;infrastruktur teknologi informasi;HSkill;BBK2IAB3: Mampu menggunakan teknik atau perangkat dalam bidang infrastruktur teknologi informasi untuk organisasi.
+TELU;BBK2JAB3;CLO4;proses manajemen proyek,;HSkill;BBK2JAB3: Mampu mendeskripsikan proses manajemen proyek, level aktivitas, interaksi antar proses, hubungan antara proses dan area pengetahuan, serta p
+TELU;BBK2JAB3;CLO4;manajemen sistem informasi;HSkill;BBK2JAB3: Mampu mendeskripsikan proses manajemen proyek, level aktivitas, interaksi antar proses, hubungan antara proses dan area pengetahuan, serta p
+TELU;BBK2JAB3;CLO5;perangkat lunak;HSkill;BBK2JAB3: Mampu menggunakan perangkat lunak untuk merencanakan proyek sistem informasi pada semua knowledge areas: Scope Management, Schedule Manageme
+TELU;BBK2JAB3;CLO5;Resource Management,;HSkill;BBK2JAB3: Mampu menggunakan perangkat lunak untuk merencanakan proyek sistem informasi pada semua knowledge areas: Scope Management, Schedule Manageme
+TELU;BBK2JAB3;CLO5;Communication Management,;HSkill;BBK2JAB3: Mampu menggunakan perangkat lunak untuk merencanakan proyek sistem informasi pada semua knowledge areas: Scope Management, Schedule Manageme
+TELU;BBK2JAB3;CLO5;Stakeholder Management,;HSkill;BBK2JAB3: Mampu menggunakan perangkat lunak untuk merencanakan proyek sistem informasi pada semua knowledge areas: Scope Management, Schedule Manageme
+TELU;BBK2JAB3;CLO5;Risk Management.;HSkill;BBK2JAB3: Mampu menggunakan perangkat lunak untuk merencanakan proyek sistem informasi pada semua knowledge areas: Scope Management, Schedule Manageme
+TELU;BBK1IAB3;CLO1;Jaringan;HSkill;BBK1IAB3: Mampu memahami, menjelaskan dan menyatakan pendapat mengenai prinsip dasar Operasi dan Manajemen Rantai Pasok, mengidentifikasi dan menjelas
+TELU;BBK1IAB3;CLO2;Manajemen Rantai Pasok;HSkill;BBK1IAB3: Terdapat kemampuan untuk menerapkan Manajemen Rantai Pasok dalam Sistem ERP serta analisis prinsip dan fungsi manajemen sistem informasi unt
+TELU;BBK1IAB3;CLO2;Sistem ERP;HSkill;BBK1IAB3: Terdapat kemampuan untuk menerapkan Manajemen Rantai Pasok dalam Sistem ERP serta analisis prinsip dan fungsi manajemen sistem informasi unt
+TELU;BBK1IAB3;CLO2;manajemen sistem informasi;HSkill;BBK1IAB3: Terdapat kemampuan untuk menerapkan Manajemen Rantai Pasok dalam Sistem ERP serta analisis prinsip dan fungsi manajemen sistem informasi unt
+TELU;BBK1IAB3;CLO2;perangkat lunak;HSkill;BBK1IAB3: Terdapat kemampuan untuk menerapkan Manajemen Rantai Pasok dalam Sistem ERP serta analisis prinsip dan fungsi manajemen sistem informasi unt
+TELU;BBK2KAB3;CLO1;manajemen sumber;HSkill;BBK2KAB3: Mampu mengidentifikasi peran manajemen sumber daya manusia secara efektif dan tepat.
+TELU;BBK2KAB3;CLO4;personnel infotype;HSkill;BBK2KAB3: Mampu mengaplikasikan dan mengelola personnel infotype berbasis sistem enterprise terintegrasi serta menyusun dan mengelola kualifikasi kary
+TELU;BBK2KAB3;CLO5;onboarding,;HSkill;BBK2KAB3: Mampu mengaplikasikan dan mengevaluasi proses rekrutmen, onboarding, serta manajemen waktu dan penjadwalan karyawan menggunakan sistem enter
+TELU;BBK1CAB3;CLO1;optimasi pemodelan sistem informasi.;HSkill;BBK1CAB3: Mampu menerapkan sifat-sifat pada himpunan bilangan real untuk menyelesaikan persoalan pada pertidaksamaan dan fungsi, serta memahami konsep
+TELU;BBK1CAB3;CLO2;matriks;HSkill;BBK1CAB3: TMampu menerapkan konsep matriks dan vektor dalam permasalahan bidang sistem informasi, serta dapat memperluas pemahaman tersebut untuk berb
+TELU;BBK4AAB2;CLO3;menulis;HSkill;BBK4AAB2: Mahasiswa mampu menulis laporan dan proposal TA yang terstruktur, mencantumkan sumber literatur dengan benar, memahami struktur pembuatan ma
+TELU;BBK2CAB3;CLO3;proses bisnis;HSkill;BBK2CAB3: Mampu memahami penerapan proses bisnis pada tingkat organisasi yang berbeda.
+TELU;BBK2CAB3;CLO4;model proses bisnis;HSkill;BBK2CAB3: Mampu membuat model proses bisnis secara mendalam dan memperluas pemahamannya ke tingkat lanjut.
+TELU;BBK2CAB3;CLO2;pemodelan proses bisnis.;HSkill;BBK2CAB3: Mampu menggunakan teknik dan kemasan pemodelan proses bisnis.
+TELU;BBK1JAB3;CLO1;pemrograman berorientasi objek.;HSkill;BBK1JAB3: Mampu menjelaskan prinsip-prinsip pemrograman berorientasi objek.
+TELU;BBK2LAB3;CLO1;data mining;HSkill;BBK2LAB3: Mahasiswa mampu menjelaskan tentang dasar-dasar data mining serta mampu membuat pemodelan yang berasal dari kasus nyata untuk digunakan seba
+TELU;BBK2LAB3;CLO1;pemodelan;HSkill;BBK2LAB3: Mahasiswa mampu menjelaskan tentang dasar-dasar data mining serta mampu membuat pemodelan yang berasal dari kasus nyata untuk digunakan seba
+TELU;BBK2LAB3;CLO2;statistika fundamental;HSkill;BBK2LAB3: Mahasiswa mampu melakukan eksplorasi data sesuai dengan jenis data dan kebutuhan informasi, serta menerapkan metode statistika dalam pemodel
+TELU;BBK2LAB3;CLO3;data mining;HSkill;BBK2LAB3: Mahasiswa mampu menjelaskan dan aplikasikan tahapan data preprocessing serta menggunakan metode dalam data mining bersama dengan bahasa pemr
+TELU;BBK2LAB3;CLO3;Python/R;Tech;BBK2LAB3: Mahasiswa mampu menjelaskan dan aplikasikan tahapan data preprocessing serta menggunakan metode dalam data mining bersama dengan bahasa pemr
+TELU;BBK2LAB3;CLO4;pemodelan data;HSkill;BBK2LAB3: Mahasiswa mampu membuat pemodelan data yang sesuai dengan jenis data yang digunakan sehingga menghasilkan informasi yang dapat dimanfaatkan 
+TELU;BBK2LAB3;CLO4;data mining;HSkill;BBK2LAB3: Mahasiswa mampu membuat pemodelan data yang sesuai dengan jenis data yang digunakan sehingga menghasilkan informasi yang dapat dimanfaatkan 
+TELU;BBK2LAB3;CLO4;Python/R;Tech;BBK2LAB3: Mahasiswa mampu membuat pemodelan data yang sesuai dengan jenis data yang digunakan sehingga menghasilkan informasi yang dapat dimanfaatkan 
+TELU;BBK4EBB3;CLO1;sistem cerdas;HSkill;BBK4EBB3: Mampu memahami konsep-konsep dasar sistem cerdas
+TELU;BBK4EBB3;CLO2;arsitektur,;HSkill;BBK4EBB3: Mampu memahami data dan informasi yang dapat digunakan untuk membangun sistem cerdas serta mampu merancang, membuat arsitektur, dan menerapk
+TELU;BBK4EBB3;CLO4;arsitektur,;HSkill;BBK4EBB3: Mampu merancang, membuat arsitektur, dan menerapkan teknik-teknik sistem cerdas pada studi kasus spesifik sebagai metode Project Based Learn
+TELU;BBK4EBB3;CLO4;sistem cerdas;HSkill;BBK4EBB3: Mampu merancang, membuat arsitektur, dan menerapkan teknik-teknik sistem cerdas pada studi kasus spesifik sebagai metode Project Based Learn
+TELU;BBK4EBB3;CLO3;sistem cerdas;HSkill;BBK4EBB3: Mampu memahami beberapa teknik dasar sistem cerdas untuk klasifikasi seperti Decision Tree dan Neural Network.
+TELU;BBK4EBB3;CLO3;Decision Tree;HSkill;BBK4EBB3: Mampu memahami beberapa teknik dasar sistem cerdas untuk klasifikasi seperti Decision Tree dan Neural Network.
+TELU;BBK4EBB3;CLO3;Neural Network.;HSkill;BBK4EBB3: Mampu memahami beberapa teknik dasar sistem cerdas untuk klasifikasi seperti Decision Tree dan Neural Network.
+TELU;BBK4EBB3;CLO5;Reinforcement Learning;HSkill;BBK4EBB3: Mampu memahami konsep Reinforcement Learning dan menerapkannya pada aplikasi spesifik.
+TELU;BBK3EAB3;CLO1;pengembangan perangkat lunak;HSkill;BBK3EAB3: Mampu menentukan permasalahan di bidang Infokom yang dikaitkan dengan implementasi SDG serta menganalisis kebutuhan dalam proses pengembanga
+TELU;BBK3EAB3;CLO1;Agile Methodology.;HSkill;BBK3EAB3: Mampu menentukan permasalahan di bidang Infokom yang dikaitkan dengan implementasi SDG serta menganalisis kebutuhan dalam proses pengembanga
+TELU;BBK3EAB3;CLO5;pengembangan perangkat lunak;HSkill;BBK3EAB3: Mampu menganalisis kebutuhan dalam proses pengembangan perangkat lunak pada sebuah proyek yang berbasis Agile Methodology, menentukan permas
+TELU;BBK3EAB3;CLO5;Agile;HSkill;BBK3EAB3: Mampu menganalisis kebutuhan dalam proses pengembangan perangkat lunak pada sebuah proyek yang berbasis Agile Methodology, menentukan permas
+TELU;BBK3EAB3;CLO5;agile;HSkill;BBK3EAB3: Mampu menganalisis kebutuhan dalam proses pengembangan perangkat lunak pada sebuah proyek yang berbasis Agile Methodology, menentukan permas
+TELU;BBK3EAB3;CLO3;pengembangan perangkat lunak;HSkill;BBK3EAB3: Mampu menganalisis kebutuhan dalam proses pengembangan perangkat lunak pada sebuah proyek yang berbasis Agile Methodology, merancang dan men
+TELU;BBK3EAB3;CLO3;Agile Methodology,;HSkill;BBK3EAB3: Mampu menganalisis kebutuhan dalam proses pengembangan perangkat lunak pada sebuah proyek yang berbasis Agile Methodology, merancang dan men
+TELU;BBK3EAB3;CLO3;versioning;HSkill;BBK3EAB3: Mampu menganalisis kebutuhan dalam proses pengembangan perangkat lunak pada sebuah proyek yang berbasis Agile Methodology, merancang dan men
+TELU;BBK2NAB3;CLO1;menulis;HSkill;BBK2NAB3: Mampu menganalisis permasalahan dalam bidang infokom dalam konteks enterprise atau masyarakat serta mampu menulis dokumen profesional sesuai
+TELU;BBK2NAB3;CLO1;perangkat lunak;HSkill;BBK2NAB3: Mampu menganalisis permasalahan dalam bidang infokom dalam konteks enterprise atau masyarakat serta mampu menulis dokumen profesional sesuai
+TELU;BBK2NAB3;CLO1;arsitektur;HSkill;BBK2NAB3: Mampu menganalisis permasalahan dalam bidang infokom dalam konteks enterprise atau masyarakat serta mampu menulis dokumen profesional sesuai
+TELU;BBK2NAB3;CLO1;pengelolaan sistem informasi;HSkill;BBK2NAB3: Mampu menganalisis permasalahan dalam bidang infokom dalam konteks enterprise atau masyarakat serta mampu menulis dokumen profesional sesuai
+TELU;BBK2NAB3;CLO3;perangkat lunak;HSkill;BBK2NAB3: Mampu menggunakan teknik, metode, perangkat lunak terkini untuk menghasilkan solusi di bidang pengelolaan fungsi dan bisnis organisasi dalam
+TELU;BBK2NAB3;CLO4;perbaikan arsitektur;HSkill;BBK2NAB3: Mampu mengusulkan perbaikan arsitektur atau pengelolaan sistem informasi untuk mendukung tujuan organisasi.
+TELU;BBK2NAB3;CLO4;pengelolaan sistem informasi;HSkill;BBK2NAB3: Mampu mengusulkan perbaikan arsitektur atau pengelolaan sistem informasi untuk mendukung tujuan organisasi.
+TELU;BBK2NAB3;CLO2;menulis;HSkill;BBK2NAB3: Mahasiswa mampu menulis dokumen profesional sesuai dengan konteks profesional serta menghasilkan solusi di bidang pengelolaan fungsi dan bis
+TELU;BBK2NAB3;CLO2;perangkat lunak;HSkill;BBK2NAB3: Mahasiswa mampu menulis dokumen profesional sesuai dengan konteks profesional serta menghasilkan solusi di bidang pengelolaan fungsi dan bis
+TELU;BBK2NAB3;CLO2;arsitektur;HSkill;BBK2NAB3: Mahasiswa mampu menulis dokumen profesional sesuai dengan konteks profesional serta menghasilkan solusi di bidang pengelolaan fungsi dan bis
+TELU;BBK2NAB3;CLO2;pengelolaan sistem informasi;HSkill;BBK2NAB3: Mahasiswa mampu menulis dokumen profesional sesuai dengan konteks profesional serta menghasilkan solusi di bidang pengelolaan fungsi dan bis
+TELU;BBK3FAB3;CLO3;pengelolaan sistem informasi;HSkill;BBK3FAB3: Mampu menggunakan kakas dalam pengelolaan sistem informasi perusahaan berbasis ERP.
+TELU;BBK3FAB3;CLO4;manajemen Sistem Informasi;HSkill;BBK3FAB3: Mampu menganalisis prinsip dan fungsi manajemen Sistem Informasi untuk mendukung strategi bisnis.
+TELU;BBK2GAB3;CLO1;pengumpulan data;HSkill;BBK2GAB3: Mahasiswa mampu melakukan proses pengumpulan data dengan menggunakan teknik sampling yang tepat, sertanya juga dapat dilakukan melalui metod
+TELU;BBK2GAB3;CLO2;pengujian hipotesis;HSkill;BBK2GAB3: Mahasiswa mampu melakukan pengujian hipotesis yang dimanfaatkan untuk menyelesaikan masalah.
+TELU;BBK4JBB3;CLO1;pengelolaan risiko;HSkill;BBK4JBB3: Mampu menggunakan teknik pengelolaan risiko serta analisis manajemen risiko teknologi informasi untuk mendukung implementasi efektif dalam o
+TELU;BBK4JBB3;CLO1;analisis manajemen risiko;HSkill;BBK4JBB3: Mampu menggunakan teknik pengelolaan risiko serta analisis manajemen risiko teknologi informasi untuk mendukung implementasi efektif dalam o
+TELU;BBK4JBB3;CLO2;pengelolaan risiko,;HSkill;BBK4JBB3: Mampu menggunakan teknik pengelolaan risiko, analisis manajemen risiko teknologi informasi, serta teknik dan kaka dalam menyusun kategori ri
+TELU;BBK4JBB3;CLO2;analisis manajemen risiko;HSkill;BBK4JBB3: Mampu menggunakan teknik pengelolaan risiko, analisis manajemen risiko teknologi informasi, serta teknik dan kaka dalam menyusun kategori ri
+TELU;BBK4JBB3;CLO3;Penilaian Risiko Teknologi Informasi,;HSkill;BBK4JBB3: Mampu merancang prinsip pengelolaan manajemen risiko teknologi informasi, memahami dan merancang Penilaian Risiko Teknologi Informasi, meran
+TELU;BBK4FBB3;CLO1;Natural Language Processing;HSkill;BBK4FBB3: Mampu menjelaskan konsep Natural Language Processing (NLP), konsep sentimen analisis, serta memahami cara kerja mesin pencari sebagai implem
+TELU;BBK4FBB3;CLO1;sentimen analisis,;HSkill;BBK4FBB3: Mampu menjelaskan konsep Natural Language Processing (NLP), konsep sentimen analisis, serta memahami cara kerja mesin pencari sebagai implem
+TELU;BBK4FBB3;CLO1;text processing;HSkill;BBK4FBB3: Mampu menjelaskan konsep Natural Language Processing (NLP), konsep sentimen analisis, serta memahami cara kerja mesin pencari sebagai implem
+TELU;BBK4FBB3;CLO1;Information Retrieval;HSkill;BBK4FBB3: Mampu menjelaskan konsep Natural Language Processing (NLP), konsep sentimen analisis, serta memahami cara kerja mesin pencari sebagai implem
+TELU;BBK4FBB3;CLO2;scraping data;HSkill;BBK4FBB3: Mampu melakukan scraping data dari beberapa sumber, melakukan tahapan preprocessing dokumen, memahami konsep pembobotan kata, serta memahami
+TELU;BBK4FBB3;CLO2;preprocessing dokumen,;HSkill;BBK4FBB3: Mampu melakukan scraping data dari beberapa sumber, melakukan tahapan preprocessing dokumen, memahami konsep pembobotan kata, serta memahami
+TELU;BBK4FBB3;CLO2;pembobotan kata,;HSkill;BBK4FBB3: Mampu melakukan scraping data dari beberapa sumber, melakukan tahapan preprocessing dokumen, memahami konsep pembobotan kata, serta memahami
+TELU;BBK4FBB3;CLO2;rule-based;HSkill;BBK4FBB3: Mampu melakukan scraping data dari beberapa sumber, melakukan tahapan preprocessing dokumen, memahami konsep pembobotan kata, serta memahami
+TELU;BBK4FBB3;CLO2;teks processing;HSkill;BBK4FBB3: Mampu melakukan scraping data dari beberapa sumber, melakukan tahapan preprocessing dokumen, memahami konsep pembobotan kata, serta memahami
+TELU;BBK4FBB3;CLO2;text processing;HSkill;BBK4FBB3: Mampu melakukan scraping data dari beberapa sumber, melakukan tahapan preprocessing dokumen, memahami konsep pembobotan kata, serta memahami
+TELU;BBK4FBB3;CLO3;analisis sentimen,;HSkill;BBK4FBB3: Mampu mengimplementasikan berbagai metode analisis sentimen, topik modeling, klasifikasi, serta teknik-teknik mining teks untuk memperoleh i
+TELU;BBK4FBB3;CLO3;topik modeling,;HSkill;BBK4FBB3: Mampu mengimplementasikan berbagai metode analisis sentimen, topik modeling, klasifikasi, serta teknik-teknik mining teks untuk memperoleh i
+TELU;BBK4FBB3;CLO3;mining;HSkill;BBK4FBB3: Mampu mengimplementasikan berbagai metode analisis sentimen, topik modeling, klasifikasi, serta teknik-teknik mining teks untuk memperoleh i
+TELU;BBK1LAB3;CLO1;sistem informasi;HSkill;BBK1LAB3: Mampu mengidentifikasi kebutuhan sistem informasi
+TELU;BBK1LAB3;CLO2;manajemen data;HSkill;BBK1LAB3: Mampu merancang, mengimplementasikan, menggunakan perkakas, dan mengembangkan sistem dalam manajemen data serta memenuhi kebutuhan sistem in
+TELU;BBK1LAB3;CLO2;manajemen data,;HSkill;BBK1LAB3: Mampu merancang, mengimplementasikan, menggunakan perkakas, dan mengembangkan sistem dalam manajemen data serta memenuhi kebutuhan sistem in
+TELU;BBK1LAB3;CLO2;manajemen data.;HSkill;BBK1LAB3: Mampu merancang, mengimplementasikan, menggunakan perkakas, dan mengembangkan sistem dalam manajemen data serta memenuhi kebutuhan sistem in
+TELU;BBK1LAB3;CLO3;NoSQL;Tech;BBK1LAB3: Mampu menjelaskan konsep NoSQL database untuk berbagai permasalahan
+TELU;BBK1EAB3;CLO2;integrasi sistem;HSkill;BBK1EAB3: Mampu membedakan serta menjelaskan berbagai fungsi konsep integrasi sistem dan hubungannya dengan ERP bisnis serta sistem informasi yang men
+TELU;BBK1EAB3;CLO2;ERP;HSkill;BBK1EAB3: Mampu membedakan serta menjelaskan berbagai fungsi konsep integrasi sistem dan hubungannya dengan ERP bisnis serta sistem informasi yang men
+TELU;BBK1EAB3;CLO2;proses bisnis;HSkill;BBK1EAB3: Mampu membedakan serta menjelaskan berbagai fungsi konsep integrasi sistem dan hubungannya dengan ERP bisnis serta sistem informasi yang men
+TELU;BBK1EAB3;CLO2;integrasi sistem;HSkill;BBK1EAB3: Mampu membedakan serta menjelaskan berbagai fungsi konsep integrasi sistem dan hubungannya dengan ERP bisnis serta sistem informasi yang men
+TELU;BBK1EAB3;CLO2;ERP;HSkill;BBK1EAB3: Mampu membedakan serta menjelaskan berbagai fungsi konsep integrasi sistem dan hubungannya dengan ERP bisnis serta sistem informasi yang men
+TELU;BBK1EAB3;CLO2;sistem informasi;HSkill;BBK1EAB3: Mampu membedakan serta menjelaskan berbagai fungsi konsep integrasi sistem dan hubungannya dengan ERP bisnis serta sistem informasi yang men
+TELU;BBK1EAB3;CLO1;proses bisnis;HSkill;BBK1EAB3: Mampu mengutamakan proses bisnis pada fungsi sales dan distribusi, produksi serta perusahaan, serta menggunakan software ERP pada tahap awal
+TELU;BBK1EAB3;CLO1;software ERP;HSkill;BBK1EAB3: Mampu mengutamakan proses bisnis pada fungsi sales dan distribusi, produksi serta perusahaan, serta menggunakan software ERP pada tahap awal
+TELU;BBK4NBB3;CLO1;Social CRM,;HSkill;BBK4NBB3: Mahasiswa mampu menjelaskan dan menjabarkan evolusi Konvensional CRM menuju Social CRM, menjabarkan dan menentukan cara berpikir konsumen/pe
+TELU;BBK4NBB3;CLO2;segmentasi konsumen.;HSkill;BBK4NBB3: Mahasiswa mampu melakukan analisis dan membangun pendapat tentang klasifikasi dan segmentasi konsumen.
+TELU;BBK4NBB3;CLO3;analytics;HSkill;BBK4NBB3: Mahasiswa mampu menjelaskan konsep dasar analytics dan data mining serta memahami perannya dalam CRM, serta mengaplikasikan berbagai tool an
+TELU;BBK4NBB3;CLO3;data mining;HSkill;BBK4NBB3: Mahasiswa mampu menjelaskan konsep dasar analytics dan data mining serta memahami perannya dalam CRM, serta mengaplikasikan berbagai tool an
+TELU;BBK4NBB3;CLO3;CRM,;HSkill;BBK4NBB3: Mahasiswa mampu menjelaskan konsep dasar analytics dan data mining serta memahami perannya dalam CRM, serta mengaplikasikan berbagai tool an
+TELU;BBK4NBB3;CLO5;mendesain customer-strategy enterprise;HSkill;BBK4NBB3: Mampu mendesain customer-strategy enterprise
+TELU;BBK2FAB3;CLO1;data-driven;HSkill;BBK2FAB3: Mampu merancang, mengembangkan, mengimplementasikan, dan mengevaluasi solusi berbasis sistem informasi untuk memenuhi kebutuhan organisasi m
+TELU;BBK2FAB3;CLO2;metodologi;HSkill;BBK2FAB3: Mampu mengimplementasikan solusi berbasis sistem informasi menggunakan metodologi pengembangan yang tepat.
+TELU;BBK2FAB3;CLO4;pengembangan aplikasi;HSkill;BBK2FAB3: Mampu menggunakan teknik, keahlian, dan perangkat dalam pengembangan aplikasi serta integrasinya dalam konteks kasus nyata.
+TELU;BBK3IAB3;CLO1;tata kelola;HSkill;BBK3IAB3: Mahasiswa mampu memahami dan menjelaskan konsep tata kelola dan manajemen teknologi informasi (TI) berdasarkan kerangka kerja praktik yang b
+TELU;BBK3IAB3;CLO1;manajemen teknologi informasi;HSkill;BBK3IAB3: Mahasiswa mampu memahami dan menjelaskan konsep tata kelola dan manajemen teknologi informasi (TI) berdasarkan kerangka kerja praktik yang b
+TELU;BBK3IAB3;CLO1;teknologi informasi;HSkill;BBK3IAB3: Mahasiswa mampu memahami dan menjelaskan konsep tata kelola dan manajemen teknologi informasi (TI) berdasarkan kerangka kerja praktik yang b
+TELU;BBK3IAB3;CLO1;sistem teknologi informasi;HSkill;BBK3IAB3: Mahasiswa mampu memahami dan menjelaskan konsep tata kelola dan manajemen teknologi informasi (TI) berdasarkan kerangka kerja praktik yang b
+ITS;AB235;CLO1;administrasi basis data,;HSkill;AB235: Mampu mendemonstrasikan administrasi basis data, membuat stored procedure dan functions serta memahami cara deteksi dan perbaikan masalah pada 
+ITS;AB235;CLO1;stored procedure;HSkill;AB235: Mampu mendemonstrasikan administrasi basis data, membuat stored procedure dan functions serta memahami cara deteksi dan perbaikan masalah pada 
+ITS;AB235;CLO1;deteksi;HSkill;AB235: Mampu mendemonstrasikan administrasi basis data, membuat stored procedure dan functions serta memahami cara deteksi dan perbaikan masalah pada 
+ITS;AB235;CLO1;perbaikan masalah;HSkill;AB235: Mampu mendemonstrasikan administrasi basis data, membuat stored procedure dan functions serta memahami cara deteksi dan perbaikan masalah pada 
+ITS;AB235;CLO1;sistem database.;HSkill;AB235: Mampu mendemonstrasikan administrasi basis data, membuat stored procedure dan functions serta memahami cara deteksi dan perbaikan masalah pada 
+ITS;DL830;CLO1;Data Warehouse,;HSkill;DL830: Mampu merancang dan membangun Data Warehouse, Data Lake, serta Data Lakehouse.
+ITS;DL830;CLO1;Data Lake,;HSkill;DL830: Mampu merancang dan membangun Data Warehouse, Data Lake, serta Data Lakehouse.
+ITS;DL830;CLO1;Data;HSkill;DL830: Mampu merancang dan membangun Data Warehouse, Data Lake, serta Data Lakehouse.
+ITS;DDMJK126;CLO1;jaringan komputer.;HSkill;DDMJK126: Mampu memahami gambaran umum tentang definisi dan pemanfaatan jaringan komputer.
+ITS;DDMJK126;CLO2;komunikasi jaringan,;HSkill;DDMJK126: Mampu memahami bahwa protokol merupakan dasar untuk komunikasi jaringan, memahami cara perangkat mengirim dan menerima data, serta mengetahu
+ITS;DDMJK126;CLO3;protokol internet;HSkill;DDMJK126: Mampu memahami dan memeroleh pemahaman yang mendalam tentang dasar-dasar protokol internet (Internet Protocol, IPv4, dan IPv6), termasuk car
+ITS;DDMJK126;CLO3;IPv4,;Tech;DDMJK126: Mampu memahami dan memeroleh pemahaman yang mendalam tentang dasar-dasar protokol internet (Internet Protocol, IPv4, dan IPv6), termasuk car
+ITS;DDMJK126;CLO3;IPv6),;Tech;DDMJK126: Mampu memahami dan memeroleh pemahaman yang mendalam tentang dasar-dasar protokol internet (Internet Protocol, IPv4, dan IPv6), termasuk car
+ITS;DDMJK126;CLO4;routing;HSkill;DDMJK126: Mampu merancang dan mendemonstrasikan cara kerja routing yang memungkinkan host berkomunikasi dengan host di jaringan lain serta mengembangk
+ITS;DDMJK126;CLO4;perangkat jaringan;HSkill;DDMJK126: Mampu merancang dan mendemonstrasikan cara kerja routing yang memungkinkan host berkomunikasi dengan host di jaringan lain serta mengembangk
+ITS;DDMJK126;CLO5;jaringan komputer;HSkill;DDMJK126: Mampu merancang dan mensimulasikan jaringan komputer dalam skala kecil dan menengah.
+ITS;DDMJK126;CLO6;mensimulasikan;HSkill;DDMJK126: Mampu merancang dan mensimulasikan arsitektur jaringan menggunakan teknologi
+ITS;DDMJK126;CLO6;arsitektur jaringan;HSkill;DDMJK126: Mampu merancang dan mensimulasikan arsitektur jaringan menggunakan teknologi
+ITS;PD115;CLO1;pemrograman;Tech;PD115: Mampu menjelaskan konsep variabel dan membedakan tipe data dalam bahasa pemrograman Java.
+ITS;PD115;CLO1;Java.;Tech;PD115: Mampu menjelaskan konsep variabel dan membedakan tipe data dalam bahasa pemrograman Java.
+ITS;PD115;CLO2;pemrograman.;HSkill;PD115: Mampu menerapkan konsep input, output, percabangan, dan perulangan dalam pemrograman.
+ITS;PD115;CLO3;pemrograman.;HSkill;PD115: Mampu menerapkan konsep dan praktek array dalam pemrograman.
+ITS;PD115;CLO4;pemrograman;HSkill;PD115: Mampu membuat class, method, dan object dalam bahasa pemrograman Java.
+ITS;PD115;CLO4;Java.;Tech;PD115: Mampu membuat class, method, dan object dalam bahasa pemrograman Java.
+ITS;PD115;CLO5;program;Tech;PD115: Mampu membuat program Java untuk menyelesaikan permasalahan komputasional dasar.
+ITS;PD115;CLO5;Java;Tech;PD115: Mampu membuat program Java untuk menyelesaikan permasalahan komputasional dasar.
+ITS;PD115;CLO5;komputasional;HSkill;PD115: Mampu membuat program Java untuk menyelesaikan permasalahan komputasional dasar.
+ITS;ETI711;CLO1;teknologi informasi,;HSkill;ETI711: Mampu memahami dan menganalisis berbagai permasalahan hukum, fenomena penggunaan teknologi informasi, serta mematuhi kode etik dan isu etika y
+ITS;GP966;CLO1;knowledge graph,;HSkill;GP966: Mampu memahami konsep knowledge graph, mendemostrasikan pemodelan data dalam bentuk graph, memahami algoritma graph dalam menganalisa data, ser
+ITS;GP966;CLO1;pemodelan data;HSkill;GP966: Mampu memahami konsep knowledge graph, mendemostrasikan pemodelan data dalam bentuk graph, memahami algoritma graph dalam menganalisa data, ser
+ITS;GP966;CLO1;algoritma graph;HSkill;GP966: Mampu memahami konsep knowledge graph, mendemostrasikan pemodelan data dalam bentuk graph, memahami algoritma graph dalam menganalisa data, ser
+ITS;GP966;CLO1;menganalisa data,;HSkill;GP966: Mampu memahami konsep knowledge graph, mendemostrasikan pemodelan data dalam bentuk graph, memahami algoritma graph dalam menganalisa data, ser
+ITS;GP966;CLO1;algoritma graph;HSkill;GP966: Mampu memahami konsep knowledge graph, mendemostrasikan pemodelan data dalam bentuk graph, memahami algoritma graph dalam menganalisa data, ser
+ITS;MRT885;CLO1;sistem informasi;HSkill;MRT885: Mampu memahami dan menjelaskan ketidakpastian dalam bisnis, kerentanan data dan informasi terhadap ancaman baik dari dalam maupun dari luar, m
+ITS;PSDO774;CLO1;DevOps;HSkill;PSDO774: Mampu memahami definisi, konsep dasar, teknik, dan histori singkat tentang DevOps serta mampu mendemonstrasikan aplikasinya dalam (C4, P3).
+ITS;PSDO774;CLO4;DevOps;HSkill;PSDO774: Mampu merancang dan mengimplementasikan DevOps dalam lingkungan Agile serta mampu memecahkan masalah melalui studi kasus.
+ITS;PSDO774;CLO4;Agile;HSkill;PSDO774: Mampu merancang dan mengimplementasikan DevOps dalam lingkungan Agile serta mampu memecahkan masalah melalui studi kasus.
+ITS;ADSD677;CLO1;pemrograman berorientasi objek,;HSkill;ADSD677: Mampu melakukan penilaian kompleksitas algoritma, mendesain solusi secara komprehensif dengan pendekatan pemrograman berorientasi objek, mema
+ITS;ADSD677;CLO1;struktur data;HSkill;ADSD677: Mampu melakukan penilaian kompleksitas algoritma, mendesain solusi secara komprehensif dengan pendekatan pemrograman berorientasi objek, mema
+ITS;ADSD677;CLO1;algoritma;HSkill;ADSD677: Mampu melakukan penilaian kompleksitas algoritma, mendesain solusi secara komprehensif dengan pendekatan pemrograman berorientasi objek, mema
+ITS;ADSD677;CLO1;desain;HSkill;ADSD677: Mampu melakukan penilaian kompleksitas algoritma, mendesain solusi secara komprehensif dengan pendekatan pemrograman berorientasi objek, mema
+ITS;ADSD677;CLO1;algoritma;HSkill;ADSD677: Mampu melakukan penilaian kompleksitas algoritma, mendesain solusi secara komprehensif dengan pendekatan pemrograman berorientasi objek, mema
+ITS;ADSD677;CLO1;struktur data;HSkill;ADSD677: Mampu melakukan penilaian kompleksitas algoritma, mendesain solusi secara komprehensif dengan pendekatan pemrograman berorientasi objek, mema
+ITS;FD704;CLO1;infrastruktur;HSkill;FD704: Mampu memahami potensi ancaman data dan infrastruktur serta menganalisis alternatif solusi untuk melindungi data dan infrastruktur sistem, sert
+ITS;FD704;CLO1;infrastruktur;HSkill;FD704: Mampu memahami potensi ancaman data dan infrastruktur serta menganalisis alternatif solusi untuk melindungi data dan infrastruktur sistem, sert
+ITS;FD704;CLO1;implementasi;HSkill;FD704: Mampu memahami potensi ancaman data dan infrastruktur serta menganalisis alternatif solusi untuk melindungi data dan infrastruktur sistem, sert
+ITS;FD704;CLO1;pengembangan keamanan data;HSkill;FD704: Mampu memahami potensi ancaman data dan infrastruktur serta menganalisis alternatif solusi untuk melindungi data dan infrastruktur sistem, sert
+ITS;FD704;CLO1;infrastruktur sistem,;HSkill;FD704: Mampu memahami potensi ancaman data dan infrastruktur serta menganalisis alternatif solusi untuk melindungi data dan infrastruktur sistem, sert
+ITS;IT052;CLO1;sistem komputer,;HSkill;IT052: Mampu memahami dasar-sadar sistem komputer, perangkat keras komputer, perangkat lunak dasar, serta dasar jaringan komputer.
+ITS;IT052;CLO1;perangkat keras komputer,;HSkill;IT052: Mampu memahami dasar-sadar sistem komputer, perangkat keras komputer, perangkat lunak dasar, serta dasar jaringan komputer.
+ITS;IT052;CLO1;perangkat lunak;HSkill;IT052: Mampu memahami dasar-sadar sistem komputer, perangkat keras komputer, perangkat lunak dasar, serta dasar jaringan komputer.
+ITS;IT052;CLO1;jaringan komputer.;HSkill;IT052: Mampu memahami dasar-sadar sistem komputer, perangkat keras komputer, perangkat lunak dasar, serta dasar jaringan komputer.
+ITS;MLTI487;CLO1;Manajemen Layanan TI.;HSkill;MLTI487: Mampu menjelaskan konsep dan model penting terkait Manajemen Layanan TI.
+ITS;MLTI487;CLO2;Manajemen Layanan TI,;HSkill;MLTI487: Mampu menjelaskan 34 praktik Manajemen Layanan TI, termasuk: Objektif, konsep-konsep terkait, sumber-sumber yang terlibat (proses dan stream 
+ITS;SITI927;CLO1;teknologi informasi;HSkill;SITI927: Mampu menjelaskan konsep teknologi informasi sebagai aset strategis dan keuntungan kompetitif, serta memahami transformasi digital dan contoh
+ITS;SITI927;CLO1;transformasi digital;HSkill;SITI927: Mampu menjelaskan konsep teknologi informasi sebagai aset strategis dan keuntungan kompetitif, serta memahami transformasi digital dan contoh
+ITS;SITI927;CLO3;strategi TI;HSkill;SITI927: Mampu merumuskan strategi TI dengan menggunakan metode
+ITS;SITI927;CLO4;Enterprise Architecture;HSkill;SITI927: Mampu merancang Enterprise Architecture dengan menggunakan kerangka kerja TOGAF dan tool EA.
+ITS;SITI927;CLO4;TOGAF;Tech;SITI927: Mampu merancang Enterprise Architecture dengan menggunakan kerangka kerja TOGAF dan tool EA.
+ITS;PAI936;CLO1;keamanan informasi;HSkill;PAI936: Mampu memahami pengetahuan mengenai keamanan informasi serta mengemukakan teknik dan metode proteksi fisik, technical, dan lingkungan aset inf
+ITS;PAI936;CLO1;proteksi fisik,;HSkill;PAI936: Mampu memahami pengetahuan mengenai keamanan informasi serta mengemukakan teknik dan metode proteksi fisik, technical, dan lingkungan aset inf
+ITS;PAI936;CLO1;technical,;HSkill;PAI936: Mampu memahami pengetahuan mengenai keamanan informasi serta mengemukakan teknik dan metode proteksi fisik, technical, dan lingkungan aset inf
+ITS;PST697;CLO1;sistem pengendalian internal,;HSkill;PST697: Mampu memahami konsep sistem pengendalian internal, Tatakelola TI, serta COBIT sebagai kerangka kerja Tatakelola TI, serta memahami dasar-dasa
+ITS;PST697;CLO1;Tatakelola TI,;HSkill;PST697: Mampu memahami konsep sistem pengendalian internal, Tatakelola TI, serta COBIT sebagai kerangka kerja Tatakelola TI, serta memahami dasar-dasa
+ITS;PST697;CLO1;COBIT;Tech;PST697: Mampu memahami konsep sistem pengendalian internal, Tatakelola TI, serta COBIT sebagai kerangka kerja Tatakelola TI, serta memahami dasar-dasa
+ITS;PST697;CLO1;Tatakelola TI,;HSkill;PST697: Mampu memahami konsep sistem pengendalian internal, Tatakelola TI, serta COBIT sebagai kerangka kerja Tatakelola TI, serta memahami dasar-dasa
+ITS;PST697;CLO1;audit TI.;HSkill;PST697: Mampu memahami konsep sistem pengendalian internal, Tatakelola TI, serta COBIT sebagai kerangka kerja Tatakelola TI, serta memahami dasar-dasa
+ITS;PST697;CLO5;teknologi informasi.;HSkill;PST697: Mampu memahami tahapan-tahapan audit lingkungan teknologi informasi.
+ITS;PST944;CLO1;tatakelola keamanan informasi,;HSkill;PST944: Mampu menjelaskan konsep-konsep penting dalam tatakelola keamanan informasi, termasuk manajemen resiko, manajemen keamanan siber, serta jamina
+ITS;PST944;CLO1;manajemen resiko,;HSkill;PST944: Mampu menjelaskan konsep-konsep penting dalam tatakelola keamanan informasi, termasuk manajemen resiko, manajemen keamanan siber, serta jamina
+ITS;PST944;CLO1;manajemen keamanan siber,;HSkill;PST944: Mampu menjelaskan konsep-konsep penting dalam tatakelola keamanan informasi, termasuk manajemen resiko, manajemen keamanan siber, serta jamina
+ITS;PST944;CLO1;COBIT.;Tech;PST944: Mampu menjelaskan konsep-konsep penting dalam tatakelola keamanan informasi, termasuk manajemen resiko, manajemen keamanan siber, serta jamina
+ITS;TML142;CLO1;machine learning;HSkill;TML142: Mampu memahami, mengemukakan, dan praktikkan teknologi pada machine learning serta mampu memberikan solusi yang inovatif atas permasalahan mel
+ITS;PSK856;CLO1;cognitive computing,;HSkill;PSK856: Mampu memahami dasar-dasar dari cognitive computing, memahami implementasi soft computing sebagai engine dalam cognitive problem solver, menel
+ITS;PSK856;CLO1;soft computing;HSkill;PSK856: Mampu memahami dasar-dasar dari cognitive computing, memahami implementasi soft computing sebagai engine dalam cognitive problem solver, menel
+ITS;PSK856;CLO1;cognitive problem solver,;HSkill;PSK856: Mampu memahami dasar-dasar dari cognitive computing, memahami implementasi soft computing sebagai engine dalam cognitive problem solver, menel
+ITS;PSK856;CLO1;AI,;HSkill;PSK856: Mampu memahami dasar-dasar dari cognitive computing, memahami implementasi soft computing sebagai engine dalam cognitive problem solver, menel
+ITS;PSK856;CLO1;ML,;Tech;PSK856: Mampu memahami dasar-dasar dari cognitive computing, memahami implementasi soft computing sebagai engine dalam cognitive problem solver, menel
+ITS;PSK856;CLO1;IoT;HSkill;PSK856: Mampu memahami dasar-dasar dari cognitive computing, memahami implementasi soft computing sebagai engine dalam cognitive problem solver, menel
+ITS;PSK856;CLO1;cognitive computing;HSkill;PSK856: Mampu memahami dasar-dasar dari cognitive computing, memahami implementasi soft computing sebagai engine dalam cognitive problem solver, menel
+ITS;PSK856;CLO1;Natural Language Processing;HSkill;PSK856: Mampu memahami dasar-dasar dari cognitive computing, memahami implementasi soft computing sebagai engine dalam cognitive problem solver, menel
+ITS;PSK856;CLO1;Expert Systems;HSkill;PSK856: Mampu memahami dasar-dasar dari cognitive computing, memahami implementasi soft computing sebagai engine dalam cognitive problem solver, menel
+ITS;ADDD245;CLO1;Data Science;HSkill;ADDD245: Mampu memahami posisi Data Science sebagai bidang antara Engineering, Analysis, Analytics, dan Communication serta membedakan jenjang data an
+ITS;ADDD245;CLO1;Analysis,;HSkill;ADDD245: Mampu memahami posisi Data Science sebagai bidang antara Engineering, Analysis, Analytics, dan Communication serta membedakan jenjang data an
+ITS;ADDD245;CLO1;Analytics,;HSkill;ADDD245: Mampu memahami posisi Data Science sebagai bidang antara Engineering, Analysis, Analytics, dan Communication serta membedakan jenjang data an
+ITS;ADDD245;CLO1;diagnostic,;HSkill;ADDD245: Mampu memahami posisi Data Science sebagai bidang antara Engineering, Analysis, Analytics, dan Communication serta membedakan jenjang data an
+ITS;ADDD245;CLO1;visualisasi;HSkill;ADDD245: Mampu memahami posisi Data Science sebagai bidang antara Engineering, Analysis, Analytics, dan Communication serta membedakan jenjang data an
+ITS;ADDD245;CLO1;konsep statistik,;HSkill;ADDD245: Mampu memahami posisi Data Science sebagai bidang antara Engineering, Analysis, Analytics, dan Communication serta membedakan jenjang data an
+ITS;ADDD245;CLO1;visualisasi,;HSkill;ADDD245: Mampu memahami posisi Data Science sebagai bidang antara Engineering, Analysis, Analytics, dan Communication serta membedakan jenjang data an
+ITS;ADDD245;CLO1;analisis kecerdasan mesin,;HSkill;ADDD245: Mampu memahami posisi Data Science sebagai bidang antara Engineering, Analysis, Analytics, dan Communication serta membedakan jenjang data an
+ITS;ADDD245;CLO1;machine learning,;HSkill;ADDD245: Mampu memahami posisi Data Science sebagai bidang antara Engineering, Analysis, Analytics, dan Communication serta membedakan jenjang data an
+ITS;DPP410;CLO1;metodologi;HSkill;DPP410: Mampu memahami konsep dan metodologi studi serta perancangan pengalaman pengguna, menerapkan teknik-teknik memahami ruang masalah pengguna, pe
+ITS;MPB088;CLO1;proses bisnis;HSkill;MPB088: Mampu mengklasifikasikan proses bisnis dalam organisasi serta menemukan dan menggambarkan proses AS-IS.
+ITS;LDSD341;CLO1;logika,;HSkill;LDSD341: Mampu menjelaskan dan menerapkan konsep-konsep dasar logika, matematika, struktur diskrit, dan pendekatan komputasional untuk memecahkan perm
+ITS;LDSD341;CLO1;matematika,;HSkill;LDSD341: Mampu menjelaskan dan menerapkan konsep-konsep dasar logika, matematika, struktur diskrit, dan pendekatan komputasional untuk memecahkan perm
+ITS;LDSD341;CLO1;struktur diskrit,;HSkill;LDSD341: Mampu menjelaskan dan menerapkan konsep-konsep dasar logika, matematika, struktur diskrit, dan pendekatan komputasional untuk memecahkan perm
+ITS;LDSD341;CLO1;komputasional;HSkill;LDSD341: Mampu menjelaskan dan menerapkan konsep-konsep dasar logika, matematika, struktur diskrit, dan pendekatan komputasional untuk memecahkan perm
+ITS;MHP365;CLO5;CRM;HSkill;MHP365: Mahasiswa mampu mempraktikkan proses CRM untuk memahami dan merencanakan strategi bisnis yang efektif dalam situasi di Masyarakat.
+ITS;MHP365;CLO5;strategi bisnis;HSkill;MHP365: Mahasiswa mampu mempraktikkan proses CRM untuk memahami dan merencanakan strategi bisnis yang efektif dalam situasi di Masyarakat.
+ITS;MRP265;CLO1;manajemen rantai pasok,;HSkill;MRP265: Mampu menjelaskan konsep manajemen rantai pasok, menerapkan metode peramalan, perencanaan agregat, dan teknik manajemen permintaan untuk menye
+ITS;MRP265;CLO1;peramalan,;HSkill;MRP265: Mampu menjelaskan konsep manajemen rantai pasok, menerapkan metode peramalan, perencanaan agregat, dan teknik manajemen permintaan untuk menye
+ITS;MRP265;CLO1;perencanaan agregat,;HSkill;MRP265: Mampu menjelaskan konsep manajemen rantai pasok, menerapkan metode peramalan, perencanaan agregat, dan teknik manajemen permintaan untuk menye
+ITS;MRP265;CLO1;manajemen permintaan;HSkill;MRP265: Mampu menjelaskan konsep manajemen rantai pasok, menerapkan metode peramalan, perencanaan agregat, dan teknik manajemen permintaan untuk menye
+ITS;ODFB259;CLO1;sistem fluss,;HSkill;ODFB259: Mampu memahami organisasi sebagai sistem fluss, memahami design parameter, contingencies factors, structural configurations dalam desain orga
+ITS;ODFB259;CLO1;design parameter,;HSkill;ODFB259: Mampu memahami organisasi sebagai sistem fluss, memahami design parameter, contingencies factors, structural configurations dalam desain orga
+ITS;ODFB259;CLO1;contingencies factors,;HSkill;ODFB259: Mampu memahami organisasi sebagai sistem fluss, memahami design parameter, contingencies factors, structural configurations dalam desain orga
+ITS;ODFB259;CLO1;structural configurations;HSkill;ODFB259: Mampu memahami organisasi sebagai sistem fluss, memahami design parameter, contingencies factors, structural configurations dalam desain orga
+ITS;ODFB259;CLO1;desain organisasi,;HSkill;ODFB259: Mampu memahami organisasi sebagai sistem fluss, memahami design parameter, contingencies factors, structural configurations dalam desain orga
+ITS;PDAP829;CLO1;optimasi kombinatorik,;HSkill;PDAP829: Mampu memahami permasalahan optimasi kombinatorik, menentukan algoritma heuristik yang tepat berdasarkan kompleksitas permasalahan, menerapka
+ITS;PDAP829;CLO1;algoritma heuristik;HSkill;PDAP829: Mampu memahami permasalahan optimasi kombinatorik, menentukan algoritma heuristik yang tepat berdasarkan kompleksitas permasalahan, menerapka
+ITS;PDAP829;CLO1;pemrograman;HSkill;PDAP829: Mampu memahami permasalahan optimasi kombinatorik, menentukan algoritma heuristik yang tepat berdasarkan kompleksitas permasalahan, menerapka
+ITS;PKSI632;CLO1;Sistem Informasi,;HSkill;PKSI632: Mahasiswa mampu memahami definisi dan komponen Sistem Informasi, memahami peran Sistem Informasi dalam bisnis, membedakan jenis-jenis Sistem 
+ITS;PKSI632;CLO1;Sistem Informasi;HSkill;PKSI632: Mahasiswa mampu memahami definisi dan komponen Sistem Informasi, memahami peran Sistem Informasi dalam bisnis, membedakan jenis-jenis Sistem 
+ITS;PKSI632;CLO1;sistem informasi;HSkill;PKSI632: Mahasiswa mampu memahami definisi dan komponen Sistem Informasi, memahami peran Sistem Informasi dalam bisnis, membedakan jenis-jenis Sistem 
+ITS;PBA126;CLO1;encoding;HSkill;PBA126: Mampu memahami dasar-dasar konseptual dari pengolahan bahasa alami, merancang skema encoding bahasa alami sederhana berdasarkan perhitungan, m
+ITS;PBA126;CLO1;analisis data;HSkill;PBA126: Mampu memahami dasar-dasar konseptual dari pengolahan bahasa alami, merancang skema encoding bahasa alami sederhana berdasarkan perhitungan, m
+ITS;PDAP113;CLO1;data mining;HSkill;PDAP113: Mampu menginterpretasikan karakteristik data deret waktu melalui visualisasi datanya, serta menentukan teknik peramalan yang sesuai
+ITS;PDAP113;CLO1;data scientist:;HSkill;PDAP113: Mampu menginterpretasikan karakteristik data deret waktu melalui visualisasi datanya, serta menentukan teknik peramalan yang sesuai
+ITS;PDSUT279;CLO1;pengumpulan data;HSkill;PDSUT279: Mampu memahami terminologi, konsep dasar, dan kegunaan statistika dari sisi peneliti dan praktisi, memahami beberapa metode pengumpulan data
+ITS;RKPL832;CLO1;rekayasa kebutuhan perangkat lunak,;HSkill;RKPL832: Mampu memahami definisi dan pentingnya rekayasa kebutuhan perangkat lunak, memahami konsep, model, dan orang-orang yang terlibat dalam proses
+ITS;RKPL832;CLO1;memvalidasi;HSkill;RKPL832: Mampu memahami definisi dan pentingnya rekayasa kebutuhan perangkat lunak, memahami konsep, model, dan orang-orang yang terlibat dalam proses
+ITS;RO516;CLO1;simpleks,;HSkill;RO516: Mampu mendefinisikan permasalahan, memodelkan permasalahan tersebut, menyelesaikan model melalui metode grafis atau simpleks, menemukan informa
+ITS;RO516;CLO1;pemrograman integer;HSkill;RO516: Mampu mendefinisikan permasalahan, memodelkan permasalahan tersebut, menyelesaikan model melalui metode grafis atau simpleks, menemukan informa
+ITS;SBD331;CLO1;pengembangan sistem basis data,;HSkill;SBD331: Mampu memahami tahapan daur hidup pengembangan sistem basis data, fase-fase utama desain basis data, serta arsitektur sistem basis data
+ITS;SBD331;CLO1;desain basis data,;HSkill;SBD331: Mampu memahami tahapan daur hidup pengembangan sistem basis data, fase-fase utama desain basis data, serta arsitektur sistem basis data
+ITS;SBD331;CLO1;arsitektur sistem basis data;;
+ITS;SBD331;CLO1;mendesain basis data konseptual;HSkill;SBD331: Mampu memahami tahapan daur hidup pengembangan sistem basis data, fase-fase utama desain basis data, serta arsitektur sistem basis data
+ITS;SBD331;CLO1;pemodelan data;HSkill;SBD331: Mampu memahami tahapan daur hidup pengembangan sistem basis data, fase-fase utama desain basis data, serta arsitektur sistem basis data
+ITS;SBD331;CLO1;basis data logikal;HSkill;SBD331: Mampu memahami tahapan daur hidup pengembangan sistem basis data, fase-fase utama desain basis data, serta arsitektur sistem basis data
+ITS;SBD331;CLO1;model;HSkill;SBD331: Mampu memahami tahapan daur hidup pengembangan sistem basis data, fase-fase utama desain basis data, serta arsitektur sistem basis data
+ITS;SBD331;CLO1;query,;HSkill;SBD331: Mampu memahami tahapan daur hidup pengembangan sistem basis data, fase-fase utama desain basis data, serta arsitektur sistem basis data
+ITS;SBD331;CLO1;manipulasi data relasional;;
+ITS;SE608;CLO1;sistem enterprise;HSkill;SE608: Mampu memahami konsep dan aspek-aspek dasar dalam sistem enterprise serta merencanakan dan mengkofigurasikan integrasi proses bisnis umum dalam
+ITS;SE608;CLO1;integrasi proses bisnis;HSkill;SE608: Mampu memahami konsep dan aspek-aspek dasar dalam sistem enterprise serta merencanakan dan mengkofigurasikan integrasi proses bisnis umum dalam
+ITS;SE608;CLO1;perangkat;HSkill;SE608: Mampu memahami konsep dan aspek-aspek dasar dalam sistem enterprise serta merencanakan dan mengkofigurasikan integrasi proses bisnis umum dalam
+ITS;SE608;CLO1;pemrograman open source;HSkill;SE608: Mampu memahami konsep dan aspek-aspek dasar dalam sistem enterprise serta merencanakan dan mengkofigurasikan integrasi proses bisnis umum dalam
+ITS;SE608;CLO1;integrasi ERP;HSkill;SE608: Mampu memahami konsep dan aspek-aspek dasar dalam sistem enterprise serta merencanakan dan mengkofigurasikan integrasi proses bisnis umum dalam
+ITS;SE608;CLO1;CRM;HSkill;SE608: Mampu memahami konsep dan aspek-aspek dasar dalam sistem enterprise serta merencanakan dan mengkofigurasikan integrasi proses bisnis umum dalam
+ITS;KL369;CLO1;komputasi lunak,;HSkill;KL369: Mampu memahami konsep komputasi lunak, optimasi, serta beberapa metode soft computing sebagai engine dalam problem solver, serta memahami jenis
+ITS;KL369;CLO1;optimasi,;HSkill;KL369: Mampu memahami konsep komputasi lunak, optimasi, serta beberapa metode soft computing sebagai engine dalam problem solver, serta memahami jenis
+ITS;KL369;CLO1;algoritma;HSkill;KL369: Mampu memahami konsep komputasi lunak, optimasi, serta beberapa metode soft computing sebagai engine dalam problem solver, serta memahami jenis
+ITS;KL369;CLO1;komputasi lunak;HSkill;KL369: Mampu memahami konsep komputasi lunak, optimasi, serta beberapa metode soft computing sebagai engine dalam problem solver, serta memahami jenis
+ITS;SDI821;CLO1;sistem data-intensif,;HSkill;SDI821: Mampu memahami metrik dari sistem data-intensif, mendemonstrasikan komponen-komponennya, serta merancang dan membangun sistem berbasis polygot
+ITS;SKBM366;CLO1;konsep sistem,;HSkill;SKBM366: Mampu memahami dan menjelaskan konsep sistem, model, dan simulasi.
+ITS;SKBM366;CLO1;model,;HSkill;SKBM366: Mampu memahami dan menjelaskan konsep sistem, model, dan simulasi.
+ITS;SKBM366;CLO1;simulasi.;HSkill;SKBM366: Mampu memahami dan menjelaskan konsep sistem, model, dan simulasi.
+ITS;SKBM366;CLO3;validasi model simulasi sistem dinamika.;HSkill;SKBM366: Mampu mengembangkan dan melakukan validasi model simulasi sistem dinamika.
+ITS;SKBM366;CLO4;analisis sensitivitas.;HSkill;SKBM366: Mampu mengembangkan skenario model prediksi dan melakukan analisis sensitivitas.
+ITS;SKBM366;CLO5;sistem keputusan berbasis model.;HSkill;SKBM366: Mampu mengembangkan dan memahami sistem keputusan berbasis model.

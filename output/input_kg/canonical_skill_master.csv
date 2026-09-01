@@ -1,0 +1,2887 @@
+source,original_skill,canonical_skill,similarity_score,mapping_method,status
+Jobs,.net,.net,1.0,exact,accepted
+Jobs,.net core,.net core,1.0,exact,accepted
+Jobs,.net core basics,.net core,0.883,semantic,accepted
+Jobs,.net core fundamentals,.net core,0.8722,semantic,accepted
+Jobs,.net development tools,.net development tools,1.0,exact,accepted
+Jobs,.net framework,.net framework,1.0,exact,accepted
+Jobs,.net framework basics,.net framework,0.915,semantic,accepted
+Jobs,2d animation,2d animation,1.0,exact,accepted
+Jobs,2d/3d animation,2d animation,0.9261,semantic,accepted
+Jobs,3d animation,2d animation,0.8111,semantic,review
+Jobs,3d design,3d design,1.0,exact,accepted
+Jobs,3d design basics,3d design,0.8758,semantic,accepted
+Jobs,3d modeling,3d design,0.8454,semantic,review
+Jobs,3d modeling and animation expert,3d modeling/animation expert,0.9867,semantic,accepted
+Jobs,3d modeling and graphics,3d design,0.8094,semantic,review
+Jobs,3d modeling basics,3d design,0.7592,semantic,review
+Jobs,3d modeling fundamentals,3d design,0.7585,semantic,review
+Jobs,3d modeling/animation advanced,3d modeling/animation advanced,1.0,exact,accepted
+Jobs,3d modeling/animation expert,3d modeling/animation expert,1.0,exact,accepted
+Jobs,a/b testing,a/b testing,1.0,exact,accepted
+Jobs,access control,access control,1.0,exact,accepted
+Jobs,accessibility,accessibility,1.0,exact,accepted
+Jobs,accessibility standards,accessibility,0.8737,semantic,accepted
+Jobs,accessibility testing,accessibility testing,1.0,exact,accepted
+Jobs,account management,account management,1.0,exact,accepted
+Course,account management,account management,1.0,exact,accepted
+Course,accounting,accounting,1.0,exact,accepted
+Course,accounting software,accounting software,1.0,exact,accepted
+Course,accounts payable and receivable,accounts payable and receivable,1.0,exact,accepted
+Jobs,active directory,active directory,1.0,exact,accepted
+Jobs,active listening,active listening,1.0,exact,accepted
+Jobs,actuator integration,actuator integration,1.0,exact,accepted
+Jobs,actuators,actuators,1.0,exact,accepted
+Jobs,ada compliance,ada compliance,1.0,exact,accepted
+Jobs,adaptability,adaptability,1.0,exact,accepted
+Course,adaptability,adaptability,1.0,exact,accepted
+Jobs,adaptable tone and style,adaptable tone and style,1.0,exact,accepted
+Jobs,adaptable writing style,adaptable writing style,1.0,exact,accepted
+Jobs,adaptation of tone and style,tone and style adaptation,0.9767,semantic,accepted
+Jobs,administrative support,administrative support,1.0,exact,accepted
+Jobs,adobe creative suite,adobe creative suite,1.0,exact,accepted
+Jobs,adobe creative suite basics,adobe creative suite,0.897,semantic,accepted
+Jobs,adobe framemaker,adobe framemaker,1.0,exact,accepted
+Jobs,adobe illustrator,illustrator,0.9385,semantic,accepted
+Jobs,adobe indesign,adobe indesign,1.0,exact,accepted
+Jobs,adobe photoshop,photoshop,0.9054,semantic,accepted
+Jobs,adobe xd,adobe xd,1.0,exact,accepted
+Jobs,advanced 3d graphics,advanced 3d graphics,1.0,exact,accepted
+Jobs,advanced 3d modeling and animation,3d modeling/animation advanced,0.9698,semantic,accepted
+Jobs,advanced 3d modeling/animation,3d modeling/animation advanced,0.9896,semantic,accepted
+Jobs,advanced adobe photoshop,photoshop,0.7252,semantic,review
+Jobs,advanced ai and gameplay,gameplay systems,0.9867,semantic,accepted
+Jobs,advanced ai and gameplay systems,gameplay systems,0.9797,semantic,accepted
+Jobs,advanced ai/gameplay systems,gameplay systems,0.7085,semantic,review
+Jobs,advanced ai/ml,advanced ai/ml,1.0,exact,accepted
+Jobs,advanced analytics,advanced analytics,1.0,exact,accepted
+Jobs,"advanced analytics (google analytics, tableau, mixpanel)","analytics (ga, tableau)",0.7808,semantic,review
+Jobs,advanced analytics and a/b testing,advanced analytics and a/b testing,1.0,exact,accepted
+Jobs,advanced bi modeling,advanced bi modeling,1.0,exact,accepted
+Jobs,advanced budgeting and resource allocation,budgeting,0.7761,semantic,review
+Jobs,advanced c programming,advanced c programming,1.0,exact,accepted
+Jobs,advanced c++,advanced c++,1.0,exact,accepted
+Jobs,"advanced c, c++",advanced c++,0.9201,semantic,accepted
+Jobs,advanced cad,advanced cad,1.0,exact,accepted
+Jobs,advanced cad/solidworks,advanced cad,0.8805,semantic,accepted
+Jobs,advanced content optimization,content strategy,0.9185,semantic,accepted
+Jobs,advanced content strategy,content strategy,0.9067,semantic,accepted
+Jobs,advanced control theory,control theory,0.9173,semantic,accepted
+Jobs,advanced copywriting,copywriting,0.9151,semantic,accepted
+Jobs,advanced copywriting and editing,copywriting,0.8548,semantic,accepted
+Jobs,advanced data analysis,advanced data analysis,1.0,exact,accepted
+Jobs,advanced digital campaigns,advanced digital campaigns,1.0,exact,accepted
+Jobs,advanced digital marketing,marketing strategy,0.9103,semantic,accepted
+Jobs,advanced digital marketing campaigns,advanced digital campaigns,0.9051,semantic,accepted
+Jobs,advanced digital marketing strategies,marketing strategy,0.7121,semantic,review
+Jobs,advanced digital marketing strategy,marketing strategy,0.7492,semantic,review
+Jobs,advanced editing,advanced editing,1.0,exact,accepted
+Jobs,advanced gameplay and ai,gameplay systems,0.9867,semantic,accepted
+Jobs,advanced gameplay and ai systems,gameplay systems,0.7145,semantic,review
+Jobs,advanced gameplay systems,gameplay systems,0.8901,semantic,accepted
+Jobs,advanced java,advanced java,1.0,exact,accepted
+Jobs,advanced javascript,advanced javascript,1.0,exact,accepted
+Jobs,advanced marketing strategy,marketing strategy,0.8624,semantic,accepted
+Jobs,"advanced ml/dl: deep learning, nlp, reinforcement learning, computer vision, transfer learning","ml/dl: deep learning, reinforcement learning, nlp, computer vision, transfer learning",0.959,semantic,accepted
+Jobs,"advanced ml/dl: deep learning, reinforcement learning, nlp, computer vision, transfer learning","ml/dl: deep learning, reinforcement learning, nlp, computer vision, transfer learning",0.959,semantic,accepted
+Jobs,advanced network security,advanced network security,1.0,exact,accepted
+Jobs,advanced networking,advanced networking,1.0,exact,accepted
+Jobs,advanced nlp,advanced nlp,1.0,exact,accepted
+Jobs,advanced on-page and off-page seo,advanced on-page and off-page seo,1.0,exact,accepted
+Jobs,advanced performance optimization,performance optimization,0.8863,semantic,accepted
+Jobs,advanced photoshop,photoshop,0.824,semantic,review
+Jobs,advanced project management,project management,0.8776,semantic,accepted
+Jobs,advanced project planning,basic project planning,0.857,semantic,accepted
+Jobs,advanced project planning and execution,basic project planning,0.7699,semantic,review
+Jobs,advanced project planning and scheduling,basic project planning,0.7338,semantic,review
+Jobs,advanced project scheduling and planning,basic project planning,0.7293,semantic,review
+Jobs,"advanced prompt design (chain-of-thought, iterative optimization)",prompt optimization,0.7948,semantic,review
+Jobs,advanced python,advanced python,1.0,exact,accepted
+Jobs,"advanced python, c/c++","advanced python, c/c++",1.0,exact,accepted
+Jobs,"advanced python, c/c++, javascript","python, c/c++, javascript",0.947,semantic,accepted
+Jobs,advanced react,react,0.8595,semantic,accepted
+Jobs,"advanced react (hooks, redux)","advanced react (hooks, redux)",1.0,exact,accepted
+Jobs,advanced robotics control,advanced robotics control,1.0,exact,accepted
+Jobs,advanced robotics control algorithms,advanced robotics control,0.9039,semantic,accepted
+Jobs,advanced scheduling and budgeting,budgeting,0.7424,semantic,review
+Jobs,"advanced scheduling, budgeting, and resource allocation",budgeting,0.9444,semantic,accepted
+Jobs,advanced sensor integration,sensor integration,0.8986,semantic,accepted
+Jobs,advanced seo,basic seo,0.7433,semantic,review
+Jobs,advanced seo and analytics,advanced seo and analytics,1.0,exact,accepted
+Jobs,advanced seo and keyword optimization,seo and keyword optimization,0.8764,semantic,accepted
+Jobs,advanced seo and sem,seo/sem,0.9014,semantic,accepted
+Jobs,advanced seo skills,advanced seo skills,1.0,exact,accepted
+Jobs,advanced seo strategy,basic seo,0.7033,semantic,review
+Jobs,advanced seo techniques,basic seo,0.7411,semantic,review
+Jobs,advanced seo/sem,seo/sem,0.8983,semantic,accepted
+Jobs,advanced seo/sem/ppc,seo/sem/ppc,0.9243,semantic,accepted
+Jobs,advanced sql,advanced sql,1.0,exact,accepted
+Jobs,advanced statistical analysis,advanced statistical analysis,1.0,exact,accepted
+Jobs,advanced tableau,tableau,0.8665,semantic,accepted
+Jobs,advanced technical seo,basic seo,0.9122,semantic,accepted
+Jobs,advanced technical writing,technical writing,0.9094,semantic,accepted
+Jobs,advanced threat detection,advanced threat detection,1.0,exact,accepted
+Jobs,advanced writing and editing,advanced writing and editing,1.0,exact,accepted
+Jobs,advanced writing skills,advanced writing skills,1.0,exact,accepted
+Course,advertising,advertising,1.0,exact,accepted
+Course,advertising sales,advertising,0.8807,semantic,accepted
+Jobs,after effects,after effects,1.0,exact,accepted
+OBE,agile,agile,1.0,exact,accepted
+Jobs,agile,agile,1.0,exact,accepted
+Course,agile,agile,1.0,exact,accepted
+Jobs,"agile (scrum, kanban basics)",scrum and kanban basics,0.9061,semantic,accepted
+Jobs,agile awareness,agile awareness,1.0,exact,accepted
+Jobs,agile documentation,agile documentation,1.0,exact,accepted
+Jobs,agile facilitation,agile facilitation,1.0,exact,accepted
+Jobs,agile fundamentals,agile,0.8715,semantic,accepted
+Jobs,agile knowledge,agile knowledge,1.0,exact,accepted
+Jobs,agile leadership,agile leadership,1.0,exact,accepted
+Jobs,agile methodologies,agile methods,0.925,semantic,accepted
+Jobs,"agile methodologies (scrum, kanban)",scrum and kanban basics,0.8498,semantic,review
+Jobs,agile methodology,agile methods,0.9173,semantic,accepted
+Jobs,agile methodology awareness,agile awareness,0.8525,semantic,accepted
+Jobs,agile methodology knowledge,agile knowledge,0.8981,semantic,accepted
+Jobs,agile methods,agile methods,1.0,exact,accepted
+Jobs,agile oversight,agile oversight,1.0,exact,accepted
+Jobs,agile project management,agile project management,1.0,exact,accepted
+Jobs,agile testing,agile testing,1.0,exact,accepted
+Jobs,agile understanding,agile understanding,1.0,exact,accepted
+Jobs,agile ux,agile,0.8996,semantic,accepted
+Jobs,agile workflow management,agile workflow management,1.0,exact,accepted
+Jobs,agile workflow oversight,agile workflow oversight,1.0,exact,accepted
+Jobs,agile/scrum knowledge,agile knowledge,0.902,semantic,accepted
+Jobs,agility,agility,1.0,exact,accepted
+Jobs,ai and gameplay systems,gameplay systems,0.7798,semantic,review
+Jobs,ai and machine learning in seo,ai and machine learning in seo,1.0,exact,accepted
+Jobs,ai architecture,ai architecture,1.0,exact,accepted
+Jobs,ai coding assistant mastery,ai coding assistants,0.8571,semantic,accepted
+Jobs,ai coding assistant proficiency,ai coding assistants,0.8857,semantic,accepted
+Jobs,ai coding assistant usage,ai coding assistants,0.8759,semantic,accepted
+Jobs,"ai coding assistant usage (chatgpt, copilot)","ai coding assistant usage (chatgpt, copilot)",1.0,exact,accepted
+Jobs,ai coding assistants,ai coding assistants,1.0,exact,accepted
+Jobs,ai content tools,ai content tools,1.0,exact,accepted
+Jobs,ai content tools awareness,ai content tools awareness,1.0,exact,accepted
+Jobs,ai marketing tools,ai marketing tools,1.0,exact,accepted
+Jobs,ai programming,ai programming,1.0,exact,accepted
+Jobs,ai strategy,ai strategy,1.0,exact,accepted
+Jobs,ai tool awareness,ai tool awareness,1.0,exact,accepted
+Jobs,ai tools exposure,ai tools exposure,1.0,exact,accepted
+Jobs,ai writing tool awareness,ai writing tool awareness,1.0,exact,accepted
+Jobs,ai writing tool exposure,ai tools exposure,0.8521,semantic,accepted
+Jobs,ai writing tools,ai writing tools,1.0,exact,accepted
+Jobs,ai writing tools awareness,ai writing tool awareness,0.9767,semantic,accepted
+Jobs,ai-assisted code evaluation,ai-assisted code evaluation,1.0,exact,accepted
+Jobs,ai-assisted content creation,ai content tools,0.7705,semantic,review
+Jobs,ai-assisted content optimization,ai-assisted content optimization,1.0,exact,accepted
+Jobs,ai-assisted content tools,ai content tools,0.9143,semantic,accepted
+Jobs,ai-assisted documentation,ai-assisted documentation,1.0,exact,accepted
+Jobs,ai-assisted writing,ai writing tools,0.8356,semantic,review
+Jobs,ai-assisted writing tools,ai writing tools,0.909,semantic,accepted
+Jobs,ai-driven analytics,ai-driven analytics,1.0,exact,accepted
+Jobs,ai-driven marketing,ai marketing tools,0.8393,semantic,review
+Jobs,ai-driven marketing and personalization,ai marketing tools,0.7348,semantic,review
+Jobs,ai-driven marketing solutions,ai marketing tools,0.8351,semantic,review
+Jobs,ai-driven marketing strategies,ai marketing tools,0.807,semantic,review
+Jobs,ai-driven marketing tools,ai marketing tools,0.9285,semantic,accepted
+Jobs,ai-driven personalization,ai-driven personalization,1.0,exact,accepted
+Jobs,ai-driven personalization and marketing automation,ai marketing tools,0.9408,semantic,accepted
+Jobs,ai-driven seo insights,ai-driven seo tools,0.8619,semantic,accepted
+Jobs,ai-driven seo tools,ai-driven seo tools,1.0,exact,accepted
+Jobs,ai-enhanced analytics,ai-driven analytics,0.8658,semantic,accepted
+Jobs,ai-powered analytics,ai-driven analytics,0.918,semantic,accepted
+Jobs,ai-powered marketing personalization,ai marketing tools,0.7262,semantic,review
+Jobs,ai-powered marketing solutions,ai marketing tools,0.8496,semantic,review
+Jobs,ai-powered marketing tools,ai marketing tools,0.9297,semantic,accepted
+Jobs,ai-powered seo analytics,ai-driven seo tools,0.8911,semantic,accepted
+Jobs,ai-powered seo tools,ai-driven seo tools,0.9517,semantic,accepted
+Jobs,ai/gameplay systems,gameplay systems,0.815,semantic,review
+Jobs,ai/ml algorithms,ai/ml algorithms,1.0,exact,accepted
+Jobs,ai/ml architecture,ai architecture,0.8575,semantic,accepted
+Jobs,ai/ml frameworks,ai/ml frameworks,1.0,exact,accepted
+Jobs,airflow,airflow,1.0,exact,accepted
+Jobs,airflow basics,airflow,0.8696,semantic,accepted
+Jobs,airflow fundamentals,airflow,0.8242,semantic,review
+Jobs,ajax,ajax,1.0,exact,accepted
+Jobs,ajax/json,ajax/json,1.0,exact,accepted
+Jobs,alerting,alerting,1.0,exact,accepted
+Jobs,alerting systems,alerting systems,1.0,exact,accepted
+Course,algebra,algebra,1.0,exact,accepted
+OBE,algorithm design,algorithm design,1.0,exact,accepted
+Jobs,algorithm design,algorithm design,1.0,exact,accepted
+Jobs,algorithms,algorithms,1.0,exact,accepted
+Course,algorithms,algorithms,1.0,exact,accepted
+Jobs,alm,alm,1.0,exact,accepted
+Jobs,analysis,analysis,1.0,exact,accepted
+Jobs,analytical skills,analytical skills,1.0,exact,accepted
+Jobs,analytical thinking,analytical thinking,1.0,exact,accepted
+Jobs,analytics,analytics,1.0,exact,accepted
+Jobs,"analytics (ga, tableau)","analytics (ga, tableau)",1.0,exact,accepted
+Jobs,"analytics (ga, tableau, mixpanel)","analytics (ga, tableau)",0.8554,semantic,accepted
+Jobs,"analytics (ga4, looker studio)","analytics (ga4, looker studio)",1.0,exact,accepted
+Jobs,"analytics (ga4, looker studio, search console)","analytics (ga4, looker studio)",0.9203,semantic,accepted
+Jobs,"analytics (ga4, search console, looker studio)","analytics (ga4, looker studio)",0.9161,semantic,accepted
+Jobs,"analytics (google analytics, tableau)","analytics (ga, tableau)",0.9497,semantic,accepted
+Jobs,analytics and kpi tracking,analytics and kpi tracking,1.0,exact,accepted
+Jobs,analytics and performance measurement,analytics and performance measurement,1.0,exact,accepted
+Jobs,analytics and reporting,analytics,0.8677,semantic,accepted
+Jobs,"analytics and reporting (ga, tableau, mixpanel)","analytics (ga, tableau)",0.8347,semantic,review
+Jobs,"analytics and reporting (ga4, looker studio)","analytics (ga4, looker studio)",0.9356,semantic,accepted
+Jobs,"analytics and reporting (ga4, looker studio, search console)","analytics (ga4, looker studio)",0.8719,semantic,accepted
+Jobs,"analytics and reporting (google analytics, tableau, mixpanel)","analytics (ga, tableau)",0.7952,semantic,review
+Jobs,analytics and roi optimization,analytics and roi optimization,1.0,exact,accepted
+Jobs,analytics and roi reporting,analytics and roi reporting,1.0,exact,accepted
+Jobs,analytics basics,analytics basics,1.0,exact,accepted
+Jobs,android sdk,android sdk,1.0,exact,accepted
+Jobs,android studio,android studio,1.0,exact,accepted
+Jobs,angular,angular,1.0,exact,accepted
+Course,angular,angular,1.0,exact,accepted
+Jobs,angular basics,angular,0.8739,semantic,accepted
+Jobs,angular/react,angular/react,1.0,exact,accepted
+Jobs,angularjs,angularjs,1.0,exact,accepted
+Jobs,animation,animation,1.0,exact,accepted
+Jobs,animation basics,animation basics,1.0,exact,accepted
+Jobs,animation direction,animation direction,1.0,exact,accepted
+Jobs,animation fundamentals,animation basics,0.8522,semantic,accepted
+Jobs,animation software,animation software,1.0,exact,accepted
+Jobs,ansible,ansible,1.0,exact,accepted
+Jobs,ansible awareness,ansible,0.8555,semantic,accepted
+Jobs,ant,ant,1.0,exact,accepted
+Jobs,antivirus,antivirus,1.0,exact,accepted
+Jobs,antivirus tools,antivirus tools,1.0,exact,accepted
+Jobs,anypoint platform,anypoint platform,1.0,exact,accepted
+Course,apache,apache,1.0,exact,accepted
+Jobs,apache kafka,apache kafka,1.0,exact,accepted
+Jobs,apache nifi,apache nifi,1.0,exact,accepted
+Jobs,apache nifi basics,apache nifi,0.9164,semantic,accepted
+Jobs,apache spark,apache spark,1.0,exact,accepted
+Jobs,apache spark basics,apache spark,0.9198,semantic,accepted
+Jobs,apex,apex,1.0,exact,accepted
+OBE,api,apis,0.9159,semantic,accepted
+Jobs,api & microservices architecture,microservices,0.7686,semantic,review
+Jobs,api & microservices design,microservices,0.7695,semantic,review
+Jobs,"api & mobile testing: postman, soapui, appium","api testing: postman, soapui",0.8055,semantic,review
+Jobs,api and microservices architecture,microservices,0.771,semantic,review
+Jobs,api architecture,api design,0.8674,semantic,accepted
+Jobs,api architecture and microservices,microservices,0.7723,semantic,review
+Jobs,api automation,api automation,1.0,exact,accepted
+Jobs,api design,api design,1.0,exact,accepted
+Jobs,api design and microservices,microservices,0.7945,semantic,review
+Jobs,api development,api development,1.0,exact,accepted
+Jobs,api documentation,api documentation,1.0,exact,accepted
+Jobs,api integration,api integration,1.0,exact,accepted
+Jobs,api integration (openai/azure),api integration (openai/azure),1.0,exact,accepted
+Jobs,api integration basics,api integration,0.9291,semantic,accepted
+Jobs,api integration fundamentals,api integration,0.9128,semantic,accepted
+Jobs,api testing,api testing,1.0,exact,accepted
+Jobs,api testing advanced,api testing,0.9217,semantic,accepted
+Jobs,api testing basics,api testing,0.9423,semantic,accepted
+Jobs,"api testing: postman, soapui","api testing: postman, soapui",1.0,exact,accepted
+Jobs,"api testing: postman, soapui, appium","api testing: postman, soapui",0.8967,semantic,accepted
+Jobs,apis,apis,1.0,exact,accepted
+Jobs,app performance optimization,app performance optimization,1.0,exact,accepted
+Jobs,app store submission,app store submission,1.0,exact,accepted
+Jobs,appdynamics,appdynamics,1.0,exact,accepted
+Jobs,appium,appium,1.0,exact,accepted
+Jobs,appium basics,appium,0.8721,semantic,accepted
+Jobs,application design,application design,1.0,exact,accepted
+Jobs,application development,application development,1.0,exact,accepted
+Course,application development,application development,1.0,exact,accepted
+Jobs,application performance monitoring,performance tracking,0.7416,semantic,review
+Jobs,application security,application security,1.0,exact,accepted
+Course,applied mathematics,applied mathematics,1.0,exact,accepted
+Jobs,ar/vr design,ar/vr design,1.0,exact,accepted
+Jobs,architecture design,architecture design,1.0,exact,accepted
+Jobs,arcore advanced,arcore advanced,1.0,exact,accepted
+Jobs,arcore basics,arcore basics,1.0,exact,accepted
+Jobs,arduino basics,arduino basics,1.0,exact,accepted
+Jobs,arduino/raspberry pi advanced,arduino/raspberry pi advanced,1.0,exact,accepted
+Jobs,aria,aria,1.0,exact,accepted
+Jobs,arkit advanced,arkit advanced,1.0,exact,accepted
+Jobs,arkit basics,arkit basics,1.0,exact,accepted
+Jobs,"arkit, arcore, vuforia","arkit, arcore, vuforia",1.0,exact,accepted
+Jobs,arm templates,arm templates,1.0,exact,accepted
+Jobs,art direction,art direction,1.0,exact,accepted
+Jobs,artifact management,artifact management,1.0,exact,accepted
+Jobs,artifact repository,artifact repository,1.0,exact,accepted
+Jobs,artifactory,artifactory,1.0,exact,accepted
+Jobs,asp.net,asp.net,1.0,exact,accepted
+Jobs,asp.net basics,asp.net basics,1.0,exact,accepted
+Jobs,asp.net core,.net core,0.8624,semantic,accepted
+Jobs,asp.net mvc,mvc,0.8757,semantic,accepted
+Jobs,assistive technologies,assistive technologies,1.0,exact,accepted
+Jobs,async programming,async programming,1.0,exact,accepted
+Jobs,atlassian suite,atlassian suite,1.0,exact,accepted
+Jobs,attention to detail,attention to detail,1.0,exact,accepted
+Jobs,audio production,audio production,1.0,exact,accepted
+Course,audit,audit,1.0,exact,accepted
+Jobs,authentication,authentication,1.0,exact,accepted
+Jobs,authorization,authorization,1.0,exact,accepted
+Jobs,autocad,autocad,1.0,exact,accepted
+Jobs,autocad basics,autocad,0.905,semantic,accepted
+Jobs,automation,automation,1.0,exact,accepted
+Jobs,automation and scripting,automation scripts,0.9398,semantic,accepted
+Jobs,"automation awareness: selenium, appium, cucumber","basic automation: selenium, appium, cucumber",0.8721,semantic,accepted
+Jobs,automation scripting,automation scripts,0.9599,semantic,accepted
+Jobs,automation scripts,automation scripts,1.0,exact,accepted
+Jobs,automation strategy,automation,0.8882,semantic,accepted
+Jobs,automation testing,test automation,0.9448,semantic,accepted
+Jobs,automation tools,automation,0.8604,semantic,accepted
+Jobs,"automation tools awareness: selenium, appium, cucumber","basic automation: selenium, appium, cucumber",0.8572,semantic,accepted
+Jobs,automation with ansible,automation with ansible,1.0,exact,accepted
+Jobs,"automation: selenium, appium, cucumber basic knowledge","basic automation: selenium, appium, cucumber",0.9333,semantic,accepted
+Jobs,"automation: selenium, appium, cucumber, junit, testng","basic automation: selenium, appium, cucumber",0.8439,semantic,review
+Jobs,"automation: selenium, appium, cucumber, testng","basic automation: selenium, appium, cucumber",0.8878,semantic,accepted
+Jobs,aws,aws,1.0,exact,accepted
+Course,aws,aws,1.0,exact,accepted
+Jobs,aws & azure cloud,cloud basics,0.9416,semantic,accepted
+Jobs,aws advanced,aws advanced,1.0,exact,accepted
+Jobs,aws awareness,aws awareness,1.0,exact,accepted
+Jobs,aws basics,aws basics,1.0,exact,accepted
+Jobs,aws beginner,aws basics,0.8672,semantic,accepted
+Jobs,aws big data services,aws big data services,1.0,exact,accepted
+Jobs,aws cloud basics,cloud basics,0.8811,semantic,accepted
+Jobs,aws codepipeline,aws codepipeline,1.0,exact,accepted
+Jobs,aws emr,aws emr,1.0,exact,accepted
+Jobs,aws fundamentals,aws basics,0.8707,semantic,accepted
+Jobs,aws glue,aws glue,1.0,exact,accepted
+Jobs,aws iam,aws,0.8532,semantic,accepted
+Jobs,aws iot advanced,aws iot basics,0.9078,semantic,accepted
+Jobs,aws iot basics,aws iot basics,1.0,exact,accepted
+Jobs,aws lambda,aws lambda,1.0,exact,accepted
+Jobs,aws multi-cloud,aws multi-cloud,1.0,exact,accepted
+Jobs,aws networking,aws networking,1.0,exact,accepted
+Jobs,aws redshift,aws redshift,1.0,exact,accepted
+Jobs,aws s3,aws s3,1.0,exact,accepted
+Jobs,aws s3 basics,aws s3,0.8679,semantic,accepted
+Jobs,aws security,aws security,1.0,exact,accepted
+Jobs,aws services,aws services,1.0,exact,accepted
+Jobs,"aws, azure, gcp",cloud basics,0.9402,semantic,accepted
+Jobs,"aws, azure, gcp advanced",cloud basics,0.9127,semantic,accepted
+Jobs,"aws, azure, gcp expert",cloud basics,0.9225,semantic,accepted
+Jobs,"aws, azure, gcp iot","aws, azure, gcp iot",1.0,exact,accepted
+Jobs,aws/azure basics,cloud basics,0.9149,semantic,accepted
+Jobs,axure,axure,1.0,exact,accepted
+Jobs,azure,azure,1.0,exact,accepted
+Course,azure,azure,1.0,exact,accepted
+Jobs,azure advanced,azure advanced,1.0,exact,accepted
+Jobs,azure awareness,azure awareness,1.0,exact,accepted
+Jobs,azure basics,azure basics,1.0,exact,accepted
+Jobs,azure big data services,azure big data services,1.0,exact,accepted
+Jobs,azure cognitive services,azure cognitive services,1.0,exact,accepted
+Jobs,azure data lake,azure data lake,1.0,exact,accepted
+Jobs,azure devops,azure devops,1.0,exact,accepted
+Jobs,azure fundamentals,azure fundamentals,1.0,exact,accepted
+Jobs,azure iot advanced,azure iot basics,0.8711,semantic,accepted
+Jobs,azure iot basics,azure iot basics,1.0,exact,accepted
+Jobs,azure networking,azure networking,1.0,exact,accepted
+Jobs,azure security,azure security,1.0,exact,accepted
+Jobs,azure services,azure services,1.0,exact,accepted
+Jobs,azure synapse,azure synapse,1.0,exact,accepted
+Course,b2b sales,b2b sales,1.0,exact,accepted
+Jobs,back-end technologies,back-end technologies,1.0,exact,accepted
+Course,backend development,backend development,1.0,exact,accepted
+Jobs,backlog grooming,backlog grooming,1.0,exact,accepted
+Jobs,backup and recovery,backup and recovery,1.0,exact,accepted
+Jobs,bamboo,bamboo,1.0,exact,accepted
+Course,banking,banking,1.0,exact,accepted
+Jobs,bash,bash,1.0,exact,accepted
+Jobs,bash basics,bash basics,1.0,exact,accepted
+Jobs,bash scripting,bash basics,0.7569,semantic,review
+Jobs,bash scripting basics,bash basics,0.8646,semantic,accepted
+Jobs,bash scripting expert,bash basics,0.7371,semantic,review
+Jobs,"bash, powershell",powershell,0.8753,semantic,accepted
+Jobs,"bash, powershell scripting",powershell,0.8317,semantic,review
+Jobs,bash/shell scripting,bash basics,0.7389,semantic,review
+Jobs,bash/zsh scripting,bash/zsh scripting,1.0,exact,accepted
+Jobs,basic architecture design,architecture design,0.9003,semantic,accepted
+Jobs,basic automation scripts,automation scripts,0.9594,semantic,accepted
+Jobs,"basic automation: selenium webdriver, appium, cucumber","basic automation: selenium, appium, cucumber",0.9722,semantic,accepted
+Jobs,"basic automation: selenium, appium, cucumber","basic automation: selenium, appium, cucumber",1.0,exact,accepted
+Jobs,basic budgeting,budgeting,0.9174,semantic,accepted
+Jobs,basic budgeting and resource allocation,budgeting,0.8022,semantic,review
+Jobs,basic ci/cd,ci/cd,0.905,semantic,accepted
+Jobs,basic ci/cd and devops exposure,basic ci/cd and devops exposure,1.0,exact,accepted
+Jobs,basic ci/cd concepts,ci/cd,0.8448,semantic,review
+Jobs,basic container orchestration knowledge,container orchestration,0.9279,semantic,accepted
+Jobs,basic cryptography knowledge,cryptography,0.7941,semantic,review
+Jobs,basic cryptography understanding,cryptography,0.752,semantic,review
+Jobs,basic data analysis,data analysis,0.8516,semantic,accepted
+Jobs,basic data analytics,analytics,0.7707,semantic,review
+Jobs,basic debugging,debugging,0.9239,semantic,accepted
+Jobs,basic erp/crm knowledge,erp/crm basics,0.8914,semantic,accepted
+Jobs,basic figma,figma,0.8549,semantic,accepted
+Jobs,basic html,html,0.8776,semantic,accepted
+Jobs,basic javascript,javascript,0.899,semantic,accepted
+Jobs,basic jenkins,jenkins,0.8507,semantic,accepted
+Jobs,"basic knowledge of nmap, burp suite","basic knowledge of nmap, burp suite",1.0,exact,accepted
+Jobs,"basic knowledge of project management methodologies (agile, scrum, waterfall)","basic knowledge of project management methodologies (agile, scrum, waterfall)",1.0,exact,accepted
+Jobs,basic knowledge of waterfall and agile,basic knowledge of waterfall and agile,1.0,exact,accepted
+Jobs,basic link building,link building,0.9301,semantic,accepted
+Jobs,basic marketing automation,email automation,0.9582,semantic,accepted
+Jobs,basic microservices understanding,microservices,0.8714,semantic,accepted
+Jobs,"basic ml algorithms: regression, classification, clustering","basic ml: classification, clustering",0.8308,semantic,review
+Jobs,"basic ml models: decision trees, k-means, logistic regression","basic ml: classification, clustering",0.9703,semantic,accepted
+Jobs,"basic ml: classification, clustering","basic ml: classification, clustering",1.0,exact,accepted
+Jobs,"basic ml: classification, regression, clustering","basic ml: classification, clustering",0.9112,semantic,accepted
+Jobs,"basic ml: logistic regression, clustering, decision trees","basic ml: classification, clustering",0.7757,semantic,review
+Jobs,"basic ml: logistic regression, decision trees, k-means","basic ml: classification, clustering",0.9703,semantic,accepted
+Jobs,"basic ml: regression, classification, clustering","basic ml: classification, clustering",0.8756,semantic,accepted
+Jobs,basic mobile app development,mobile development,0.8034,semantic,review
+Jobs,"basic monitoring (nagios, grafana)","basic monitoring (nagios, grafana)",1.0,exact,accepted
+Jobs,basic networking,networking,0.8595,semantic,accepted
+Jobs,basic product management concepts,product management,0.8894,semantic,accepted
+OBE,basic programming,programming,0.8525,semantic,accepted
+Jobs,basic project planning,basic project planning,1.0,exact,accepted
+Jobs,basic project planning and scheduling,basic project planning,0.8738,semantic,accepted
+Jobs,basic rest api knowledge,rest api,0.8331,semantic,review
+Jobs,basic routing,routing,0.9127,semantic,accepted
+Jobs,basic security and compliance awareness,security compliance,0.8498,semantic,review
+Jobs,basic security awareness,security compliance,0.9068,semantic,accepted
+Jobs,basic seo,basic seo,1.0,exact,accepted
+Jobs,basic seo knowledge,basic seo,0.8694,semantic,accepted
+Jobs,basic seo practices,basic seo,0.8626,semantic,accepted
+Jobs,basic statistical analysis,statistical analysis,0.9141,semantic,accepted
+Jobs,basic statistics,statistics,0.8728,semantic,accepted
+Jobs,basic team coordination,team coordination,0.9217,semantic,accepted
+Jobs,basic usability testing,usability basics,0.8582,semantic,accepted
+Jobs,basic vulnerability assessment,vulnerability assessment,0.9638,semantic,accepted
+Jobs,basic web development,web development,0.9013,semantic,accepted
+Jobs,basic workflow management,basic workflow management,1.0,exact,accepted
+Jobs,basic writing and grammar,writing and grammar,0.8981,semantic,accepted
+OBE,basis data / database,basis data / database,1.0,exact,accepted
+Course,bayesian network,bayesian network,1.0,exact,accepted
+Course,beginner  course  1 - 3 months,beginner  course  1 - 3 months,1.0,exact,accepted
+Course,beginner  specialization  3 - 6 months,beginner  specialization  3 - 6 months,1.0,exact,accepted
+Course,behavioral economics,behavioral economics,1.0,exact,accepted
+Course,benefits,benefits,1.0,exact,accepted
+Jobs,bgp,bgp,1.0,exact,accepted
+Jobs,bgp (intro),bgp,0.8597,semantic,accepted
+Course,big data,big data,1.0,exact,accepted
+Jobs,big data architecture,big data architecture,1.0,exact,accepted
+Jobs,big data management,big data management,1.0,exact,accepted
+Jobs,big data technologies,big data technologies,1.0,exact,accepted
+Jobs,"big data: hadoop, spark","big data: hadoop, spark",1.0,exact,accepted
+Jobs,"big data: spark, hadoop","big data: hadoop, spark",0.9965,semantic,accepted
+Jobs,bigquery,bigquery,1.0,exact,accepted
+Course,billing & invoicing,billing & invoicing,1.0,exact,accepted
+Course,bioinformatics,bioinformatics,1.0,exact,accepted
+Jobs,bitbucket,bitbucket,1.0,exact,accepted
+Jobs,black-box testing,black-box testing,1.0,exact,accepted
+Jobs,blazor,blazor,1.0,exact,accepted
+Jobs,blender,blender,1.0,exact,accepted
+Jobs,blender basics,blender basics,1.0,exact,accepted
+Jobs,blender/maya basics,maya basics,0.9117,semantic,accepted
+Jobs,blockchain,blockchain,1.0,exact,accepted
+Course,blockchain,blockchain,1.0,exact,accepted
+Jobs,blockchain & smart contracts,blockchain & smart contracts,1.0,exact,accepted
+Jobs,blockchain and dlt,blockchain and dlt,1.0,exact,accepted
+Jobs,blockchain and smart contracts,blockchain & smart contracts,0.9797,semantic,accepted
+Jobs,blockchain basics,blockchain basics,1.0,exact,accepted
+Jobs,blockchain development,blockchain development,1.0,exact,accepted
+Jobs,blockchain fundamentals,blockchain fundamentals,1.0,exact,accepted
+Jobs,blockchain implementation,blockchain implementation,1.0,exact,accepted
+Jobs,blockchain technologies,blockchain technologies,1.0,exact,accepted
+Jobs,blog and article writing,blog and article writing,1.0,exact,accepted
+Jobs,blogging,blogging,1.0,exact,accepted
+Jobs,blogging and copywriting,blogging and copywriting,1.0,exact,accepted
+Jobs,blueprints,blueprints,1.0,exact,accepted
+Jobs,bluetooth,bluetooth,1.0,exact,accepted
+Jobs,bluetooth and zigbee protocols,bluetooth and zigbee protocols,1.0,exact,accepted
+Jobs,bootstrap,bootstrap,1.0,exact,accepted
+Jobs,bpmn,bpmn,1.0,exact,accepted
+Jobs,branching strategies,branching strategies,1.0,exact,accepted
+Jobs,brand and ux strategy,brand strategy,0.8653,semantic,accepted
+Jobs,brand consistency,brand consistency,1.0,exact,accepted
+Jobs,brand management,brand management,1.0,exact,accepted
+Course,brand management,brand management,1.0,exact,accepted
+Jobs,brand management and ux integration,brand strategy,0.8786,semantic,accepted
+Jobs,brand messaging,brand messaging,1.0,exact,accepted
+Jobs,brand messaging and consistency,brand messaging and consistency,1.0,exact,accepted
+Jobs,brand strategy,brand strategy,1.0,exact,accepted
+Jobs,brand strategy and ux design,brand strategy,0.8745,semantic,accepted
+Jobs,brand strategy and ux design integration,brand strategy,0.763,semantic,review
+Jobs,brand strategy and ux integration,brand strategy,0.7992,semantic,review
+Jobs,brand voice alignment,brand voice alignment,1.0,exact,accepted
+Jobs,brand voice consistency,brand voice consistency,1.0,exact,accepted
+Jobs,branding,branding,1.0,exact,accepted
+Jobs,branding basics,branding,0.8687,semantic,accepted
+Jobs,browser developer tools,browser developer tools,1.0,exact,accepted
+Jobs,budget allocation,budgeting,0.8391,semantic,review
+Jobs,budget and resource management,budgeting,0.7713,semantic,review
+Jobs,budget and roi analysis,budgeting,0.8951,semantic,accepted
+Jobs,budget and roi management,budgeting,0.927,semantic,accepted
+Jobs,budget and roi optimization,budgeting,0.9386,semantic,accepted
+Jobs,budget management,budgeting,0.8667,semantic,accepted
+Course,budget management,budgeting,0.8667,semantic,accepted
+Jobs,budget management and roi optimization,budgeting,0.7089,semantic,review
+Jobs,budget management and roi tracking,budgeting,0.8709,semantic,accepted
+Jobs,budget monitoring,budget monitoring,1.0,exact,accepted
+Jobs,budget optimization,budgeting,0.8106,semantic,review
+Jobs,budget oversight,budget oversight,1.0,exact,accepted
+Jobs,budget planning,budgeting,0.8454,semantic,review
+Jobs,budget planning and optimization,budgeting,0.7778,semantic,review
+Jobs,budget planning and roi optimization,budgeting,0.7112,semantic,review
+Jobs,budgeting,budgeting,1.0,exact,accepted
+Jobs,budgeting and resource allocation,budgeting,0.8325,semantic,review
+Jobs,budgeting and resource management,budgeting,0.8343,semantic,review
+Jobs,budgeting basics,budgeting,0.8911,semantic,accepted
+Jobs,"bug & test management: jira, bugzilla, quality center","bug & test management: jira, bugzilla, quality center",1.0,exact,accepted
+Jobs,"bug tracking & documentation: jira, bugzilla, testrail","bug tracking: jira, bugzilla",0.861,semantic,accepted
+Jobs,"bug tracking & documentation: jira, testrail","bug tracking: jira, bugzilla",0.7948,semantic,review
+Jobs,"bug tracking & documentation: jira, testrail, alm","bug tracking: jira, bugzilla",0.77,semantic,review
+Jobs,"bug tracking: jira, bugzilla","bug tracking: jira, bugzilla",1.0,exact,accepted
+Jobs,bugzilla,bugzilla,1.0,exact,accepted
+Jobs,build automation,build automation,1.0,exact,accepted
+Jobs,build systems,build systems,1.0,exact,accepted
+Jobs,build tools,build tools,1.0,exact,accepted
+Course,business,business,1.0,exact,accepted
+Jobs,business acumen,business acumen,1.0,exact,accepted
+Jobs,business analysis,business analysis,1.0,exact,accepted
+Course,business analysis,business analysis,1.0,exact,accepted
+Course,business communication,business communication,1.0,exact,accepted
+Course,business design,business design,1.0,exact,accepted
+Course,business development,business development,1.0,exact,accepted
+OBE,business intelligence,business intelligence,1.0,exact,accepted
+Jobs,business intelligence,business intelligence,1.0,exact,accepted
+Course,business intelligence,business intelligence,1.0,exact,accepted
+Jobs,business intelligence tools,business intelligence,0.8679,semantic,accepted
+Jobs,business metrics awareness,business metrics awareness,1.0,exact,accepted
+Jobs,business process analysis,business process analysis,1.0,exact,accepted
+Jobs,business process improvement,process improvement,0.8777,semantic,accepted
+Jobs,business process knowledge,business process knowledge,1.0,exact,accepted
+Course,business process management,business process management,1.0,exact,accepted
+Jobs,business process mapping,business process mapping,1.0,exact,accepted
+Jobs,business process modeling,business process modeling,1.0,exact,accepted
+Jobs,business process optimization,process optimization,0.8589,semantic,accepted
+Course,business psychology,business psychology,1.0,exact,accepted
+Course,business research,business research,1.0,exact,accepted
+Jobs,business strategy,business strategy,1.0,exact,accepted
+Jobs,business systems,business systems,1.0,exact,accepted
+Course,business transformation,business transformation,1.0,exact,accepted
+Jobs,c,c,1.0,exact,accepted
+Course,c,c,1.0,exact,accepted
+Jobs,c advanced,c advanced,1.0,exact,accepted
+Jobs,c basics,c basics,1.0,exact,accepted
+Jobs,c#,c#,1.0,exact,accepted
+Jobs,c# advanced,c# advanced,1.0,exact,accepted
+Jobs,c# basics,c#,0.8791,semantic,accepted
+Jobs,c# expert,c# expert,1.0,exact,accepted
+Jobs,c++,c++,1.0,exact,accepted
+Course,c++,c++,1.0,exact,accepted
+Jobs,c++ advanced,advanced c++,0.9721,semantic,accepted
+Jobs,c++ basics,c++ basics,1.0,exact,accepted
+Jobs,c++ expert,c++ expert,1.0,exact,accepted
+Jobs,"c++, c# advanced","c++, c# expert",0.8959,semantic,accepted
+Jobs,"c++, c# expert","c++, c# expert",1.0,exact,accepted
+Jobs,"c, c++ advanced",advanced c++,0.8978,semantic,accepted
+Jobs,"c, c++ expert",c++ expert,0.9496,semantic,accepted
+Jobs,cabling,cabling,1.0,exact,accepted
+Jobs,cad/cam,cad/cam,1.0,exact,accepted
+Jobs,cad/cam software,cad/cam,0.8664,semantic,accepted
+Jobs,cad/solidworks,advanced cad,0.8124,semantic,review
+Jobs,cad/solidworks advanced,advanced cad,0.8715,semantic,accepted
+Course,calculus,calculus,1.0,exact,accepted
+Jobs,campaign coordination,campaign coordination,1.0,exact,accepted
+Jobs,campaign management,campaign management,1.0,exact,accepted
+Jobs,campaign optimization,campaign optimization,1.0,exact,accepted
+Jobs,canva and adobe creative suite,canva and adobe creative suite,1.0,exact,accepted
+Jobs,canva and wordpress basics,canva and wordpress basics,1.0,exact,accepted
+Jobs,cartography,cartography,1.0,exact,accepted
+Course,cash management,cash management,1.0,exact,accepted
+Jobs,cassandra,cassandra,1.0,exact,accepted
+Jobs,chain-of-thought prompting,prompt chain-of-thought,0.9219,semantic,accepted
+Jobs,chain-of-thought prompts,prompt chain-of-thought,0.9577,semantic,accepted
+Jobs,change management,change management,1.0,exact,accepted
+Course,change management,change management,1.0,exact,accepted
+Jobs,character design,character design,1.0,exact,accepted
+Jobs,character setup,character setup,1.0,exact,accepted
+Jobs,chef,chef,1.0,exact,accepted
+Jobs,chef inspec,chef inspec,1.0,exact,accepted
+Jobs,ci/cd,ci/cd,1.0,exact,accepted
+Jobs,"ci/cd (jenkins, bamboo, azure devops)","ci/cd: jenkins, gitlab ci/cd",0.7467,semantic,review
+Jobs,"ci/cd (jenkins, bamboo, github actions)","ci/cd: jenkins, gitlab ci/cd",0.7963,semantic,review
+Jobs,ci/cd automation,ci/cd automation,1.0,exact,accepted
+Jobs,ci/cd basics,ci/cd,0.8968,semantic,accepted
+Jobs,ci/cd fundamentals,ci/cd,0.8331,semantic,review
+Jobs,ci/cd integration,ci/cd integration,1.0,exact,accepted
+Jobs,"ci/cd integration (jenkins, azure devops)","ci/cd: jenkins, gitlab ci/cd",0.7559,semantic,review
+Jobs,"ci/cd integration (jenkins, bamboo)","ci/cd: jenkins, gitlab ci/cd",0.7449,semantic,review
+Jobs,"ci/cd integration: jenkins, gitlab ci/cd, bamboo","ci/cd: jenkins, gitlab ci/cd",0.8551,semantic,accepted
+Jobs,ci/cd introduction,ci/cd,0.8578,semantic,accepted
+Jobs,ci/cd pipelines,ci/cd pipelines,1.0,exact,accepted
+Jobs,"ci/cd pipelines (jenkins, bamboo, github actions)","ci/cd: jenkins, gitlab ci/cd",0.7369,semantic,review
+Jobs,"ci/cd pipelines (jenkins, github actions)","ci/cd: jenkins, gitlab ci/cd",0.7975,semantic,review
+Jobs,"ci/cd pipelines (jenkins, github actions, bamboo)","ci/cd: jenkins, gitlab ci/cd",0.7464,semantic,review
+Jobs,ci/cd pipelines expert,ci/cd pipelines,0.9433,semantic,accepted
+Jobs,"ci/cd pipelines expert (jenkins, bamboo, github actions)","ci/cd: jenkins, gitlab ci/cd",0.7083,semantic,review
+Jobs,"ci/cd: jenkins, gitlab ci, circleci","ci/cd: jenkins, gitlab ci/cd",0.9187,semantic,accepted
+Jobs,"ci/cd: jenkins, gitlab ci/cd","ci/cd: jenkins, gitlab ci/cd",1.0,exact,accepted
+Jobs,"ci/cd: jenkins, gitlab ci/cd, bamboo","ci/cd: jenkins, gitlab ci/cd",0.8734,semantic,accepted
+Jobs,cinematography,cinematography,1.0,exact,accepted
+Jobs,circleci,circleci,1.0,exact,accepted
+Jobs,circuit design,circuit design,1.0,exact,accepted
+OBE,cisco,cisco,1.0,exact,accepted
+Jobs,cisco,cisco,1.0,exact,accepted
+Jobs,cisco asa,cisco asa,1.0,exact,accepted
+Jobs,cisco ios,cisco ios,1.0,exact,accepted
+Jobs,cisco nexus,cisco nexus,1.0,exact,accepted
+Jobs,cisco prime,cisco prime,1.0,exact,accepted
+Jobs,cisco routers,cisco routers,1.0,exact,accepted
+Jobs,cisco switches,cisco switches,1.0,exact,accepted
+Jobs,cisco/juniper devices,cisco/juniper devices,1.0,exact,accepted
+Jobs,clarity in writing,writing clarity,0.9445,semantic,accepted
+Jobs,classification,classification,1.0,exact,accepted
+Jobs,clean architecture,clean architecture,1.0,exact,accepted
+Jobs,clear and persuasive writing,persuasive writing,0.8883,semantic,accepted
+Jobs,clear writing,clear writing,1.0,exact,accepted
+Jobs,client management,client management,1.0,exact,accepted
+Course,clinical data management,clinical data management,1.0,exact,accepted
+Jobs,closing deals,closing deals,1.0,exact,accepted
+Jobs,closing techniques,closing techniques,1.0,exact,accepted
+Jobs,cloud,cloud,1.0,exact,accepted
+Jobs,"cloud (aws, azure, gcp)",cloud basics,0.9402,semantic,accepted
+Jobs,cloud architecture,cloud architecture,1.0,exact,accepted
+Jobs,cloud automation tools,cloud automation tools,1.0,exact,accepted
+Jobs,cloud basics,cloud basics,1.0,exact,accepted
+Jobs,cloud basics (aws/azure),cloud basics,0.865,semantic,accepted
+OBE,cloud computing,cloud computing,1.0,exact,accepted
+Jobs,cloud computing,cloud computing,1.0,exact,accepted
+Course,cloud computing,cloud computing,1.0,exact,accepted
+Jobs,"cloud computing (aws, azure)",cloud basics,0.9799,semantic,accepted
+Jobs,cloud computing aws/azure,cloud basics,0.9799,semantic,accepted
+Jobs,cloud concepts,cloud concepts,1.0,exact,accepted
+Jobs,cloud cost management,cloud cost management,1.0,exact,accepted
+Jobs,cloud cost optimization,cloud cost management,0.8589,semantic,accepted
+Jobs,cloud database basics,cloud database basics,1.0,exact,accepted
+Jobs,"cloud expert (aws, azure, gcp)",cloud basics,0.9282,semantic,accepted
+Jobs,"cloud fundamentals (aws, gcp, azure)",cloud basics,0.7495,semantic,review
+Jobs,cloud fundamentals (aws/azure/gcp),cloud basics,0.7622,semantic,review
+Jobs,cloud infrastructure,cloud infrastructure,1.0,exact,accepted
+Jobs,cloud integration,cloud integration,1.0,exact,accepted
+Jobs,cloud iot basics,cloud iot basics,1.0,exact,accepted
+Jobs,cloud migration,cloud migration,1.0,exact,accepted
+Jobs,cloud networking,cloud networking,1.0,exact,accepted
+Jobs,cloud platform basics (aws/azure/gcp),cloud basics,0.7311,semantic,review
+Jobs,cloud platforms,cloud platforms,1.0,exact,accepted
+Jobs,"cloud platforms (aws, azure)",cloud basics,0.9876,semantic,accepted
+Jobs,"cloud platforms (aws, azure, gcp)",cloud basics,0.9789,semantic,accepted
+Jobs,cloud platforms aws/azure,cloud basics,0.9876,semantic,accepted
+Jobs,cloud platforms aws/azure/gcp,cloud basics,0.9789,semantic,accepted
+Jobs,cloud platforms basics (aws/azure/gcp),cloud basics,0.7052,semantic,review
+Jobs,cloud platforms expert,cloud platforms,0.8756,semantic,accepted
+Jobs,"cloud platforms expert (aws, azure, gcp)",cloud basics,0.9282,semantic,accepted
+Jobs,cloud security,cloud security,1.0,exact,accepted
+Jobs,cloud security (aws/azure),cloud security (aws/azure),1.0,exact,accepted
+Jobs,cloud security compliance,cloud security compliance,1.0,exact,accepted
+Jobs,cloud security fundamentals,cloud security,0.8845,semantic,accepted
+Jobs,"cloud security: iam, rbac, encryption, compliance","cloud security: iam, rbac, encryption, compliance",1.0,exact,accepted
+Jobs,cloud services,cloud services,1.0,exact,accepted
+Jobs,cloud storage basics,cloud storage basics,1.0,exact,accepted
+Jobs,cloud strategy,cloud strategy,1.0,exact,accepted
+Jobs,cloudformation,cloudformation,1.0,exact,accepted
+Jobs,cloudformation basics,cloudformation,0.9104,semantic,accepted
+Jobs,cloudwatch,cloudwatch,1.0,exact,accepted
+OBE,clustering,clustering,1.0,exact,accepted
+Jobs,clustering,clustering,1.0,exact,accepted
+Jobs,cms,cms,1.0,exact,accepted
+Jobs,cms (wordpress),cms tools,0.7398,semantic,review
+Jobs,cms (wordpress) basics,cms tools,0.9197,semantic,accepted
+Jobs,cms and ai tools,ai writing tools,0.8857,semantic,accepted
+Jobs,cms and ai tools proficiency,cms and ai tools proficiency,1.0,exact,accepted
+Jobs,cms and ai writing tools,ai writing tools,0.8516,semantic,accepted
+Jobs,cms basics,cms tools,0.762,semantic,review
+Jobs,"cms basics (wordpress, hubspot)","cms basics (wordpress, hubspot)",1.0,exact,accepted
+Jobs,cms familiarity,cms familiarity,1.0,exact,accepted
+Jobs,cms knowledge,cms knowledge,1.0,exact,accepted
+Jobs,cms proficiency,cms proficiency,1.0,exact,accepted
+Jobs,cms tools,cms tools,1.0,exact,accepted
+Jobs,cms tools (wordpress),cms tools,0.9201,semantic,accepted
+Jobs,cms usage,cms tools,0.7543,semantic,review
+Jobs,cnc machines,cnc machines,1.0,exact,accepted
+Jobs,cnc programming,cnc programming,1.0,exact,accepted
+Jobs,coap,coap,1.0,exact,accepted
+Jobs,coap basics,coap basics,1.0,exact,accepted
+OBE,cobit,cobit,1.0,exact,accepted
+Jobs,cobol,cobol,1.0,exact,accepted
+Jobs,cocoa touch,cocoa touch,1.0,exact,accepted
+Jobs,code coverage,code coverage,1.0,exact,accepted
+Jobs,code evaluation,code evaluation,1.0,exact,accepted
+Jobs,code evaluation and debugging,code evaluation and debugging,1.0,exact,accepted
+Jobs,code evaluation and debugging advanced,code evaluation and debugging,0.9294,semantic,accepted
+Jobs,code quality,code quality,1.0,exact,accepted
+Jobs,code review,code review,1.0,exact,accepted
+Jobs,code review basics,code review,0.9089,semantic,accepted
+Jobs,collaboration,collaboration,1.0,exact,accepted
+Course,collaboration,collaboration,1.0,exact,accepted
+Jobs,collaboration and communication,collaboration and communication,1.0,exact,accepted
+Jobs,collaboration and leadership,collaboration,0.796,semantic,review
+Jobs,collaboration and mentoring,mentoring,0.8599,semantic,accepted
+Jobs,collaboration and team management,collaboration,0.7873,semantic,review
+Jobs,collaboration and teamwork,collaboration,0.8775,semantic,accepted
+Jobs,collaboration tools,collaboration tools,1.0,exact,accepted
+Jobs,collaboration with cross-functional teams,collaboration,0.967,semantic,accepted
+Jobs,collaboration with marketing and design teams,collaboration with marketing teams,0.8969,semantic,accepted
+Jobs,collaboration with marketing teams,collaboration with marketing teams,1.0,exact,accepted
+Jobs,collaboration with teams,collaboration,0.8348,semantic,review
+Jobs,collections framework,collections framework,1.0,exact,accepted
+Jobs,color correction,color correction,1.0,exact,accepted
+Jobs,color theory,color theory,1.0,exact,accepted
+Course,combinatorics,combinatorics,1.0,exact,accepted
+Jobs,communication,communication,1.0,exact,accepted
+Course,communication,communication,1.0,exact,accepted
+Jobs,communication and coordination,communication and coordination,1.0,exact,accepted
+Jobs,communication and interpersonal skills,communication skills,0.8653,semantic,accepted
+Jobs,communication protocols,network protocols,0.8711,semantic,accepted
+Jobs,communication skills,communication skills,1.0,exact,accepted
+Course,compensation,compensation,1.0,exact,accepted
+Jobs,competitive analysis,competitive analysis,1.0,exact,accepted
+Jobs,competitive intelligence,competitive intelligence,1.0,exact,accepted
+Jobs,complex sql queries,sql,0.734,semantic,review
+Jobs,compliance,compliance,1.0,exact,accepted
+Jobs,"compliance (gdpr, pci-dss)","compliance (gdpr, pci-dss)",1.0,exact,accepted
+Jobs,"compliance (nist, iso)","compliance (nist, iso)",1.0,exact,accepted
+Jobs,compliance and risk assessment,compliance and risk assessment,1.0,exact,accepted
+Jobs,compliance as code,compliance as code,1.0,exact,accepted
+Jobs,compliance auditing,compliance auditing,1.0,exact,accepted
+Jobs,compliance automation,compliance automation,1.0,exact,accepted
+Jobs,compliance awareness,compliance,0.8735,semantic,accepted
+Jobs,compliance frameworks,compliance frameworks,1.0,exact,accepted
+Jobs,compositing,compositing,1.0,exact,accepted
+Jobs,comprehensive content strategy,content strategy,0.8645,semantic,accepted
+Course,computational logic,computational logic,1.0,exact,accepted
+Course,computational thinking,computational thinking,1.0,exact,accepted
+Course,computer architecture,computer architecture,1.0,exact,accepted
+Course,computer graphic techniques,computer graphic techniques,1.0,exact,accepted
+Course,computer graphics,computer graphics,1.0,exact,accepted
+Course,computer science,computer science,1.0,exact,accepted
+Jobs,computer vision,computer vision,1.0,exact,accepted
+Course,computer vision,computer vision,1.0,exact,accepted
+Jobs,concurrency,concurrency,1.0,exact,accepted
+Jobs,concurrency basics,concurrency,0.9323,semantic,accepted
+Jobs,configuration management,configuration management,1.0,exact,accepted
+Course,conflict management,conflict resolution,0.8722,semantic,accepted
+Jobs,conflict resolution,conflict resolution,1.0,exact,accepted
+Jobs,confluence,confluence,1.0,exact,accepted
+Jobs,consensus algorithms,consensus algorithms,1.0,exact,accepted
+Jobs,consul,consul,1.0,exact,accepted
+Jobs,consumer behavior analysis,consumer behavior analysis,1.0,exact,accepted
+Jobs,container orchestration,container orchestration,1.0,exact,accepted
+Jobs,container security,container security,1.0,exact,accepted
+Jobs,containerization,containerization,1.0,exact,accepted
+Jobs,containerization basics (docker),docker,0.765,semantic,review
+Jobs,content adaptation for brand voice,content adaptation for brand voice,1.0,exact,accepted
+Jobs,content and social media campaigns,social media campaigns,0.9094,semantic,accepted
+Jobs,content and social media marketing,content marketing,0.8158,semantic,review
+Jobs,content calendar management,content calendar management,1.0,exact,accepted
+Jobs,content creation,content creation,1.0,exact,accepted
+Jobs,content creation and copywriting,content creation and copywriting,1.0,exact,accepted
+Jobs,content creation and social media marketing,content marketing,0.7461,semantic,review
+Jobs,content creation and social media strategy,content marketing,0.8821,semantic,accepted
+Jobs,content creation and strategy,content strategy,0.8577,semantic,accepted
+Jobs,content editing and proofreading,proofreading,0.736,semantic,review
+Jobs,content formatting,content formatting,1.0,exact,accepted
+Jobs,content management,content management,1.0,exact,accepted
+Jobs,content marketing,content marketing,1.0,exact,accepted
+Jobs,content marketing and creation,content marketing,0.8832,semantic,accepted
+Jobs,content marketing and social media strategy,content marketing,0.7757,semantic,review
+Jobs,content marketing optimization,content marketing optimization,1.0,exact,accepted
+Jobs,content marketing strategy,content marketing,0.8844,semantic,accepted
+Jobs,content optimization,content strategy,0.7338,semantic,review
+Jobs,content optimization basics,content strategy,0.7238,semantic,review
+Jobs,content research,content research,1.0,exact,accepted
+Jobs,content research and accuracy,content research and accuracy,1.0,exact,accepted
+Jobs,content strategy,content strategy,1.0,exact,accepted
+Jobs,content strategy and optimization,content strategy,0.903,semantic,accepted
+Jobs,content strategy and seo copywriting,seo copywriting,0.8895,semantic,accepted
+Jobs,content strategy development,content strategy,0.8618,semantic,accepted
+Jobs,content strategy leadership,content strategy leadership,1.0,exact,accepted
+Jobs,content strategy planning,content strategy,0.9008,semantic,accepted
+Jobs,content strategy support,content strategy support,1.0,exact,accepted
+Jobs,continuous integration,continuous integration,1.0,exact,accepted
+Jobs,continuous security,continuous security,1.0,exact,accepted
+Course,contract management,contract management,1.0,exact,accepted
+Jobs,control algorithms,control algorithms,1.0,exact,accepted
+Jobs,control algorithms advanced,control algorithms,0.903,semantic,accepted
+Jobs,control flow,control flow,1.0,exact,accepted
+Jobs,control systems,control systems,1.0,exact,accepted
+Jobs,control systems advanced,control systems advanced,1.0,exact,accepted
+Jobs,control theory,control theory,1.0,exact,accepted
+Jobs,conversion rate optimization,conversion rate optimization,1.0,exact,accepted
+Jobs,coordination,coordination,1.0,exact,accepted
+Jobs,copywriting,copywriting,1.0,exact,accepted
+Jobs,corda,corda,1.0,exact,accepted
+Jobs,corda basics,corda basics,1.0,exact,accepted
+Jobs,core animation,core animation,1.0,exact,accepted
+Jobs,core data,core data,1.0,exact,accepted
+Jobs,core java,core java,1.0,exact,accepted
+Jobs,core javascript es6+,javascript es6+,0.9159,semantic,accepted
+Jobs,core text,core text,1.0,exact,accepted
+Jobs,coregraphics,coregraphics,1.0,exact,accepted
+Course,corporate accouting,corporate accouting,1.0,exact,accepted
+Course,correlation and dependence,correlation and dependence,1.0,exact,accepted
+Course,cost accounting,cost accounting,1.0,exact,accepted
+Jobs,cost optimization,cost optimization,1.0,exact,accepted
+Jobs,coverage.py,coverage.py,1.0,exact,accepted
+Jobs,crashlytics,crashlytics,1.0,exact,accepted
+Jobs,crawlability and indexing optimization,crawlability and indexing optimization,1.0,exact,accepted
+Jobs,crawlability checks,crawlability checks,1.0,exact,accepted
+Jobs,"crawlability, indexing, and site structure optimization",crawlability and indexing optimization,0.911,semantic,accepted
+Jobs,creative design tools,creative design tools,1.0,exact,accepted
+Jobs,creative problem solving,creative problem solving,1.0,exact,accepted
+Jobs,creativity,creativity,1.0,exact,accepted
+Course,creativity,creativity,1.0,exact,accepted
+Jobs,creativity and storytelling,creativity and storytelling,1.0,exact,accepted
+Jobs,critical thinking,critical thinking,1.0,exact,accepted
+Course,critical thinking,critical thinking,1.0,exact,accepted
+Jobs,crm,crm,1.0,exact,accepted
+OBE,crm (customer relationship management),customer relationship management,0.8417,semantic,review
+Jobs,"crm and automation tools (hubspot, marketo, salesforce)","crm tools (hubspot, salesforce)",0.8847,semantic,accepted
+Jobs,crm and marketing automation tools,crm and marketing automation tools,1.0,exact,accepted
+Jobs,crm basics,crm,0.8621,semantic,accepted
+Jobs,"crm tools (hubspot, marketo, salesforce)","crm tools (hubspot, salesforce)",0.9374,semantic,accepted
+Jobs,"crm tools (hubspot, salesforce)","crm tools (hubspot, salesforce)",1.0,exact,accepted
+Jobs,"crm tools (hubspot, salesforce, marketo)","crm tools (hubspot, salesforce)",0.9388,semantic,accepted
+Course,cross platform development,cross-platform development,0.9886,semantic,accepted
+Jobs,cross-chain,cross-chain,1.0,exact,accepted
+Jobs,cross-chain development,cross-chain development,1.0,exact,accepted
+Jobs,cross-chain interoperability,cross-chain interoperability,1.0,exact,accepted
+Jobs,cross-chain solutions,cross-chain solutions,1.0,exact,accepted
+Jobs,cross-channel campaign coordination,multi-channel campaigns,0.7819,semantic,review
+Jobs,cross-channel campaign management,multi-channel campaigns,0.8269,semantic,review
+Jobs,cross-functional collaboration,collaboration,0.747,semantic,review
+Jobs,cross-functional coordination,cross-functional coordination,1.0,exact,accepted
+Jobs,cross-functional leadership,cross-functional leadership,1.0,exact,accepted
+Jobs,cross-functional team collaboration,collaboration,0.967,semantic,accepted
+Jobs,cross-functional team leadership,cross-functional leadership,0.8959,semantic,accepted
+Jobs,cross-platform deployment,cross-platform deployment,1.0,exact,accepted
+Jobs,cross-platform development,cross-platform development,1.0,exact,accepted
+Jobs,cross-platform optimization,cross-platform optimization,1.0,exact,accepted
+Jobs,cross-team collaboration,collaboration,0.8205,semantic,review
+Jobs,cryptocurrency,cryptocurrency,1.0,exact,accepted
+Jobs,cryptography,cryptography,1.0,exact,accepted
+Course,cryptography,cryptography,1.0,exact,accepted
+Jobs,cryptography advanced,cryptography advanced,1.0,exact,accepted
+Jobs,cryptography and ssl/tls,"cryptography, ssl/tls",0.9837,semantic,accepted
+Jobs,cryptography basics,cryptography,0.8616,semantic,accepted
+Jobs,cryptography expert,cryptography expert,1.0,exact,accepted
+Jobs,cryptography fundamentals,cryptography,0.8537,semantic,accepted
+Jobs,"cryptography, ssl/tls","cryptography, ssl/tls",1.0,exact,accepted
+OBE,css,css,1.0,exact,accepted
+Jobs,css,css,1.0,exact,accepted
+Course,css,css,1.0,exact,accepted
+Jobs,css basics,css,0.8695,semantic,accepted
+Jobs,css3,css3,1.0,exact,accepted
+Jobs,css3 basics,css3,0.8945,semantic,accepted
+Jobs,cucumber,cucumber,1.0,exact,accepted
+Jobs,cucumber awareness,cucumber awareness,1.0,exact,accepted
+Course,culture,culture,1.0,exact,accepted
+Jobs,curiosity,curiosity,1.0,exact,accepted
+Course,customer analysis,customer analysis,1.0,exact,accepted
+Jobs,customer engagement,customer engagement,1.0,exact,accepted
+Jobs,customer relationship management,customer relationship management,1.0,exact,accepted
+Course,customer relationship management,customer relationship management,1.0,exact,accepted
+Jobs,customer relationship management (crm),customer relationship management,0.8734,semantic,accepted
+Jobs,customer service,customer service,1.0,exact,accepted
+Course,customer success,customer success,1.0,exact,accepted
+Course,customer support,customer support,1.0,exact,accepted
+Jobs,customer-centric design awareness,customer-centric design awareness,1.0,exact,accepted
+Jobs,customization,customization,1.0,exact,accepted
+Jobs,cybersecurity,cybersecurity,1.0,exact,accepted
+Course,cybersecurity,cybersecurity,1.0,exact,accepted
+Jobs,cybersecurity and compliance,cybersecurity compliance,0.9757,semantic,accepted
+Jobs,cybersecurity awareness,cybersecurity awareness,1.0,exact,accepted
+Jobs,cybersecurity basics,cybersecurity basics,1.0,exact,accepted
+Jobs,cybersecurity compliance,cybersecurity compliance,1.0,exact,accepted
+Jobs,cybersecurity expertise,cybersecurity expertise,1.0,exact,accepted
+Jobs,cybersecurity fundamentals,cybersecurity basics,0.881,semantic,accepted
+Jobs,cypress,cypress,1.0,exact,accepted
+Jobs,cypress basics,cypress,0.8638,semantic,accepted
+Jobs,dagger,dagger,1.0,exact,accepted
+Jobs,dapper,dapper,1.0,exact,accepted
+Jobs,dapps basics,dapps basics,1.0,exact,accepted
+Jobs,dapps fundamentals,dapps basics,0.9154,semantic,accepted
+Jobs,dashboards,dashboard,0.0,manual,accepted
+Jobs,dast,dast,1.0,exact,accepted
+Jobs,data analysis,data analysis,1.0,exact,accepted
+Course,data analysis,data analysis,1.0,exact,accepted
+Jobs,"data analysis (excel, google analytics)","data analysis (excel, google analytics)",1.0,exact,accepted
+Jobs,"data analysis (excel, sql basics)","data analysis (excel, sql basics)",1.0,exact,accepted
+Jobs,"data analysis (google analytics, tableau)","analytics (ga, tableau)",0.8987,semantic,accepted
+Jobs,data analysis and a/b testing,a/b testing,0.8657,semantic,accepted
+Jobs,data analysis and experimentation,data analysis and experimentation,1.0,exact,accepted
+Jobs,data analysis and metrics interpretation,data analysis and metrics interpretation,1.0,exact,accepted
+Jobs,data analysis basics,data analysis,0.8277,semantic,review
+Jobs,data analytics,analytics,0.8789,semantic,accepted
+Jobs,data analytics and reporting,analytics,0.7687,semantic,review
+Jobs,data analytics fundamentals,data analytics fundamentals,1.0,exact,accepted
+Course,data architecture,data architecture,1.0,exact,accepted
+Jobs,data cleaning,data cleaning,1.0,exact,accepted
+Jobs,data cleansing,data cleaning,0.8964,semantic,accepted
+Jobs,data collection,data collection,1.0,exact,accepted
+Jobs,data engineering,data engineering,1.0,exact,accepted
+Course,data engineering,data engineering,1.0,exact,accepted
+Jobs,data governance,data governance,1.0,exact,accepted
+Jobs,data integration,data integration,1.0,exact,accepted
+Jobs,data interpretation,data interpretation,1.0,exact,accepted
+Jobs,data lakes,data lakes,1.0,exact,accepted
+Jobs,data management,data management,1.0,exact,accepted
+Course,data management,data management,1.0,exact,accepted
+OBE,data mining,data mining,1.0,exact,accepted
+Jobs,data mining,data mining,1.0,exact,accepted
+Course,data mining,data mining,1.0,exact,accepted
+Course,data model,data modeling,0.8933,semantic,accepted
+Jobs,data modeling,data modeling,1.0,exact,accepted
+Jobs,data modeling basics,data modeling,0.8609,semantic,accepted
+Jobs,data modeling techniques,data modeling,0.8974,semantic,accepted
+Jobs,data partitioning,data partitioning,1.0,exact,accepted
+Jobs,data pipelines,data pipelines,1.0,exact,accepted
+Jobs,data pipelines and analytics,data pipelines,0.8709,semantic,accepted
+Jobs,data preprocessing,data preprocessing,1.0,exact,accepted
+Jobs,data processing,data processing,1.0,exact,accepted
+Jobs,data profiling,data profiling,1.0,exact,accepted
+Jobs,data quality tools,data quality tools,1.0,exact,accepted
+Jobs,data recovery,data recovery,1.0,exact,accepted
+Jobs,data reporting basics,data reporting basics,1.0,exact,accepted
+Jobs,data science,data science,1.0,exact,accepted
+Course,data science,data science,1.0,exact,accepted
+Jobs,data security,data security,1.0,exact,accepted
+Jobs,data storytelling,data storytelling,1.0,exact,accepted
+Jobs,data structures,data structures,1.0,exact,accepted
+Course,data structures,data structures,1.0,exact,accepted
+Jobs,data types,data types,1.0,exact,accepted
+Jobs,data visualization,data visualization,1.0,exact,accepted
+Course,data visualization,data visualization,1.0,exact,accepted
+Jobs,data visualization basics,data visualization,0.9383,semantic,accepted
+Jobs,"data visualization: matplotlib, seaborn","visualization: matplotlib, seaborn",0.9759,semantic,accepted
+OBE,data warehouse,data warehouse,1.0,exact,accepted
+Jobs,data warehousing,data warehousing,1.0,exact,accepted
+Course,data warehousing,data warehousing,1.0,exact,accepted
+Jobs,data wrangling,data wrangling,1.0,exact,accepted
+Jobs,data-driven analytics,data-driven analytics,1.0,exact,accepted
+Jobs,data-driven campaign optimization,campaign optimization,0.8558,semantic,accepted
+Jobs,data-driven campaign strategies,campaign optimization,0.8775,semantic,accepted
+Jobs,data-driven decision making,data-driven decisions,0.9315,semantic,accepted
+Jobs,data-driven decisions,data-driven decisions,1.0,exact,accepted
+Jobs,data-driven marketing,data-driven marketing,1.0,exact,accepted
+Jobs,data-driven marketing decisions,data-driven marketing,0.9099,semantic,accepted
+Jobs,data-driven optimization,data-driven optimization,1.0,exact,accepted
+Jobs,data-driven reporting,data-driven reporting,1.0,exact,accepted
+Jobs,data-driven reporting and dashboards,data-driven reporting,0.8529,semantic,accepted
+Jobs,data-driven sales,data-driven sales,1.0,exact,accepted
+Jobs,data-driven strategy implementation,data-driven strategy implementation,1.0,exact,accepted
+Jobs,data-driven ux,data-driven ux,1.0,exact,accepted
+Jobs,"database & storage: sql, nosql, s3, azure blob storage","sql, nosql, s3, azure blob",0.9094,semantic,accepted
+Jobs,database basics,database basics,1.0,exact,accepted
+Jobs,database design,database design,1.0,exact,accepted
+Jobs,database development,database development,1.0,exact,accepted
+Jobs,database management,database management,1.0,exact,accepted
+Jobs,database migration,database migration,1.0,exact,accepted
+Jobs,database tuning,database tuning,1.0,exact,accepted
+Jobs,databases,databases,1.0,exact,accepted
+Course,databases,databases,1.0,exact,accepted
+Jobs,databricks,databricks,1.0,exact,accepted
+Jobs,datadog,datadog,1.0,exact,accepted
+Jobs,dax,dax,1.0,exact,accepted
+Jobs,debugging,debugging,1.0,exact,accepted
+Jobs,debugging ai outputs,debugging ai outputs,1.0,exact,accepted
+Jobs,debugging ai-generated code,debugging ai outputs,0.8753,semantic,accepted
+Jobs,debugging and profiling,debugging and profiling,1.0,exact,accepted
+Jobs,debugging basics,debugging,0.9323,semantic,accepted
+Course,decision making,decision making,1.0,exact,accepted
+OBE,decision tree,decision tree,1.0,exact,accepted
+Jobs,decorators,decorators,1.0,exact,accepted
+Jobs,deep learning,deep learning,1.0,exact,accepted
+Course,deep learning,deep learning,1.0,exact,accepted
+Jobs,deep nlp expertise,deep nlp expertise,1.0,exact,accepted
+Jobs,defect management metrics,defect metrics,0.8961,semantic,accepted
+Jobs,defect metrics,defect metrics,1.0,exact,accepted
+Jobs,dependency management,dependency management,1.0,exact,accepted
+Jobs,deployment,deployment,1.0,exact,accepted
+Jobs,deployment automation,deployment automation,1.0,exact,accepted
+Jobs,deployment strategies,deployment strategies,1.0,exact,accepted
+Course,design and product,product design,0.9147,semantic,accepted
+Jobs,design patterns,design patterns,1.0,exact,accepted
+Jobs,design systems,design systems,1.0,exact,accepted
+OBE,design thinking,design thinking,1.0,exact,accepted
+Jobs,design thinking,design thinking,1.0,exact,accepted
+Jobs,development,development,1.0,exact,accepted
+OBE,devops,devops,1.0,exact,accepted
+Jobs,devops,devops,1.0,exact,accepted
+Course,devops,devops,1.0,exact,accepted
+Jobs,devops automation,devops automation,1.0,exact,accepted
+Jobs,devops in fintech,devops in fintech,1.0,exact,accepted
+Jobs,devops practices,devops practices,1.0,exact,accepted
+Jobs,devops tools,devops tools,1.0,exact,accepted
+Jobs,devsecops,devsecops,1.0,exact,accepted
+Jobs,devsecops practices,devsecops,0.8505,semantic,accepted
+Jobs,dhcp,dhcp,1.0,exact,accepted
+Course,differential equations,differential equations,1.0,exact,accepted
+Jobs,digital advertising basics,digital advertising basics,1.0,exact,accepted
+Jobs,digital campaign strategy,digital campaign strategy,1.0,exact,accepted
+Jobs,digital campaigns management,digital campaigns management,1.0,exact,accepted
+Jobs,digital forensics,digital forensics,1.0,exact,accepted
+Course,digital marketing,marketing strategy,0.87,semantic,accepted
+Jobs,digital marketing awareness,digital marketing awareness,1.0,exact,accepted
+Jobs,digital marketing basics,marketing strategy,0.9014,semantic,accepted
+Jobs,digital marketing campaigns,advanced digital campaigns,0.8399,semantic,review
+Jobs,digital marketing channel familiarity,digital marketing familiarity,0.8938,semantic,accepted
+Jobs,digital marketing channels and tools,digital marketing channels and tools,1.0,exact,accepted
+Jobs,digital marketing expertise,digital marketing expertise,1.0,exact,accepted
+Jobs,digital marketing familiarity,digital marketing familiarity,1.0,exact,accepted
+Jobs,digital marketing fundamentals,marketing strategy,0.9014,semantic,accepted
+Jobs,digital marketing integration,digital marketing integration,1.0,exact,accepted
+Jobs,digital marketing knowledge,digital marketing knowledge,1.0,exact,accepted
+Jobs,digital marketing strategy,marketing strategy,0.8019,semantic,review
+Jobs,digital marketing tools,digital marketing tools,1.0,exact,accepted
+Jobs,"digital marketing tools (ga, semrush)","digital marketing tools (ga, semrush)",1.0,exact,accepted
+Jobs,"digital marketing tools (ga, semrush, hubspot)","digital marketing tools (ga, semrush)",0.9281,semantic,accepted
+Jobs,"digital marketing tools (ga4, semrush, hubspot)","digital marketing tools (ga, semrush)",0.8826,semantic,accepted
+Jobs,"digital marketing tools (google analytics, semrush)","digital marketing tools (ga, semrush)",0.9354,semantic,accepted
+Jobs,"digital marketing tools (google analytics, semrush, hubspot)","digital marketing tools (ga, semrush)",0.8734,semantic,accepted
+Jobs,digital marketing tools proficiency,digital marketing tools proficiency,1.0,exact,accepted
+Jobs,digital sales awareness,digital sales awareness,1.0,exact,accepted
+Jobs,digital sales fundamentals,digital sales fundamentals,1.0,exact,accepted
+Jobs,digital strategy,digital strategy,1.0,exact,accepted
+Jobs,digital strategy development,digital strategy,0.8778,semantic,accepted
+Course,dimensionality reduction,dimensionality reduction,1.0,exact,accepted
+Jobs,directx basics,directx basics,1.0,exact,accepted
+Jobs,directx/opengl basics,directx/opengl basics,1.0,exact,accepted
+Course,distributed computing architecture,distributed systems,0.7226,semantic,review
+Jobs,distributed ledger,distributed ledger,1.0,exact,accepted
+Jobs,distributed systems,distributed systems,1.0,exact,accepted
+Jobs,distributed systems architecture,distributed systems,0.8545,semantic,accepted
+Jobs,distributed systems design,distributed systems,0.8846,semantic,accepted
+Jobs,distributed systems design and management,distributed systems,0.8236,semantic,review
+Jobs,distributed systems management,distributed systems,0.8448,semantic,review
+Jobs,django,django,1.0,exact,accepted
+Course,django,django,1.0,exact,accepted
+Jobs,django advanced,django advanced,1.0,exact,accepted
+Jobs,django basics,django,0.8775,semantic,accepted
+Jobs,django/flask,django/flask,1.0,exact,accepted
+Jobs,dns,dns,1.0,exact,accepted
+OBE,docker,docker,1.0,exact,accepted
+Jobs,docker,docker,1.0,exact,accepted
+Course,docker,docker,1.0,exact,accepted
+Jobs,docker basics,docker,0.8636,semantic,accepted
+Jobs,docker fundamentals,docker,0.806,semantic,review
+Jobs,docker introduction,docker,0.8616,semantic,accepted
+Jobs,docker swarm,docker swarm,1.0,exact,accepted
+Jobs,"docker, ci/cd","docker, ci/cd",1.0,exact,accepted
+Jobs,"docker, kubernetes",docker/kubernetes,0.9851,semantic,accepted
+Jobs,"docker, kubernetes advanced",docker/kubernetes,0.9373,semantic,accepted
+Jobs,"docker, kubernetes expert",docker/kubernetes,0.9215,semantic,accepted
+Jobs,docker/kubernetes,docker/kubernetes,1.0,exact,accepted
+Jobs,docker/kubernetes basics,docker/kubernetes,0.928,semantic,accepted
+Jobs,docker/kubernetes fundamentals,docker/kubernetes,0.9217,semantic,accepted
+Jobs,documentation,documentation,1.0,exact,accepted
+Jobs,drawing,drawing,1.0,exact,accepted
+Jobs,dynamics,dynamics,1.0,exact,accepted
+Course,e-commerce,e-commerce,1.0,exact,accepted
+Jobs,e-commerce platforms,e-commerce platforms,1.0,exact,accepted
+Jobs,ec2,ec2,1.0,exact,accepted
+Course,econometrics,econometrics,1.0,exact,accepted
+Jobs,edge computing,edge computing,1.0,exact,accepted
+Jobs,editing,editing,1.0,exact,accepted
+Jobs,editing and fact-checking,editing and fact-checking,1.0,exact,accepted
+Jobs,editing and proofreading,proofreading,0.8329,semantic,review
+Jobs,eigrp,eigrp,1.0,exact,accepted
+Jobs,elasticsearch,elasticsearch,1.0,exact,accepted
+Jobs,elk stack,elk stack,1.0,exact,accepted
+Jobs,email and social media familiarity,email and social media familiarity,1.0,exact,accepted
+Jobs,email automation,email automation,1.0,exact,accepted
+Jobs,email automation and personalization,email automation and personalization,1.0,exact,accepted
+Jobs,"email automation tools (hubspot, marketo)","email automation tools (hubspot, marketo)",1.0,exact,accepted
+Jobs,email campaigns,email campaigns,1.0,exact,accepted
+Jobs,email marketing,email marketing,1.0,exact,accepted
+Jobs,"email marketing (mailchimp, hubspot basics)","email automation tools (hubspot, marketo)",0.7226,semantic,review
+Jobs,email marketing and automation,email automation,0.8508,semantic,accepted
+Jobs,email marketing automation,email automation,0.8757,semantic,accepted
+Jobs,email marketing basics,email marketing,0.8918,semantic,accepted
+Jobs,email marketing tools,email marketing,0.7856,semantic,review
+Jobs,"email marketing tools (mailchimp, hubspot) basics","email automation tools (hubspot, marketo)",0.7802,semantic,review
+Jobs,email marketing tools basics,email marketing,0.749,semantic,review
+Jobs,embedded c,embedded c,1.0,exact,accepted
+Jobs,embedded firmware,embedded firmware,1.0,exact,accepted
+Jobs,embedded firmware and hardware interfacing,embedded firmware,0.8805,semantic,accepted
+Jobs,embedded firmware design,embedded firmware,0.9062,semantic,accepted
+Jobs,embedded firmware development,embedded firmware,0.9193,semantic,accepted
+Jobs,embedded firmware optimization,embedded firmware,0.8431,semantic,review
+Jobs,embedded firmware understanding,embedded firmware,0.8605,semantic,accepted
+Jobs,embedded systems,embedded systems,1.0,exact,accepted
+Jobs,embedded systems advanced,embedded systems advanced,1.0,exact,accepted
+Jobs,embedded systems basics,embedded systems,0.853,semantic,accepted
+Jobs,embedded systems design,embedded systems,0.8823,semantic,accepted
+Jobs,embedded systems development,embedded systems development,1.0,exact,accepted
+Jobs,embedded systems expert,embedded systems expert,1.0,exact,accepted
+Jobs,emerging marketing technologies,emerging marketing technologies,1.0,exact,accepted
+Jobs,"emerging marketing technologies (ai tools, personalization)",ai marketing tools,0.8099,semantic,review
+Jobs,emerging marketing technologies (ai-driven personalization),ai marketing tools,0.721,semantic,review
+Jobs,emerging technologies in marketing,emerging marketing technologies,0.969,semantic,accepted
+Course,emotional intelligence,emotional intelligence,1.0,exact,accepted
+Course,employee relations,employee relations,1.0,exact,accepted
+Jobs,encapsulation,encapsulation,1.0,exact,accepted
+Jobs,encryption,encryption,1.0,exact,accepted
+Jobs,encryption basics,encryption,0.8713,semantic,accepted
+Jobs,encryption fundamentals,encryption,0.8421,semantic,review
+Jobs,end-to-end project management,end-to-end project management,1.0,exact,accepted
+Jobs,ensemble methods,ensemble methods,1.0,exact,accepted
+Jobs,enterprise architecture,enterprise architecture,1.0,exact,accepted
+Jobs,entity framework,entity framework,1.0,exact,accepted
+Jobs,entity framework basics,entity framework,0.9203,semantic,accepted
+Course,entrepreneurial finance,entrepreneurial finance,1.0,exact,accepted
+Course,entrepreneurship,entrepreneurship,1.0,exact,accepted
+Jobs,envoy,envoy,1.0,exact,accepted
+Jobs,envoy proxy,envoy proxy,1.0,exact,accepted
+Course,epidemiology,epidemiology,1.0,exact,accepted
+Jobs,er diagrams,er diagrams,1.0,exact,accepted
+OBE,erd (entity relationship diagram),erd (entity relationship diagram),1.0,exact,accepted
+OBE,erp (enterprise resource planning),erp (enterprise resource planning),1.0,exact,accepted
+Jobs,erp systems,erp systems,1.0,exact,accepted
+Jobs,erp/crm basics,erp/crm basics,1.0,exact,accepted
+Jobs,erp/crm systems,erp/crm systems,1.0,exact,accepted
+Jobs,erp/crm tools,erp/crm tools,1.0,exact,accepted
+Course,estimation,estimation,1.0,exact,accepted
+Jobs,ethereum,ethereum,1.0,exact,accepted
+Jobs,ethereum basics,ethereum basics,1.0,exact,accepted
+Jobs,ethereum fundamentals,ethereum fundamentals,1.0,exact,accepted
+Jobs,ethereum multi-chain,ethereum multi-chain,1.0,exact,accepted
+Jobs,ethical awareness,ethical awareness,1.0,exact,accepted
+Jobs,ethical compliance,ethical compliance,1.0,exact,accepted
+Jobs,ethical hacking,ethical hacking,1.0,exact,accepted
+Jobs,ethical mindset,ethical mindset,1.0,exact,accepted
+Jobs,etl,etl,1.0,exact,accepted
+Course,etl,etl,1.0,exact,accepted
+OBE,etl (extract transform load),etl (extract transform load),1.0,exact,accepted
+Jobs,etl automation,etl automation,1.0,exact,accepted
+Jobs,etl awareness,etl,0.8006,manual,accepted
+Jobs,etl basics,etl,0.8478,manual,accepted
+Jobs,etl concepts,etl,0.8346,manual,accepted
+Jobs,etl fundamentals,etl,0.8227,manual,accepted
+Jobs,etl knowledge,etl knowledge,1.0,exact,accepted
+Jobs,etl pipeline design,etl pipelines,0.9181,semantic,accepted
+Jobs,etl pipeline management,etl pipelines,0.9252,semantic,accepted
+Jobs,etl pipelines,etl pipelines,1.0,exact,accepted
+Jobs,etl process awareness,etl,0.9086,manual,accepted
+Jobs,etl process knowledge,etl,0.9086,manual,accepted
+Jobs,etl process understanding,etl,0.9232,manual,accepted
+Jobs,etl processes,etl,0.7806,manual,accepted
+Jobs,etl tools introduction,etl,0.7682,manual,accepted
+Jobs,etl understanding,etl,0.8371,manual,accepted
+Jobs,etl workflows,etl workflows,1.0,exact,accepted
+Jobs,event coordination,event coordination,1.0,exact,accepted
+Jobs,event management,event management,1.0,exact,accepted
+Jobs,excel,excel,1.0,exact,accepted
+Jobs,excel advanced functions,excel advanced functions,1.0,exact,accepted
+Jobs,excel charts,excel charts,1.0,exact,accepted
+Jobs,excel charts and dashboards,excel charts,0.8656,semantic,accepted
+Jobs,excel charts and pivot tables,excel charts and pivot tables,1.0,exact,accepted
+Jobs,excel dashboards,excel charts,0.7075,semantic,review
+Jobs,excel functions,excel functions,1.0,exact,accepted
+Jobs,excel visualization,excel visualization,1.0,exact,accepted
+Jobs,exception handling,exception handling,1.0,exact,accepted
+Jobs,execution,execution,1.0,exact,accepted
+Course,experiment,experiment,1.0,exact,accepted
+Jobs,expert network and web security,expert network security,0.8422,semantic,review
+Jobs,expert network security,expert network security,1.0,exact,accepted
+Jobs,express,express,1.0,exact,accepted
+Jobs,express.js,express.js,1.0,exact,accepted
+Jobs,f#,f#,1.0,exact,accepted
+Jobs,f5 load balancer,f5 load balancer,1.0,exact,accepted
+Jobs,facebook ads manager,facebook ads manager,1.0,exact,accepted
+Jobs,facebook ads manager basics,facebook ads manager,0.9274,semantic,accepted
+Jobs,fact-checking,fact-checking,1.0,exact,accepted
+Jobs,fact-checking and research,fact-checking,0.8644,semantic,accepted
+Jobs,falco,falco,1.0,exact,accepted
+Jobs,familiarity with digital marketing channels,digital marketing familiarity,0.879,semantic,accepted
+Jobs,familiarity with jira and trello,familiarity with jira and trello,1.0,exact,accepted
+Jobs,"familiarity with jira, ms project, trello",familiarity with jira and trello,0.8668,semantic,accepted
+Jobs,familiarity with metasploit and burp suite,familiarity with metasploit and burp suite,1.0,exact,accepted
+Jobs,"familiarity with metasploit, wireshark","familiarity with metasploit, wireshark",1.0,exact,accepted
+Jobs,"familiarity with microsoft project, jira, trello",familiarity with jira and trello,0.7478,semantic,review
+Jobs,familiarity with ms project and trello,familiarity with jira and trello,0.904,semantic,accepted
+Jobs,familiarity with nmap and wireshark,familiarity with nmap and wireshark,1.0,exact,accepted
+Jobs,"familiarity with nmap, sqlmap","familiarity with nmap, sqlmap",1.0,exact,accepted
+Jobs,"familiarity with project tools (ms project, trello)",familiarity with jira and trello,0.904,semantic,accepted
+Jobs,fastapi,fastapi,1.0,exact,accepted
+Jobs,fastapi basics,fastapi,0.8531,semantic,accepted
+Jobs,feature engineering,feature engineering,1.0,exact,accepted
+Course,feature engineering,feature engineering,1.0,exact,accepted
+Jobs,feature engineering and etl automation,"feature engineering, etl automation",0.9922,semantic,accepted
+Jobs,"feature engineering, etl automation","feature engineering, etl automation",1.0,exact,accepted
+Jobs,"feature engineering, etl pipelines","feature engineering, etl pipelines",1.0,exact,accepted
+OBE,figma,figma,1.0,exact,accepted
+Jobs,figma,figma,1.0,exact,accepted
+Jobs,figma basics,figma,0.8329,semantic,review
+Jobs,file handling,file handling,1.0,exact,accepted
+Jobs,film/animation,film/animation,1.0,exact,accepted
+Course,finance,finance,1.0,exact,accepted
+Course,financial accounting,accounting,0.8892,semantic,accepted
+Jobs,financial analysis,financial analysis,1.0,exact,accepted
+Course,financial analysis,financial analysis,1.0,exact,accepted
+Jobs,financial analysis and modeling,financial modeling,0.9106,semantic,accepted
+Jobs,financial data analysis,financial analysis,0.8862,semantic,accepted
+Jobs,financial domain knowledge,financial domain knowledge,1.0,exact,accepted
+Jobs,financial knowledge basics,financial knowledge basics,1.0,exact,accepted
+Course,financial management,financial management,1.0,exact,accepted
+Jobs,financial modeling,financial modeling,1.0,exact,accepted
+Jobs,financial modeling and analysis,financial modeling,0.9188,semantic,accepted
+Jobs,financial modeling and forecasting,financial modeling,0.823,semantic,review
+Jobs,financial products knowledge,financial products knowledge,1.0,exact,accepted
+Jobs,financial products understanding,financial products understanding,1.0,exact,accepted
+Jobs,financial reporting,financial reporting,1.0,exact,accepted
+Course,fintech,fintech,1.0,exact,accepted
+Jobs,firebase,firebase,1.0,exact,accepted
+OBE,firewall,firewalls,0.939,semantic,accepted
+Jobs,firewall basics,firewalls,0.8323,semantic,review
+Jobs,firewall configuration,firewalls,0.7731,semantic,review
+Jobs,firewall management,firewalls,0.8429,semantic,review
+Jobs,firewall rules,firewalls,0.8206,semantic,review
+Jobs,firewalls,firewalls,1.0,exact,accepted
+Jobs,firewalls basics,firewalls,0.8517,semantic,accepted
+Jobs,firmware development,embedded firmware,0.8196,semantic,review
+Jobs,flask,flask,1.0,exact,accepted
+Jobs,flask advanced,flask,0.8994,semantic,accepted
+Jobs,flask basics,flask,0.8786,semantic,accepted
+Jobs,flask),flask,0.9189,semantic,accepted
+Jobs,flink,flink,1.0,exact,accepted
+OBE,flowchart,flowchart,1.0,exact,accepted
+Jobs,fluentd,fluentd,1.0,exact,accepted
+Jobs,flutter,flutter,1.0,exact,accepted
+Jobs,forecasting,forecasting,1.0,exact,accepted
+Course,forecasting,forecasting,1.0,exact,accepted
+Jobs,forensic animation,forensic animation,1.0,exact,accepted
+Jobs,forensics,forensics,1.0,exact,accepted
+Jobs,fortify,fortify,1.0,exact,accepted
+Jobs,framework development,frameworks,0.8693,semantic,accepted
+Jobs,frameworks,frameworks,1.0,exact,accepted
+Jobs,frameworks (laravel,frameworks (laravel,1.0,exact,accepted
+Jobs,"frameworks: tensorflow, pytorch, keras, scikit-learn (advanced)","ml libraries: scikit-learn, tensorflow, pytorch",0.8375,semantic,review
+Jobs,"frameworks: tensorflow, pytorch, keras, scikit-learn (advanced), onnx","ml libraries: scikit-learn, tensorflow, pytorch",0.748,semantic,review
+Jobs,front-end collaboration,front-end collaboration,1.0,exact,accepted
+Course,frontend development,backend development,0.8673,semantic,accepted
+Course,full stack development,full stack development,1.0,exact,accepted
+Jobs,functional and regression testing,functional and regression testing,1.0,exact,accepted
+Jobs,functional testing,functional testing,1.0,exact,accepted
+Jobs,functions,functions,1.0,exact,accepted
+Jobs,g-code,g-code,1.0,exact,accepted
+Jobs,game design,game design,1.0,exact,accepted
+Jobs,game development,game development,1.0,exact,accepted
+Jobs,game development principles,game development principles,1.0,exact,accepted
+Jobs,game engines,game engines,1.0,exact,accepted
+Jobs,game mechanics basics,game mechanics basics,1.0,exact,accepted
+Jobs,game mechanics fundamentals,game mechanics basics,0.9234,semantic,accepted
+Course,game theory,game theory,1.0,exact,accepted
+Jobs,gameplay systems,gameplay systems,1.0,exact,accepted
+Jobs,gameplay systems and ai,gameplay systems,0.8197,semantic,review
+Jobs,gameplay systems development,gameplay systems,0.8902,semantic,accepted
+Jobs,gas optimization,gas optimization,1.0,exact,accepted
+Jobs,"gazebo, rviz","gazebo, rviz",1.0,exact,accepted
+Jobs,"gazebo, rviz simulation","gazebo, rviz simulation",1.0,exact,accepted
+Jobs,gcp,gcp,1.0,exact,accepted
+Jobs,gcp advanced,gcp,0.8684,semantic,accepted
+Jobs,gcp awareness,gcp awareness,1.0,exact,accepted
+Jobs,gcp basics,gcp,0.8731,semantic,accepted
+Jobs,gcp big data services,gcp big data services,1.0,exact,accepted
+Jobs,gcp bigquery,gcp bigquery,1.0,exact,accepted
+Jobs,gcp fundamentals,gcp,0.8162,semantic,review
+Jobs,gcp iot advanced,gcp iot advanced,1.0,exact,accepted
+Jobs,gcp security,gcp security,1.0,exact,accepted
+Jobs,gdpr basics,gdpr basics,1.0,exact,accepted
+Course,general accounting,general accounting,1.0,exact,accepted
+Course,generally accepted accounting principles (gaap),generally accepted accounting principles (gaap),1.0,exact,accepted
+Jobs,generative ai,generative ai,1.0,exact,accepted
+Jobs,generators,generators,1.0,exact,accepted
+Course,geometry,geometry,1.0,exact,accepted
+Jobs,gerrit,gerrit,1.0,exact,accepted
+Jobs,gesture and motion tracking,gesture/motion tracking,0.9589,semantic,accepted
+Jobs,gesture/motion tracking,gesture/motion tracking,1.0,exact,accepted
+Course,gis,gis,1.0,exact,accepted
+Jobs,gis software,gis software,1.0,exact,accepted
+OBE,git,git,1.0,exact,accepted
+Jobs,git,git,1.0,exact,accepted
+Jobs,git advanced,git advanced,1.0,exact,accepted
+Jobs,git basics,git basics,1.0,exact,accepted
+Jobs,git/github,github,0.9299,semantic,accepted
+OBE,github,github,1.0,exact,accepted
+Jobs,github,github,1.0,exact,accepted
+Jobs,github actions,github actions,1.0,exact,accepted
+Jobs,github basics,github,0.8717,semantic,accepted
+Jobs,gitlab,gitlab,1.0,exact,accepted
+Jobs,gitlab ci,gitlab,0.9033,semantic,accepted
+Jobs,gitlab ci/cd,gitlab,0.7698,semantic,review
+Jobs,go,go,1.0,exact,accepted
+Jobs,go programming,go programming,1.0,exact,accepted
+Jobs,"go, java","go, java",1.0,exact,accepted
+Jobs,godot basics,godot basics,1.0,exact,accepted
+Jobs,google ads,google ads,1.0,exact,accepted
+Jobs,google ads and facebook ads basics,google ads and facebook ads basics,1.0,exact,accepted
+Jobs,google ads basics,google ads basics,1.0,exact,accepted
+Jobs,google analytics,analytics,0.8881,semantic,accepted
+Jobs,google analytics basics,analytics basics,0.9189,semantic,accepted
+Jobs,google analytics ga4,google analytics ga4,1.0,exact,accepted
+Jobs,google cloud,google cloud,1.0,exact,accepted
+Course,google cloud,google cloud,1.0,exact,accepted
+Jobs,google cloud fundamentals,google cloud fundamentals,1.0,exact,accepted
+Jobs,google cloud iot basics,google cloud iot basics,1.0,exact,accepted
+Jobs,google cloud platform,google cloud,0.8922,semantic,accepted
+Jobs,google data studio,google data studio,1.0,exact,accepted
+Jobs,google search console,search console,0.8686,semantic,accepted
+Jobs,gpt model exposure,gpt model exposure,1.0,exact,accepted
+Jobs,gpt models intro,gpt models intro,1.0,exact,accepted
+Jobs,gradle,gradle,1.0,exact,accepted
+Jobs,grafana,grafana,1.0,exact,accepted
+Jobs,grammar and punctuation,grammar and punctuation,1.0,exact,accepted
+Jobs,grammar and punctuation mastery,grammar and punctuation mastery,1.0,exact,accepted
+Jobs,grammar and style,grammar and style,1.0,exact,accepted
+Course,graph theory,graph theory,1.0,exact,accepted
+Jobs,graphic design,graphic design,1.0,exact,accepted
+Course,graphic design,graphic design,1.0,exact,accepted
+Jobs,graphics and performance optimization,graphics optimization,0.9088,semantic,accepted
+Jobs,graphics optimization,graphics optimization,1.0,exact,accepted
+Course,graphics software,graphics software,1.0,exact,accepted
+OBE,graphql,graphql,1.0,exact,accepted
+Jobs,graphql,graphql,1.0,exact,accepted
+Jobs,graphql basics,graphql,0.938,semantic,accepted
+Jobs,groovy,groovy,1.0,exact,accepted
+Jobs,grpc,grpc,1.0,exact,accepted
+Jobs,hadoop,hadoop,1.0,exact,accepted
+Jobs,"hadoop (hdfs, hive, mapreduce)","hadoop (hdfs, hive, mapreduce)",1.0,exact,accepted
+Jobs,"hadoop (hdfs, mapreduce, hive)","hadoop (hdfs, hive, mapreduce)",0.9989,semantic,accepted
+Jobs,"hadoop (hdfs, mapreduce, hive, pig)","hadoop (hdfs, hive, mapreduce)",0.9718,semantic,accepted
+Jobs,hadoop basics,hadoop basics,1.0,exact,accepted
+Jobs,hadoop ecosystem,hadoop basics,0.7854,semantic,review
+Jobs,hadoop ecosystem basics,hadoop basics,0.8664,semantic,accepted
+Jobs,hadoop fundamentals,hadoop basics,0.9042,semantic,accepted
+Jobs,hardware debugging,hardware debugging,1.0,exact,accepted
+Jobs,hardware design,hardware design,1.0,exact,accepted
+Course,hardware design,hardware design,1.0,exact,accepted
+Jobs,hardware integration,hardware integration,1.0,exact,accepted
+Jobs,hardware interfaces,hardware interfaces,1.0,exact,accepted
+Jobs,hardware interfacing,hardware interfacing,1.0,exact,accepted
+Jobs,hardware management,hardware management,1.0,exact,accepted
+Jobs,hardware/software,hardware/software,1.0,exact,accepted
+Jobs,hashicorp tools,hashicorp tools,1.0,exact,accepted
+Jobs,hashicorp vault,hashicorp vault,1.0,exact,accepted
+Course,health,health,1.0,exact,accepted
+Jobs,helm,helm,1.0,exact,accepted
+Jobs,hibernate,hibernate,1.0,exact,accepted
+Jobs,hibernate basics,hibernate,0.8863,semantic,accepted
+Jobs,hipaa compliance,hipaa compliance,1.0,exact,accepted
+Course,hr tech,hr tech,1.0,exact,accepted
+OBE,html,html,1.0,exact,accepted
+Jobs,html,html,1.0,exact,accepted
+Course,html,html,1.0,exact,accepted
+Jobs,html basics,html,0.8539,semantic,accepted
+Jobs,html5,html5,1.0,exact,accepted
+Jobs,html5 basics,html5,0.8662,semantic,accepted
+OBE,http,http,1.0,exact,accepted
+Jobs,hubspot,hubspot,1.0,exact,accepted
+Jobs,hugging face,hugging face,1.0,exact,accepted
+Jobs,hugging face basics,hugging face,0.8959,semantic,accepted
+Jobs,hugging face transformers,hugging face transformers,1.0,exact,accepted
+Jobs,hugging face transformers basics,hugging face transformers,0.9334,semantic,accepted
+Course,human computer interaction,human computer interaction,1.0,exact,accepted
+Course,human learning,human learning,1.0,exact,accepted
+Course,human resources,human resources,1.0,exact,accepted
+Course,human resources operations,human resources,0.8692,semantic,accepted
+Jobs,hybrid cloud,hybrid cloud,1.0,exact,accepted
+Jobs,hybrid cloud design,hybrid cloud,0.893,semantic,accepted
+Jobs,hyper-v,hyper-v,1.0,exact,accepted
+Jobs,hyperledger,hyperledger,1.0,exact,accepted
+Jobs,hyperledger advanced,hyperledger,0.8721,semantic,accepted
+Jobs,hyperledger basics,hyperledger,0.8178,semantic,review
+Jobs,hyperledger fabric,hyperledger fabric,1.0,exact,accepted
+Jobs,hypothesis testing,hypothesis testing,1.0,exact,accepted
+Jobs,"iac (terraform, ansible)","iac (terraform, ansible)",1.0,exact,accepted
+Jobs,"iac (terraform, ansible, puppet)","iac (terraform, ansible)",0.9448,semantic,accepted
+Jobs,"iac (terraform, ansible, puppet, chef)","iac (terraform, ansible)",0.9054,semantic,accepted
+Jobs,iam,iam,1.0,exact,accepted
+Jobs,iam basics,iam basics,1.0,exact,accepted
+Jobs,iam fundamentals,iam fundamentals,1.0,exact,accepted
+Jobs,iam systems,iam systems,1.0,exact,accepted
+Course,ibm cloud,ibm cloud,1.0,exact,accepted
+Jobs,identity and access management,identity and access management,1.0,exact,accepted
+Jobs,ids/ips,ids/ips,1.0,exact,accepted
+Jobs,ids/ips intro,ids/ips,0.8692,semantic,accepted
+Jobs,illustration,illustration,1.0,exact,accepted
+Jobs,illustrator,illustrator,1.0,exact,accepted
+Jobs,image manipulation,image manipulation,1.0,exact,accepted
+Jobs,implementation,implementation,1.0,exact,accepted
+Jobs,implementation management,implementation management,1.0,exact,accepted
+Jobs,incident management,incident management,1.0,exact,accepted
+Jobs,incident response,incident response,1.0,exact,accepted
+Jobs,indesign,indesign,1.0,exact,accepted
+Course,influencing,influencing,1.0,exact,accepted
+Jobs,information architecture,information architecture,1.0,exact,accepted
+Jobs,information architecture basics,information architecture,0.9264,semantic,accepted
+Jobs,information management,information management,1.0,exact,accepted
+OBE,information systems,information systems,1.0,exact,accepted
+Course,information technology,information technology,1.0,exact,accepted
+Jobs,infrastructure as code,infrastructure as code,1.0,exact,accepted
+Jobs,infrastructure as code (iac),infrastructure as code (iac),1.0,exact,accepted
+Jobs,"infrastructure as code (terraform, ansible)","infrastructure as code (terraform, ansible)",1.0,exact,accepted
+Jobs,"infrastructure as code (terraform, ansible, puppet)","infrastructure as code (terraform, ansible)",0.964,semantic,accepted
+Jobs,"infrastructure as code (terraform, ansible, puppet, chef)","infrastructure as code (terraform, ansible)",0.9412,semantic,accepted
+Jobs,infrastructure automation,infrastructure automation,1.0,exact,accepted
+Jobs,infrastructure management,infrastructure management,1.0,exact,accepted
+Jobs,infrastructure testing,infrastructure testing,1.0,exact,accepted
+Jobs,inheritance,inheritance,1.0,exact,accepted
+Jobs,innovation,innovation,1.0,exact,accepted
+Course,innovation,innovation,1.0,exact,accepted
+Jobs,innovation in robotics,innovation in robotics,1.0,exact,accepted
+Jobs,innovation management,innovation management,1.0,exact,accepted
+Jobs,innovation strategies,innovation strategy,0.9418,semantic,accepted
+Jobs,innovation strategy,innovation strategy,1.0,exact,accepted
+Course,inside sales,inside sales,1.0,exact,accepted
+Jobs,instagram and linkedin marketing basics,"instagram, linkedin basics",0.9219,semantic,accepted
+Jobs,instagram marketing basics,instagram marketing basics,1.0,exact,accepted
+Jobs,"instagram, linkedin basics","instagram, linkedin basics",1.0,exact,accepted
+Course,insurance sales,insurance sales,1.0,exact,accepted
+Jobs,integration,integration,1.0,exact,accepted
+Jobs,integration management,integration management,1.0,exact,accepted
+Jobs,integration patterns,integration patterns,1.0,exact,accepted
+Jobs,intelligence gathering,intelligence gathering,1.0,exact,accepted
+Jobs,intellij,intellij,1.0,exact,accepted
+Jobs,interaction design,interaction design,1.0,exact,accepted
+Jobs,interface builder,interface builder,1.0,exact,accepted
+Course,intermediate  specialization  3 - 6 months,intermediate  specialization  3 - 6 months,1.0,exact,accepted
+Jobs,internet technologies,internet technologies,1.0,exact,accepted
+Jobs,interviewing smes,interviewing smes,1.0,exact,accepted
+Jobs,intro nlp,intro nlp,1.0,exact,accepted
+Jobs,intro to machine learning,machine learning basics,0.8192,semantic,review
+Jobs,intro to ml,intro to ml,1.0,exact,accepted
+Jobs,intro to monitoring (prometheus/grafana),"basic monitoring (nagios, grafana)",0.711,semantic,review
+Jobs,intro to nlp,intro nlp,0.9526,semantic,accepted
+Jobs,introduction to cloud platforms,introduction to cloud platforms,1.0,exact,accepted
+Jobs,introduction to penetration testing,penetration testing,0.8822,semantic,accepted
+Jobs,introductory data science,introductory data science,1.0,exact,accepted
+Jobs,introductory docker/kubernetes knowledge,docker/kubernetes,0.8749,semantic,accepted
+Jobs,introductory machine learning,machine learning basics,0.8504,semantic,accepted
+Jobs,introductory microservices knowledge,introductory microservices knowledge,1.0,exact,accepted
+Jobs,introductory ml,intro to ml,0.8946,semantic,accepted
+Jobs,introductory nlp,intro nlp,0.8085,semantic,review
+Jobs,introductory node.js knowledge,node.js,0.7788,semantic,review
+Jobs,introductory penetration testing,penetration testing,0.9,semantic,accepted
+Jobs,introductory security awareness,security compliance,0.9068,semantic,accepted
+Jobs,intrusion detection,intrusion detection,1.0,exact,accepted
+Course,invalid,invalid,1.0,exact,accepted
+Jobs,inventory management,inventory management,1.0,exact,accepted
+Course,inventory management,inventory management,1.0,exact,accepted
+Jobs,investment management,investment management,1.0,exact,accepted
+Course,investment management,investment management,1.0,exact,accepted
+Jobs,invision,invision,1.0,exact,accepted
+Jobs,ios,ios,1.0,exact,accepted
+Jobs,ios sdk,ios sdk,1.0,exact,accepted
+Jobs,ios/android sdks,ios/android sdks,1.0,exact,accepted
+Course,iot,iot,1.0,exact,accepted
+Jobs,iot architecture,iot architecture,1.0,exact,accepted
+Jobs,iot architecture and deployment,iot architecture and deployment,1.0,exact,accepted
+Jobs,iot architecture and design,iot architecture,0.9205,semantic,accepted
+Jobs,iot architecture design,iot architecture,0.9222,semantic,accepted
+Jobs,iot basics,iot basics,1.0,exact,accepted
+Jobs,iot platforms,iot platforms,1.0,exact,accepted
+Jobs,iot system architecture,iot architecture,0.9512,semantic,accepted
+Jobs,ipv6 basics,ipv6 basics,1.0,exact,accepted
+Jobs,iso 27001 basics,iso 27001 basics,1.0,exact,accepted
+Jobs,istio,istio,1.0,exact,accepted
+Jobs,it analysis,it analysis,1.0,exact,accepted
+Jobs,it auditing,it auditing,1.0,exact,accepted
+Jobs,it consulting,it consulting,1.0,exact,accepted
+Jobs,it infrastructure,it infrastructure,1.0,exact,accepted
+Jobs,it management,it management,1.0,exact,accepted
+Jobs,it program management,it management,0.8672,semantic,accepted
+Jobs,it strategy,it strategy,1.0,exact,accepted
+Jobs,it support,it support,1.0,exact,accepted
+Jobs,iterative prompt design,prompt optimization,0.812,semantic,review
+Jobs,iterative prompt optimization,prompt optimization,0.8991,semantic,accepted
+Jobs,itil,itil,1.0,exact,accepted
+Jobs,j2ee,j2ee,1.0,exact,accepted
+Jobs,jacoco,jacoco,1.0,exact,accepted
+OBE,jaringan komputer,jaringan komputer,1.0,exact,accepted
+OBE,java,java,1.0,exact,accepted
+Jobs,java,java,1.0,exact,accepted
+Course,java,java,1.0,exact,accepted
+Jobs,java advanced,advanced java,0.9663,semantic,accepted
+Jobs,java apis,java apis,1.0,exact,accepted
+Jobs,java basics,java basics,1.0,exact,accepted
+Jobs,java collections,java collections,1.0,exact,accepted
+Jobs,java fundamentals,java fundamentals,1.0,exact,accepted
+Jobs,java i/o,java i/o,1.0,exact,accepted
+Jobs,java scripting,java scripting,1.0,exact,accepted
+Jobs,java testing,java testing,1.0,exact,accepted
+Jobs,java/scala,scala,0.8646,semantic,accepted
+Jobs,javascript,javascript,1.0,exact,accepted
+Course,javascript,javascript,1.0,exact,accepted
+Jobs,javascript (es6+),javascript es6+,0.9729,semantic,accepted
+Jobs,javascript advanced,advanced javascript,0.9703,semantic,accepted
+Jobs,javascript basics,javascript,0.8654,semantic,accepted
+Jobs,javascript es6+,javascript es6+,1.0,exact,accepted
+Jobs,javascript expert,javascript expert,1.0,exact,accepted
+Jobs,javascript fundamentals,javascript fundamentals,1.0,exact,accepted
+Jobs,javascript/typescript,typescript,0.8931,semantic,accepted
+Jobs,jcl,jcl,1.0,exact,accepted
+Jobs,jdbc,jdbc,1.0,exact,accepted
+Jobs,jenkins,jenkins,1.0,exact,accepted
+Jobs,jenkins basics,jenkins,0.8177,semantic,review
+Jobs,jenkins/github actions,jenkins/github actions,1.0,exact,accepted
+Jobs,"jest, cypress","jest, cypress",1.0,exact,accepted
+Jobs,"jest, cypress, mocha","jest, cypress",0.8475,semantic,review
+Jobs,"jest, mocha, cypress","jest, cypress",0.8536,semantic,accepted
+Jobs,jetpack,jetpack,1.0,exact,accepted
+Jobs,jfrog cli,jfrog cli,1.0,exact,accepted
+Jobs,jira,jira,1.0,exact,accepted
+Course,jira,jira,1.0,exact,accepted
+Jobs,jmeter,jmeter,1.0,exact,accepted
+Jobs,jmeter basics,jmeter,0.9205,semantic,accepted
+Course,journalism,journalism,1.0,exact,accepted
+Jobs,journey mapping,journey mapping,1.0,exact,accepted
+Jobs,jpa,jpa,1.0,exact,accepted
+Jobs,jquery,jquery,1.0,exact,accepted
+Jobs,js,js,1.0,exact,accepted
+OBE,json,json,1.0,exact,accepted
+Jobs,json,json,1.0,exact,accepted
+Jobs,json handling,json handling,1.0,exact,accepted
+Jobs,jsp,jsp,1.0,exact,accepted
+Jobs,junit,junit,1.0,exact,accepted
+Jobs,junit basics,junit basics,1.0,exact,accepted
+Jobs,jupyter,jupyter,1.0,exact,accepted
+Jobs,jupyter notebook,jupyter notebook,1.0,exact,accepted
+Jobs,jvm internals,jvm internals,1.0,exact,accepted
+Jobs,kafka,kafka,1.0,exact,accepted
+OBE,kanban,kanban,1.0,exact,accepted
+Jobs,kanban,kanban,1.0,exact,accepted
+Jobs,keras,keras,1.0,exact,accepted
+Jobs,keyword research,keyword research,1.0,exact,accepted
+Jobs,keyword usage,keyword usage,1.0,exact,accepted
+Jobs,kibana,kibana,1.0,exact,accepted
+Jobs,kinematics,kinematics,1.0,exact,accepted
+OBE,klasifikasi (data),klasifikasi (data),1.0,exact,accepted
+Course,knitr,knitr,1.0,exact,accepted
+Jobs,knowledge management,knowledge management,1.0,exact,accepted
+Jobs,kotlin,kotlin,1.0,exact,accepted
+OBE,kpi (key performance indicator),kpi (key performance indicator),1.0,exact,accepted
+Jobs,kpi analysis,kpi analysis,1.0,exact,accepted
+Jobs,kpi and performance metrics development,kpi and performance metrics development,1.0,exact,accepted
+Jobs,kpi definition,kpi definition,1.0,exact,accepted
+Jobs,kpi development,kpi development,1.0,exact,accepted
+Jobs,kpi knowledge,kpi knowledge,1.0,exact,accepted
+Jobs,kpi monitoring,kpi monitoring,1.0,exact,accepted
+Jobs,kpi reporting,kpi reporting,1.0,exact,accepted
+Jobs,kpi strategy,kpi strategy,1.0,exact,accepted
+Jobs,kpi tracking,kpi tracking,1.0,exact,accepted
+Jobs,kpi tracking and reporting basics,kpi tracking and reporting basics,1.0,exact,accepted
+Jobs,kpi understanding,kpi understanding,1.0,exact,accepted
+OBE,kriptografi,kriptografi,1.0,exact,accepted
+Jobs,kubernetes,kubernetes,1.0,exact,accepted
+Course,kubernetes,kubernetes,1.0,exact,accepted
+Jobs,kubernetes basics,kubernetes,0.8964,semantic,accepted
+Jobs,kubernetes fundamentals,kubernetes,0.9114,semantic,accepted
+Jobs,kubernetes introduction,kubernetes,0.9262,semantic,accepted
+Jobs,kubernetes orchestration,kubernetes orchestration,1.0,exact,accepted
+Jobs,kubernetes security,kubernetes security,1.0,exact,accepted
+Jobs,lan/wan,lan/wan,1.0,exact,accepted
+Jobs,lan/wan design,lan/wan design,1.0,exact,accepted
+OBE,laravel,laravel,1.0,exact,accepted
+Jobs,laravel,laravel,1.0,exact,accepted
+Jobs,layout,layout,1.0,exact,accepted
+Jobs,layout design,layout,0.892,semantic,accepted
+Jobs,lazy loading,lazy loading,1.0,exact,accepted
+Jobs,lead generation,lead generation,1.0,exact,accepted
+Jobs,lead generation and crm integration,lead generation and crm tools,0.8913,semantic,accepted
+Jobs,lead generation and crm management,lead generation and crm tools,0.9071,semantic,accepted
+Jobs,lead generation and crm tools,lead generation and crm tools,1.0,exact,accepted
+Jobs,lead generation and multi-channel campaigns,lead generation and multi-channel campaigns,1.0,exact,accepted
+Jobs,lead generation and nurturing,lead nurturing,0.8879,semantic,accepted
+Jobs,lead generation campaigns,lead generation campaigns,1.0,exact,accepted
+Jobs,lead nurturing,lead nurturing,1.0,exact,accepted
+Jobs,leadership,leadership,1.0,exact,accepted
+Course,leadership,leadership,1.0,exact,accepted
+Jobs,leadership and mentoring,mentoring,0.8776,semantic,accepted
+Jobs,leadership and team management,collaboration,0.9016,semantic,accepted
+Jobs,lean management,lean management,1.0,exact,accepted
+Jobs,learning agility,agility,0.886,semantic,accepted
+Jobs,legal compliance,compliance,0.8533,semantic,accepted
+Jobs,legal expertise,legal expertise,1.0,exact,accepted
+Jobs,lidar and infrared sensors basics,lidar and infrared sensors basics,1.0,exact,accepted
+Jobs,lidar and ultrasonic sensors basics,lidar and infrared sensors basics,0.7022,semantic,review
+Jobs,lidar and vision sensors,lidar and vision sensors,1.0,exact,accepted
+Jobs,lightning,lightning,1.0,exact,accepted
+Jobs,lime,lime,1.0,exact,accepted
+Jobs,linear algebra,linear algebra,1.0,exact,accepted
+Course,linear algebra,linear algebra,1.0,exact,accepted
+Jobs,link building,link building,1.0,exact,accepted
+Jobs,link building and backlink analysis,link building and backlink analysis,1.0,exact,accepted
+Jobs,link building and outreach,link building and outreach,1.0,exact,accepted
+Jobs,link building basics,link building,0.9319,semantic,accepted
+Jobs,link building campaigns,link building campaigns,1.0,exact,accepted
+Jobs,link building strategy,link building,0.8874,semantic,accepted
+Jobs,linkedin marketing basics,linkedin marketing basics,1.0,exact,accepted
+Jobs,linq,linq,1.0,exact,accepted
+OBE,linux,linux,1.0,exact,accepted
+Jobs,linux,linux,1.0,exact,accepted
+Course,linux,linux,1.0,exact,accepted
+Jobs,linux (kali linux/parrot os) basics,"linux (kali, parrot) expert",0.9163,semantic,accepted
+Jobs,"linux (kali, parrot) expert","linux (kali, parrot) expert",1.0,exact,accepted
+Jobs,linux (kali/parrot os) basics,"linux (kali, parrot) expert",0.9189,semantic,accepted
+Jobs,linux (kali/parrot) advanced,"linux (kali, parrot) expert",0.9341,semantic,accepted
+Jobs,linux administration,linux,0.775,manual,accepted
+Jobs,linux administration basics,linux,0.9338,manual,accepted
+Jobs,linux administration expert,linux,0.9141,manual,accepted
+Jobs,linux administration fundamentals,linux,0.9338,manual,accepted
+Jobs,linux and windows security,linux and windows security,1.0,exact,accepted
+Jobs,linux and windows security expert,linux and windows security,0.8999,semantic,accepted
+Jobs,linux basics,linux,0.7831,manual,accepted
+Jobs,linux commands,linux commands,1.0,exact,accepted
+Jobs,linux expert,linux,0.7852,manual,accepted
+Jobs,linux fundamentals,linux,0.7213,manual,accepted
+Jobs,linux os basics,linux/unix,0.738,semantic,review
+Jobs,linux security,linux security,1.0,exact,accepted
+Jobs,linux servers,linux servers,1.0,exact,accepted
+Jobs,linux/unix,linux/unix,1.0,exact,accepted
+Jobs,linux/unix basics,linux/unix,0.8847,semantic,accepted
+Jobs,linux/windows servers,linux servers,0.8593,semantic,accepted
+Jobs,llm tuning,llm tuning,1.0,exact,accepted
+Jobs,llms,llms,1.0,exact,accepted
+Jobs,load balancers,load balancers,1.0,exact,accepted
+Jobs,load balancing,load balancing,1.0,exact,accepted
+Jobs,loadrunner,loadrunner,1.0,exact,accepted
+Jobs,local & mobile seo,local seo,0.8211,semantic,review
+Jobs,local and mobile seo optimization,local seo,0.7591,semantic,review
+Jobs,local seo,local seo,1.0,exact,accepted
+Jobs,local seo and voice search optimization,local seo and voice search optimization,1.0,exact,accepted
+Jobs,local seo basics,local seo,0.9083,semantic,accepted
+Jobs,local seo optimization,local seo,0.8723,semantic,accepted
+Jobs,local seo strategy,local seo,0.9137,semantic,accepted
+Jobs,log aggregation,log aggregation,1.0,exact,accepted
+Jobs,log management,log management,1.0,exact,accepted
+Jobs,logrhythm,logrhythm,1.0,exact,accepted
+Jobs,logstash,logstash,1.0,exact,accepted
+Jobs,looker,looker,1.0,exact,accepted
+Course,looker,looker,1.0,exact,accepted
+Jobs,looker studio,looker studio,1.0,exact,accepted
+Jobs,lora basics,lora basics,1.0,exact,accepted
+OBE,machine learning,machine learning,1.0,exact,accepted
+Jobs,machine learning,machine learning,1.0,exact,accepted
+Course,machine learning,machine learning,1.0,exact,accepted
+Jobs,machine learning algorithms,machine learning,0.8812,semantic,accepted
+Jobs,machine learning analysis,machine learning analysis,1.0,exact,accepted
+Jobs,machine learning and ai analytics,machine learning and ai analytics,1.0,exact,accepted
+Jobs,machine learning applications,machine learning applications,1.0,exact,accepted
+Jobs,machine learning basics,machine learning basics,1.0,exact,accepted
+Jobs,machine learning basics for robotics,machine learning basics for robotics,1.0,exact,accepted
+Jobs,machine learning for analytics,machine learning for analytics,1.0,exact,accepted
+Jobs,machine learning for prompt tuning,machine learning for prompt tuning,1.0,exact,accepted
+Jobs,machine learning in robotics,machine learning in robotics,1.0,exact,accepted
+Jobs,machine learning integration,machine learning integration,1.0,exact,accepted
+Jobs,machine learning predictive analytics,machine learning predictive analytics,1.0,exact,accepted
+Jobs,machine learning predictive modeling,predictive modeling,0.8737,semantic,accepted
+Jobs,machining,machining,1.0,exact,accepted
+Jobs,madcap flare,madcap flare,1.0,exact,accepted
+Jobs,mainframe systems,mainframe systems,1.0,exact,accepted
+Jobs,malware analysis,malware analysis,1.0,exact,accepted
+Jobs,malware analysis and reverse engineering,malware analysis,0.8582,semantic,accepted
+Course,management accounting,management accounting,1.0,exact,accepted
+Jobs,manual testing,manual testing,1.0,exact,accepted
+Jobs,manual testing concepts,manual testing,0.9419,semantic,accepted
+Jobs,"manual testing: functional, regression, black-box","manual testing: functional, regression, black-box",1.0,exact,accepted
+Jobs,manufacturing processes,manufacturing processes,1.0,exact,accepted
+Jobs,mapreduce,mapreduce,1.0,exact,accepted
+Jobs,markdown,markdown,1.0,exact,accepted
+Jobs,market analysis,market analysis,1.0,exact,accepted
+Course,market analysis,market analysis,1.0,exact,accepted
+Jobs,market research,market research,1.0,exact,accepted
+Course,market research,market research,1.0,exact,accepted
+Jobs,market research and competitor analysis,market research and competitor analysis,1.0,exact,accepted
+Jobs,market research fundamentals,market research,0.918,semantic,accepted
+Jobs,market segmentation,market segmentation,1.0,exact,accepted
+Course,marketing,marketing,1.0,exact,accepted
+Jobs,marketing analytics,analytics,0.8148,semantic,review
+Jobs,"marketing analytics (ga, tableau, mixpanel)","analytics (ga, tableau)",0.8158,semantic,review
+Jobs,"marketing analytics (google analytics, tableau, mixpanel)","analytics (ga, tableau)",0.7823,semantic,review
+Jobs,"marketing analytics (tableau, mixpanel, ga)","analytics (ga, tableau)",0.8356,semantic,review
+Jobs,marketing analytics and reporting,analytics,0.7017,semantic,review
+Jobs,marketing automation,email automation,0.9582,semantic,accepted
+Jobs,"marketing automation tools (hubspot, marketo, salesforce)","email automation tools (hubspot, marketo)",0.8526,semantic,accepted
+Jobs,"marketing automation tools (mailchimp, hubspot)","email automation tools (hubspot, marketo)",0.8525,semantic,accepted
+Jobs,marketing strategy,marketing strategy,1.0,exact,accepted
+Jobs,marketing strategy and planning,marketing strategy,0.8963,semantic,accepted
+Course,markov model,markov model,1.0,exact,accepted
+Jobs,marvel,marvel,1.0,exact,accepted
+Jobs,material design,material design,1.0,exact,accepted
+Course,material handling,material handling,1.0,exact,accepted
+Course,mathematical theory & analysis,mathematical theory & analysis,1.0,exact,accepted
+Course,mathematics,mathematics,1.0,exact,accepted
+Jobs,matlab,matlab,1.0,exact,accepted
+Course,matlab,matlab,1.0,exact,accepted
+Jobs,matlab basics,matlab,0.8839,semantic,accepted
+Jobs,matplotlib,matplotlib,1.0,exact,accepted
+Jobs,matplotlib basics,matplotlib,0.9495,semantic,accepted
+Jobs,maven,maven,1.0,exact,accepted
+Jobs,maya,maya,1.0,exact,accepted
+Jobs,maya basics,maya basics,1.0,exact,accepted
+Course,media production,media production,1.0,exact,accepted
+Course,media strategy & planning,media strategy & planning,1.0,exact,accepted
+Jobs,mentoring,mentoring,1.0,exact,accepted
+Jobs,mentorship,mentoring,0.9299,semantic,accepted
+Course,merchandising,merchandising,1.0,exact,accepted
+Course,mergers & acquisitions,mergers & acquisitions,1.0,exact,accepted
+Jobs,metaprogramming,metaprogramming,1.0,exact,accepted
+Jobs,metasploit,metasploit,1.0,exact,accepted
+Jobs,"metasploit, burp suite, nmap, sqlmap","metasploit, burp suite, nmap, sqlmap",1.0,exact,accepted
+Jobs,"metasploit, burp suite, nmap, sqlmap, wireshark","metasploit, burp suite, nmap, sqlmap",0.9343,semantic,accepted
+Jobs,"metasploit, burp suite, nmap, wireshark","metasploit, burp suite, nmap, sqlmap",0.7857,semantic,review
+Jobs,"metasploit, burp suite, nmap, wireshark, sqlmap","metasploit, burp suite, nmap, sqlmap",0.9441,semantic,accepted
+Jobs,"metasploit, nmap, burp suite, sqlmap","metasploit, burp suite, nmap, sqlmap",0.9974,semantic,accepted
+Jobs,"metasploit, nmap, burp suite, sqlmap, wireshark","metasploit, burp suite, nmap, sqlmap",0.9336,semantic,accepted
+Jobs,metrics,metrics,1.0,exact,accepted
+Jobs,metrics-driven growth,metrics-driven growth,1.0,exact,accepted
+Jobs,metrics-driven growth optimization,metrics-driven growth,0.8896,semantic,accepted
+Jobs,metrics-driven product growth,metrics-driven growth,0.8765,semantic,accepted
+Jobs,metrics-driven qa,metrics-driven qa,1.0,exact,accepted
+Jobs,micro-interactions,micro-interactions,1.0,exact,accepted
+Course,microarchitecture,microarchitecture,1.0,exact,accepted
+Jobs,microcontrollers,microcontrollers,1.0,exact,accepted
+Jobs,microprocessors,microprocessors,1.0,exact,accepted
+OBE,microservices,microservices,1.0,exact,accepted
+Jobs,microservices,microservices,1.0,exact,accepted
+Jobs,microservices architecture,microservices,0.894,semantic,accepted
+Jobs,microservices design,microservices,0.9047,semantic,accepted
+Jobs,microsoft dynamics,microsoft dynamics,1.0,exact,accepted
+OBE,microsoft excel,excel,0.9659,semantic,accepted
+Course,microsoft excel,excel,0.9659,semantic,accepted
+Jobs,migration tools,migration tools,1.0,exact,accepted
+Course,mixed  course  1 - 3 months,mixed  course  1 - 3 months,1.0,exact,accepted
+Jobs,ml analytics,ml analytics,1.0,exact,accepted
+Jobs,"ml basics: classification, regression, clustering, decision trees","basic ml: classification, clustering",0.7937,semantic,review
+Jobs,"ml frameworks: scikit-learn, tensorflow, pytorch, keras","ml libraries: scikit-learn, tensorflow, pytorch",0.9154,semantic,accepted
+Jobs,"ml fundamentals: classification, regression, clustering, supervised/unsupervised learning","basic ml: classification, clustering",0.7451,semantic,review
+Jobs,"ml fundamentals: regression, classification, clustering, decision trees","basic ml: classification, clustering",0.7336,semantic,review
+Jobs,"ml fundamentals: supervised/unsupervised learning, classification, regression, clustering","basic ml: classification, clustering",0.754,semantic,review
+Jobs,"ml fundamentals: supervised/unsupervised learning, regression, classification, clustering, decision trees","basic ml: classification, clustering",0.7073,semantic,review
+Jobs,ml in robotics,ml in robotics,1.0,exact,accepted
+Jobs,"ml libraries (scikit-learn, pandas)","ml libraries (scikit-learn, pandas)",1.0,exact,accepted
+Jobs,"ml libraries: scikit-learn, tensorflow, pytorch","ml libraries: scikit-learn, tensorflow, pytorch",1.0,exact,accepted
+Jobs,"ml libraries: scikit-learn, tensorflow, pytorch, keras","ml libraries: scikit-learn, tensorflow, pytorch",0.9759,semantic,accepted
+Jobs,"ml/dl: deep learning, reinforcement learning, nlp, computer vision, transfer learning","ml/dl: deep learning, reinforcement learning, nlp, computer vision, transfer learning",1.0,exact,accepted
+Jobs,"ml/dl: supervised/unsupervised learning, deep learning, reinforcement learning, nlp, computer vision, transfer learning","ml/dl: deep learning, reinforcement learning, nlp, computer vision, transfer learning",0.9626,semantic,accepted
+Jobs,mllib,mllib,1.0,exact,accepted
+Jobs,mllib basics,mllib,0.8752,semantic,accepted
+Jobs,mlops,mlops,1.0,exact,accepted
+Jobs,"mlops: ci/cd pipelines, model monitoring, cloud deployment (aws/gcp/azure)","mlops: ci/cd, monitoring, cloud deployment (aws/gcp/azure)",0.9244,semantic,accepted
+Jobs,"mlops: ci/cd pipelines, monitoring, cloud deployment (aws/gcp/azure)","mlops: ci/cd, monitoring, cloud deployment (aws/gcp/azure)",0.9604,semantic,accepted
+Jobs,"mlops: ci/cd, model monitoring, cloud deployment (aws/gcp/azure)","mlops: ci/cd, monitoring, cloud deployment (aws/gcp/azure)",0.9546,semantic,accepted
+Jobs,"mlops: ci/cd, monitoring, cloud deployment (aws/gcp/azure)","mlops: ci/cd, monitoring, cloud deployment (aws/gcp/azure)",1.0,exact,accepted
+Jobs,mobile app development,mobile development,0.8778,semantic,accepted
+Jobs,mobile development,mobile development,1.0,exact,accepted
+Course,mobile development,mobile development,1.0,exact,accepted
+Jobs,mobile game awareness,mobile game awareness,1.0,exact,accepted
+Jobs,mobile security,mobile security,1.0,exact,accepted
+Jobs,mobile seo,local seo,0.9368,semantic,accepted
+Jobs,mobile seo basics,local seo,0.9368,semantic,accepted
+Jobs,mobile seo optimization,local seo,0.9294,semantic,accepted
+Jobs,mobile/console development basics,mobile/console development basics,1.0,exact,accepted
+Jobs,mobile/console platform awareness,mobile/console platform awareness,1.0,exact,accepted
+Jobs,mockito,mockito,1.0,exact,accepted
+Jobs,model deployment,model deployment,1.0,exact,accepted
+Jobs,model development,model development,1.0,exact,accepted
+Jobs,model monitoring,model monitoring,1.0,exact,accepted
+Jobs,modeling,modeling,1.0,exact,accepted
+Jobs,mongodb,mongodb,1.0,exact,accepted
+Jobs,mongodb basics,mongodb,0.9058,semantic,accepted
+Jobs,monitoring,monitoring,1.0,exact,accepted
+Jobs,monitoring & logging,monitoring tools,0.7484,semantic,review
+Jobs,"monitoring & logging (prometheus, grafana, elk)","monitoring: cloudwatch, prometheus",0.7031,semantic,review
+Jobs,"monitoring & logging (prometheus, grafana, elk, nagios, splunk)","monitoring: cloudwatch, prometheus",0.9796,semantic,accepted
+Jobs,"monitoring & logging expert (prometheus, grafana, elk, nagios, splunk)","monitoring: cloudwatch, prometheus",0.9507,semantic,accepted
+Jobs,monitoring & logging tools,monitoring tools,0.8679,semantic,accepted
+Jobs,"monitoring & logging: cloudwatch, prometheus, elk","monitoring: cloudwatch, prometheus",0.8884,semantic,accepted
+Jobs,"monitoring (prometheus, grafana, elk stack, nagios, splunk)","monitoring: cloudwatch, prometheus",0.7249,semantic,review
+Jobs,"monitoring (prometheus, grafana, elk, nagios, splunk)","monitoring: cloudwatch, prometheus",0.9741,semantic,accepted
+Jobs,"monitoring and logging (prometheus, grafana, elk stack, nagios, splunk)","monitoring: cloudwatch, prometheus",0.9796,semantic,accepted
+Jobs,"monitoring and logging tools (prometheus, grafana, elk stack)","monitoring: cloudwatch, prometheus",0.7015,semantic,review
+Jobs,"monitoring basics (nagios, grafana)","basic monitoring (nagios, grafana)",0.9657,semantic,accepted
+Jobs,monitoring basics (prometheus/grafana/nagios),"basic monitoring (nagios, grafana)",0.8595,semantic,accepted
+Jobs,monitoring fundamentals,monitoring,0.8558,semantic,accepted
+Jobs,monitoring tools,monitoring tools,1.0,exact,accepted
+Jobs,"monitoring tools intro (prometheus, grafana)","basic monitoring (nagios, grafana)",0.8954,semantic,accepted
+Jobs,"monitoring/logging: cloudwatch, prometheus, elk","monitoring: cloudwatch, prometheus",0.8837,semantic,accepted
+Jobs,"monitoring: cloudwatch, azure monitor","monitoring: cloudwatch, prometheus",0.7489,semantic,review
+Jobs,"monitoring: cloudwatch, prometheus","monitoring: cloudwatch, prometheus",1.0,exact,accepted
+Jobs,"monitoring: cloudwatch, prometheus, azure monitor","monitoring: cloudwatch, prometheus",0.9074,semantic,accepted
+Jobs,"monitoring: cloudwatch, prometheus, elk","monitoring: cloudwatch, prometheus",0.9292,semantic,accepted
+Jobs,moq,moq,1.0,exact,accepted
+Jobs,motion graphics,motion graphics,1.0,exact,accepted
+Jobs,motion tracking basics,motion tracking basics,1.0,exact,accepted
+Jobs,motor control,motor control,1.0,exact,accepted
+Jobs,motor control basics,motor control basics,1.0,exact,accepted
+Jobs,mpls,mpls,1.0,exact,accepted
+Jobs,mqtt,mqtt,1.0,exact,accepted
+Jobs,mqtt basics,mqtt,0.8795,semantic,accepted
+Jobs,"mqtt, coap, lorawan, nb-iot","mqtt, coap, lorawan, nb-iot",1.0,exact,accepted
+Jobs,mulesoft,mulesoft,1.0,exact,accepted
+Jobs,mulesoft anypoint platform,mulesoft anypoint platform,1.0,exact,accepted
+Jobs,multi-channel campaign coordination,multi-channel campaigns,0.8288,semantic,review
+Jobs,multi-channel campaign integration,multi-channel campaigns,0.8735,semantic,accepted
+Jobs,multi-channel campaign management,multi-channel campaigns,0.8864,semantic,accepted
+Jobs,multi-channel campaign planning,multi-channel campaigns,0.8127,semantic,review
+Jobs,multi-channel campaigns,multi-channel campaigns,1.0,exact,accepted
+Jobs,multi-channel marketing campaigns,multi-channel campaigns,0.9166,semantic,accepted
+Jobs,multi-channel marketing strategy,multi-channel marketing strategy,1.0,exact,accepted
+Jobs,multi-cloud architecture,cloud architecture,0.8536,semantic,accepted
+Jobs,multi-cloud strategy,cloud strategy,0.8913,semantic,accepted
+Jobs,multi-format content creation,multi-format content creation,1.0,exact,accepted
+Jobs,"multi-format content creation (blogs, social media, video scripts)","multi-format content creation (blogs, social media, video scripts)",1.0,exact,accepted
+Jobs,"multi-format content creation (blogs, whitepapers, social media, scripts)","multi-format content creation (blogs, social media, video scripts)",0.9521,semantic,accepted
+Jobs,multi-format copywriting,multi-format copywriting,1.0,exact,accepted
+Jobs,multimedia design,multimedia design,1.0,exact,accepted
+Jobs,multimodal search optimization,multimodal search optimization,1.0,exact,accepted
+Jobs,multiplayer networking,multiplayer networking,1.0,exact,accepted
+Jobs,multitasking,multitasking,1.0,exact,accepted
+Jobs,multithreading basics,multithreading basics,1.0,exact,accepted
+Jobs,mvc,mvc,1.0,exact,accepted
+Jobs,mvp,mvp,1.0,exact,accepted
+Jobs,mvvm,mvvm,1.0,exact,accepted
+OBE,mysql,mysql,1.0,exact,accepted
+Jobs,mysql,mysql,1.0,exact,accepted
+Jobs,mysql basics,mysql basics,1.0,exact,accepted
+Jobs,mysql/postgresql,postgresql,0.861,semantic,accepted
+Jobs,nagios,nagios,1.0,exact,accepted
+Jobs,nagios basics,nagios basics,1.0,exact,accepted
+Jobs,natural language processing,natural language processing,1.0,exact,accepted
+Course,natural language processing,natural language processing,1.0,exact,accepted
+Jobs,negotiation,negotiation,1.0,exact,accepted
+Course,negotiation,negotiation,1.0,exact,accepted
+Jobs,nessus,nessus,1.0,exact,accepted
+Jobs,net development,net development,1.0,exact,accepted
+Jobs,network and application security,network and application security,1.0,exact,accepted
+Jobs,network and application security expert,expert network security,0.7909,semantic,review
+Jobs,network and web security,web security,0.8479,semantic,review
+Jobs,network and web security expert,expert network security,0.7411,semantic,review
+Jobs,network defense,network defense,1.0,exact,accepted
+Jobs,network design,network design,1.0,exact,accepted
+Jobs,network monitoring,network monitoring,1.0,exact,accepted
+Jobs,network operations,network operations,1.0,exact,accepted
+Jobs,network optimization,network optimization,1.0,exact,accepted
+Jobs,network penetration testing,network penetration testing,1.0,exact,accepted
+Jobs,network protocols,network protocols,1.0,exact,accepted
+Jobs,network reliability,network reliability,1.0,exact,accepted
+Jobs,network security,network security,1.0,exact,accepted
+Course,network security,network security,1.0,exact,accepted
+Jobs,network security and optimization,network security and optimization,1.0,exact,accepted
+Jobs,network security basics,network security,0.8779,semantic,accepted
+Jobs,network security expert,expert network security,0.866,semantic,accepted
+Jobs,network troubleshooting,network troubleshooting,1.0,exact,accepted
+Jobs,networking,networking,1.0,exact,accepted
+Course,networking,networking,1.0,exact,accepted
+Jobs,networking & storage,networking & storage,1.0,exact,accepted
+Jobs,"networking (tcp/ip, dns, cdn, load balancing)","networking (tcp/ip, dns, load balancing)",0.9216,semantic,accepted
+Jobs,"networking (tcp/ip, dns, load balancing)","networking (tcp/ip, dns, load balancing)",1.0,exact,accepted
+Jobs,"networking (tcp/ip, dns, load balancing, cdn)","networking (tcp/ip, dns, load balancing)",0.9034,semantic,accepted
+Jobs,networking basics,networking,0.8506,semantic,accepted
+Jobs,"networking basics (tcp/ip, dns)",tcp/ip,0.8808,semantic,accepted
+Jobs,networking fundamentals,networking,0.82,semantic,review
+Jobs,networking hardware,networking hardware,1.0,exact,accepted
+Jobs,networking protocols,network protocols,0.9613,semantic,accepted
+Jobs,networking technologies,networking technologies,1.0,exact,accepted
+Jobs,"networking: vpc, load balancers, dns, firewall rules","networking: vpc, load balancers, dns, firewall rules",1.0,exact,accepted
+OBE,neural network,neural networks,0.8888,manual,accepted
+Course,neural network,neural networks,0.8888,manual,accepted
+Jobs,neural networks,neural networks,1.0,exact,accepted
+Jobs,new relic,new relic,1.0,exact,accepted
+Jobs,nexus,nexus,1.0,exact,accepted
+Jobs,nexus repository manager,nexus repository manager,1.0,exact,accepted
+Jobs,nist basics,nist basics,1.0,exact,accepted
+Jobs,nlp,nlp,1.0,exact,accepted
+Jobs,nlp algorithms,intro nlp,0.888,semantic,accepted
+Jobs,nlp basics,intro nlp,0.7706,semantic,review
+Jobs,nlp frameworks,nlp frameworks,1.0,exact,accepted
+Jobs,nlp introduction,intro nlp,0.8142,semantic,review
+Jobs,nlp techniques,intro nlp,0.7224,semantic,review
+Jobs,nltk,nltk,1.0,exact,accepted
+Jobs,nltk basics,nltk basics,1.0,exact,accepted
+Jobs,node.js,node.js,1.0,exact,accepted
+Jobs,node.js basics,node.js,0.8901,semantic,accepted
+Jobs,nomad,nomad,1.0,exact,accepted
+OBE,nosql,nosql,1.0,exact,accepted
+Jobs,nosql,nosql,1.0,exact,accepted
+Course,nosql,nosql,1.0,exact,accepted
+Jobs,nosql basics,nosql,0.9045,semantic,accepted
+Jobs,"nosql basics (mongodb, hbase)","nosql basics (mongodb, hbase)",1.0,exact,accepted
+Jobs,notary,notary,1.0,exact,accepted
+Jobs,"npm, yarn","npm, yarn",1.0,exact,accepted
+Jobs,numpy,numpy,1.0,exact,accepted
+Jobs,numpy basics,numpy,0.8602,semantic,accepted
+Jobs,nunit basics,nunit basics,1.0,exact,accepted
+Jobs,object-oriented programming,object-oriented programming,1.0,exact,accepted
+Jobs,objective-c,objective-c,1.0,exact,accepted
+Jobs,objective-c basics,objective-c,0.8811,semantic,accepted
+Jobs,observation,observation,1.0,exact,accepted
+Jobs,octopus deploy,octopus deploy,1.0,exact,accepted
+Jobs,off-page optimization,on-page optimization,0.887,semantic,accepted
+Jobs,off-page seo,on-page seo,0.843,semantic,review
+Jobs,off-page seo basics,on-page seo,0.7862,semantic,review
+Jobs,on-page and off-page optimization,on-page optimization,0.9151,semantic,accepted
+Jobs,on-page optimization,on-page optimization,1.0,exact,accepted
+Jobs,on-page seo,on-page seo,1.0,exact,accepted
+Jobs,on-page seo basics,on-page seo,0.9193,semantic,accepted
+Jobs,onnx,onnx,1.0,exact,accepted
+Jobs,oop,object-oriented programming,0.7818,manual,accepted
+OBE,oop (object oriented programming),object-oriented programming,0.8944,semantic,accepted
+Jobs,oop basics,object-oriented programming,0.8217,manual,accepted
+Jobs,openai api,openai api,1.0,exact,accepted
+Jobs,openai gpt basics,openai gpt intro,0.9196,semantic,accepted
+Jobs,openai gpt intro,openai gpt intro,1.0,exact,accepted
+Jobs,openai gpt model basics,openai gpt intro,0.8239,semantic,review
+Jobs,openai gpt models exposure,openai gpt models exposure,1.0,exact,accepted
+Jobs,openai gpt models intro,openai gpt intro,0.8901,semantic,accepted
+Jobs,opencv,opencv,1.0,exact,accepted
+Jobs,opengl basics,opengl basics,1.0,exact,accepted
+Jobs,openshift,openshift,1.0,exact,accepted
+Jobs,openstack,openstack,1.0,exact,accepted
+Course,operating systems,operating systems,1.0,exact,accepted
+Course,operations management,operations management,1.0,exact,accepted
+Course,operations research,operations research,1.0,exact,accepted
+Jobs,oracle,oracle,1.0,exact,accepted
+Jobs,oracle database,oracle database,1.0,exact,accepted
+Jobs,oracle sql,oracle sql,1.0,exact,accepted
+Jobs,oracle sql developer,oracle sql developer,1.0,exact,accepted
+Jobs,orchestration,orchestration,1.0,exact,accepted
+Course,organizational development,organizational development,1.0,exact,accepted
+OBE,osi layer,osi layer,1.0,exact,accepted
+Jobs,ospf,ospf,1.0,exact,accepted
+OBE,otorisasi,otorisasi,1.0,exact,accepted
+Jobs,owasp,owasp,1.0,exact,accepted
+Jobs,packer,packer,1.0,exact,accepted
+Jobs,page speed and mobile optimization,page speed and mobile optimization,1.0,exact,accepted
+Jobs,page speed and performance optimization,page speed optimization,0.9527,semantic,accepted
+Jobs,page speed optimization,page speed optimization,1.0,exact,accepted
+Jobs,palo alto,palo alto,1.0,exact,accepted
+Jobs,palo alto firewalls,palo alto firewalls,1.0,exact,accepted
+Jobs,pandas,pandas,1.0,exact,accepted
+Jobs,pandas basics,pandas basics,1.0,exact,accepted
+Jobs,payment gateways,payment gateways,1.0,exact,accepted
+Course,payments,payments,1.0,exact,accepted
+Jobs,pcb design,pcb design,1.0,exact,accepted
+Jobs,penetration testing,penetration testing,1.0,exact,accepted
+Jobs,penetration testing and vulnerability assessment,penetration testing,0.8509,semantic,accepted
+Jobs,penetration testing fundamentals,penetration testing,0.9039,semantic,accepted
+Course,people analysis,people analysis,1.0,exact,accepted
+Course,people development,people development,1.0,exact,accepted
+Course,people management,people management,1.0,exact,accepted
+Jobs,"performance & security testing: jmeter, loadrunner","performance & security testing: jmeter, loadrunner",1.0,exact,accepted
+Jobs,"performance & security testing: load, stress, security testing","performance & security testing: load, stress, security testing",1.0,exact,accepted
+Jobs,"performance & security testing: load, stress, vulnerability testing","performance & security testing: load, stress, security testing",0.9633,semantic,accepted
+Jobs,performance & security testing: loadrunner,performance & security testing: loadrunner,1.0,exact,accepted
+Jobs,performance analysis,performance analysis,1.0,exact,accepted
+Jobs,performance and load testing,performance and load testing,1.0,exact,accepted
+Course,performance management,performance management,1.0,exact,accepted
+Jobs,performance measurement,performance measurement,1.0,exact,accepted
+Jobs,performance monitoring,performance tracking,0.8876,semantic,accepted
+Jobs,performance optimization,performance optimization,1.0,exact,accepted
+Jobs,performance profiling,performance profiling,1.0,exact,accepted
+Jobs,performance testing,performance testing,1.0,exact,accepted
+Jobs,performance testing: jmeter,performance testing: jmeter,1.0,exact,accepted
+Jobs,"performance testing: load, stress testing",performance and load testing,0.86,semantic,accepted
+Jobs,performance tracking,performance tracking,1.0,exact,accepted
+Jobs,performance tracking and kpi analysis,performance tracking and kpi analysis,1.0,exact,accepted
+Jobs,performance tuning,performance tuning,1.0,exact,accepted
+Jobs,perl basics,perl basics,1.0,exact,accepted
+Course,persona research,persona research,1.0,exact,accepted
+Jobs,persuasive copywriting,persuasive copywriting,1.0,exact,accepted
+Jobs,persuasive writing,persuasive writing,1.0,exact,accepted
+Jobs,photoshop,photoshop,1.0,exact,accepted
+OBE,php,php,1.0,exact,accepted
+Jobs,php,php,1.0,exact,accepted
+Jobs,php basics,php basics,1.0,exact,accepted
+Jobs,php development,php development,1.0,exact,accepted
+Jobs,physics,physics,1.0,exact,accepted
+Jobs,physics and animation basics,physics and animation basics,1.0,exact,accepted
+Jobs,physics and collision basics,physics and collision basics,1.0,exact,accepted
+Jobs,physics and collision handling,physics and collision handling,1.0,exact,accepted
+Jobs,physics and collision systems,physics and collision basics,0.8553,semantic,accepted
+Jobs,physics basics,physics basics,1.0,exact,accepted
+Jobs,physics simulation,physics simulation,1.0,exact,accepted
+Jobs,pid control basics,pid controllers,0.8204,semantic,review
+Jobs,pid controller fundamentals,pid controllers,0.8999,semantic,accepted
+Jobs,pid controllers,pid controllers,1.0,exact,accepted
+Jobs,pid fundamentals,pid fundamentals,1.0,exact,accepted
+Jobs,pipeline management,pipeline management,1.0,exact,accepted
+Jobs,pl/sql,pl/sql,1.0,exact,accepted
+Jobs,planning,planning,1.0,exact,accepted
+Course,planning,planning,1.0,exact,accepted
+Jobs,platform engineering,platform engineering,1.0,exact,accepted
+Jobs,polymorphism,polymorphism,1.0,exact,accepted
+Jobs,portfolio management,portfolio management,1.0,exact,accepted
+Jobs,postgresql,postgresql,1.0,exact,accepted
+Course,postgresql,postgresql,1.0,exact,accepted
+Jobs,postgresql basics,postgresql,0.8554,semantic,accepted
+Jobs,postman,postman,1.0,exact,accepted
+Jobs,postman basics,postman,0.8557,semantic,accepted
+Jobs,power bi,power bi,1.0,exact,accepted
+Course,power bi,power bi,1.0,exact,accepted
+Jobs,power bi basics,power bi,0.8628,semantic,accepted
+Jobs,powerbi,powerbi,1.0,exact,accepted
+Jobs,powershell,powershell,1.0,exact,accepted
+Jobs,ppc ads,ppc ads,1.0,exact,accepted
+Jobs,ppc campaign optimization,ppc campaign optimization,1.0,exact,accepted
+Jobs,ppc campaigns,ppc campaigns,1.0,exact,accepted
+Jobs,ppc campaigns management,ppc campaigns,0.872,semantic,accepted
+Jobs,ppc management,ppc management,1.0,exact,accepted
+Jobs,predictive analytics,predictive analytics,1.0,exact,accepted
+Jobs,predictive modeling,predictive modeling,1.0,exact,accepted
+Jobs,predictive modeling and automation,predictive modeling and automation,1.0,exact,accepted
+Jobs,presentation skills,presentation skills,1.0,exact,accepted
+Jobs,principle,principle,1.0,exact,accepted
+Jobs,privacy compliance (gdpr),privacy compliance (gdpr),1.0,exact,accepted
+Jobs,privacy-compliant seo,privacy-compliant seo,1.0,exact,accepted
+Jobs,privacy-compliant seo (gdpr),privacy-compliant seo,0.9074,semantic,accepted
+Jobs,privacy-compliant seo strategies,privacy-compliant seo,0.9689,semantic,accepted
+Jobs,problem solving,problem solving,1.0,exact,accepted
+Course,problem solving,problem solving,1.0,exact,accepted
+Jobs,problem-solving,problem solving,0.9747,semantic,accepted
+Jobs,problem-solving and critical thinking,problem-solving and critical thinking,1.0,exact,accepted
+Jobs,process analysis,process analysis,1.0,exact,accepted
+Course,process analysis,process analysis,1.0,exact,accepted
+Jobs,process automation,process automation,1.0,exact,accepted
+Jobs,process awareness,process awareness,1.0,exact,accepted
+Jobs,process improvement,process improvement,1.0,exact,accepted
+Jobs,process observation,process observation,1.0,exact,accepted
+Jobs,process optimization,process optimization,1.0,exact,accepted
+Course,procurement,procurement,1.0,exact,accepted
+Jobs,product demonstrations,product demonstrations,1.0,exact,accepted
+Jobs,product demos,product demos,1.0,exact,accepted
+Course,product design,product design,1.0,exact,accepted
+Course,product development,product development,1.0,exact,accepted
+Jobs,product knowledge,product knowledge,1.0,exact,accepted
+Course,product lifecycle,product lifecycle basics,0.933,semantic,accepted
+Jobs,product lifecycle basics,product lifecycle basics,1.0,exact,accepted
+Jobs,product lifecycle understanding,product lifecycle basics,0.9193,semantic,accepted
+Jobs,product management,product management,1.0,exact,accepted
+Course,product management,product management,1.0,exact,accepted
+Jobs,product roadmap,product roadmap,1.0,exact,accepted
+Jobs,product strategy,product strategy,1.0,exact,accepted
+Course,product strategy,product strategy,1.0,exact,accepted
+Jobs,product strategy basics,product strategy,0.9265,semantic,accepted
+Jobs,product vision,product vision,1.0,exact,accepted
+Jobs,product vision and roadmap development,product vision and roadmap planning,0.9338,semantic,accepted
+Jobs,product vision and roadmap planning,product vision and roadmap planning,1.0,exact,accepted
+Jobs,product vision and strategic planning,product vision and strategy,0.8787,semantic,accepted
+Jobs,product vision and strategy,product vision and strategy,1.0,exact,accepted
+Course,professional development,professional development,1.0,exact,accepted
+Jobs,program management,program management,1.0,exact,accepted
+Jobs,programming,programming,1.0,exact,accepted
+Course,programming,programming,1.0,exact,accepted
+Jobs,programming basics,programming,0.8016,semantic,review
+Jobs,programming languages,programming languages,1.0,exact,accepted
+Jobs,"programming: java, python, c#, javascript","programming: java, python, c#, javascript",1.0,exact,accepted
+Jobs,project and performance management,project and performance management,1.0,exact,accepted
+Jobs,project coordination,project coordination,1.0,exact,accepted
+Jobs,project execution,project execution,1.0,exact,accepted
+Jobs,project leadership,project leadership,1.0,exact,accepted
+Jobs,project lifecycle management,project lifecycle management,1.0,exact,accepted
+Jobs,project management,project management,1.0,exact,accepted
+Course,project management,project management,1.0,exact,accepted
+Jobs,project management agile,agile project management,0.9841,semantic,accepted
+Jobs,project management basics,project management,0.9291,semantic,accepted
+Jobs,project management for content initiatives,project management for content initiatives,1.0,exact,accepted
+Jobs,project management methodology basics,project management,0.8377,semantic,review
+Jobs,project management tools,project management tools,1.0,exact,accepted
+Jobs,project planning and execution,basic project planning,0.8185,semantic,review
+Jobs,project scheduling and execution,project scheduling and execution,1.0,exact,accepted
+Jobs,project strategy,project strategy,1.0,exact,accepted
+Jobs,project strategy and execution,project strategy,0.8812,semantic,accepted
+Jobs,prometheus,prometheus,1.0,exact,accepted
+Jobs,prompt chain-of-thought,prompt chain-of-thought,1.0,exact,accepted
+Jobs,prompt crafting basics,prompt crafting basics,1.0,exact,accepted
+Jobs,prompt creation,prompt creation,1.0,exact,accepted
+Jobs,prompt design optimization,prompt optimization,0.8862,semantic,accepted
+Jobs,prompt engineering,prompt engineering,1.0,exact,accepted
+Jobs,prompt engineering advanced,prompt engineering,0.962,semantic,accepted
+Jobs,prompt engineering basics,prompt engineering,0.9327,semantic,accepted
+Jobs,prompt engineering expert,prompt engineering,0.8829,semantic,accepted
+Jobs,prompt engineering fundamentals,prompt engineering,0.9484,semantic,accepted
+Jobs,prompt iterative optimization,prompt optimization,0.7769,semantic,review
+Jobs,prompt optimization,prompt optimization,1.0,exact,accepted
+Jobs,prompt optimization techniques,prompt optimization,0.9483,semantic,accepted
+Jobs,prompt writing,prompt writing,1.0,exact,accepted
+Jobs,prompt writing fundamentals,prompt writing,0.8809,semantic,accepted
+Jobs,proofreading,proofreading,1.0,exact,accepted
+Jobs,proofreading and editing,proofreading,0.8651,semantic,accepted
+Course,prospecting and qualification,prospecting and qualification,1.0,exact,accepted
+OBE,prototyping,prototyping,1.0,exact,accepted
+Jobs,prototyping,prototyping,1.0,exact,accepted
+Jobs,prototyping basics,prototyping,0.9292,semantic,accepted
+OBE,pseudocode,pseudocode,1.0,exact,accepted
+Course,public relations,public relations,1.0,exact,accepted
+Jobs,publications,publications,1.0,exact,accepted
+Jobs,puppet,puppet,1.0,exact,accepted
+Jobs,pycharm,pycharm,1.0,exact,accepted
+Jobs,pytest,pytest,1.0,exact,accepted
+Jobs,pytest advanced,pytest,0.8973,semantic,accepted
+Jobs,pytest basics,pytest,0.865,semantic,accepted
+OBE,python,python,1.0,exact,accepted
+Jobs,python,python,1.0,exact,accepted
+Course,python,python,1.0,exact,accepted
+Jobs,python (advanced),advanced python,0.9644,semantic,accepted
+Jobs,python (django/flask),django/flask,0.9645,semantic,accepted
+Jobs,python advanced,advanced python,0.9655,semantic,accepted
+Jobs,python automation,python automation,1.0,exact,accepted
+Jobs,python basics,python basics,1.0,exact,accepted
+Jobs,python expert,python expert,1.0,exact,accepted
+Jobs,python fundamentals,python fundamentals,1.0,exact,accepted
+Jobs,python scripting,python basics,0.7524,semantic,review
+Jobs,python scripting basics,python basics,0.8544,semantic,accepted
+Jobs,python testing,python testing,1.0,exact,accepted
+Jobs,"python, c/c++, javascript","python, c/c++, javascript",1.0,exact,accepted
+Jobs,"python, c/c++, javascript advanced","python, c/c++, javascript",0.927,semantic,accepted
+Jobs,"python, go","python, go",1.0,exact,accepted
+Jobs,python/bash scripting,python basics,0.9106,semantic,accepted
+Jobs,python/bash/powershell,python/bash/powershell,1.0,exact,accepted
+Jobs,pytorch,pytorch,1.0,exact,accepted
+Jobs,pytorch basics,pytorch,0.86,semantic,accepted
+Jobs,qa processes,qa processes,1.0,exact,accepted
+Jobs,qlikview,qlikview,1.0,exact,accepted
+Jobs,qos,qos,1.0,exact,accepted
+Jobs,qradar,qradar,1.0,exact,accepted
+Jobs,qualitative research,qualitative research,1.0,exact,accepted
+Jobs,quality assurance,quality assurance,1.0,exact,accepted
+Jobs,quantitative modeling,quantitative modeling,1.0,exact,accepted
+Jobs,r,r,1.0,exact,accepted
+Course,r,r,1.0,exact,accepted
+Jobs,raspberry pi basics,raspberry pi basics,1.0,exact,accepted
+Jobs,razor,razor,1.0,exact,accepted
+Jobs,react,react,1.0,exact,accepted
+Course,react,react,1.0,exact,accepted
+Jobs,react basics,react,0.8656,semantic,accepted
+Jobs,react frameworks,react frameworks,1.0,exact,accepted
+Jobs,react native,react native,1.0,exact,accepted
+Jobs,"react, angular, vue.js","react, angular, vue.js",1.0,exact,accepted
+Jobs,react/redux,react/redux,1.0,exact,accepted
+Jobs,react/vue expert,vue frameworks,0.7073,semantic,review
+Jobs,react/vue frameworks,vue frameworks,0.8902,semantic,accepted
+Jobs,react/vue frameworks advanced,vue frameworks,0.874,semantic,accepted
+Jobs,react/vue frameworks expert,vue frameworks,0.834,semantic,review
+Jobs,reactjs,react,0.8904,semantic,accepted
+Jobs,real-time analytics,real-time analytics,1.0,exact,accepted
+Jobs,real-time analytics and ml,real-time analytics and ml,1.0,exact,accepted
+Jobs,real-time analytics and ml integration,real-time analytics and ml,0.9372,semantic,accepted
+Jobs,real-time data analytics,real-time analytics,0.9358,semantic,accepted
+Course,recruitment,recruitment,1.0,exact,accepted
+Jobs,redis,redis,1.0,exact,accepted
+Jobs,redshift,redshift,1.0,exact,accepted
+Jobs,redux,redux,1.0,exact,accepted
+Jobs,"redux, vuex",redux/vuex,0.9903,semantic,accepted
+Jobs,redux/vuex,redux/vuex,1.0,exact,accepted
+OBE,regresi,regresi,1.0,exact,accepted
+Jobs,regression,regression,1.0,exact,accepted
+Course,regression,regression,1.0,exact,accepted
+Jobs,regression analysis,regression,0.8752,semantic,accepted
+Jobs,regression testing,regression testing,1.0,exact,accepted
+Course,regulations and compliance,compliance,0.8589,semantic,accepted
+Jobs,reinforcement learning,reinforcement learning,1.0,exact,accepted
+Course,reinforcement learning,reinforcement learning,1.0,exact,accepted
+Jobs,relationship building,relationship building,1.0,exact,accepted
+Jobs,relationship management,relationship management,1.0,exact,accepted
+Jobs,release management,release management,1.0,exact,accepted
+Jobs,remix ide,remix ide,1.0,exact,accepted
+Jobs,remix ide advanced,remix ide,0.9279,semantic,accepted
+Jobs,remix ide basics,remix ide,0.8728,semantic,accepted
+Jobs,report preparation,report preparation,1.0,exact,accepted
+Jobs,report writing,report writing,1.0,exact,accepted
+Jobs,reporting,reporting,1.0,exact,accepted
+Jobs,reporting and analytics,analytics,0.8486,semantic,review
+Jobs,reporting and dashboard creation,reporting and dashboards,0.9151,semantic,accepted
+Jobs,reporting and dashboards,reporting and dashboards,1.0,exact,accepted
+Jobs,reporting and documentation,reporting and documentation,1.0,exact,accepted
+Jobs,reporting basics,reporting basics,1.0,exact,accepted
+Jobs,repository management,repository management,1.0,exact,accepted
+Jobs,requirement documentation,requirement documentation,1.0,exact,accepted
+Jobs,requirement elicitation,requirement elicitation,1.0,exact,accepted
+Jobs,requirement gathering,requirement gathering,1.0,exact,accepted
+Jobs,requirement management,requirement management,1.0,exact,accepted
+Jobs,requirements gathering,requirement gathering,0.9236,semantic,accepted
+Jobs,research,research,1.0,exact,accepted
+Jobs,research and accuracy,research and accuracy,1.0,exact,accepted
+Course,research and design,research and design,1.0,exact,accepted
+Jobs,research and development,research and development,1.0,exact,accepted
+Jobs,research and fact-checking,fact-checking,0.8086,semantic,review
+Jobs,research management,research management,1.0,exact,accepted
+Jobs,research methodologies,research methods,0.8605,semantic,accepted
+Jobs,research methods,research methods,1.0,exact,accepted
+Jobs,research skills,research skills,1.0,exact,accepted
+Course,resilience,resilience,1.0,exact,accepted
+Jobs,resource allocation,resource allocation,1.0,exact,accepted
+Jobs,resource allocation basics,resource allocation,0.9279,semantic,accepted
+Jobs,resource optimization,resource allocation,0.8719,semantic,accepted
+Jobs,resource planning,resource planning,1.0,exact,accepted
+Jobs,resource prioritization,resource prioritization,1.0,exact,accepted
+Jobs,responsive design,responsive design,1.0,exact,accepted
+Jobs,responsive layouts,responsive design,0.8508,semantic,accepted
+OBE,rest api,rest api,1.0,exact,accepted
+Jobs,rest api,rest api,1.0,exact,accepted
+Jobs,rest api basics,rest api,0.903,semantic,accepted
+Jobs,rest api development,rest api,0.856,semantic,accepted
+Jobs,rest api integration,rest api integration,1.0,exact,accepted
+Jobs,rest api knowledge,rest api,0.8046,semantic,review
+Jobs,"rest api, graphql",rest api/graphql,0.989,semantic,accepted
+Jobs,rest api/graphql,rest api/graphql,1.0,exact,accepted
+Jobs,rest apis,rest api,0.9368,semantic,accepted
+Jobs,"rest apis, graphql",rest api/graphql,0.9797,semantic,accepted
+Jobs,restassured,restassured,1.0,exact,accepted
+Jobs,restful api,rest api,0.9149,semantic,accepted
+Jobs,restful api design,rest api,0.7922,semantic,review
+Jobs,restful apis,rest api,0.8782,semantic,accepted
+Jobs,restful services,restful services,1.0,exact,accepted
+Course,retail sales,retail sales,1.0,exact,accepted
+Course,retail store operations,retail store operations,1.0,exact,accepted
+Jobs,reverse engineering,reverse engineering,1.0,exact,accepted
+Jobs,rigging,rigging,1.0,exact,accepted
+Jobs,risk and quality management,risk and quality management,1.0,exact,accepted
+Jobs,risk and quality oversight,risk and quality oversight,1.0,exact,accepted
+Jobs,risk assessment,risk assessment,1.0,exact,accepted
+Jobs,risk assessment and mitigation,risk management,0.7487,semantic,review
+Jobs,risk assessment basics,risk assessment,0.9044,semantic,accepted
+Jobs,risk management,risk management,1.0,exact,accepted
+Course,risk management,risk management,1.0,exact,accepted
+Jobs,risk management and mitigation,risk management,0.8906,semantic,accepted
+Jobs,roadmap development,roadmap planning,0.8794,semantic,accepted
+Jobs,roadmap development and execution,roadmap planning,0.774,semantic,review
+Jobs,roadmap execution,roadmap planning,0.7493,semantic,review
+Jobs,roadmap planning,roadmap planning,1.0,exact,accepted
+Jobs,robotics,robotics,1.0,exact,accepted
+Jobs,robotics control algorithms,advanced robotics control,0.7774,semantic,review
+Jobs,robotics control theory,robotics control theory,1.0,exact,accepted
+Jobs,room,room,1.0,exact,accepted
+Jobs,ros,ros,1.0,exact,accepted
+Jobs,ros advanced,ros advanced,1.0,exact,accepted
+Jobs,ros advanced development,ros basics,0.8232,semantic,review
+Jobs,ros basics,ros basics,1.0,exact,accepted
+Jobs,ros development,ros basics,0.8539,semantic,accepted
+OBE,routing,routing,1.0,exact,accepted
+Jobs,routing,routing,1.0,exact,accepted
+Jobs,routing basics,routing,0.9028,semantic,accepted
+Jobs,rtos,rtos,1.0,exact,accepted
+Jobs,ruby,ruby,1.0,exact,accepted
+Jobs,ruby advanced,ruby advanced,1.0,exact,accepted
+Jobs,ruby basics,ruby basics,1.0,exact,accepted
+Jobs,ruby on rails,ruby on rails,1.0,exact,accepted
+Jobs,rust,rust,1.0,exact,accepted
+Jobs,rust basics,rust basics,1.0,exact,accepted
+Jobs,s3,s3,1.0,exact,accepted
+Course,saas,saas,1.0,exact,accepted
+Jobs,sales,sales,1.0,exact,accepted
+Course,sales,sales,1.0,exact,accepted
+Jobs,sales automation,sales automation,1.0,exact,accepted
+Jobs,sales automation awareness,sales automation awareness,1.0,exact,accepted
+Jobs,sales forecasting,sales forecasting,1.0,exact,accepted
+Jobs,sales leadership,sales leadership,1.0,exact,accepted
+Jobs,sales strategy,sales strategy,1.0,exact,accepted
+Course,sales systems,sales systems,1.0,exact,accepted
+Jobs,salesforce,salesforce,1.0,exact,accepted
+Course,salesforce,salesforce,1.0,exact,accepted
+Jobs,salesforce administration,salesforce administration,1.0,exact,accepted
+OBE,sap,sap,1.0,exact,accepted
+Jobs,sap modules,sap modules,1.0,exact,accepted
+Jobs,sas,sas,1.0,exact,accepted
+Course,sas,sas,1.0,exact,accepted
+Jobs,sass,sas,0.8696,semantic,accepted
+Jobs,sast,sast,1.0,exact,accepted
+Jobs,scala,scala,1.0,exact,accepted
+Course,scala,scala,1.0,exact,accepted
+Jobs,scala advanced,scala,0.8694,semantic,accepted
+Jobs,scala basics,scala,0.8634,semantic,accepted
+Jobs,scalability,scalability,1.0,exact,accepted
+Jobs,scalable dapps,scalable dapps,1.0,exact,accepted
+Jobs,scheduling,scheduling,1.0,exact,accepted
+Jobs,scheduling and budgeting,budgeting,0.8249,semantic,review
+Jobs,schema markup,schema markup,1.0,exact,accepted
+Jobs,schema markup and structured data,schema markup,0.8722,semantic,accepted
+Jobs,schema markup and structured data implementation,schema markup,0.814,semantic,review
+Jobs,schema markup basics,schema markup,0.9448,semantic,accepted
+Jobs,schema markup implementation,schema markup,0.917,semantic,accepted
+Jobs,scientific writing,scientific writing,1.0,exact,accepted
+Jobs,scikit-learn,scikit-learn,1.0,exact,accepted
+OBE,scm (supply chain management),scm (supply chain management),1.0,exact,accepted
+Jobs,scripting,scripting,1.0,exact,accepted
+Jobs,scripting fundamentals,scripting,0.8659,semantic,accepted
+Jobs,"scripting: python, bash, powershell",python/bash/powershell,0.9292,semantic,accepted
+OBE,scrum,scrum,1.0,exact,accepted
+Jobs,scrum,scrum,1.0,exact,accepted
+Course,scrum,scrum,1.0,exact,accepted
+Jobs,scrum and kanban basics,scrum and kanban basics,1.0,exact,accepted
+Jobs,sd-wan,sd-wan,1.0,exact,accepted
+Jobs,sdn,sdn,1.0,exact,accepted
+Jobs,seaborn,seaborn,1.0,exact,accepted
+Jobs,search console,search console,1.0,exact,accepted
+Jobs,search console basics,search console,0.905,semantic,accepted
+Jobs,search engine optimization,search engine optimization,1.0,exact,accepted
+Course,search engine optimization,search engine optimization,1.0,exact,accepted
+Jobs,secrets management,secrets management,1.0,exact,accepted
+Jobs,secure coding,secure coding,1.0,exact,accepted
+Jobs,secure coding practices,secure coding,0.9071,semantic,accepted
+Course,securities sales,securities sales,1.0,exact,accepted
+Course,securities trading,securities trading,1.0,exact,accepted
+Jobs,security,security,1.0,exact,accepted
+Jobs,security analysis,security analysis,1.0,exact,accepted
+Jobs,security and compliance,security compliance,0.9668,semantic,accepted
+Jobs,security and compliance basics,security compliance,0.9007,semantic,accepted
+Jobs,security and compliance knowledge,security compliance,0.8592,semantic,accepted
+Jobs,security auditing,security audits,0.9609,semantic,accepted
+Jobs,security audits,security audits,1.0,exact,accepted
+Jobs,security automation,security automation,1.0,exact,accepted
+Jobs,security compliance,security compliance,1.0,exact,accepted
+Jobs,security consulting,security consulting,1.0,exact,accepted
+Jobs,"security frameworks (nist, iso)","security frameworks (nist, iso)",1.0,exact,accepted
+Jobs,security groups,security groups,1.0,exact,accepted
+Jobs,security information and event management (siem),security information and event management (siem),1.0,exact,accepted
+Jobs,security integration,security integration,1.0,exact,accepted
+Jobs,security leadership,security leadership,1.0,exact,accepted
+Jobs,security management,security management,1.0,exact,accepted
+Jobs,security policies,security policies,1.0,exact,accepted
+Jobs,security protocols,security protocols,1.0,exact,accepted
+Jobs,security solutions,security solutions,1.0,exact,accepted
+Jobs,security tools,security tools,1.0,exact,accepted
+Jobs,selenium,selenium,1.0,exact,accepted
+Jobs,selenium basics,webdriver,0.9145,semantic,accepted
+Jobs,selenium webdriver,webdriver,0.8717,semantic,accepted
+Jobs,selenium webdriver basics,webdriver,0.7679,semantic,review
+Jobs,sem basics,sem basics,1.0,exact,accepted
+Course,semantic web,semantic web,1.0,exact,accepted
+Jobs,sensor and actuator integration,sensor and actuator integration,1.0,exact,accepted
+Jobs,sensor fusion,sensor fusion,1.0,exact,accepted
+Jobs,sensor fusion and actuator control,sensor fusion and actuator control,1.0,exact,accepted
+Jobs,sensor fusion and actuator integration,sensor fusion and actuator control,0.9078,semantic,accepted
+Jobs,sensor integration,sensor integration,1.0,exact,accepted
+Jobs,sensor integration and actuator management,sensor and actuator integration,0.9418,semantic,accepted
+Jobs,sensor integration and fusion,sensor fusion,0.9164,semantic,accepted
+Jobs,sensor integration basics,sensor integration,0.9453,semantic,accepted
+Jobs,sensor technology,sensor technology,1.0,exact,accepted
+Jobs,sensors,sensors,1.0,exact,accepted
+Jobs,"sensors basics (lidar, ultrasonic, infrared)",lidar and infrared sensors basics,0.8761,semantic,accepted
+Jobs,seo,seo,1.0,exact,accepted
+Jobs,seo and analytics expertise,seo and analytics expertise,1.0,exact,accepted
+Jobs,seo and keyword optimization,seo and keyword optimization,1.0,exact,accepted
+Jobs,seo and keyword research,seo keyword research,0.9783,semantic,accepted
+Jobs,seo and sem fundamentals,seo/sem,0.9254,semantic,accepted
+Jobs,seo and sem optimization,seo/sem,0.8838,semantic,accepted
+Jobs,seo basics,basic seo,0.9377,semantic,accepted
+Jobs,seo copywriting,seo copywriting,1.0,exact,accepted
+Jobs,seo fundamentals,basic seo,0.8452,semantic,review
+Jobs,seo keyword research,seo keyword research,1.0,exact,accepted
+Jobs,seo optimization,basic seo,0.7275,semantic,review
+Jobs,seo optimization and analytics,basic seo,0.8707,semantic,accepted
+Jobs,seo optimization and backlinking,seo optimization and backlinking,1.0,exact,accepted
+Jobs,seo strategy,basic seo,0.7682,semantic,review
+Jobs,seo strategy and execution,basic seo,0.7019,semantic,review
+Jobs,seo strategy and planning,basic seo,0.9063,semantic,accepted
+Jobs,seo strategy and roadmap,seo strategy and roadmap,1.0,exact,accepted
+Jobs,seo strategy development,basic seo,0.7006,semantic,review
+Jobs,"seo, sem, ppc",seo/sem/ppc,0.9458,semantic,accepted
+Jobs,"seo, sem, ppc campaigns",seo/sem/ppc,0.809,semantic,review
+Jobs,"seo, sem, ppc expertise",seo/sem/ppc,0.8776,semantic,accepted
+Jobs,"seo, sem, ppc optimization",seo/sem/ppc,0.8759,semantic,accepted
+Jobs,seo/sem,seo/sem,1.0,exact,accepted
+Jobs,seo/sem and ppc campaigns,seo/sem/ppc,0.8103,semantic,review
+Jobs,seo/sem fundamentals,seo/sem,0.9229,semantic,accepted
+Jobs,seo/sem optimization,seo/sem,0.8849,semantic,accepted
+Jobs,seo/sem/ppc,seo/sem/ppc,1.0,exact,accepted
+Jobs,seo/sem/ppc campaign management,seo/sem/ppc,0.7903,semantic,review
+Jobs,seo/sem/ppc campaigns,seo/sem/ppc,0.812,semantic,review
+Jobs,seo/sem/ppc management,seo/sem/ppc,0.9238,semantic,accepted
+Jobs,seo/sem/ppc optimization,seo/sem/ppc,0.8848,semantic,accepted
+Jobs,server-side programming,server-side programming,1.0,exact,accepted
+Jobs,serverless,serverless,1.0,exact,accepted
+Jobs,serverless architecture,serverless computing,0.8606,semantic,accepted
+Jobs,serverless computing,serverless computing,1.0,exact,accepted
+Jobs,service discovery,service discovery,1.0,exact,accepted
+Jobs,service mesh,service mesh,1.0,exact,accepted
+Jobs,servlets,servlets,1.0,exact,accepted
+Jobs,servo motors basics,servo motors basics,1.0,exact,accepted
+Jobs,shader programming,shader programming,1.0,exact,accepted
+Jobs,shader programming hlsl/glsl,shader programming hlsl/glsl,1.0,exact,accepted
+Jobs,shap,shap,1.0,exact,accepted
+Jobs,sharepoint,sharepoint,1.0,exact,accepted
+Jobs,sharepoint framework,frameworks,0.8648,semantic,accepted
+Jobs,shell scripting,bash basics,0.9375,semantic,accepted
+Jobs,shell scripting (bash/zsh),bash/zsh scripting,0.9619,semantic,accepted
+Course,shipping and receiving,shipping and receiving,1.0,exact,accepted
+Jobs,siem tools,siem tools,1.0,exact,accepted
+Jobs,signalr,signalr,1.0,exact,accepted
+Jobs,simulation,simulation,1.0,exact,accepted
+Jobs,"simulation (gazebo, rviz)","gazebo, rviz simulation",0.9842,semantic,accepted
+Jobs,simulation tools,simulation tools,1.0,exact,accepted
+Jobs,"simulation tools (gazebo, rviz)","gazebo, rviz simulation",0.8939,semantic,accepted
+Jobs,simulator,simulator,1.0,exact,accepted
+Jobs,sip,sip,1.0,exact,accepted
+Jobs,site architecture optimization,site architecture optimization,1.0,exact,accepted
+Jobs,site indexing basics,site indexing basics,1.0,exact,accepted
+Jobs,site speed optimization,site speed optimization,1.0,exact,accepted
+Jobs,six sigma,six sigma,1.0,exact,accepted
+Jobs,sketch,sketch,1.0,exact,accepted
+Course,small data,small data,1.0,exact,accepted
+Jobs,smart contract development,smart contracts,0.7882,semantic,review
+Jobs,smart contract development and testing,smart contract testing,0.9049,semantic,accepted
+Jobs,smart contract implementation,smart contract implementation,1.0,exact,accepted
+Jobs,smart contract optimization,smart contract optimization,1.0,exact,accepted
+Jobs,smart contract optimization and security audits,smart contract optimization and security audits,1.0,exact,accepted
+Jobs,smart contract security audits,smart contract security audits,1.0,exact,accepted
+Jobs,smart contract testing,smart contract testing,1.0,exact,accepted
+Jobs,smart contracts,smart contracts,1.0,exact,accepted
+Jobs,smart contracts basics,smart contracts,0.852,semantic,accepted
+Jobs,smart contracts development,smart contracts,0.8689,semantic,accepted
+Jobs,smart contracts implementation,smart contract implementation,0.94,semantic,accepted
+Jobs,snort,snort,1.0,exact,accepted
+Jobs,snowflake,snowflake,1.0,exact,accepted
+Jobs,soa,soa,1.0,exact,accepted
+Jobs,soap apis,soap apis,1.0,exact,accepted
+Jobs,soapui,soapui,1.0,exact,accepted
+Jobs,soapui basics,soapui basics,1.0,exact,accepted
+Jobs,soc operations,soc operations,1.0,exact,accepted
+Course,social media,social media,1.0,exact,accepted
+Jobs,social media basics,social media basics,1.0,exact,accepted
+Jobs,social media campaigns,social media campaigns,1.0,exact,accepted
+Jobs,social media content,social media content,1.0,exact,accepted
+Jobs,social media management,social media management,1.0,exact,accepted
+Jobs,social media marketing,content marketing,0.7523,semantic,review
+Jobs,social media marketing basics,content marketing,0.8568,semantic,accepted
+Jobs,social media platforms,social media platforms,1.0,exact,accepted
+Jobs,social media seo basics,social media seo basics,1.0,exact,accepted
+Jobs,social media strategy,content marketing,0.8557,semantic,accepted
+Jobs,social selling,social selling,1.0,exact,accepted
+Jobs,software architecture,software architecture,1.0,exact,accepted
+Course,software architecture,software architecture,1.0,exact,accepted
+Jobs,software configuration management,configuration management,0.8865,semantic,accepted
+Jobs,software design,software design,1.0,exact,accepted
+Jobs,software development,software development,1.0,exact,accepted
+Jobs,software development lifecycle (sdlc),software development lifecycle (sdlc),1.0,exact,accepted
+Course,software engineering,software engineering,1.0,exact,accepted
+Jobs,software frameworks,frameworks,0.9181,semantic,accepted
+Jobs,software packaging,software packaging,1.0,exact,accepted
+Jobs,software quality,software quality,1.0,exact,accepted
+Course,software testing,software testing,1.0,exact,accepted
+Jobs,solarwinds,solarwinds,1.0,exact,accepted
+Jobs,solid principles,solid principles,1.0,exact,accepted
+Jobs,solidity,solidity,1.0,exact,accepted
+Jobs,solidity advanced,solidity advanced,1.0,exact,accepted
+Jobs,solidity basics,solidity basics,1.0,exact,accepted
+Jobs,solidworks,solidworks,1.0,exact,accepted
+Jobs,solidworks advanced,solidworks,0.9013,semantic,accepted
+Jobs,solidworks basics,solidworks,0.8433,semantic,review
+Jobs,solution design,solution design,1.0,exact,accepted
+Jobs,sonarqube,sonarqube,1.0,exact,accepted
+Jobs,soql,soql,1.0,exact,accepted
+Jobs,spacy basics,spacy basics,1.0,exact,accepted
+Jobs,spark,spark,1.0,exact,accepted
+Jobs,spark basics,apache spark,0.8034,semantic,review
+Jobs,spark fundamentals,apache spark,0.7447,semantic,review
+Jobs,spark streaming,spark streaming,1.0,exact,accepted
+Jobs,spatial analysis,spatial analysis,1.0,exact,accepted
+Course,spatial analysis,spatial analysis,1.0,exact,accepted
+Jobs,spatial computing,spatial computing,1.0,exact,accepted
+Jobs,spatial computing basics,spatial computing,0.9063,semantic,accepted
+Jobs,splunk,splunk,1.0,exact,accepted
+Jobs,splunk enterprise security,splunk enterprise security,1.0,exact,accepted
+Course,spreadsheet software,spreadsheet software,1.0,exact,accepted
+Jobs,spring,spring,1.0,exact,accepted
+Jobs,spring basics,spring basics,1.0,exact,accepted
+Jobs,spring boot,spring boot,1.0,exact,accepted
+Jobs,spring framework,spring basics,0.7996,semantic,review
+Jobs,spring framework basics,spring basics,0.8636,semantic,accepted
+OBE,sprint (agile),sprint (agile),1.0,exact,accepted
+Jobs,sprint planning,sprint planning,1.0,exact,accepted
+Jobs,spss,spss,1.0,exact,accepted
+OBE,sql,sql,1.0,exact,accepted
+Jobs,sql,sql,1.0,exact,accepted
+Course,sql,sql,1.0,exact,accepted
+Jobs,sql & database management,database management,0.9115,semantic,accepted
+Jobs,sql (mysql/postgresql),postgresql,0.8113,semantic,review
+Jobs,sql advanced,advanced sql,0.9629,semantic,accepted
+Jobs,sql basics,sql basics,1.0,exact,accepted
+Jobs,sql fundamentals,sql fundamentals,1.0,exact,accepted
+Jobs,sql optimization,sql optimization,1.0,exact,accepted
+Jobs,sql queries,sql,0.8519,semantic,accepted
+Jobs,sql querying,sql,0.8366,semantic,review
+Jobs,sql server,sql server,1.0,exact,accepted
+Jobs,"sql, nosql, s3, azure blob","sql, nosql, s3, azure blob",1.0,exact,accepted
+Jobs,sqlalchemy,sqlalchemy,1.0,exact,accepted
+Jobs,sqlite,sqlite,1.0,exact,accepted
+Jobs,sre,sre,1.0,exact,accepted
+Jobs,ssis,ssis,1.0,exact,accepted
+Jobs,ssrs,ssrs,1.0,exact,accepted
+Jobs,staff development,staff development,1.0,exact,accepted
+Jobs,stakeholder collaboration,stakeholder engagement,0.8216,semantic,review
+Jobs,stakeholder communication,stakeholder engagement,0.8227,semantic,review
+Jobs,stakeholder communication and engagement,stakeholder engagement,0.9262,semantic,accepted
+Jobs,stakeholder engagement,stakeholder engagement,1.0,exact,accepted
+Jobs,stakeholder engagement and communication,stakeholder engagement,0.9328,semantic,accepted
+Jobs,stakeholder engagement and negotiation,stakeholder engagement,0.9237,semantic,accepted
+Jobs,stakeholder management,stakeholder engagement,0.8205,semantic,review
+Jobs,stakeholder management and communication,stakeholder engagement,0.7765,semantic,review
+Jobs,stakeholder management and negotiation,stakeholder engagement,0.7879,semantic,review
+Jobs,static code analysis,static code analysis,1.0,exact,accepted
+Jobs,statistical analysis,statistical analysis,1.0,exact,accepted
+Jobs,statistical modeling,statistical modeling,1.0,exact,accepted
+Jobs,statistics,statistics,1.0,exact,accepted
+Course,statistics,statistics,1.0,exact,accepted
+Jobs,statistics and probability,statistics and probability,1.0,exact,accepted
+Jobs,"statistics: probability, linear algebra","statistics: probability, linear algebra",1.0,exact,accepted
+OBE,statistika/probabilitas,statistika/probabilitas,1.0,exact,accepted
+Jobs,storage,storage,1.0,exact,accepted
+Jobs,storyboarding,storyboarding,1.0,exact,accepted
+Jobs,storytelling,storytelling,1.0,exact,accepted
+Course,storytelling,storytelling,1.0,exact,accepted
+Jobs,storytelling and creativity,creativity and storytelling,0.9906,semantic,accepted
+Jobs,strategic alignment,strategic alignment,1.0,exact,accepted
+Jobs,strategic alignment with business goals,strategic alignment,0.862,semantic,accepted
+Jobs,strategic content planning,content strategy,0.8226,semantic,review
+Jobs,strategic copywriting,copywriting,0.851,semantic,accepted
+Jobs,strategic digital marketing planning,marketing strategy,0.8773,semantic,accepted
+Jobs,strategic marketing planning,marketing strategy,0.8369,semantic,review
+Jobs,strategic planning,strategic planning,1.0,exact,accepted
+Jobs,strategic project alignment,strategic project alignment,1.0,exact,accepted
+Jobs,strategic project management,strategic project management,1.0,exact,accepted
+Jobs,strategic qa planning,strategic qa planning,1.0,exact,accepted
+Jobs,strategic vision,strategic vision,1.0,exact,accepted
+Course,strategy,strategy,1.0,exact,accepted
+Course,strategy and operations,strategy and operations,1.0,exact,accepted
+Jobs,structured authoring,structured authoring,1.0,exact,accepted
+Jobs,subnets,subnets,1.0,exact,accepted
+Jobs,subnetting,subnetting,1.0,exact,accepted
+Jobs,supervised/unsupervised learning,supervised/unsupervised learning,1.0,exact,accepted
+Course,supplier relationship management,supplier relationship management,1.0,exact,accepted
+Course,supply chain and logistics,supply chain and logistics,1.0,exact,accepted
+Course,supply chain systems,supply chain systems,1.0,exact,accepted
+Course,survey creation,survey design,0.875,semantic,accepted
+Jobs,survey design,survey design,1.0,exact,accepted
+Jobs,swift,swift,1.0,exact,accepted
+Course,swift,swift,1.0,exact,accepted
+OBE,switching,switching,1.0,exact,accepted
+Jobs,switching,switching,1.0,exact,accepted
+Jobs,symfony,symfony,1.0,exact,accepted
+Jobs,symfony),symfony,0.9422,semantic,accepted
+Jobs,system administration,system administration,1.0,exact,accepted
+Jobs,system analysis,system analysis,1.0,exact,accepted
+Jobs,system architecture,system architecture,1.0,exact,accepted
+Jobs,system design,system design,1.0,exact,accepted
+Jobs,system engineering,system engineering,1.0,exact,accepted
+Jobs,system migration,system migration,1.0,exact,accepted
+Jobs,system monitoring,system monitoring,1.0,exact,accepted
+Jobs,system performance,system performance,1.0,exact,accepted
+Jobs,system reliability,system reliability,1.0,exact,accepted
+Course,system software,system software,1.0,exact,accepted
+Jobs,systems administration,system administration,0.9554,semantic,accepted
+Jobs,systems analysis,system analysis,0.9323,semantic,accepted
+Jobs,systems design,system design,0.9418,semantic,accepted
+Course,systems design,system design,0.9418,semantic,accepted
+Jobs,systems integration,systems integration,1.0,exact,accepted
+Jobs,t-sql,t-sql,1.0,exact,accepted
+Jobs,tableau,tableau,1.0,exact,accepted
+Course,tableau,tableau,1.0,exact,accepted
+Jobs,tableau basics,tableau,0.8617,semantic,accepted
+Jobs,tailwind css,tailwind css,1.0,exact,accepted
+Jobs,talend,talend,1.0,exact,accepted
+Jobs,talend basics,talend,0.854,semantic,accepted
+Course,talent management,talent management,1.0,exact,accepted
+Jobs,task and milestone tracking,task and milestone tracking,1.0,exact,accepted
+Jobs,task planning with jira/trello,task planning with jira/trello,1.0,exact,accepted
+Jobs,task scheduling,task scheduling,1.0,exact,accepted
+Course,taxes,taxes,1.0,exact,accepted
+Jobs,taxonomy,taxonomy,1.0,exact,accepted
+OBE,tcp/ip,tcp/ip,1.0,exact,accepted
+Jobs,tcp/ip,tcp/ip,1.0,exact,accepted
+Jobs,tcp/ip basics,tcp/ip,0.8865,semantic,accepted
+Jobs,tcp/ip networking,tcp/ip,0.8711,semantic,accepted
+Jobs,tcp/ip networking basics,tcp/ip,0.813,semantic,review
+Jobs,"tcp/ip, ipv6","tcp/ip, ipv6",1.0,exact,accepted
+Jobs,team collaboration,collaboration,0.9149,semantic,accepted
+Jobs,team communication,team communication,1.0,exact,accepted
+Jobs,team coordination,team coordination,1.0,exact,accepted
+Jobs,team facilitation,team facilitation,1.0,exact,accepted
+Jobs,team leadership,collaboration,0.9016,semantic,accepted
+Jobs,team leadership and collaboration,collaboration,0.7104,semantic,review
+Jobs,team leadership and conflict resolution,team leadership and conflict resolution,1.0,exact,accepted
+Jobs,team leadership and mentoring,mentoring,0.782,semantic,review
+Jobs,team leadership and mentorship,mentoring,0.7208,semantic,review
+Jobs,team management,team management,1.0,exact,accepted
+Jobs,team management and conflict resolution,team leadership and conflict resolution,0.9118,semantic,accepted
+Jobs,team mentoring,mentoring,0.8618,semantic,accepted
+Jobs,teamcity,teamcity,1.0,exact,accepted
+Jobs,teamwork,teamwork,1.0,exact,accepted
+Jobs,teamwork and collaboration,collaboration,0.8458,semantic,review
+Jobs,technical accuracy,technical accuracy,1.0,exact,accepted
+Jobs,technical animation,animation,0.8763,semantic,accepted
+Jobs,technical documentation,documentation,0.904,semantic,accepted
+Jobs,technical expertise,technical expertise,1.0,exact,accepted
+Jobs,technical leadership,technical leadership,1.0,exact,accepted
+Jobs,technical operations,technical operations,1.0,exact,accepted
+Course,technical product management,product management,0.8559,semantic,accepted
+Jobs,technical sales,technical sales,1.0,exact,accepted
+Jobs,technical seo,basic seo,0.7563,semantic,review
+Jobs,technical seo audits,technical seo audits,1.0,exact,accepted
+Jobs,technical seo basics,basic seo,0.8536,semantic,accepted
+Jobs,technical support,technical support,1.0,exact,accepted
+Jobs,technical writing,technical writing,1.0,exact,accepted
+Jobs,technology adoption,technology adoption,1.0,exact,accepted
+Jobs,technology consulting,technology consulting,1.0,exact,accepted
+Jobs,technology solutions,technology solutions,1.0,exact,accepted
+Jobs,technology strategy,technology strategy,1.0,exact,accepted
+Jobs,tensorflow,tensorflow,1.0,exact,accepted
+Course,tensorflow,tensorflow,1.0,exact,accepted
+Jobs,tensorflow basics,tensorflow,0.8851,semantic,accepted
+Jobs,terraform,terraform,1.0,exact,accepted
+Jobs,terraform awareness,terraform,0.8101,semantic,review
+Jobs,terraform basics,terraform,0.867,semantic,accepted
+Jobs,terraform/ansible awareness,terraform/ansible awareness,1.0,exact,accepted
+Jobs,terraform/cloudformation awareness,terraform,0.7216,semantic,review
+Jobs,terraform/cloudformation basics,terraform,0.7894,semantic,review
+Jobs,terraform/cloudformation knowledge,terraform,0.7321,semantic,review
+Jobs,terraform/cloudformation/ansible,terraform,0.7368,semantic,review
+Jobs,test automation,test automation,1.0,exact,accepted
+Jobs,test automation strategy,test automation,0.9155,semantic,accepted
+Jobs,"test automation: selenium, appium, cucumber, junit, testng","basic automation: selenium, appium, cucumber",0.8078,semantic,review
+Jobs,"test automation: selenium, appium, cucumber, testng","basic automation: selenium, appium, cucumber",0.8469,semantic,review
+Jobs,test case writing,test case writing,1.0,exact,accepted
+Jobs,test coverage analysis,test coverage analysis,1.0,exact,accepted
+Jobs,test data management,test data management,1.0,exact,accepted
+Jobs,test documentation,test documentation,1.0,exact,accepted
+Jobs,test documentation & reporting,test documentation & reporting,1.0,exact,accepted
+Jobs,test execution,test execution,1.0,exact,accepted
+Jobs,test planning,test planning,1.0,exact,accepted
+Jobs,testing,testing,1.0,exact,accepted
+Jobs,testing and debugging,testing/debugging,0.9841,semantic,accepted
+Jobs,testing automation,test automation,0.9753,semantic,accepted
+Jobs,testing frameworks,testing frameworks,1.0,exact,accepted
+Jobs,"testing frameworks (jest, cypress, mocha)","testing frameworks: jest, mocha, cypress",0.992,semantic,accepted
+Jobs,"testing frameworks (jest, mocha, cypress)","testing frameworks: jest, mocha, cypress",0.9932,semantic,accepted
+Jobs,"testing frameworks: jest, mocha, cypress","testing frameworks: jest, mocha, cypress",1.0,exact,accepted
+Jobs,testing with jest,testing with jest,1.0,exact,accepted
+Jobs,testing with jest/enzyme,testing with jest,0.9022,semantic,accepted
+Jobs,testing with nunit,testing with nunit,1.0,exact,accepted
+Jobs,testing with xunit,testing with xunit,1.0,exact,accepted
+Jobs,testing/debugging,testing/debugging,1.0,exact,accepted
+Jobs,testng,testng,1.0,exact,accepted
+Jobs,testng basics,testng,0.8846,semantic,accepted
+Jobs,testrail,testrail,1.0,exact,accepted
+Jobs,text analysis,text analysis,1.0,exact,accepted
+Jobs,texturing,texturing,1.0,exact,accepted
+Jobs,tfs (team foundation server),tfs (team foundation server),1.0,exact,accepted
+Course,theoretical computer science,theoretical computer science,1.0,exact,accepted
+Jobs,threat analysis,threat analysis,1.0,exact,accepted
+Jobs,threat detection,threat detection,1.0,exact,accepted
+Jobs,threat hunting,threat hunting,1.0,exact,accepted
+Jobs,threat intelligence,threat intelligence,1.0,exact,accepted
+Jobs,time management,time management,1.0,exact,accepted
+Jobs,time-series analysis,time-series analysis,1.0,exact,accepted
+Jobs,time-series forecasting,forecasting,0.8581,semantic,accepted
+Jobs,time-series modeling,time-series modeling,1.0,exact,accepted
+Jobs,tone and style adaptation,tone and style adaptation,1.0,exact,accepted
+Jobs,toolpath optimization,toolpath optimization,1.0,exact,accepted
+Jobs,"tools: confluence, figma","tools: jira, confluence",0.835,semantic,review
+Jobs,"tools: figma, jira, confluence","tools: jira, confluence",0.9096,semantic,accepted
+Jobs,"tools: figma, mixpanel, tableau, ga","tools: jira, confluence",0.919,semantic,accepted
+Jobs,"tools: jira, confluence","tools: jira, confluence",1.0,exact,accepted
+Jobs,"tools: jira, confluence, figma basics","tools: jira, confluence",0.8991,semantic,accepted
+Jobs,"tools: jira, confluence, figma, mixpanel, tableau","tools: jira, confluence",0.8357,semantic,review
+Jobs,"tools: jira, confluence, mixpanel, ga, tableau","tools: jira, confluence",0.8521,semantic,accepted
+Jobs,"tools: jira, confluence, tableau, figma","tools: jira, confluence",0.8858,semantic,accepted
+Jobs,"tools: jira, confluence, tableau, mixpanel","tools: jira, confluence",0.8471,semantic,review
+Jobs,"tools: jira, figma","tools: jira, figma",1.0,exact,accepted
+Jobs,"tools: jira, figma, mixpanel, tableau","tools: jira, confluence",0.919,semantic,accepted
+Jobs,traffic management,traffic management,1.0,exact,accepted
+Jobs,training,training,1.0,exact,accepted
+Course,training,training,1.0,exact,accepted
+Course,transportation operations management,transportation operations management,1.0,exact,accepted
+Jobs,trello,trello,1.0,exact,accepted
+Jobs,troubleshooting,troubleshooting,1.0,exact,accepted
+Jobs,truffle,truffle,1.0,exact,accepted
+Jobs,truffle advanced,truffle advanced,1.0,exact,accepted
+Jobs,truffle basics,truffle basics,1.0,exact,accepted
+Jobs,trust management,trust management,1.0,exact,accepted
+Jobs,typescript,typescript,1.0,exact,accepted
+Jobs,typography,typography,1.0,exact,accepted
+Jobs,udeploy (urbancode deploy),udeploy (urbancode deploy),1.0,exact,accepted
+Jobs,ui basics,ui/ux,0.7026,semantic,review
+Jobs,ui design,ui/ux,0.8863,semantic,accepted
+Jobs,ui design principles,ui/ux principles,0.8579,semantic,accepted
+Jobs,ui/ux,ui/ux,1.0,exact,accepted
+Jobs,ui/ux advanced,ui/ux,0.805,semantic,review
+Jobs,ui/ux basics,ui/ux,0.8533,semantic,accepted
+Jobs,ui/ux collaboration,ui/ux collaboration,1.0,exact,accepted
+OBE,ui/ux design,ui/ux,0.8423,semantic,review
+Jobs,ui/ux design,ui/ux,0.8423,semantic,review
+Jobs,ui/ux design advanced,ui/ux,0.7377,semantic,review
+Jobs,ui/ux design basics,ui/ux,0.7566,semantic,review
+Jobs,ui/ux design expert,ui/ux expert,0.8946,semantic,accepted
+Jobs,ui/ux expert,ui/ux expert,1.0,exact,accepted
+Jobs,ui/ux fundamentals,ui/ux,0.7879,semantic,review
+Jobs,ui/ux guidelines,ui/ux guidelines,1.0,exact,accepted
+Jobs,ui/ux principles,ui/ux principles,1.0,exact,accepted
+Jobs,uikit,uikit,1.0,exact,accepted
+Jobs,uml,uml,1.0,exact,accepted
+OBE,uml (unified modeling language),uml (unified modeling language),1.0,exact,accepted
+Jobs,understanding of agile and scrum methodologies,understanding of agile and scrum methodologies,1.0,exact,accepted
+Jobs,"understanding of agile, scrum, waterfall",basic knowledge of waterfall and agile,0.8528,semantic,accepted
+Jobs,unit & e2e testing,unit & e2e testing,1.0,exact,accepted
+Jobs,unit testing,unit testing,1.0,exact,accepted
+Jobs,unit testing basics,unit testing,0.9107,semantic,accepted
+Jobs,unit/integration/e2e testing,unit & e2e testing,0.9029,semantic,accepted
+Jobs,unittest basics,unit testing,0.8748,semantic,accepted
+Jobs,unity,unity,1.0,exact,accepted
+Jobs,unity advanced,unity advanced,1.0,exact,accepted
+Jobs,unity basics,unity basics,1.0,exact,accepted
+Jobs,unity expert,unity expert,1.0,exact,accepted
+Jobs,"unity, unreal engine advanced","unity, unreal engine expert",0.9125,semantic,accepted
+Jobs,"unity, unreal engine expert","unity, unreal engine expert",1.0,exact,accepted
+Jobs,unity3d engine,unity3d engine,1.0,exact,accepted
+Jobs,unix administration,unix administration,1.0,exact,accepted
+Jobs,unreal engine,unreal engine,1.0,exact,accepted
+Jobs,unreal engine advanced,unreal engine,0.9127,semantic,accepted
+Jobs,unreal engine basics,unreal engine,0.851,semantic,accepted
+Jobs,unreal engine expert,unreal engine,0.8772,semantic,accepted
+Jobs,usability basics,usability testing,0.7955,manual,accepted
+OBE,usability testing,usability testing,1.0,exact,accepted
+Jobs,usability testing,usability testing,1.0,exact,accepted
+OBE,use case diagram,use case diagram,1.0,exact,accepted
+Jobs,"use of jira, ms project, primavera","use of jira, ms project, primavera",1.0,exact,accepted
+Jobs,"use of ms project, primavera, jira","use of jira, ms project, primavera",0.9757,semantic,accepted
+Jobs,"use of ms project, primavera, jira, trello","use of jira, ms project, primavera",0.8713,semantic,accepted
+Jobs,"use of pm tools (ms project, jira, trello, asana)","use of pm tools (ms project, jira, trello, asana)",1.0,exact,accepted
+Jobs,"use of project management software (ms project, jira, trello, asana)","use of project management tools (ms project, jira, trello)",0.9328,semantic,accepted
+Jobs,"use of project management tools (ms project, jira, trello)","use of project management tools (ms project, jira, trello)",1.0,exact,accepted
+Jobs,"use of project management tools (ms project, jira, trello, asana)","use of project management tools (ms project, jira, trello)",0.966,semantic,accepted
+Jobs,"use of project management tools (ms project, primavera, jira, trello, asana)","use of project management tools (ms project, jira, trello)",0.9335,semantic,accepted
+Jobs,user experience design,user experience design,1.0,exact,accepted
+Jobs,user experience design principles,user experience design,0.8883,semantic,accepted
+Jobs,user experience research,user experience research,1.0,exact,accepted
+Jobs,user flows,user flows,1.0,exact,accepted
+Jobs,user management,user management,1.0,exact,accepted
+Jobs,user research,user research,1.0,exact,accepted
+Course,user research,user research,1.0,exact,accepted
+Jobs,user research and ux integration,ux research integration,0.8565,semantic,accepted
+Jobs,user research basics,user research,0.8869,semantic,accepted
+Jobs,user research fundamentals,user research,0.8506,semantic,accepted
+Jobs,user research integration,ux research integration,0.7821,semantic,review
+Jobs,user testing,user testing,1.0,exact,accepted
+Jobs,ux and ui design integration,ux design integration,0.8553,semantic,accepted
+Jobs,ux awareness,ux awareness,1.0,exact,accepted
+Course,ux design,ux design,1.0,exact,accepted
+Jobs,ux design integration,ux design integration,1.0,exact,accepted
+Jobs,ux documentation,documentation,0.9209,semantic,accepted
+Jobs,ux integration,ux integration,1.0,exact,accepted
+Jobs,ux principles awareness,ux principles awareness,1.0,exact,accepted
+Jobs,ux research,ux research,1.0,exact,accepted
+Jobs,ux research and integration,ux research integration,0.9389,semantic,accepted
+Jobs,ux research integration,ux research integration,1.0,exact,accepted
+Jobs,ux/ui awareness,ux/ui awareness,1.0,exact,accepted
+Jobs,ux/ui design,ui/ux,0.8282,semantic,review
+Jobs,ux/ui integration,ux/ui integration,1.0,exact,accepted
+Jobs,validation,validation,1.0,exact,accepted
+Jobs,vb.net,vb.net,1.0,exact,accepted
+Jobs,vb.net basics,vb.net,0.8898,semantic,accepted
+Jobs,version control,version control,1.0,exact,accepted
+Jobs,version control (git),version control (git),1.0,exact,accepted
+Jobs,version control (git/svn),version control (git),0.9,semantic,accepted
+Jobs,video production,video production,1.0,exact,accepted
+Jobs,video production basics,video production,0.8707,semantic,accepted
+Jobs,virtual networks,virtual networks,1.0,exact,accepted
+Course,virtual reality,virtual reality,1.0,exact,accepted
+Jobs,virtualbox,virtualbox,1.0,exact,accepted
+Jobs,virtualization,virtualization,1.0,exact,accepted
+Jobs,visual communication,visual communication,1.0,exact,accepted
+Jobs,visual design,visual design,1.0,exact,accepted
+Jobs,visual effects,visual effects,1.0,exact,accepted
+Jobs,visual effects supervision,visual effects supervision,1.0,exact,accepted
+Jobs,visual search optimization,visual search optimization,1.0,exact,accepted
+Jobs,visual storytelling,visual storytelling,1.0,exact,accepted
+Jobs,visual studio,visual studio,1.0,exact,accepted
+Jobs,visualforce,visualforce,1.0,exact,accepted
+Jobs,"visualization: matplotlib, seaborn","visualization: matplotlib, seaborn",1.0,exact,accepted
+Jobs,vmware,vmware,1.0,exact,accepted
+Jobs,voice and visual search optimization,voice and visual search optimization,1.0,exact,accepted
+Jobs,voice search optimization,voice search optimization,1.0,exact,accepted
+Jobs,voip,voip,1.0,exact,accepted
+Jobs,vpc,vpc,1.0,exact,accepted
+Jobs,vpn,vpn,1.0,exact,accepted
+Jobs,vpn basics,vpn,0.8507,semantic,accepted
+Jobs,vpn setup,vpn,0.83,semantic,review
+Jobs,vr development,vr development,1.0,exact,accepted
+Jobs,vs code,vs code,1.0,exact,accepted
+Jobs,vsam,vsam,1.0,exact,accepted
+Jobs,vue basics,vue.js,0.8526,semantic,accepted
+Jobs,vue frameworks,vue frameworks,1.0,exact,accepted
+Jobs,vue.js,vue.js,1.0,exact,accepted
+Jobs,vue.js basics,vue.js,0.9089,semantic,accepted
+Jobs,vuforia,vuforia,1.0,exact,accepted
+OBE,vulnerability assessment,vulnerability assessment,1.0,exact,accepted
+Jobs,vulnerability assessment,vulnerability assessment,1.0,exact,accepted
+Jobs,vulnerability assessment basics,vulnerability assessment,0.9423,semantic,accepted
+Jobs,vulnerability management,vulnerability management,1.0,exact,accepted
+Jobs,vulnerability scanning,vulnerability scanning,1.0,exact,accepted
+Jobs,vulnerability scanning basics,vulnerability scanning,0.9431,semantic,accepted
+Course,warehouse management,warehouse management,1.0,exact,accepted
+Jobs,wcag,wcag,1.0,exact,accepted
+Jobs,wcag standards,wcag standards,1.0,exact,accepted
+Jobs,web accessibility guidelines,web accessibility guidelines,1.0,exact,accepted
+Jobs,web analytics tools,web analytics tools,1.0,exact,accepted
+Jobs,web and mobile design,web and mobile design,1.0,exact,accepted
+Jobs,web api,web api,1.0,exact,accepted
+Jobs,web app security,web security,0.8017,semantic,review
+Jobs,web app security basics,web security,0.7675,semantic,review
+Jobs,web app security testing,web security testing,0.8686,semantic,accepted
+Jobs,web application and network security,web security,0.7896,semantic,review
+Jobs,web application security,web security,0.8723,semantic,accepted
+Jobs,web application security basics,web security,0.8162,semantic,review
+Jobs,web content management,content management,0.8906,semantic,accepted
+Jobs,web design,web design,1.0,exact,accepted
+Course,web design,web design,1.0,exact,accepted
+Jobs,web design basics,web design basics,1.0,exact,accepted
+Jobs,web development,web development,1.0,exact,accepted
+Course,web development,web development,1.0,exact,accepted
+Jobs,web development fundamentals,web development,0.907,semantic,accepted
+Jobs,web frameworks (django,web frameworks (django,1.0,exact,accepted
+Jobs,web performance optimization,web performance optimization,1.0,exact,accepted
+Jobs,web security,web security,1.0,exact,accepted
+Jobs,web security testing,web security testing,1.0,exact,accepted
+Jobs,web technologies,web technologies,1.0,exact,accepted
+Jobs,web3,web3,1.0,exact,accepted
+Jobs,webapi,webapi,1.0,exact,accepted
+Jobs,webdriver,webdriver,1.0,exact,accepted
+Jobs,"webpack, babel","webpack, babel",1.0,exact,accepted
+Jobs,"webpack, babel, npm, yarn","webpack, babel, npm, yarn",1.0,exact,accepted
+Jobs,windows,windows,1.0,exact,accepted
+Jobs,windows administration,windows administration,1.0,exact,accepted
+Jobs,windows fundamentals,windows,0.9007,manual,accepted
+Jobs,windows os basics,windows,0.858,manual,accepted
+Jobs,windows os fundamentals,windows,0.9007,manual,accepted
+Jobs,windows security,windows security,1.0,exact,accepted
+Jobs,windows security and active directory,windows security and active directory,1.0,exact,accepted
+Jobs,windows security and ad,windows security and ad,1.0,exact,accepted
+Jobs,windows security basics,windows security,0.8982,semantic,accepted
+Jobs,windows security expert,windows security expert,1.0,exact,accepted
+Jobs,windows server,windows server,1.0,exact,accepted
+Jobs,windows server administration,windows server administration,1.0,exact,accepted
+Jobs,windows server basics,windows server basics,1.0,exact,accepted
+Jobs,wireframes,wireframes,1.0,exact,accepted
+Jobs,wireframing,wireframing,1.0,exact,accepted
+Jobs,wireshark,wireshark,1.0,exact,accepted
+Jobs,wordpress,wordpress,1.0,exact,accepted
+Jobs,wordpress basics,wordpress basics,1.0,exact,accepted
+Jobs,wordpress or cms proficiency,wordpress or cms proficiency,1.0,exact,accepted
+Jobs,workflow automation,workflow automation,1.0,exact,accepted
+Jobs,workflow awareness,workflow awareness,1.0,exact,accepted
+Jobs,workflow configuration,workflow configuration,1.0,exact,accepted
+Jobs,workflow observation,workflow observation,1.0,exact,accepted
+Jobs,workflow optimization,workflow optimization,1.0,exact,accepted
+Course,writing,writing,1.0,exact,accepted
+Jobs,writing and grammar,writing and grammar,1.0,exact,accepted
+Jobs,writing clarity,writing clarity,1.0,exact,accepted
+Jobs,writing clarity and grammar,writing clarity,0.89,semantic,accepted
+Jobs,xcode,xcode,1.0,exact,accepted
+Jobs,xcode instruments,xcode instruments,1.0,exact,accepted
+Jobs,xl deploy,xl deploy,1.0,exact,accepted
+OBE,xml,xml,1.0,exact,accepted
+Jobs,xml,xml,1.0,exact,accepted
+Jobs,zabbix,zabbix,1.0,exact,accepted
+Jobs,zero trust security,zero trust security,1.0,exact,accepted
+Jobs,zigbee,zigbee,1.0,exact,accepted
+Jobs,zigbee basics,zigbee basics,1.0,exact,accepted
