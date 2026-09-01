@@ -41,7 +41,7 @@ final_project/
 
 ---
 
-## 🚀 Cara Menjalankan Aplikasi
+## Cara Menjalankan Aplikasi
 
 1. **Clone repository:**
    ```bash
@@ -58,8 +58,4 @@ final_project/
    ```bash
    # Aplikasi Utama
    python -m streamlit run app.py --server.port 8502
-
-   # Atau Aplikasi Eksperimen (dengan Nilai Capaian OBE)
-   python -m streamlit run app1.py --server.port 8503
-   ```
-   *Buka di browser:* `http://localhost:8502`
+`
